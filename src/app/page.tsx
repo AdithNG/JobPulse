@@ -22,6 +22,7 @@ import {
   YAxis,
 } from "recharts";
 import ApplicationForm from "@/components/ApplicationForm";
+import Onboarding from "@/components/Onboarding";
 import StatusBadge from "@/components/StatusBadge";
 import { useJobPulse } from "@/lib/store";
 import {
@@ -67,6 +68,8 @@ export default function Dashboard() {
 
   if (!hydrated) return <div className="card h-64 animate-pulse" />;
 
+  const isEmpty = applications.length === 0;
+
   return (
     <div className="space-y-6">
       <div className="flex flex-wrap items-center justify-between gap-3">
@@ -80,6 +83,8 @@ export default function Dashboard() {
           <Plus className="h-4 w-4" /> Add application
         </button>
       </div>
+
+      {isEmpty && <Onboarding />}
 
       {/* Stat cards */}
       <div className="grid grid-cols-2 gap-4 xl:grid-cols-4">
@@ -117,7 +122,7 @@ export default function Dashboard() {
         />
       </div>
 
-      <div className="grid gap-4 xl:grid-cols-3">
+      <div className={cn("grid gap-4 xl:grid-cols-3", isEmpty && "hidden")}>
         {/* Needs attention */}
         <div className="card p-5 xl:col-span-2">
           <h2 className="mb-4 flex items-center gap-2 font-semibold">
@@ -225,7 +230,7 @@ export default function Dashboard() {
         </div>
       </div>
 
-      <div className="grid gap-4 xl:grid-cols-2">
+      <div className={cn("grid gap-4 xl:grid-cols-2", isEmpty && "hidden")}>
         {/* Funnel */}
         <div className="card p-5">
           <h2 className="mb-4 font-semibold">Conversion funnel</h2>

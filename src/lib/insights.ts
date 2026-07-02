@@ -206,5 +206,15 @@ export function cycleRadar(profile: Profile, now = new Date()): RadarItem[] {
     });
   }
 
+  if (items.length === 0) {
+    items.push({
+      title: "Full-time on OPT",
+      window: "Rolling — apply continuously",
+      detail:
+        "You're at or past graduation, so OPT (plus the STEM extension) is your lane. Prioritize companies with a real H-1B/green-card track record.",
+      active: true,
+    });
+  }
+
   return items;
 }

@@ -13,12 +13,23 @@ import {
 } from "./types";
 import { todayISO, uid } from "./utils";
 
+// Sensible generic defaults for a first-time visitor: graduation ~2 school
+// years out. Everyone should set their real dates in Settings — the
+// onboarding checklist points there.
+function defaultDates(): { graduationDate: string; programStart: string } {
+  const now = new Date();
+  const gradYear = now.getFullYear() + (now.getMonth() >= 4 ? 2 : 1);
+  return {
+    graduationDate: `${gradYear}-05-15`,
+    programStart: `${gradYear - 2}-08-25`,
+  };
+}
+
 // Default profile: general new-grad SWE/SDE (think Google L3, Amazon SDE-I)
 // with a mild fintech lean. Paste a resume in Settings to personalize —
 // keywords are then extracted from what you've actually worked with.
 export const DEFAULT_PROFILE: Profile = {
-  graduationDate: "2027-05-14",
-  programStart: "2025-08-25",
+  ...defaultDates(),
   targetTitle: "New Grad SWE / SDE (L3, SDE-I)",
   fitKeywords: [
     { word: "backend", weight: 10 },

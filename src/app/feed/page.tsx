@@ -17,7 +17,9 @@ import { fitScore } from "@/lib/fit";
 import { RoleType, ROLE_TYPE_LABELS, Sponsorship } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
+// Forks can point at their own data branch via NEXT_PUBLIC_FEED_URL.
 const FEED_URL =
+  process.env.NEXT_PUBLIC_FEED_URL ??
   "https://raw.githubusercontent.com/AdithNG/JobPulse/data/feed.json";
 
 interface FeedJob {

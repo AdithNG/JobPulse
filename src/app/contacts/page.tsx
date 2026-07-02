@@ -290,7 +290,7 @@ export default function ContactsPage() {
                 className="input"
                 value={form.relationship}
                 onChange={(e) => set("relationship", e.target.value)}
-                placeholder="USC alum, recruiter, teammate..."
+                placeholder="Alum, recruiter, former teammate..."
               />
             </div>
           </div>

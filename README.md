@@ -70,6 +70,17 @@ npx vercel
 
 (Netlify, Cloudflare Pages, or GitHub Pages with `output: "export"` work too.)
 
+Visitors each get their own private workspace automatically: applications, resume, and profile live in each visitor's own browser localStorage — nothing is shared, no accounts needed.
+
+## Run your own (fork)
+
+Fork it and everything works out of the box except the job watcher, which needs:
+
+1. **A `data` branch** — create an orphan branch containing empty `seen.json` (`{}`) and `feed.json` (`[]`); the workflow commits watcher state there.
+2. **Secrets** (optional, for phone alerts): `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `DISCORD_WEBHOOK_URL` — see [docs/watcher-setup.md](docs/watcher-setup.md).
+3. **Feed URL**: set the `NEXT_PUBLIC_FEED_URL` env var to `https://raw.githubusercontent.com/<you>/<repo>/data/feed.json` so the Feed tab reads your fork's data branch.
+4. Tune target companies, terms, and keywords in [scripts/watch-config.mjs](scripts/watch-config.mjs).
+
 ## Disclaimer
 
 The CPT/OPT rules encoded here are a planning aid, not legal advice. Always confirm work authorization details with your DSO.

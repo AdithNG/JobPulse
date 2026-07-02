@@ -15,10 +15,37 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+const APP_DESCRIPTION =
+  "The job tracker built for international students on F-1 visas. CPT/OPT-aware eligibility checks, auto-discovered SWE jobs, resume-based fit scoring, and pipeline analytics — all private, in your browser.";
+
 export const metadata: Metadata = {
-  title: "JobPulse",
-  description:
-    "Job application tracker built for international students — CPT-aware terms, fit scoring, and pipeline analytics.",
+  title: {
+    default: "JobPulse — job tracker for international students",
+    template: "%s · JobPulse",
+  },
+  description: APP_DESCRIPTION,
+  keywords: [
+    "job tracker",
+    "international students",
+    "F-1 visa",
+    "CPT",
+    "OPT",
+    "new grad",
+    "software engineer",
+    "internship",
+    "co-op",
+  ],
+  openGraph: {
+    title: "JobPulse — job tracker for international students",
+    description: APP_DESCRIPTION,
+    type: "website",
+    siteName: "JobPulse",
+  },
+  twitter: {
+    card: "summary",
+    title: "JobPulse — job tracker for international students",
+    description: APP_DESCRIPTION,
+  },
 };
 
 export default function RootLayout({
