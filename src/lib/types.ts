@@ -96,10 +96,11 @@ export interface FitKeyword {
 export interface Profile {
   graduationDate: string; // ISO date
   programStart: string; // ISO date
-  targetTitle: string; // e.g. "SDE — fintech / payments infra"
+  targetTitle: string; // e.g. "New Grad SWE (L3 / SDE-I)"
   fitKeywords: FitKeyword[];
   cptPeriods: CptPeriod[];
   weeklyGoal: number; // applications per week
+  resumeText?: string; // pasted resume, analyzed client-side only
 }
 
 export const STATUS_ORDER: ApplicationStatus[] = [

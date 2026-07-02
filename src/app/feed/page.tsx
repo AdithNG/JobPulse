@@ -1,9 +1,11 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import Link from "next/link";
 import {
   Check,
   ExternalLink,
+  FileText,
   Plus,
   RefreshCw,
   Rss,
@@ -11,6 +13,7 @@ import {
 } from "lucide-react";
 import FitRing from "@/components/FitRing";
 import { useJobPulse } from "@/lib/store";
+import { fitScore } from "@/lib/fit";
 import { RoleType, ROLE_TYPE_LABELS, Sponsorship } from "@/lib/types";
 import { cn } from "@/lib/utils";
 
@@ -50,6 +53,7 @@ function timeAgo(ts: number): string {
 export default function FeedPage() {
   const applications = useJobPulse((s) => s.applications);
   const addApplication = useJobPulse((s) => s.addApplication);
+  const profile = useJobPulse((s) => s.profile);
   const hydrated = useJobPulse((s) => s.hydrated);
 
   const [payload, setPayload] = useState<FeedPayload | null>(null);
@@ -88,17 +92,46 @@ export default function FeedPage() {
     [applications]
   );
 
+  // Fit is computed client-side against YOUR profile (resume keywords),
+  // so two people looking at the same feed see different scores.
   const jobs = useMemo(() => {
     if (!payload) return [];
     const q = query.toLowerCase();
-    return payload.jobs.filter((j) => {
-      if (q && !`${j.company} ${j.title} ${j.locations.join(" ")}`.toLowerCase().includes(q))
-        return false;
-      if (typeFilter !== "all" && j.roleType !== typeFilter) return false;
-      if (goodFitOnly && j.score < 35) return false;
-      return true;
-    });
-  }, [payload, query, typeFilter, goodFitOnly]);
+    return payload.jobs
+      .map((j) => ({
+        ...j,
+        score: fitScore(
+          {
+            id: j.key,
+            company: j.company,
+            role: j.title,
+            roleType: j.roleType,
+            term: j.term,
+            status: "saved",
+            sponsorship: j.sponsorship,
+            excitement: 3,
+            tags: [],
+            notes: "",
+            events: [],
+            createdAt: "",
+            updatedAt: "",
+          },
+          profile
+        ).score,
+      }))
+      .filter((j) => {
+        if (
+          q &&
+          !`${j.company} ${j.title} ${j.locations.join(" ")}`
+            .toLowerCase()
+            .includes(q)
+        )
+          return false;
+        if (typeFilter !== "all" && j.roleType !== typeFilter) return false;
+        if (goodFitOnly && j.score < 35) return false;
+        return true;
+      });
+  }, [payload, query, typeFilter, goodFitOnly, profile]);
 
   const addToPipeline = (job: FeedJob) => {
     addApplication({
@@ -178,6 +211,21 @@ export default function FeedPage() {
           Good fit only
         </button>
       </div>
+
+      {!profile.resumeText && (
+        <Link
+          href="/settings"
+          className="card flex items-center gap-3 border-indigo-800/60 bg-indigo-950/20 p-4 text-sm transition hover:border-indigo-600"
+        >
+          <FileText className="h-5 w-5 shrink-0 text-indigo-400" />
+          <span className="text-zinc-200">
+            <span className="font-semibold">Personalize these scores:</span>{" "}
+            paste your resume in Settings and every job gets re-scored against
+            your actual skills — right now you&apos;re seeing generic new-grad
+            SWE weights.
+          </span>
+        </Link>
+      )}
 
       {error && (
         <div className="card border-amber-900/60 bg-amber-950/20 p-4 text-sm text-amber-200">

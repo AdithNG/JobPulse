@@ -57,18 +57,23 @@ export const config = {
   earlyCareer:
     /\b(intern(ship)?|co-?op|new ?grad|university|campus|early career|graduate|entry[- ]?level)\b/i,
 
-  // Fit keywords (mirrors the app's default profile). Score 0-100.
+  // Fit keywords (mirrors the app's default profile): general new-grad
+  // SWE/SDE with a mild fintech lean. Affects ranking/emoji only — every
+  // matching SWE role is still collected and notified. Score 0-100.
   keywords: [
-    { word: "fintech", weight: 15 },
-    { word: "payment", weight: 12 },
-    { word: "aws", weight: 12 },
     { word: "backend", weight: 10 },
-    { word: "distributed", weight: 8 },
+    { word: "distributed", weight: 9 },
+    { word: "aws", weight: 8 },
+    { word: "fintech", weight: 8 },
     { word: "cloud", weight: 6 },
     { word: "infrastructure", weight: 6 },
-    { word: "banking", weight: 6 },
-    { word: "trading", weight: 5 },
+    { word: "payment", weight: 6 },
+    { word: "banking", weight: 5 },
     { word: "microservice", weight: 5 },
+    { word: "trading", weight: 4 },
+    { word: "full stack", weight: 4 },
+    { word: "java", weight: 4 },
+    { word: "python", weight: 4 },
   ],
   // Being on the curated ATS list is itself a strong fintech signal.
   atsBoardBonus: 30,

@@ -10,6 +10,7 @@ import {
 } from "lucide-react";
 import { useJobPulse } from "@/lib/store";
 import { applicationsToCsv, download } from "@/lib/csv";
+import { analyzeResume } from "@/lib/resume";
 import { cptRunway, fullTimeCptMonths } from "@/lib/terms";
 import { cn, formatDate, todayISO } from "@/lib/utils";
 
@@ -37,6 +38,8 @@ export default function SettingsPage() {
     fullTime: true,
   });
   const [importError, setImportError] = useState("");
+  const [resumeDraft, setResumeDraft] = useState<string | null>(null);
+  const [resumeResult, setResumeResult] = useState("");
 
   if (!hydrated) return <div className="card h-64 animate-pulse" />;
 
@@ -160,6 +163,70 @@ export default function SettingsPage() {
           checks, summer internship windows, and when full-time new-grad roles
           become possible.
         </p>
+      </section>
+
+      {/* Resume */}
+      <section className="card p-5">
+        <h2 className="mb-1 font-semibold">Your resume</h2>
+        <p className="mb-4 text-xs text-zinc-500">
+          Paste your resume text and JobPulse extracts your skills into
+          weighted fit keywords — every job in the feed and tracker is then
+          scored against <em>your</em> experience. The resume never leaves
+          this browser.
+        </p>
+        <textarea
+          className="input min-h-40 resize-y font-mono text-xs"
+          rows={8}
+          value={resumeDraft ?? profile.resumeText ?? ""}
+          onChange={(e) => setResumeDraft(e.target.value)}
+          placeholder="Open your resume PDF → Ctrl+A → Ctrl+C → paste here..."
+        />
+        <div className="mt-3 flex flex-wrap items-center gap-3">
+          <button
+            className="btn-primary"
+            onClick={() => {
+              const text = resumeDraft ?? profile.resumeText ?? "";
+              if (text.trim().length < 100) {
+                setResumeResult(
+                  "That looks too short to be a resume — paste the full text."
+                );
+                return;
+              }
+              const analysis = analyzeResume(text);
+              if (analysis.keywords.length === 0) {
+                setResumeResult(
+                  "No recognizable skills found — is that resume text?"
+                );
+                return;
+              }
+              updateProfile({
+                resumeText: text,
+                fitKeywords: analysis.keywords,
+              });
+              setResumeDraft(null);
+              setResumeResult(
+                `Extracted ${analysis.keywords.length} skills from ${analysis.totalMatches} mentions. Fit scores everywhere now reflect your resume — tune the weights below.`
+              );
+            }}
+          >
+            Analyze &amp; apply
+          </button>
+          {profile.resumeText && (
+            <button
+              className="btn-ghost"
+              onClick={() => {
+                updateProfile({ resumeText: undefined });
+                setResumeDraft(null);
+                setResumeResult("Resume removed. Keywords kept as-is.");
+              }}
+            >
+              Remove resume
+            </button>
+          )}
+          {resumeResult && (
+            <p className="text-xs text-emerald-400">{resumeResult}</p>
+          )}
+        </div>
       </section>
 
       {/* Fit keywords */}

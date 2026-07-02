@@ -13,24 +13,27 @@ import {
 } from "./types";
 import { todayISO, uid } from "./utils";
 
-// Default profile tuned for: USC MSCS (AI), graduating May 2027, targeting
-// SDE roles on fintech/payments-infra teams (AWS fintech style).
+// Default profile: general new-grad SWE/SDE (think Google L3, Amazon SDE-I)
+// with a mild fintech lean. Paste a resume in Settings to personalize —
+// keywords are then extracted from what you've actually worked with.
 export const DEFAULT_PROFILE: Profile = {
   graduationDate: "2027-05-14",
   programStart: "2025-08-25",
-  targetTitle: "SDE — fintech / payments infrastructure",
+  targetTitle: "New Grad SWE / SDE (L3, SDE-I)",
   fitKeywords: [
-    { word: "fintech", weight: 15 },
-    { word: "payment", weight: 12 },
-    { word: "aws", weight: 12 },
     { word: "backend", weight: 10 },
-    { word: "distributed", weight: 8 },
+    { word: "distributed", weight: 9 },
+    { word: "aws", weight: 8 },
+    { word: "fintech", weight: 8 },
     { word: "cloud", weight: 6 },
     { word: "infrastructure", weight: 6 },
-    { word: "sde", weight: 5 },
+    { word: "payment", weight: 6 },
     { word: "microservice", weight: 5 },
-    { word: "java", weight: 4 },
+    { word: "sde", weight: 5 },
+    { word: "java", weight: 5 },
+    { word: "python", weight: 5 },
     { word: "typescript", weight: 4 },
+    { word: "full stack", weight: 4 },
     { word: "go", weight: 3 },
   ],
   cptPeriods: [
