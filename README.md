@@ -17,6 +17,11 @@ JobPulse encodes all of this and checks every application against it.
 
 ## Features
 
+### 🔔 Job watcher (auto-discovery + phone alerts)
+- A GitHub Action scans **every ~10 minutes**: the SimplifyJobs internship & new-grad feeds (33k+ community-maintained listings) plus the live Greenhouse/Ashby/Lever boards of hand-picked target companies (Stripe, Ramp, Affirm, Coinbase...).
+- New postings are filtered to **F-1-workable roles only** (co-op-compatible terms, US locations, no citizenship-required listings), fit-scored, and pushed instantly to **Telegram and Discord** — being in the first 20 minutes of a posting beats the 500-applicants pile.
+- Everything discovered lands in the **Feed** tab with a one-click "Track" button into your pipeline. Runs entirely on free tiers: GitHub Actions + raw GitHub as the data store. Setup: [docs/watcher-setup.md](docs/watcher-setup.md).
+
 ### F-1 / CPT awareness
 - **Eligibility engine** — every application is tagged with a term (Fall 2026, Spring 2027, New Grad 2027...) and role type (co-op / internship / new grad / part-time). JobPulse flags impossible pairings (e.g. a regular internship during Spring) *before you waste an application*, with an explanation and what to ask the recruiter.
 - **CPT runway meter** — record your CPT authorizations and watch cumulative full-time CPT against the 12-month OPT limit, always visible in the sidebar.

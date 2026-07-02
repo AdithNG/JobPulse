@@ -6,6 +6,7 @@ import {
   Activity,
   Columns3,
   LayoutDashboard,
+  Rss,
   Settings,
   Table2,
   Users,
@@ -16,6 +17,7 @@ import { cptRunway } from "@/lib/terms";
 
 const NAV = [
   { href: "/", label: "Dashboard", icon: LayoutDashboard },
+  { href: "/feed", label: "Feed", icon: Rss },
   { href: "/applications", label: "Applications", icon: Table2 },
   { href: "/board", label: "Board", icon: Columns3 },
   { href: "/contacts", label: "Contacts", icon: Users },
