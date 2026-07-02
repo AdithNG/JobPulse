@@ -10,6 +10,7 @@ export type ApplicationStatus =
   | "interview"
   | "offer"
   | "accepted"
+  | "declined" // offer received but turned down (still counts as an offer)
   | "rejected"
   | "withdrawn"
   | "ghosted";
@@ -111,9 +112,17 @@ export const STATUS_ORDER: ApplicationStatus[] = [
   "interview",
   "offer",
   "accepted",
+  "declined",
   "rejected",
   "withdrawn",
   "ghosted",
+];
+
+/** Statuses that mean "an offer was earned", regardless of outcome. */
+export const OFFER_STATUSES: ApplicationStatus[] = [
+  "offer",
+  "accepted",
+  "declined",
 ];
 
 export const ACTIVE_STATUSES: ApplicationStatus[] = [
@@ -127,6 +136,7 @@ export const ACTIVE_STATUSES: ApplicationStatus[] = [
 
 export const CLOSED_STATUSES: ApplicationStatus[] = [
   "accepted",
+  "declined",
   "rejected",
   "withdrawn",
   "ghosted",
@@ -140,6 +150,7 @@ export const STATUS_LABELS: Record<ApplicationStatus, string> = {
   interview: "Interview",
   offer: "Offer",
   accepted: "Accepted",
+  declined: "Declined",
   rejected: "Rejected",
   withdrawn: "Withdrawn",
   ghosted: "Ghosted",

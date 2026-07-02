@@ -18,7 +18,9 @@ const PIPELINE: ApplicationStatus[] = [
 ];
 
 function pipelineIndex(status: ApplicationStatus): number {
-  if (status === "accepted") return PIPELINE.indexOf("offer");
+  // Accepted and declined both mean an offer was reached.
+  if (status === "accepted" || status === "declined")
+    return PIPELINE.indexOf("offer");
   return PIPELINE.indexOf(status);
 }
 

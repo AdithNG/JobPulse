@@ -18,7 +18,7 @@ const COLUMNS: { key: string; label: string; statuses: ApplicationStatus[]; drop
   { key: "oa", label: "OA", statuses: ["oa"], drop: "oa" },
   { key: "phone", label: "Phone", statuses: ["phone"], drop: "phone" },
   { key: "interview", label: "Interview", statuses: ["interview"], drop: "interview" },
-  { key: "offer", label: "Offer", statuses: ["offer", "accepted"], drop: "offer" },
+  { key: "offer", label: "Offer", statuses: ["offer", "accepted", "declined"], drop: "offer" },
   { key: "closed", label: "Closed", statuses: ["rejected", "withdrawn", "ghosted"], drop: "rejected" },
 ];
 

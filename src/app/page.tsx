@@ -32,7 +32,7 @@ import {
   weeklyVelocity,
 } from "@/lib/insights";
 import { cptRunway } from "@/lib/terms";
-import { ACTIVE_STATUSES } from "@/lib/types";
+import { ACTIVE_STATUSES, OFFER_STATUSES } from "@/lib/types";
 import { cn, relativeDays } from "@/lib/utils";
 
 export default function Dashboard() {
@@ -48,8 +48,8 @@ export default function Dashboard() {
     const interviewing = active.filter((a) =>
       ["oa", "phone", "interview"].includes(a.status)
     );
-    const offers = applications.filter(
-      (a) => a.status === "offer" || a.status === "accepted"
+    const offers = applications.filter((a) =>
+      OFFER_STATUSES.includes(a.status)
     );
     return {
       active: active.length,
@@ -113,7 +113,7 @@ export default function Dashboard() {
           label="Offers"
           value={String(stats.offers)}
           accent="emerald"
-          sub="incl. accepted"
+          sub="incl. accepted & declined"
         />
       </div>
 

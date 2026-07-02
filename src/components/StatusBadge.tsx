@@ -9,6 +9,7 @@ const STYLES: Record<ApplicationStatus, string> = {
   interview: "bg-fuchsia-950/60 text-fuchsia-300 border-fuchsia-900",
   offer: "bg-emerald-950/60 text-emerald-300 border-emerald-900",
   accepted: "bg-emerald-900/80 text-emerald-200 border-emerald-700",
+  declined: "bg-amber-950/60 text-amber-300 border-amber-900",
   rejected: "bg-red-950/60 text-red-300 border-red-900",
   withdrawn: "bg-zinc-900 text-zinc-500 border-zinc-800",
   ghosted: "bg-zinc-900 text-zinc-500 border-zinc-800",
