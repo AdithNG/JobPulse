@@ -1,6 +1,86 @@
 {
- "updatedAt": "2026-07-02T21:19:13.781Z",
+ "updatedAt": "2026-07-02T22:33:57.979Z",
  "jobs": [
+  {
+   "key": "simplify:dc8cd8dc-3c3b-409c-9320-6db0956ea02c",
+   "company": "Susquehanna International Group (SIG)",
+   "title": "Python Developer Quant Core Data",
+   "url": "https://careers-sig.icims.com/jobs/11163/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Ardmore, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783030959000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "python"
+   ],
+   "firstSeen": 1783031637311
+  },
+  {
+   "key": "simplify:f5e6e2dc-a266-4145-ae2f-57af70ca00ba",
+   "company": "Varsity Brands",
+   "title": "Software Engineer",
+   "url": "https://careers.varsitybrands.com/global/en/job/JR113366",
+   "locations": [
+    "Farmers Branch, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781331133000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783031637311
+  },
+  {
+   "key": "simplify:352477a3-29ad-47a1-9809-69a1da28d66c",
+   "company": "Caterpillar Inc.",
+   "title": "Software Engineer",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000380358",
+   "locations": [
+    "Peoria, IL",
+    "Chicago, IL",
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783029961000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783031637311
+  },
+  {
+   "key": "simplify:90672a8d-95cf-4199-8797-6a09a0e1f4a7",
+   "company": "AssetMark",
+   "title": "Data Engineer Associate",
+   "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Data-Engineer_Req-003889",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783030297000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783031637311
+  },
   {
    "key": "simplify:20565db4-0f8e-456e-b6e3-4c484757c633",
    "company": "T-Rex Solutions",
@@ -5715,84 +5795,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782857381000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:8931b28b-82ca-4fea-acb0-322f33bea17a",
-   "company": "Berkshire Hathaway Energy",
-   "title": "Software Engineer",
-   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005318",
-   "locations": [
-    "Las Vegas, NV",
-    "Des Moines, IA",
-    "Richmond, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782857523000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:fc33c6e7-3dcf-4038-98bd-d226dce278f7",
-   "company": "PG&E",
-   "title": "Engineering Assistant 1",
-   "url": "https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1404547000/?ats=successfactors",
-   "locations": [
-    "Oakland, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782857347000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:545173b0-fc84-4b11-82c5-27fa643e1c0a",
-   "company": "Peraton",
-   "title": "Software Engineer",
-   "url": "https://careers-peraton.icims.com/jobs/167274/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782858241000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:93e11583-f913-4e89-9721-147a9c59cf7f",
-   "company": "The Nuclear Company",
-   "title": "AI Engineer 1 - Platform Integration & AI/Data",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782772562000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
