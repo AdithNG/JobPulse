@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-02T13:13:24.641Z",
+ "updatedAt": "2026-07-02T15:37:17.045Z",
  "jobs": [
+  {
+   "key": "simplify:20565db4-0f8e-456e-b6e3-4c484757c633",
+   "company": "T-Rex Solutions",
+   "title": "Software Engineer Level 0",
+   "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8617784002",
+   "locations": [
+    "Odenton, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783002781000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783006636189
+  },
   {
    "key": "simplify:54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
    "company": "PJM",
@@ -5774,25 +5793,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782772562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:84a72ffa-1be6-49fa-ba4e-98260bff8a76",
-   "company": "The Boeing Company",
-   "title": "Software Engineer-Developer - Development",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Software-Engineer-Developer--Development-_JR2026516138",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782772021000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
