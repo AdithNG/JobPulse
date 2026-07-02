@@ -35,7 +35,8 @@ JobPulse encodes all of this and checks every application against it.
 - **Next actions & deadlines** — a "needs attention" list surfaces overdue follow-ups, upcoming interviews, and closing deadlines.
 
 ### Targeting
-- **Fit score (0–100)** — every application is scored against your target profile using weighted keywords (fintech, payments, AWS, backend...), sponsorship signal, and referral boost — with a live preview while you fill in the form. Tune the keywords in Settings.
+- **Resume-based fit** — paste your resume in Settings and JobPulse extracts your skills into weighted keywords entirely client-side (the resume never leaves your browser). Every job in the feed and tracker is then scored 0–100 against *your* experience, so each visitor to a hosted instance gets personalized scores with no accounts and no backend.
+- **Fit score (0–100)** — combines your keywords with sponsorship signal and referral boost, with a live preview while you fill in the form. Weights are fully tunable in Settings.
 - **Sponsorship tracking** — mark companies as sponsoring / not sponsoring / unknown; it feeds the fit score.
 
 ### Analytics
