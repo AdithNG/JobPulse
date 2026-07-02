@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-07-02T01:52:25.470Z",
+ "updatedAt": "2026-07-02T02:08:44.475Z",
  "jobs": [
+  {
+   "key": "simplify:5c520aff-46ae-4816-86db-f0e15f726997",
+   "company": "Electronic Arts",
+   "title": "Rendering Software Engineer Intern",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1780439528000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782958124473
+  },
+  {
+   "key": "simplify:315a995c-68f2-421b-a0f3-fb06cfb4fd63",
+   "company": "Genuine Parts Company",
+   "title": "Motion Automation Intelligence-Application Engineer",
+   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Ai--Senior-Application-Engineer_R25_0000033573",
+   "locations": [
+    "Eden Prairie, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782957421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782958124473
+  },
+  {
+   "key": "simplify:564176c6-4df9-4388-9981-5734c8cb5bff",
+   "company": "Leidos",
+   "title": "Junior Software Developer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Developer_R-00179871",
+   "locations": [
+    "Bethesda, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782957031000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782958124473
+  },
+  {
+   "key": "simplify:3269d503-bd18-4d81-adef-c0e31d44d822",
+   "company": "Sysco",
+   "title": "Associate Web Developer - NET",
+   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Edward-Don--Company---Woodridge---IL/Associate-Web-Developer--Net-_R253464",
+   "locations": [
+    "Woodridge, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782955982000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782958124473
+  },
+  {
+   "key": "simplify:2306c8cb-5299-4e79-9eb0-b728d55ed1ca",
+   "company": "Salesforce",
+   "title": "Software Engineering MTS - Salesforce Engineer",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782956023000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782958124473
+  },
   {
    "key": "simplify:ab02ee55-a577-453a-bb9f-7cd2320ae755",
    "company": "WebFX",
@@ -5692,102 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782771076000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:52548b72-ae9f-46dc-b687-9990073dcdf4",
-   "company": "Lynk",
-   "title": "Flight Software Engineer",
-   "url": "https://jobs.ashbyhq.com/Lynk/5ff6f792-dbe9-49ed-80df-52f0079e0189/application",
-   "locations": [
-    "Chantilly, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782483121000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:31b3c490-c657-472c-8aec-d367ec0d3a3a",
-   "company": "Microsoft",
-   "title": "Software Engineer 2",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556917742",
-   "locations": [
-    "Redmond, WA",
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782809040000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e5a7d5ff-3551-4459-b3f2-52f6d6797157",
-   "company": "Blitzy",
-   "title": "Developer Support Engineer",
-   "url": "https://jobs.ashbyhq.com/blitzy/c0505f75-cb01-4b07-a29d-a7b16501ac9d/application",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782483483000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:4d7d02b2-f860-49ef-a4f1-529e755dfb27",
-   "company": "Snap-on",
-   "title": "Support Engineer",
-   "url": "https://careers-snapon.icims.com/jobs/20333/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Kenosha, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782294482000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:9b835dda-52b8-4c98-b021-0657515884ed",
-   "company": "Western & Southern Financial Group",
-   "title": "Software Developer 1 - Cobol",
-   "url": "https://careers-westernsouthern.icims.com/jobs/24925/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782294913000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
