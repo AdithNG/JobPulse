@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-07-02T02:08:44.475Z",
+ "updatedAt": "2026-07-02T03:12:39.027Z",
  "jobs": [
+  {
+   "key": "simplify:94553853-01a8-4ae7-8aff-21e02d826aa5",
+   "company": "Adobe",
+   "title": "Software Development Engineer 2",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781775165000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
+  {
+   "key": "simplify:768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
+   "company": "PNC Financial Services",
+   "title": "Associate Software Engineer - Test",
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
+   "locations": [
+    "Birmingham, AL",
+    "Dallas, TX",
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782138166000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
+  {
+   "key": "simplify:a486f855-def5-4be3-91d3-fcffc8d842ae",
+   "company": "CACI",
+   "title": "Data Scientist for Analytics - Engineer/Scientist Support",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_328426",
+   "locations": [
+    "Norco, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782961023000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
+  {
+   "key": "simplify:16524a29-d4d9-4586-8450-b373b50ae311",
+   "company": "GE Vernova",
+   "title": "Change Management Engineer - Controls Engineer",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Change-Management---Controls-Engineer_R5045878-1",
+   "locations": [
+    "Greenville, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782960910000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
+  {
+   "key": "simplify:4c5e215e-0cb9-4fe9-96f8-e3144750e300",
+   "company": "Deloitte",
+   "title": "AI and Data Science Engineer",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Palantir-AI-and-Data-Science-Engineer/357597",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782960854000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
+  {
+   "key": "simplify:4126dfc9-f400-4a64-a3e7-1373338d3289",
+   "company": "Trane Technologies",
+   "title": "Application Engineer 1",
+   "url": "https://careers.tranetechnologies.com/global/en/job/JR-8943",
+   "locations": [
+    "Fort Smith, AR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782960522000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
+  {
+   "key": "simplify:76f71978-498c-4056-9c97-c822a125cc6f",
+   "company": "Pennsylvania State University",
+   "title": "Computer Science and Engineering Researcher",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782960356000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782961958066
+  },
   {
    "key": "simplify:5c520aff-46ae-4816-86db-f0e15f726997",
    "company": "Electronic Arts",
@@ -5651,142 +5786,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782512101000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:809e3bd7-037b-470d-9d66-42bb3152d971",
-   "company": "ServiceNow",
-   "title": "Software Engineer - Agentic AI Systems - Moveworks",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000128997739",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782294482000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7f7e2f8b-d239-4ab5-ba0f-7ddc4ecbef45",
-   "company": "Wellmark",
-   "title": "Associate Software Engineer",
-   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000134797351",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782742321000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:68577c4c-9872-402a-ba7c-94206ea0fbe4",
-   "company": "Momentum Engineering",
-   "title": "Software Engineer 1",
-   "url": "https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782809957000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:69152885-811c-447d-9728-50b5701820ec",
-   "company": "Daimler Truck",
-   "title": "Engineering Documentation Control Analyst 1 - Compatibility",
-   "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Engineering-Documentation-Control-Analyst-I---Compatibility_DT-18549-1",
-   "locations": [
-    "Portland, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782512797000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:27128bd1-9b1b-4cf4-96f8-b1585bb7b987",
-   "company": "Primetals Technologies",
-   "title": "Engineer 1 - System Integration",
-   "url": "https://mhicareers.com/job/Lake-Mary-Engineer-I,-System-Integration-FL-32746/1408924533/?ats=successfactors",
-   "locations": [
-    "Lake Mary, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782512359000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:6ccf3a8c-72d2-4449-9933-cd01ab31911f",
-   "company": "Babel Street",
-   "title": "Data Warehouse Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8030833",
-   "locations": [
-    "Cambridge, MA",
-    "Remote in USA",
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782511756000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:75726ef3-f9b8-48b0-a583-16fb91a0f78a",
-   "company": "Amazon",
-   "title": "Data Engineer Data Science Focus - Ads Science Analysis & Tech - Asat",
-   "url": "https://amazon.jobs/en/jobs/10461781/data-engineer-data-science-focus-ads-science-analysis-tech-asat",
-   "locations": [
-    "Palo Alto, CA",
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782771076000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
