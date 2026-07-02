@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import {
   Building2,
-  Linkedin,
+  Link2,
   Mail,
   Pencil,
   Plus,
@@ -214,7 +214,7 @@ export default function ContactsPage() {
                         className="rounded p-1.5 text-zinc-400 transition hover:bg-zinc-800 hover:text-sky-400"
                         aria-label="LinkedIn"
                       >
-                        <Linkedin className="h-4 w-4" />
+                        <Link2 className="h-4 w-4" />
                       </a>
                     )}
                     {c.email && (

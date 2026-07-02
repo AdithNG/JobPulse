@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# JobPulse
 
-## Getting Started
+A job application tracker built for **international students on F-1 visas** — because a generic tracker doesn't know that a "Fall internship" needs to be a co-op, or that 12 months of full-time CPT kills your OPT.
 
-First, run the development server:
+Built with Next.js 14, TypeScript, Tailwind, Zustand, and Recharts. All data lives in your browser (localStorage) — no accounts, no server, fully private, and deployable for free as a static site.
+
+## Why this exists
+
+Most trackers treat every job the same. On F-1, the rules are different:
+
+- **Fall / Spring semesters** — full-time work is only possible through a **co-op** integral to your curriculum (regular internships are capped at ≤20 hr/wk part-time CPT).
+- **Summer** — full-time internships on CPT are fine (annual vacation).
+- **Full-time roles** — only possible after graduation, on OPT.
+- **The 12-month trap** — 12+ cumulative months of *full-time* CPT forfeits OPT entirely.
+
+JobPulse encodes all of this and checks every application against it.
+
+## Features
+
+### F-1 / CPT awareness
+- **Eligibility engine** — every application is tagged with a term (Fall 2026, Spring 2027, New Grad 2027...) and role type (co-op / internship / new grad / part-time). JobPulse flags impossible pairings (e.g. a regular internship during Spring) *before you waste an application*, with an explanation and what to ask the recruiter.
+- **CPT runway meter** — record your CPT authorizations and watch cumulative full-time CPT against the 12-month OPT limit, always visible in the sidebar.
+- **Cycle radar** — season-aware guidance on which recruiting cycles are open right now relative to your graduation date (new-grad postings peak Aug–Oct the year before, spring co-ops post in fall, etc.).
+
+### Pipeline tracking
+- **Table view** — search, filter by status/term/role type, sort by recency, fit, excitement, or applied date.
+- **Kanban board** — drag cards through Saved → Applied → OA → Phone → Interview → Offer → Closed.
+- **Activity timeline** — every status change is logged automatically; add notes for recruiter calls, prep, and follow-ups.
+- **Stale detection** — applications with no movement for 14+ days get flagged for follow-up.
+- **Next actions & deadlines** — a "needs attention" list surfaces overdue follow-ups, upcoming interviews, and closing deadlines.
+
+### Targeting
+- **Fit score (0–100)** — every application is scored against your target profile using weighted keywords (fintech, payments, AWS, backend...), sponsorship signal, and referral boost — with a live preview while you fill in the form. Tune the keywords in Settings.
+- **Sponsorship tracking** — mark companies as sponsoring / not sponsoring / unknown; it feeds the fit score.
+
+### Analytics
+- **Conversion funnel** — % of applications reaching each stage, computed from your real status history.
+- **Application velocity** — weekly applications vs. your goal.
+- **Stat cards** — active pipeline, in-interview count, offers.
+
+### Network
+- **Contacts** — recruiters, alumni, referrers. Contacts go **cold after 30 days** without a touch and get flagged for a nudge. Contacts at companies in your pipeline are highlighted.
+
+### Your data
+- JSON backup export/import and CSV export (opens in Excel/Sheets).
+- Everything is local to your browser. Export a backup before clearing browser data.
+
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deploying
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+It's a static Next.js app with no backend — the free tier of [Vercel](https://vercel.com) works out of the box:
 
-## Learn More
+```bash
+npx vercel
+```
 
-To learn more about Next.js, take a look at the following resources:
+(Netlify, Cloudflare Pages, or GitHub Pages with `output: "export"` work too.)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Disclaimer
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The CPT/OPT rules encoded here are a planning aid, not legal advice. Always confirm work authorization details with your DSO.
