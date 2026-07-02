@@ -1,0 +1,63 @@
+name: Job watcher
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub may delay scheduled runs by a few minutes.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      test_notify:
+        description: "Send a test notification instead of scanning"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout main (scripts)
+        uses: actions/checkout@v4
+
+      - name: Checkout data branch (state)
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: state
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Send test notification
+        if: ${{ inputs.test_notify }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: node scripts/watch-jobs.mjs --test-notify
+
+      - name: Scan for new jobs
+        if: ${{ !inputs.test_notify }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: node scripts/watch-jobs.mjs
+
+      - name: Push updated state
+        if: ${{ !inputs.test_notify }}
+        working-directory: state
+        run: |
+          git config user.name "jobpulse-watcher"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || { git commit -m "Update job feed"; git push; }
