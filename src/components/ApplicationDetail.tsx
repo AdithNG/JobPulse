@@ -130,18 +130,20 @@ export default function ApplicationDetail({
         )}
 
         <div>
-          <p className="label">Move to</p>
-          <div className="flex flex-wrap gap-1.5">
-            {STATUS_ORDER.filter((s) => s !== app.status).map((s) => (
-              <button
-                key={s}
-                onClick={() => setStatus(app.id, s as ApplicationStatus)}
-                className="rounded-full border border-zinc-700 px-2.5 py-1 text-xs text-zinc-300 transition hover:border-indigo-500 hover:text-white"
-              >
+          <p className="label">Status</p>
+          <select
+            className="input max-w-56"
+            value={app.status}
+            onChange={(e) =>
+              setStatus(app.id, e.target.value as ApplicationStatus)
+            }
+          >
+            {STATUS_ORDER.map((s) => (
+              <option key={s} value={s}>
                 {STATUS_LABELS[s]}
-              </button>
+              </option>
             ))}
-          </div>
+          </select>
         </div>
 
         <div>
