@@ -2,8 +2,9 @@ name: Job watcher
 
 on:
   schedule:
-    # Every 10 minutes. GitHub may delay scheduled runs by a few minutes.
-    - cron: "*/10 * * * *"
+    # Every 10 minutes. GitHub may delay scheduled runs by several minutes,
+    # and newly added schedules can take a while to register.
+    - cron: "2/10 * * * *"
   workflow_dispatch:
     inputs:
       test_notify:
