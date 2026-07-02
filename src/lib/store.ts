@@ -36,76 +36,12 @@ export const DEFAULT_PROFILE: Profile = {
     { word: "full stack", weight: 4 },
     { word: "go", weight: 3 },
   ],
-  cptPeriods: [
-    {
-      id: "cpt-amazon-f26",
-      label: "Amazon SDE co-op (AWS FinTech) — Fall 2026",
-      start: "2026-08-31",
-      end: "2026-12-11",
-      fullTime: true,
-    },
-  ],
+  cptPeriods: [],
   weeklyGoal: 10,
 };
 
-const SEED_APPLICATIONS: Application[] = [
-  {
-    id: "seed-amazon-f26",
-    company: "Amazon",
-    role: "SDE Intern (Fall) — AWS FinTech",
-    location: "Seattle, WA",
-    workMode: "onsite",
-    roleType: "co-op",
-    term: "Fall 2026",
-    status: "accepted",
-    sponsorship: "yes",
-    excitement: 5,
-    source: "Company site",
-    tags: ["aws", "fintech", "big tech"],
-    notes:
-      "Fall SDE internship on the AWS FinTech team — the exact profile to target for new grad. Build relationships for a return offer.",
-    appliedDate: "2026-02-10",
-    events: [
-      {
-        id: "seed-ev-1",
-        date: "2026-02-10",
-        type: "status",
-        status: "applied",
-        text: "Applied",
-      },
-      {
-        id: "seed-ev-2",
-        date: "2026-03-02",
-        type: "status",
-        status: "oa",
-        text: "Online Assessment",
-      },
-      {
-        id: "seed-ev-3",
-        date: "2026-04-15",
-        type: "status",
-        status: "interview",
-        text: "Final loop",
-      },
-      {
-        id: "seed-ev-4",
-        date: "2026-05-20",
-        type: "status",
-        status: "offer",
-        text: "Offer — AWS FinTech team match",
-      },
-      {
-        id: "seed-ev-5",
-        date: "2026-06-01",
-        type: "status",
-        status: "accepted",
-        text: "Accepted",
-      },
-    ],
-    createdAt: "2026-02-10T00:00:00.000Z",
-    updatedAt: "2026-06-01T00:00:00.000Z",
-  },
-];
+// New visitors start with an empty tracker — data is per-browser.
+const SEED_APPLICATIONS: Application[] = [];
 
 export interface JobPulseState {
   applications: Application[];
