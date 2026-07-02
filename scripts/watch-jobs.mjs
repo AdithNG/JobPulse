@@ -258,8 +258,8 @@ function escapeHtml(s) {
 }
 
 async function sendTelegram(text) {
-  const token = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
+  const token = (process.env.TELEGRAM_BOT_TOKEN || "").trim();
+  const chatId = (process.env.TELEGRAM_CHAT_ID || "").trim();
   if (!token || !chatId) return false;
   const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
     method: "POST",
@@ -276,7 +276,7 @@ async function sendTelegram(text) {
 }
 
 async function sendDiscord(content) {
-  const url = process.env.DISCORD_WEBHOOK_URL;
+  const url = (process.env.DISCORD_WEBHOOK_URL || "").trim();
   if (!url) return false;
   const res = await fetch(url, {
     method: "POST",
