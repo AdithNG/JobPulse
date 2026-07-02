@@ -3,25 +3,48 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  color-scheme: dark;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  @apply bg-zinc-950 text-zinc-100 antialiased;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply rounded-full bg-zinc-800;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-zinc-700;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(0.6);
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-zinc-800 bg-zinc-900/60;
+  }
+  .input {
+    @apply w-full rounded-lg border border-zinc-700 bg-zinc-900 px-3 py-2 text-sm text-zinc-100 placeholder-zinc-500 outline-none transition focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500;
+  }
+  .label {
+    @apply mb-1 block text-xs font-medium uppercase tracking-wide text-zinc-400;
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-lg bg-indigo-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-indigo-500 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center gap-2 rounded-lg border border-zinc-700 px-4 py-2 text-sm font-medium text-zinc-300 transition hover:border-zinc-500 hover:text-white;
+  }
+  .btn-danger {
+    @apply inline-flex items-center gap-2 rounded-lg border border-red-900/60 px-4 py-2 text-sm font-medium text-red-400 transition hover:bg-red-950/40;
   }
 }
