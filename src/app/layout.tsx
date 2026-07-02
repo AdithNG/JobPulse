@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Sidebar from "@/components/Sidebar";
+import StoreHydrator from "@/components/StoreHydrator";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -30,6 +31,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}
       >
+        <StoreHydrator />
         <div className="flex min-h-screen">
           <Sidebar />
           <main className="min-w-0 flex-1 px-6 py-6 lg:px-10">{children}</main>

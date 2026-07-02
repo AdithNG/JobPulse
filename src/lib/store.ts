@@ -109,6 +109,7 @@ export interface JobPulseState {
   contacts: Contact[];
   profile: Profile;
   hydrated: boolean;
+  setHydrated: () => void;
 
   addApplication: (
     app: Omit<Application, "id" | "events" | "createdAt" | "updatedAt">
@@ -141,6 +142,7 @@ export const useJobPulse = create<JobPulseState>()(
       contacts: [],
       profile: DEFAULT_PROFILE,
       hydrated: false,
+      setHydrated: () => set({ hydrated: true }),
 
       addApplication: (app) => {
         const now = new Date().toISOString();
@@ -275,9 +277,6 @@ export const useJobPulse = create<JobPulseState>()(
         contacts: s.contacts,
         profile: s.profile,
       }),
-      onRehydrateStorage: () => () => {
-        useJobPulse.setState({ hydrated: true });
-      },
     }
   )
 );
