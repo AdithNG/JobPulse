@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-02T11:12:25.459Z",
+ "updatedAt": "2026-07-02T13:13:24.641Z",
  "jobs": [
+  {
+   "key": "simplify:54b01c4c-d6dd-4954-ac9f-967ae0e0b6c0",
+   "company": "PJM",
+   "title": "Engineer/Analyst 1 - II",
+   "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA-Hybrid/Engineer-Analyst-I--II-_REQ-2026-4184-1",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1780439404000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782998003791
+  },
+  {
+   "key": "simplify:f7046c7e-2d7c-473c-a7bf-76ce9f709273",
+   "company": "Niagara Bottling",
+   "title": "Systems Engineer 1",
+   "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R54815-1",
+   "locations": [
+    "Walnut, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781044346000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1782998003791
+  },
   {
    "key": "simplify:79e05eca-1049-4e66-b595-48c413a41398",
    "company": "Stevens Institute of Technology",
@@ -5755,44 +5793,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782772021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:70b9b44e-b155-4081-9987-0ef48b2ebb0e",
-   "company": "Dexcom",
-   "title": "Data and Application Developer Engineer 2",
-   "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Data-and-Application-Developer-Engineer-II_JR119568",
-   "locations": [
-    "Mesa, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782772185000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:b43d2fae-47d0-4b65-bd4b-dd44ca366b00",
-   "company": "Marvell",
-   "title": "Application Engineer – Early Career",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703-2",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782771302000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
