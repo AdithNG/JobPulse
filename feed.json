@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-03T05:32:52.286Z",
+ "updatedAt": "2026-07-03T08:39:58.719Z",
  "jobs": [
+  {
+   "key": "simplify:098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
+   "company": "Arlington County VA",
+   "title": "Utility Engineering Intern",
+   "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783059020000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783067997864
+  },
+  {
+   "key": "simplify:45f6e525-5b17-4b57-9958-20605eb69c47",
+   "company": "Zscaler",
+   "title": "Software Development Engineer",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177411007",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783059123000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783067997864
+  },
+  {
+   "key": "simplify:5b37ce6e-1b4e-4d48-bd5a-a44127328601",
+   "company": "Sono Bello",
+   "title": "Application Developer 2",
+   "url": "https://job-boards.greenhouse.io/sonobello/jobs/5290870008",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783058761000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783067997864
+  },
   {
    "key": "simplify:cbf7c33c-7f5a-40a6-9ec5-b27895094847",
    "company": "Tesla",
@@ -5739,63 +5796,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782425701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:aff3b07e-f991-4ab5-8103-d34a646653f8",
-   "company": "Re:Build Manufacturing",
-   "title": "Application Engineer - Drone Technology",
-   "url": "https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4700747005",
-   "locations": [
-    "Framingham, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782282061000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a09cf555-8369-4d01-af36-f754b95ce412",
-   "company": "Esri",
-   "title": "Software Development Engineer 1",
-   "url": "https://www.esri.com/careers/5173239007?gh_jid=5173239007",
-   "locations": [
-    "St. Louis, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782339872000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:09a48669-826b-4b1a-bbaf-57930b039940",
-   "company": "Clera",
-   "title": "Forward Deployed Engineer",
-   "url": "https://jobs.ashbyhq.com/clera/aeda0f6c-ee7c-4835-8c0c-6cb5feac4d72/application",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782483121000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
