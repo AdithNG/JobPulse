@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-07-03T01:22:47.936Z",
+ "updatedAt": "2026-07-03T05:32:52.286Z",
  "jobs": [
+  {
+   "key": "simplify:cbf7c33c-7f5a-40a6-9ec5-b27895094847",
+   "company": "Tesla",
+   "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/275805",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783042116000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:d3ff5ace-964a-408c-b75f-58756c9ba738",
+   "company": "Visa",
+   "title": "Software Engineer",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1",
+   "locations": [
+    "Austin, TX",
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783041883000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:e26b2edc-1dbc-4a35-aaff-5c93a013dd1a",
+   "company": "Walmart",
+   "title": "Software Engineer 3",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Software-Engineer-III_R-2558596",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783041820000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:b31b7881-e6d7-4605-ace6-749d9ebfd5c3",
+   "company": "Visa",
+   "title": "Product Analyst - Generative AI Platform",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Product-Analyst---Generative-AI-Platform_REF080612W",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783041659000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:f1ff7da9-0228-4439-858e-699aad2ebc40",
+   "company": "Visa",
+   "title": "Military Talent Program - Software Engineering Pipeline",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
+   "locations": [
+    "Austin, TX",
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783041318000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:da5958b1-3c85-4bef-a6ab-9ca1ded957c5",
+   "company": "Visa",
+   "title": "Software Engineer - GenAI - Finance Tech",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783041121000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:e0be99bd-ffea-49b6-951c-25030dee438d",
+   "company": "Inflection",
+   "title": "Research Engineer - Voice",
+   "url": "https://boards.greenhouse.io/inflectionai/jobs/4681124006",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783042021000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
+  {
+   "key": "simplify:f667aafd-a58e-4445-a974-54d1951d1f59",
+   "company": "Flexport",
+   "title": "Automation Engineer 1",
+   "url": "https://boards.greenhouse.io/flexport/jobs/8015840",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783042242000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783056771323
+  },
   {
    "key": "simplify:aec3e3cb-1b29-499e-85f5-1be1da41c842",
    "company": "Intel",
@@ -5642,158 +5796,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782483121000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:04a97aa9-6df1-4408-aba8-a02b60712121",
-   "company": "Sinclair",
-   "title": "Contract Associate Engineer - Software Development",
-   "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16722",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782511569000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:057e0386-1d1a-425c-b6a6-d6e3374a3d52",
-   "company": "Palantir",
-   "title": "Software Engineer New Grad - Defense",
-   "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782771323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ddd63964-2ce6-45fd-b602-f286b19e23f9",
-   "company": "The Nuclear Company",
-   "title": "AI Engineer 1 - Product Engineering",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285646008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782858241000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7a2cd1d7-c2ad-4fbd-ba66-5796b3126e14",
-   "company": "Broadcom Limited",
-   "title": "Support Engineer - Mainframe",
-   "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026327",
-   "locations": [
-    "Downers Grove, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782339123000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e1080af3-a7ae-4f6f-8713-4ab246d3243b",
-   "company": "Astemo",
-   "title": "Engineer 1 - Quality Analysis",
-   "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Greenfield-Indiana-United-States-of-America/Engineer-I--Quality-Analysis_J0050985",
-   "locations": [
-    "Greenfield, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782339730000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:821b8f90-dfea-4ed9-b42f-afc50d5fe33f",
-   "company": "SpaceX",
-   "title": "Software Engineer - Starlink Mobile",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8567634002",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782282421000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:116bc6ae-af35-4ff4-949d-e4b39d7bcc18",
-   "company": "Beacon AI",
-   "title": "Frontend Web App Engineer - Frontend/Web App",
-   "url": "https://jobs.ashbyhq.com/beaconai/e43ce94b-95a2-46af-a3e8-154d279eb840/application",
-   "locations": [
-    "San Carlos, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782868312000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e6f1a068-5885-43cd-830b-d0f062dbd2d8",
-   "company": "RTX",
-   "title": "Software Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782868303000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
