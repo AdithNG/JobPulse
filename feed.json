@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-07-03T08:39:58.719Z",
+ "updatedAt": "2026-07-03T11:18:23.038Z",
  "jobs": [
+  {
+   "key": "simplify:fa3cb7f0-6412-49af-b445-fe376d338128",
+   "company": "Inova",
+   "title": "Epic Community Connect BI Developer",
+   "url": "https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/676305",
+   "locations": [
+    "Fairfax, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782813601000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783077502429
+  },
+  {
+   "key": "simplify:122774c3-e3bb-4ef2-8ca6-8060398c2d9e",
+   "company": "Pennsylvania State University",
+   "title": "Guidance and Control Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Engineer_REQ_0000070656-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783068409000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783077502429
+  },
+  {
+   "key": "simplify:56b688ac-5461-4812-9be2-46a7c60e49be",
+   "company": "Microsoft",
+   "title": "Software Engineer 2 - Foundry Agents - CoreAI",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227",
+   "locations": [
+    "Redmond, WA",
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783069297000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783077502429
+  },
   {
    "key": "simplify:098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
    "company": "Arlington County VA",
@@ -5739,63 +5797,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782771090000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:241dfed7-76ee-43cc-be0b-7a2cbe99a045",
-   "company": "StubHub",
-   "title": "Software Engineer 1 New Grad - Open Distribution",
-   "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4906365101",
-   "locations": [
-    "Culver City, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782512814000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:39fea75e-0741-4f91-b9ff-0233de1242b2",
-   "company": "Twitch",
-   "title": "Software Engineer - Memberships",
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8605153002",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782513721000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:8c9bf8ec-e30c-4ce5-814e-3b72a047cd9d",
-   "company": "Vanguard",
-   "title": "Entry Level Application Engineer",
-   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_179681",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782425701000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
