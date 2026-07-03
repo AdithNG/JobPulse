@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-03T22:31:26.884Z",
+ "updatedAt": "2026-07-03T23:39:18.644Z",
  "jobs": [
+  {
+   "key": "simplify:b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
+   "company": "Sitreps",
+   "title": "Implementation Engineer",
+   "url": "https://job-boards.greenhouse.io/sitrepsllc/jobs/4093707009",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783117441000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783121957980
+  },
+  {
+   "key": "simplify:1d83102a-79d5-4b64-af59-494b78508aa7",
+   "company": "Targeted Victory",
+   "title": "Junior AI Engineer",
+   "url": "https://careers-targetedvictory.icims.com/jobs/8008/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783116723000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783121957980
+  },
+  {
+   "key": "simplify:f0b5d4dc-e932-4eb9-a406-003fba8d30b1",
+   "company": "Transcend",
+   "title": "Software Engineer",
+   "url": "https://job-boards.greenhouse.io/transcendinc/jobs/4202502009",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783118521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783121957980
+  },
   {
    "key": "simplify:fa3cb7f0-6412-49af-b445-fe376d338128",
    "company": "Inova",
@@ -5740,63 +5797,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782815108000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:cc5f84b3-2184-4c42-a366-fed4021be6ff",
-   "company": "The Boeing Company",
-   "title": "Associate or Experienced Product Data Management Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-or-Experienced-Product-Data-Management-Engineer_JR2026515183",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782781921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:29f16d32-81aa-4294-be70-0811c67ecf6e",
-   "company": "United Launch Alliance",
-   "title": "Flight Computer Emulation Software Engineer 1",
-   "url": "https://jobs.ulalaunch.com/job/Centennial-Flight-Computer-Emulation-Software-Engineer-1-CO-80112/1403799500/?ats=successfactors",
-   "locations": [
-    "Centennial, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782512101000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:267d5473-4baf-4bba-ba9c-ccd65a1c0e30",
-   "company": "Palantir",
-   "title": "Forward Deployed Software Engineer New Grad - Commercial",
-   "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782771090000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
