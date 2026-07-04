@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-07-04T13:07:54.187Z",
+ "updatedAt": "2026-07-04T14:46:08.011Z",
  "jobs": [
+  {
+   "key": "simplify:5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
+   "company": "Verne Robotics",
+   "title": "Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
+   "locations": [
+    "San Bruno, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783174145000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783176367067
+  },
+  {
+   "key": "simplify:6763db63-2703-4fa3-ba56-026f329dda6e",
+   "company": "Becton Dickinson",
+   "title": "Commercial Analytics Engineer Business Decision Intelligence",
+   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1",
+   "locations": [
+    "Midland Park, NJ",
+    "Vernon Hills, IL",
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783170299000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783176367067
+  },
   {
    "key": "simplify:b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
    "company": "Sitreps",
@@ -5759,44 +5799,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781504989000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7525d820-6af8-47cc-aa9c-36ec4b263426",
-   "company": "Sierra Nevada Corporation",
-   "title": "Systems Integration Engineer 1",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Systems-Integration-Engineer-I_R0030166",
-   "locations": [
-    "Dayton, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782782039000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:c596343e-a21e-4f49-95bd-fb3e2e90176f",
-   "company": "Pfizer",
-   "title": "Manufacturing Execution Systems Engineer 1 - Manufacturing Execution Systems",
-   "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Connecticut---Groton/DPMS-Manufacturing-Execution-Systems--MES--Engineer_4959813",
-   "locations": [
-    "Groton, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782815108000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
