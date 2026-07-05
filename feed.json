@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-05T17:52:34.266Z",
+ "updatedAt": "2026-07-05T19:38:29.001Z",
  "jobs": [
+  {
+   "key": "simplify:7e134007-3fa8-4732-84ca-e7119c8f4116",
+   "company": "Palantir",
+   "title": "Software Engineer New Grad",
+   "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782741985000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783280308152
+  },
   {
    "key": "simplify:4eba7e60-7ddc-4173-b5eb-3bc982688cf5",
    "company": "Alta Resource Technologies",
@@ -5774,25 +5793,6 @@
    "company": "TikTok",
    "title": "Frontend Software Engineer - Global CRM Platform",
    "url": "https://lifeattiktok.com/search/7104433489986734350",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781504821000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7a8c16e6-b29e-441d-9635-d193fe1c96fa",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate",
-   "url": "https://lifeattiktok.com/search/7531175534148045063",
    "locations": [
     "San Jose, CA"
    ],
