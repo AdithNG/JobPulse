@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-05T22:44:29.279Z",
+ "updatedAt": "2026-07-05T23:51:42.066Z",
  "jobs": [
+  {
+   "key": "simplify:9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
+   "company": "Tower Research Capital",
+   "title": "Quantitative Developer Intern",
+   "url": "https://www.tower-research.com/open-positions/?gh_jid=8044334",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1783290961000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783295501079
+  },
   {
    "key": "simplify:cbd36f9a-2045-4594-9966-504ba808e61a",
    "company": "PM Pediatric Care",
@@ -5782,25 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782598292000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:4210520a-e30a-4e55-aad9-c41a24fcc119",
-   "company": "KLA Corporation",
-   "title": "Fleet Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Phoenix-AZ/Fleet-Engineer_2637290-1",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782556562000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
