@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-05T21:43:22.197Z",
+ "updatedAt": "2026-07-05T22:44:29.279Z",
  "jobs": [
+  {
+   "key": "simplify:cbd36f9a-2045-4594-9966-504ba808e61a",
+   "company": "PM Pediatric Care",
+   "title": "AI & Analytics Engineer",
+   "url": "https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783289907000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783291468042
+  },
   {
    "key": "simplify:7e134007-3fa8-4732-84ca-e7119c8f4116",
    "company": "Palantir",
@@ -5782,25 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782556562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:504f0b08-afb2-4964-b3cd-5dee1937b1ad",
-   "company": "TikTok",
-   "title": "Frontend Software Engineer - Global CRM Platform",
-   "url": "https://lifeattiktok.com/search/7104433489986734350",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781504821000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
