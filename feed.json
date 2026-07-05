@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-07-05T10:51:31.358Z",
+ "updatedAt": "2026-07-05T12:13:02.640Z",
  "jobs": [
+  {
+   "key": "simplify:d5334592-4814-4ea5-a7f1-14bb1ae228ca",
+   "company": "Becton Dickinson",
+   "title": "Commercial Analytics Engineer - Go To Market Analytics",
+   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
+   "locations": [
+    "Midland Park, NJ",
+    "Vernon Hills, IL",
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783248364000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783253581386
+  },
   {
    "key": "simplify:5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
    "company": "Verne Robotics",
@@ -5780,25 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780466950000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:c89cddfc-ea4d-453c-91cd-3f9293e56a32",
-   "company": "TikTok",
-   "title": "Software Engineer - Data Arch - Data Ecosystem",
-   "url": "https://lifeattiktok.com/search/7527441329384147208",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781504989000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
