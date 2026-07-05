@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-05T14:13:18.130Z",
+ "updatedAt": "2026-07-05T15:41:03.640Z",
  "jobs": [
+  {
+   "key": "simplify:4eba7e60-7ddc-4173-b5eb-3bc982688cf5",
+   "company": "Alta Resource Technologies",
+   "title": "Data Engineer Junior",
+   "url": "https://job-boards.greenhouse.io/altaresourcetechnologiesinc/jobs/4225005009",
+   "locations": [
+    "Boulder, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783261327000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783266062892
+  },
+  {
+   "key": "simplify:90b92c02-68ac-4402-b8f2-91494bc89e19",
+   "company": "Headlands Tech Holdings",
+   "title": "Research Developer New Grad",
+   "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4227566009",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783260759000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783266062892
+  },
   {
    "key": "simplify:d5334592-4814-4ea5-a7f1-14bb1ae228ca",
    "company": "Becton Dickinson",
@@ -5763,44 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781504821000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:d0a7e5d4-0029-4c15-aec8-ea347fe6067b",
-   "company": "ByteDance",
-   "title": "AI/LLM Network Software Development Engineer Graduate - High Speed Network",
-   "url": "https://jobs.bytedance.com/en/position/7509262740803930376/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780466950000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ad0c0ea3-6eff-409b-91d6-adcf6f76c26e",
-   "company": "ByteDance",
-   "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
-   "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780466950000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
