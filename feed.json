@@ -1,6 +1,183 @@
 {
- "updatedAt": "2026-07-06T22:39:11.751Z",
+ "updatedAt": "2026-07-06T23:46:35.581Z",
  "jobs": [
+  {
+   "key": "simplify:135ae271-5566-4481-9f22-90156e57f0d7",
+   "company": "Cloudflare",
+   "title": "Data Engineer Intern",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8047201",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377363000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:c3607e8e-ae37-4aab-b205-0b645e5672f9",
+   "company": "Comcast",
+   "title": "Full Stack Engineer - Engineer 2 - AI Agentic",
+   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Full-Stack-Engineer-Engineer-2----AI-Agentic--_R434810",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377363000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:2b56fd1f-a934-4b5c-a589-093e41cf55b5",
+   "company": "Vestmark",
+   "title": "Associate Java Software Engineer",
+   "url": "https://job-boards.greenhouse.io/vestmark/jobs/8042636",
+   "locations": [
+    "Wakefield, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377363000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:4322cc67-bb6e-478f-a46a-0ebf9a0a9883",
+   "company": "Schweitzer Engineering Laboratories",
+   "title": "Associate Software Engineer - Artificial Intelligence / Machine Learning",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Software-Engineer---AI-ML_2026-21421",
+   "locations": [
+    "Moscow, ID"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377363000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:a6f54fb8-931c-4e2f-b2bb-9fddf84efc43",
+   "company": "Daimler Truck",
+   "title": "Customer Application Engineer 1",
+   "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Fort-Mill-SC-US/Customer-Application-Engineer-I_DT-18233-1",
+   "locations": [
+    "Fort Mill, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377949000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:923db8bc-d310-4bbd-8a32-88861442e7c4",
+   "company": "Tesla",
+   "title": "AI Engineer - Whole Body Controls - Optimus",
+   "url": "https://www.tesla.com/careers/search/job/275999",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377930000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:a85e12db-3ac8-4fb9-bd45-fd43ae568708",
+   "company": "STR",
+   "title": "Associate Software Engineer",
+   "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4694805006",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377363000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:8bd4da7c-8e98-44a4-8af8-a4fc17611671",
+   "company": "Northrop Grumman",
+   "title": "Software Development Engineer - Level 2 or 3",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Development-Engineers--Level-2-or-3-_R10239034",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783381594763
+  },
+  {
+   "key": "simplify:50825ad5-7fbc-40f3-a3a8-3fba58b1ddce",
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157",
+   "locations": [
+    "Anaheim, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783377074000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783381594763
+  },
   {
    "key": "simplify:964aa151-7592-4263-922e-adbb07bff4bf",
    "company": "Intel",
@@ -5630,179 +5807,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781993701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:eab487d1-67ad-4620-9acf-c4273999f8a8",
-   "company": "The Boeing Company",
-   "title": "Associate Software Development Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Associate-Software-Development-Engineer_JR2026515830",
-   "locations": [
-    "St. Louis, MO",
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782090901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:034a9d93-f51a-4886-b0fe-c2f771263fa5",
-   "company": "AG Technologies",
-   "title": "Entry Level Software Engineer",
-   "url": "https://jobs.smartrecruiters.com/AGTechnologies1/100730616",
-   "locations": [
-    "Chesterfield, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782137161000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ef6f5d6b-14e1-4e49-b76d-061a76076bdf",
-   "company": "KLA Corporation",
-   "title": "Applications Development Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer_2637888-1",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782167761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e51c9740-5833-4cde-9afd-23b440bfe8d8",
-   "company": "KLA",
-   "title": "Applications Development Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer_2637888",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782167041000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:854b7fbf-6a94-4938-b966-149a71aca887",
-   "company": "Sony Interactive Entertainment",
-   "title": "Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6099045004",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782167354000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:37a68980-82f2-4c55-b307-c8baff3b2fb8",
-   "company": "Quince",
-   "title": "Software Development Engineer 2 - Planning and Forecasting",
-   "url": "https://job-boards.greenhouse.io/quince/jobs/5264916008",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782167858000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:4d5d331b-137e-48b4-8eeb-2bc6a7e03c05",
-   "company": "The Boeing Company",
-   "title": "Software Engineer Simulation",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Software-Engineer-Simulation--Simulation-_JR2026510876-1",
-   "locations": [
-    "Mesa, AZ",
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782177171000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:423da967-d87f-4eb2-878e-67789a6b375b",
-   "company": "SpaceX",
-   "title": "Application Software Engineer - Manufacturing",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8603667002",
-   "locations": [
-    "West Athens, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782177481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a56f7c52-2e58-4520-8e9e-c112ea2c96df",
-   "company": "Cox",
-   "title": "Entry Level Software Engineer",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034",
-   "locations": [
-    "Burlington, VT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782166333000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
