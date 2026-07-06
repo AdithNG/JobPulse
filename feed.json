@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-06T07:08:47.578Z",
+ "updatedAt": "2026-07-06T11:44:21.070Z",
  "jobs": [
+  {
+   "key": "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b",
+   "company": "Citadel Securities",
+   "title": "Graduate Software Engineer",
+   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783329416000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783338260149
+  },
   {
    "key": "simplify:c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
    "company": "Citadel Securities",
@@ -5782,25 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782310861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:b04e012a-fae8-459e-99d0-b1378ab36891",
-   "company": "Corning",
-   "title": "Software Engineer - CMMS Systems",
-   "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800/?ats=successfactors",
-   "locations": [
-    "Elmira, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782367561000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
