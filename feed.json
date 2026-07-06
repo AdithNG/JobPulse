@@ -1,6 +1,161 @@
 {
- "updatedAt": "2026-07-06T21:09:10.753Z",
+ "updatedAt": "2026-07-06T22:39:11.751Z",
  "jobs": [
+  {
+   "key": "simplify:964aa151-7592-4263-922e-adbb07bff4bf",
+   "company": "Intel",
+   "title": "Software Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009",
+   "locations": [
+    "Hillsboro, OR",
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782176939000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:51ca28a3-5501-448a-a399-6a1d14a4fcda",
+   "company": "Applied Systems, Inc.",
+   "title": "Associate Software Engineer",
+   "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Dallas, TX",
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783376949000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:c46a879e-cb82-4c41-b76f-743ebcf2e0d1",
+   "company": "Beacon AI",
+   "title": "Frontend Web App Engineer - Frontend/Web App",
+   "url": "https://jobs.ashbyhq.com/beaconai/c7c05f23-554c-4679-a34f-bfbd6e1de79c/application",
+   "locations": [
+    "San Carlos, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783376645000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:037965da-859d-4532-a3b3-45dc8fd6220f",
+   "company": "Amentum",
+   "title": "Entry Level Software Engineer",
+   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
+   "locations": [
+    "Fredericksburg, VA",
+    "Dahlgren, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783376641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:c4af7370-f86a-400a-b34e-5235aa8c49d8",
+   "company": "Tesla",
+   "title": "Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus",
+   "url": "https://www.tesla.com/careers/search/job/276000",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783376638000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:d95db18e-3cf3-44d3-8de3-e765f832d1a9",
+   "company": "United Launch Alliance",
+   "title": "Trajectory Simulation Software Engineer 1",
+   "url": "https://jobs.ulalaunch.com/job/Centennial-Trajectory-Simulation-Software-Engineer-1-CO-80112/1406055600/?ats=successfactors",
+   "locations": [
+    "Centennial, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783375924000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:acccb77e-40c0-4811-b35d-470b7b148ec5",
+   "company": "Sandisk",
+   "title": "Field Application Engineer New Grad",
+   "url": "https://jobs.smartrecruiters.com/Sandisk/744000136097669",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783375789000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
+  {
+   "key": "simplify:7b688238-e23e-4f54-ad02-d8ba1449cf8e",
+   "company": "PG&E",
+   "title": "Engineering Assistant 1",
+   "url": "https://careers.pge.com/job/Oakland-Engineering-Assistant-I-CA-94612/1383125900/?ats=successfactors",
+   "locations": [
+    "Oakland, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783375643000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783377550744
+  },
   {
    "key": "simplify:495929ef-4f6f-4cdb-9c26-6156e4966b6b",
    "company": "Citadel Securities",
@@ -5648,159 +5803,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782166333000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:3859ee3a-9bd7-4c36-98c9-4e3c8984ced5",
-   "company": "DAT Freight & Analytics",
-   "title": "Software Engineer 1",
-   "url": "https://careers.dat.com/jobs/6099144004?gh_jid=6099144004",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782167393000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:4736b762-d76a-4c72-b71b-055c211c8e96",
-   "company": " PrizePicks",
-   "title": "Data Engineer",
-   "url": "http://prizepicks.com/position?gh_jid=7777284003",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782138241000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:453d44e6-74fe-430c-83d5-1f4bb1c58338",
-   "company": "RTX",
-   "title": "Leadership Development Program - Engineering - Software",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782207883000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:6978c2cb-a592-4751-ba2c-89bca5facdce",
-   "company": "AAR",
-   "title": "Junior Web Developer",
-   "url": "https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18441",
-   "locations": [
-    "Chicago, IL",
-    "Elk Grove Village, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782228274000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:6a6c1581-688a-4490-a6f9-1d598fb5a107",
-   "company": "SS&C",
-   "title": "Salesforce Systems Engineer",
-   "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782167041000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:8625f8ce-59cc-4216-9db0-43314f6c866f",
-   "company": "Honeywell",
-   "title": "Application Engineer 1",
-   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151139",
-   "locations": [
-    "Mason, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782263650000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:6052667b-546e-4416-966d-0bfe4b2a7e81",
-   "company": "Markon",
-   "title": "Software Engineer Level 1",
-   "url": "https://careers-markon.icims.com/jobs/8089/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Odenton, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782275581000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:38f46709-1cac-493a-9148-8bc145669237",
-   "company": "Sentry Insurance",
-   "title": "Software Developer",
-   "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Developer--Hybrid-Work-Model-_JR-142351",
-   "locations": [
-    "Plover, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782310861000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
