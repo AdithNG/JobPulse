@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-07-06T02:51:27.486Z",
+ "updatedAt": "2026-07-06T07:08:47.578Z",
  "jobs": [
+  {
+   "key": "simplify:c76dbe61-c0f6-47a8-b05e-b219b4e28fb7",
+   "company": "Citadel Securities",
+   "title": "Software Engineer Intern",
+   "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783318523000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783321726416
+  },
+  {
+   "key": "simplify:5e40a228-3721-4f88-96d5-3f59b73be6c4",
+   "company": "Susquehanna International Group (SIG)",
+   "title": "Quantitative Strategy Developer Intern",
+   "url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1783318209000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783321726416
+  },
+  {
+   "key": "simplify:410b28b6-b357-4b72-9480-bad83701b4cb",
+   "company": "Citadel",
+   "title": "Software Engineer – University Graduate",
+   "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
+   "locations": [
+    "Greenwich, CT",
+    "Houston, TX",
+    "Miami, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783318143000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783321726416
+  },
   {
    "key": "simplify:9d506d4e-91ee-4f46-bda5-4ab9b5dddf55",
    "company": "Tower Research Capital",
@@ -5742,65 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782367561000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:2573aeed-7da0-4b44-b555-e95d00f6563b",
-   "company": "Peraton",
-   "title": "Software Engineering - Ignite Innovator Program",
-   "url": "https://careers-peraton.icims.com/jobs/167926/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Blacksburg, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782165961000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:00ee7d1f-2349-43a4-a7ab-cf16f1fd16a3",
-   "company": "Coder",
-   "title": "Revenue Workflow Engineer",
-   "url": "https://jobs.ashbyhq.com/Coder/f86d9ca6-1a46-4594-91a7-c955904ced49/application",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782549001000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:05815051-0821-4191-949b-c618f3a8d36e",
-   "company": "Cox",
-   "title": "Software Engineer 1",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352",
-   "locations": [
-    "Austin, TX",
-    "Burlington, VT",
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782598292000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
