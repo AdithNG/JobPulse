@@ -1,6 +1,237 @@
 {
- "updatedAt": "2026-07-07T22:31:28.905Z",
+ "updatedAt": "2026-07-07T23:33:03.484Z",
  "jobs": [
+  {
+   "key": "simplify:c50d6926-df49-4af5-b944-37e8f46f94a7",
+   "company": "Hitachi Energy",
+   "title": "Python Engineer - Early-Career",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Waltham-Massachusetts-United-States/Python-Engineer--Early-Career-_R0134390-1",
+   "locations": [
+    "Waltham, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783463041000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "python"
+   ],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:c397c573-0849-4481-968f-9dd2b5b1ab87",
+   "company": "Schweitzer Engineering Laboratories",
+   "title": "Software Engineering Intern",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720",
+   "locations": [
+    "Round Rock, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783463870000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:9357be8c-c8fa-4a5f-aaaf-6ebbdc8cedd4",
+   "company": "ibotta",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d/application",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783462326000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:47e15701-8350-4806-9e72-912b4f89f705",
+   "company": "Illinois Tool Works",
+   "title": "Software Engineer",
+   "url": "https://careers.itw.com/global/en/job/JR8874",
+   "locations": [
+    "Albertville, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783462326000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:69d2b92d-d518-4757-a412-abf062e93a65",
+   "company": "General Dynamics",
+   "title": "Junior ERP Developer",
+   "url": "https://careers-gdeb.icims.com/jobs/19657/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Groton, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783462326000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:1fc8df79-d47d-4ab3-a745-920d0f302bdc",
+   "company": "SimpliSafe",
+   "title": "Software Engineer 1 - Device Control",
+   "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783464551000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:05b75e46-e5a8-4181-928b-7999b9212fa5",
+   "company": "SimpliSafe",
+   "title": "Software Engineer 1 - Video Platform",
+   "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783464557000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:27d97b17-2a57-439e-86ca-f86b853fac0d",
+   "company": "First Financial Bank",
+   "title": "Application Developer 1 - Osf",
+   "url": "https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783464217000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:730b33f7-4bb2-43fc-910d-4c5cbf55ab3c",
+   "company": "Vertiv",
+   "title": "Associate Application Engineer",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20273754",
+   "locations": [
+    "Anderson, SC",
+    "New Albany, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783463761000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:6a9378a8-2a47-4aa5-9d9b-5187d45c7f4d",
+   "company": "IMA Financial Group",
+   "title": "Business Intelligence Developer",
+   "url": "https://imacorp.com/careers/openings/5181420007?gh_jid=5181420007",
+   "locations": [
+    "Wichita, KS"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783463761000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:bf70e269-0f0c-4ba6-9c6d-ba877510df63",
+   "company": "The Boeing Company",
+   "title": "Entry Level Simulation Software Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783463948000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
+  {
+   "key": "simplify:2a66eaca-fc2d-4587-8cda-8e31d4687a80",
+   "company": "Danaher Corporation",
+   "title": "Software Engineer 1",
+   "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783463554000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783467182568
+  },
   {
    "key": "simplify:dd5d4222-905c-432a-b066-70d2456051d6",
    "company": "Stanley Black & Decker",
@@ -5578,236 +5809,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781776749000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:72ad42ac-5813-49d3-9be4-1a0eec0b481a",
-   "company": "Klaviyo",
-   "title": "Software Engineer 2",
-   "url": "https://job-boards.greenhouse.io/klaviyojobs/jobs/7764229003",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781792483000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ce1541f7-9a61-42c0-a010-de52ed8698a1",
-   "company": "Lexical Intelligence",
-   "title": "NLM Software Engineer 1",
-   "url": "https://lexical.bamboohr.com/careers/73/",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781792601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:0b31eab1-1bbe-4557-aed4-a6942d538e3c",
-   "company": "Worcester Polytechnic Institute",
-   "title": "Temporary Computer Science Developer",
-   "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Computer-Science-Developer_R0003493",
-   "locations": [
-    "Worcester, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781820181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:32f28caf-1112-476e-abf0-98d17b1d1c30",
-   "company": "SpaceX",
-   "title": "Software Engineer - High Assurance Test - Starshield",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8550675002",
-   "locations": [
-    "West Athens, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781821621000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:bb29677a-3aad-4ed5-85d0-20dbc0181cc0",
-   "company": "Insperity",
-   "title": "Associate Software Implementation Analyst",
-   "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kennesaw-GA/Associate-Software-Implementation-Analyst_JR102796",
-   "locations": [
-    "Madison, WI",
-    "Bloomington, MN",
-    "Kingwood, Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781821621000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:8bbac63d-a6c1-46b4-8d52-7f6ef3971f4a",
-   "company": "Eudia",
-   "title": "Forward Deployed Engineer",
-   "url": "https://job-boards.greenhouse.io/eudia/jobs/4234585009",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781821698000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:778e1777-fab9-418c-a38b-1acb7ac03dd1",
-   "company": "SpaceX",
-   "title": "Software Engineer - Pcba - Starlink",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8584271002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781821621000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a3b2484c-c68d-46ca-ac1b-30899e81b01f",
-   "company": "Oracle",
-   "title": "Software Developer 3",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337610",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781820361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:2394612c-0a97-4368-9a12-0c10a1dcec93",
-   "company": "KBR",
-   "title": "Junior Communications Systems Software Engineer",
-   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Communications-Systems-Software-Engineer_R2125329",
-   "locations": [
-    "Beavercreek, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781831701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:15ab606d-06a7-4c26-a9f0-13694d5b2e85",
-   "company": "SpaceX",
-   "title": "Application Software Engineer - Manufacturing Systems",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8600012002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781832061000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7c9cb97e-8415-40e9-b523-73df39f6debe",
-   "company": "Thorlabs",
-   "title": "Engineering Documentation Specialist 1",
-   "url": "https://apply.workable.com/thorlabs/j/FC12102DA5/apply",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781821951000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:b4b8249f-b8fd-491d-a1cb-5466b6ec5f88",
-   "company": "KRG Technologies",
-   "title": "Java Developer",
-   "url": "https://jobs.smartrecruiters.com/KrgTechnologyInc/100733740",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781877961000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
