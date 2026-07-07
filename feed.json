@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-07T12:14:54.451Z",
+ "updatedAt": "2026-07-07T15:21:38.084Z",
  "jobs": [
+  {
+   "key": "simplify:dd5d4222-905c-432a-b066-70d2456051d6",
+   "company": "Stanley Black & Decker",
+   "title": "Engineering Co-op",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering--Co-Op_REQ-1000043149",
+   "locations": [
+    "Strongsville, OH"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783434149000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783437697313
+  },
+  {
+   "key": "simplify:4cc19448-c709-4f52-92b4-9d868f9ad3e9",
+   "company": "RTX",
+   "title": "Leadership Development Program - Engineering - Software",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783434364000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783437697313
+  },
   {
    "key": "simplify:7650ccc7-1f1d-4681-a5e1-ec914f2123f1",
    "company": "DuCharme, McMillen & Associates",
@@ -5770,44 +5808,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781877961000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:bb732165-6b1c-499b-82b9-aaacc8eda685",
-   "company": "Idexcel",
-   "title": "Engineer",
-   "url": "https://jobs.smartrecruiters.com/Idexcel3/104328430",
-   "locations": [
-    "Worcester, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781878330000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:cd2d84ef-5bc1-484b-82a8-b1d56a6d8d53",
-   "company": "Emerson Electric",
-   "title": "Application Engineer 1",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006819",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781908810000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
