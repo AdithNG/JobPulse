@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-07T01:29:21.700Z",
+ "updatedAt": "2026-07-07T05:48:56.199Z",
  "jobs": [
+  {
+   "key": "simplify:6219210e-e390-4c2e-a436-58559bdccd22",
+   "company": "NewsBreak",
+   "title": "Newsbreak Venture New Grad - AI Growth Intelligence Engineer",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4694899006",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783387300000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783403335062
+  },
+  {
+   "key": "simplify:dd9c7caf-cc2d-466c-99aa-cfca088f1c33",
+   "company": "Novartis",
+   "title": "Scientific Data Engineer",
+   "url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers/job/Cambridge-USA/Scientific-Data-Engineer_REQ-10081250-1",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783386901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783403335062
+  },
+  {
+   "key": "simplify:9586d173-b7b6-46b3-b0ba-c60b4641cb98",
+   "company": "Sumitomo Electric Wiring Systems",
+   "title": "Software Engineer 1",
+   "url": "https://jobs.jobvite.com/sews/job/oYlrAfw4?nl=1&nl=1&fr=false",
+   "locations": [
+    "Southfield, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783386847000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783403335062
+  },
   {
    "key": "simplify:135ae271-5566-4481-9f22-90156e57f0d7",
    "company": "Cloudflare",
@@ -5750,63 +5807,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781958458000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:f1defd4a-8ef4-4174-b403-afa0950a48a1",
-   "company": "CVS Health",
-   "title": "Data Engineer",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942446",
-   "locations": [
-    "Smithfield, RI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781993701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:0ba50e8c-d18c-4115-accd-3de2242ab24a",
-   "company": "CVS Health",
-   "title": "Software Development Engineer",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Software-Development-Engineer_R0942411",
-   "locations": [
-    "Smithfield, RI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781993701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e9547f6d-be30-4002-8ed3-6de04063aaa6",
-   "company": "CVS Health",
-   "title": "Associate Data Engineer",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Associate-Data-Engineer_R0942229",
-   "locations": [
-    "Smithfield, RI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781993701000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
