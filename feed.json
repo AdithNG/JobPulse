@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-07-07T09:21:26.887Z",
+ "updatedAt": "2026-07-07T12:14:54.451Z",
  "jobs": [
+  {
+   "key": "simplify:7650ccc7-1f1d-4681-a5e1-ec914f2123f1",
+   "company": "DuCharme, McMillen & Associates",
+   "title": "Data Engineer",
+   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228",
+   "locations": [
+    "Indianapolis, IN",
+    "Fort Wayne, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783417861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783426493735
+  },
+  {
+   "key": "simplify:a4db1cdd-98a3-4e59-b6c0-9baff85f5a46",
+   "company": "ByteDance",
+   "title": "Graduate Software Engineer - Dev Infra",
+   "url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783417790000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783426493735
+  },
+  {
+   "key": "simplify:c0479012-54e4-478d-922f-1948cd356ac4",
+   "company": "Cerebras",
+   "title": "Software Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783416750000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783426493735
+  },
   {
    "key": "simplify:6219210e-e390-4c2e-a436-58559bdccd22",
    "company": "NewsBreak",
@@ -5750,63 +5808,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781908810000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:eb1172e1-919e-4b58-97c7-3fee4ddf9008",
-   "company": "Primetals Technologies",
-   "title": "Project Support Engineer 1",
-   "url": "https://mhicareers.com/job/Orlando-Project-Support-Engineer-I-FL-32809/1406621533/?ats=successfactors",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781908544000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:4654f268-c3f9-47f1-b7fa-6686e534b593",
-   "company": "Mars",
-   "title": "Industrial Data Engineer",
-   "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037",
-   "locations": [
-    "Sioux City, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781907157000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:aa35ab04-a301-41e9-bf2f-fc58de23b838",
-   "company": "Becton Dickinson",
-   "title": "Product Development Engineer 1",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-RI---Warwick/Product-Development-Engineer-I_R-542366-1",
-   "locations": [
-    "Warwick, RI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781958458000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
