@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-07-08T01:11:07.714Z",
+ "updatedAt": "2026-07-08T04:34:42.453Z",
  "jobs": [
+  {
+   "key": "simplify:b043dd73-06f2-4ce6-8f9c-00113656ba29",
+   "company": "Otter.ai",
+   "title": "Software Engineer New Grad - Backend",
+   "url": "https://otter.ai/careers?gh_jid=7798264003",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783473232000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1783485281580
+  },
+  {
+   "key": "simplify:25b15347-192f-44ac-a85d-232632aaa217",
+   "company": "Uhaul",
+   "title": "ETL Developer",
+   "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/ETL-Developer_R247910",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781658721000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783485281580
+  },
+  {
+   "key": "simplify:438bd6ae-c51c-47cd-8ee5-66dcc7e5bba0",
+   "company": "Comcast",
+   "title": "Junior Software Developer - CDN Operations Engineering",
+   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Development-Engineer---CDN-OpsEng_R440501-1",
+   "locations": [
+    "Cherry Hills Village, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783473256000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783485281580
+  },
+  {
+   "key": "simplify:d0aa5e4a-9602-46ff-a906-bcd51900a9a5",
+   "company": "Applied Materials",
+   "title": "Software Engineer 2 – New College Grad",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783473221000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783485281580
+  },
+  {
+   "key": "simplify:8271a031-5f9d-416a-9a7f-75c5c821afd7",
+   "company": "Blissway",
+   "title": "Machine Learning Engineer - Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/blissway/662f1761-5d28-421d-8b47-605cc910991d/application",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783473219000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783485281580
+  },
+  {
+   "key": "simplify:c46c59e7-80b8-4494-acf4-94ec39d2d300",
+   "company": "EXL",
+   "title": "Data Engineer",
+   "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/16842",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783472942000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783485281580
+  },
+  {
+   "key": "simplify:0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
+   "company": "GE Healthcare",
+   "title": "Field Engineer 1",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
+   "locations": [
+    "El Paso, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783472992000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783485281580
+  },
   {
    "key": "simplify:c50d6926-df49-4af5-b944-37e8f46f94a7",
    "company": "Hitachi Energy",
@@ -5675,140 +5810,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781735941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:0ea4f09f-a3b4-4a0b-b033-e5123b3762e9",
-   "company": "WebFX",
-   "title": "Junior Full-Stack Software Engineer",
-   "url": "https://jobs.lever.co/webfx/3c850193-9429-43fd-9afb-052adea191b3/apply",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781736683000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:00dea79d-a99b-4b51-9373-02b22d16cba2",
-   "company": "Newell Brands",
-   "title": "Associate Product Engineer - Home Fragrance",
-   "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors",
-   "locations": [
-    "Amherst, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781735941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ebc85430-6db3-4aec-b94c-f1a42c8f21e8",
-   "company": "Datalab USA",
-   "title": "Production Programmer – Entry Level SQL Developer",
-   "url": "https://jobs.lever.co/datalabusa/b36ba5ac-4247-4d90-ac90-6df3e9d46885/apply",
-   "locations": [
-    "Germantown, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781735941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a6ab1df3-86d8-42bb-b220-97ec8c92cba2",
-   "company": "Microsoft",
-   "title": "Software Engineer - Ctj - Poly",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973",
-   "locations": [
-    "Annapolis Junction, MD",
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781763081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:01d6602a-2166-4774-a0ad-32e0b28fd5d2",
-   "company": "Applied Materials",
-   "title": "Lab Software Engineer",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781763479000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:9b41dc89-278f-49b2-9445-208d05b10583",
-   "company": "Nightwing Intelligence Solutions",
-   "title": "Software Engineer 1",
-   "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/Annapolis-Junction-MD/Software-Engineer-1_JR100150",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781775901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:b089b7c7-0a74-400e-a1bc-507c63dd4f61",
-   "company": "Alation",
-   "title": "UX Software Engineer 1",
-   "url": "https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/UX-Engineer-Intern--Applied-AI_R10000689",
-   "locations": [
-    "San Carlos, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781776749000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
