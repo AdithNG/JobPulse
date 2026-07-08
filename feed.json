@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-08T04:34:42.453Z",
+ "updatedAt": "2026-07-08T07:14:45.589Z",
  "jobs": [
+  {
+   "key": "simplify:de82883f-ad2d-473b-974e-08156f207dd9",
+   "company": "Vanguard",
+   "title": "Entry Level Application Engineer",
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908",
+   "locations": [
+    "Malvern, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783491664000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783494885014
+  },
   {
    "key": "simplify:b043dd73-06f2-4ce6-8f9c-00113656ba29",
    "company": "Otter.ai",
@@ -5785,25 +5804,6 @@
    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Hampton/Wind-Tunnel-Data-Systems-Engineer_R0163520",
    "locations": [
     "Hampton, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781735941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:c3cf48b5-1173-4d4f-844d-b1af756ce6b6",
-   "company": "Buyers Edge Platform",
-   "title": "Junior Developer - Python & Go",
-   "url": "https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4706922005",
-   "locations": [
-    "Remote in USA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
