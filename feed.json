@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-08T13:17:01.554Z",
+ "updatedAt": "2026-07-08T15:38:50.023Z",
  "jobs": [
+  {
+   "key": "simplify:8085b0fb-3683-4307-b90e-062ef95c0389",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1783521174000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783525129300
+  },
+  {
+   "key": "simplify:27a0f900-c5b2-4b8f-85c2-8614ea5badf0",
+   "company": "Amazon",
+   "title": "Software Engineer - AI Security",
+   "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783519923000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783525129300
+  },
+  {
+   "key": "simplify:5158ca83-fadc-46bd-8a9d-7d714853a2c3",
+   "company": "RoadRunner Recycling",
+   "title": "Software Engineer 1 - Full-Stack",
+   "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783521567000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783525129300
+  },
   {
    "key": "simplify:49ac286b-0d2a-44df-b39a-c6540778f26a",
    "company": "NVIDIA",
@@ -5753,63 +5810,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781645419000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:46559c4a-45e1-49d2-87bb-cca40667e187",
-   "company": "American Institutes for Research",
-   "title": "Data Engineer Associate",
-   "url": "https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5263560008",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781647580000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ba7de260-3aca-4c4c-9334-bd3d9fa6285d",
-   "company": "Tyler Technologies",
-   "title": "Associate Software Engineer",
-   "url": "https://jobs.jobvite.com/tylertech/job/o8NHzfwV?nl=1&nl=1&fr=false",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781677277000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:59064f30-dfa0-4d90-bd4a-576cf3536318",
-   "company": "Texas Instruments",
-   "title": "New College Graduate - Information Technology - Software Development Engineer Development Program",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25008815",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781676721000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
