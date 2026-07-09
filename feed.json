@@ -1,6 +1,253 @@
 {
- "updatedAt": "2026-07-09T22:05:23.019Z",
+ "updatedAt": "2026-07-09T23:36:32.601Z",
  "jobs": [
+  {
+   "key": "simplify:1de12102-5f3b-4c75-83ce-02e4d9bb828d",
+   "company": "Vital Lyfe",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
+   "locations": [
+    "Carson, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636257000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:0d467785-7605-490e-8478-cd894e0ef1f1",
+   "company": "RTX",
+   "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718",
+   "locations": [
+    "McKinney, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781101483000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:f9065db1-f62d-48a6-a8e4-54339556813e",
+   "company": "iTradeNetwork",
+   "title": "AI/ML Software Engineer",
+   "url": "https://www.itradenetwork.com/jobs/5290252008?gh_jid=5290252008",
+   "locations": [
+    "Oakland, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636022000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:f13aeef3-c6b3-4c80-97c7-804b205a6819",
+   "company": "Westinghouse Electric Company",
+   "title": "Product Engineer",
+   "url": "https://careers.westinghousenuclear.com/job/Hopkins-Product-Engineer-SC-29061/1407244000/?ats=successfactors",
+   "locations": [
+    "Columbia, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636022000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:604a3df0-b198-40b9-ae32-7374597f9603",
+   "company": "Strada Education Foundation",
+   "title": "Associate Client Data Engineer",
+   "url": "https://jobs.lever.co/stradaeducation/dca47da4-85fc-481f-8aa5-fa664a9d37bc/apply",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783635304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:dd9ebf83-de62-46a1-bb39-e82699aaad89",
+   "company": "Denso",
+   "title": "Systems Engineer 2",
+   "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24809",
+   "locations": [
+    "Maryville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783635304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:df5378e0-2aee-49e0-b980-f4f40136ef77",
+   "company": "Microchip Technology",
+   "title": "Engineer 2 - Software",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-II-Software_R2880-26",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783635808000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:157300d7-6042-4e91-a33f-e2c246aa2d5f",
+   "company": "Emerson Electric",
+   "title": "Engineering Associate - Engineering - Product Data Management",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006994",
+   "locations": [
+    "Mansfield, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783635304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:5909e69f-9e25-4075-904c-d31c6aa6f5f7",
+   "company": "Esri",
+   "title": "Product Engineer",
+   "url": "https://www.esri.com/careers/5176566007?gh_jid=5176566007",
+   "locations": [
+    "West Redlands, Redlands, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:8e55dd92-ce76-4276-8228-0c0d7cf68660",
+   "company": "Esri",
+   "title": "Software Development Engineer",
+   "url": "https://www.esri.com/careers/5176578007?gh_jid=5176578007",
+   "locations": [
+    "West Redlands, Redlands, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:ce9250e1-36be-4c4c-aeff-ee1b9d5881c6",
+   "company": "Leidos",
+   "title": "Entry Level Software Developer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636460000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81",
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer New Grad - Undergrads",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636335000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
+  {
+   "key": "simplify:f8f71507-c0d4-4d07-ae3b-027559a5cabd",
+   "company": "SpaceX",
+   "title": "Data Engineer - Starlink",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8626535002",
+   "locations": [
+    "Bastrop, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783636022000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783640191137
+  },
   {
    "key": "simplify:1bfc9357-5590-4abc-b602-691403283106",
    "company": "CACI",
@@ -5574,254 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780612561000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:2fef259f-7eea-4f01-83b4-de47794fec0d",
-   "company": "Concept Plus",
-   "title": "Junior Software Developer",
-   "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
-   "locations": [
-    "Dayton, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780612625000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ad034685-ee26-4178-986c-f8bd127e945b",
-   "company": "Torc Robotics",
-   "title": "Software Engineer - Mission Control",
-   "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780612561000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:3707d29b-8b77-4d90-b135-d57aab883be8",
-   "company": "Field AI",
-   "title": "Agentic AI/ML Engineer",
-   "url": "https://jobs.lever.co/field-ai/c56e6bc4-23d9-4ed1-9349-fee74e35c264/apply",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780621921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:bd388190-03f5-4a8c-bdfa-6d5eb2535cbf",
-   "company": "Bot Auto",
-   "title": "Software Engineer - Operation Platforms",
-   "url": "https://job-boards.greenhouse.io/botauto/jobs/5248910008",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780621741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:6553d92a-bb9f-42ef-bed7-3d6dd38f4273",
-   "company": "Paramount Global",
-   "title": "Machine Learning Engineer - Entry",
-   "url": "https://careers.paramount.com/job/New-York-Machine-Learning-Engineer,-Entry-NY-10036/1389620800/?ats=successfactors",
-   "locations": [
-    "Burbank, CA",
-    "Hollywood, LA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780649461000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
-   "company": "Abbott",
-   "title": "Design to Cost Engineer",
-   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
-   "locations": [
-    "Waukegan, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780747642000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:64ef8ddb-ed81-404b-a0d2-9fc440bf3aa6",
-   "company": "QinetiQ",
-   "title": "Associate Software Engineer",
-   "url": "https://careers-qinetiqus.icims.com/jobs/12152/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Franklin, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780956361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ade8ea2a-928d-447b-a596-401bfb3447f2",
-   "company": "Winsupply",
-   "title": "Software Developer",
-   "url": "https://jobs.smartrecruiters.com/Winsupply1/3743990013521346",
-   "locations": [
-    "Dayton, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780958162000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:94256481-4cab-4687-83aa-f17d4ffeff44",
-   "company": "Markon",
-   "title": "Software Engineer Level 0",
-   "url": "https://careers-markon.icims.com/jobs/8403/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Odenton, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780956361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:1cf77aef-56ae-4a15-b278-cbf2e9a9bfc3",
-   "company": "Relay",
-   "title": "Associate Software Engineer - Site Reliability Engineering",
-   "url": "https://job-boards.greenhouse.io/relaypro/jobs/7950142",
-   "locations": [
-    "Raleigh, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780957457000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:54749497-4189-4a1e-ba2f-224fbd8b967c",
-   "company": "Origis Energy",
-   "title": "Operational Performance Engineer",
-   "url": "https://job-boards.greenhouse.io/origisenergy/jobs/5753532004",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780957457000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:14e1d321-87e3-43d7-86b2-7826d4163a57",
-   "company": "Zurn Elkay Water Solutions",
-   "title": "Application Engineer",
-   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Application-Engineer_REQ-019741",
-   "locations": [
-    "Erie, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780960324000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:c2cf5ed2-2084-49ae-a86e-aba3c2969ed5",
-   "company": "Robert Bosch Venture Capital",
-   "title": "Rotational Development Program - Software Engineer - Power Solutions",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131227160",
-   "locations": [
-    "Southfield, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781043313000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
