@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-08T23:55:29.253Z",
+ "updatedAt": "2026-07-09T04:06:23.834Z",
  "jobs": [
+  {
+   "key": "simplify:19f32ab3-2a4d-4e59-9937-92878312f48c",
+   "company": "Thoughtworks",
+   "title": "Graduate Developer",
+   "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783560457000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783569982858
+  },
+  {
+   "key": "simplify:b2a451e2-c73b-4273-ba1e-8a91e3c9b407",
+   "company": "Quora",
+   "title": "Machine Learning Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783559900000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783569982858
+  },
+  {
+   "key": "simplify:4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d",
+   "company": "Leidos",
+   "title": "Software Development Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
+   "locations": [
+    "Gaithersburg, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783559934000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783569982858
+  },
   {
    "key": "simplify:c1d1053c-438a-481e-8375-57149313ea2f",
    "company": "National Laboratory of the Rockies",
@@ -5762,66 +5819,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781082853000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:6ef3fbcc-770e-4606-b400-91b81efa3a57",
-   "company": "Symbotic",
-   "title": "Software Engineer - Core Systems & Platform Services",
-   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R7327",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781129533000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:3f557233-184a-4541-b56e-dec514042429",
-   "company": "Mariana Minerals",
-   "title": "Machine Learning Engineer",
-   "url": "https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac/application",
-   "locations": [
-    "Houston, TX",
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781140141000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:09f00af3-f301-47dc-8feb-407479362a10",
-   "company": "iboss",
-   "title": "Full Stack Java Software Engineer",
-   "url": "https://jobs.jobvite.com/iboss/job/orvdAfwt?nl=1&nl=1&fr=false",
-   "locations": [
-    "Washington, DC",
-    "Austin, TX",
-    "Concord, NH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781168941000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
