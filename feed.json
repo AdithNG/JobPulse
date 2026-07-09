@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-07-09T07:52:37.140Z",
+ "updatedAt": "2026-07-09T11:15:35.226Z",
  "jobs": [
+  {
+   "key": "simplify:9c4f6e91-a5cc-482a-ad58-1870f54b7c91",
+   "company": "CACI",
+   "title": "Junior Software Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867",
+   "locations": [
+    "Springfield, VA",
+    "St. Louis, MO",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783592461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783595734546
+  },
   {
    "key": "simplify:19f32ab3-2a4d-4e59-9937-92878312f48c",
    "company": "Thoughtworks",
@@ -5800,25 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781082556000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e4a31c6e-717d-4b5a-89d8-666c552afe34",
-   "company": "Evolver",
-   "title": "Generative AI Engineer - Python",
-   "url": "https://job-boards.greenhouse.io/evolver/jobs/4092111009",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781082853000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
