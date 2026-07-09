@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-07-09T14:01:11.248Z",
+ "updatedAt": "2026-07-09T16:36:02.161Z",
  "jobs": [
+  {
+   "key": "simplify:1bfc9357-5590-4abc-b602-691403283106",
+   "company": "CACI",
+   "title": "Software Engineer Intern",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Jessup-MD-US/Software-Engineering-Intern---Fall-2026_328740",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783606233000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783614961238
+  },
+  {
+   "key": "simplify:5af2268a-ff2d-4b13-b566-d3b9f116ae9c",
+   "company": "Confluence Technologies",
+   "title": "Data Engineer Associate - Data Platform - Data Pipelines",
+   "url": "https://confluence.pinpointhq.com/en/postings/fcbb93f0-38bb-42ba-8f6e-e0141576d0d7?ats=pinpointhq",
+   "locations": [
+    "Boston, MA",
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781082868000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783614961238
+  },
+  {
+   "key": "simplify:326c806c-b963-4965-966a-eab3c03c37fe",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Process Development Engineer 1 - Purification Data Analysis",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Process-Development-Engineer-I---Purification-Data-Analysis_R48653",
+   "locations": [
+    "Tarrytown, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783607569000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783614961238
+  },
   {
    "key": "simplify:9c4f6e91-a5cc-482a-ad58-1870f54b7c91",
    "company": "CACI",
@@ -5764,63 +5822,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781043313000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:18788f91-db0c-454b-bf56-c658db940ecc",
-   "company": "Internet Brands",
-   "title": "Associate AI Software Engineer",
-   "url": "https://jobs.jobvite.com/internetbrands/job/o5zbAfw9?nl=1&nl=1&fr=false",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781054292000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:183cfb1c-1bc1-441e-bbd0-5f1a5220c9da",
-   "company": "Dutch",
-   "title": "Front-End Engineer - Shopify - Vue.js",
-   "url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5/apply",
-   "locations": [
-    "Oakland, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781079481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7d8768dc-f8bf-486b-bcea-cb2578964f69",
-   "company": "Fuze Health",
-   "title": "Graduate Software Engineer",
-   "url": "https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781082556000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
