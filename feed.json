@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-10T01:16:06.011Z",
+ "updatedAt": "2026-07-10T05:12:54.367Z",
  "jobs": [
+  {
+   "key": "simplify:f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/276333",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783646087000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783660372801
+  },
+  {
+   "key": "simplify:54e3efd5-fdd5-4387-aa85-9ac6d93dd308",
+   "company": "The Boeing Company",
+   "title": "Product Data Management Specialist - Data Management - Engineering",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Product-Data-Mgmt-Specialist--Data-Management---Engineering-_JR2026505081",
+   "locations": [
+    "Tukwila, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783646303000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783660372801
+  },
   {
    "key": "simplify:1de12102-5f3b-4c75-83ce-02e4d9bb828d",
    "company": "Vital Lyfe",
@@ -5783,44 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780524652000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:69c84ff2-77cd-40d1-8c2f-a2601afa0872",
-   "company": "Metalcraft of Mayville",
-   "title": "Engineering Support Technician",
-   "url": "https://careers-mtlcraft.icims.com/jobs/4649/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Fond du Lac, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780610761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:310d9264-5d90-4890-983f-dae3a7451af5",
-   "company": "NexHealth",
-   "title": "Software Engineer",
-   "url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6014570004",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780612561000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
