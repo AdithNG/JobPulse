@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-10T08:45:59.781Z",
+ "updatedAt": "2026-07-10T11:38:05.793Z",
  "jobs": [
+  {
+   "key": "simplify:f5d0810b-8d0e-4bee-b85c-e93f19ab3aef",
+   "company": "Alkira",
+   "title": "Software Engineer - Datapath",
+   "url": "https://alkira.bamboohr.com/careers/232/",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783678321000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783683484893
+  },
   {
    "key": "simplify:f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
    "company": "Tesla",
@@ -5802,25 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780525451000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:db55c587-2810-474f-bd78-03115f713ea4",
-   "company": "WGU",
-   "title": "Software Engineer",
-   "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer--WIS-to-Domestic-_JR-025312",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780524652000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
