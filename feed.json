@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-11T13:57:09.877Z",
+ "updatedAt": "2026-07-11T15:05:24.427Z",
  "jobs": [
+  {
+   "key": "simplify:c1aef919-6a3e-46ea-8cfa-6ec5fd93783b",
+   "company": "Alkegen",
+   "title": "Application Engineer - Industrial Thermal Management",
+   "url": "https://alkegen.wd5.myworkdayjobs.com/alkegen/job/Buffalo-NY/Application-Engineer---Industrial-Thermal-Management_R12639",
+   "locations": [
+    "Buffalo, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783777861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783782323335
+  },
   {
    "key": "simplify:4f6973c1-da33-4e06-83f6-24ba86a31d95",
    "company": "Google",
@@ -5816,25 +5835,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782782019000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a47f5b39-f0c7-4d92-b3ba-b6eafe282f63",
-   "company": "Truland Equipment",
-   "title": "Power Platform Intern",
-   "url": "https://www.trulandequip.com/about-us/careers/?gh_jid=5174621007",
-   "locations": [
-    "Fort Wayne, IN"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782856981000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
