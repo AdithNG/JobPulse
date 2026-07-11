@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-07-11T08:28:43.394Z",
+ "updatedAt": "2026-07-11T10:03:51.589Z",
  "jobs": [
+  {
+   "key": "simplify:4f6973c1-da33-4e06-83f6-24ba86a31d95",
+   "company": "Google",
+   "title": "Software Engineer 3 - AI/ML - Google Cloud AI",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/87457161382109894",
+   "locations": [
+    "Seattle, WA",
+    "Kirkland, WA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783762272000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1783764230736
+  },
+  {
+   "key": "simplify:5b64f61a-3dab-4251-b2a8-9b98d24e78c1",
+   "company": "Gen Digital",
+   "title": "AI & Machine Learning Engineer 1",
+   "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783762023000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783764230736
+  },
   {
    "key": "simplify:4622ed51-4f9d-46b5-91bd-1c2ccfb80a49",
    "company": "DiDi Global",
@@ -5793,44 +5835,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782856981000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e45157b9-46dc-4611-a3d0-94318359142c",
-   "company": "Formlabs",
-   "title": "Manufacturing Test Software Intern",
-   "url": "https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782252904000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:674ac6b3-40da-4f19-a637-3d0afc3a261b",
-   "company": "Intuitive Surgical",
-   "title": "Computer Vision Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000133458290",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782166309000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
