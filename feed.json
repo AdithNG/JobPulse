@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-07-11T01:01:24.759Z",
+ "updatedAt": "2026-07-11T04:23:47.542Z",
  "jobs": [
+  {
+   "key": "simplify:98b8f971-621c-46bf-8915-22ec116e536a",
+   "company": "Inversion Space",
+   "title": "Full Stack Engineer 2",
+   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005",
+   "locations": [
+    "Culver City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783733984000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1783743826603
+  },
+  {
+   "key": "simplify:842d796a-d789-46c6-b40f-ee55dd5d2367",
+   "company": "Leidos",
+   "title": "Junior Software Engineer - AI/ML Applications",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783732702000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783743826603
+  },
+  {
+   "key": "simplify:73e95483-23f7-498e-83cf-df008b007d83",
+   "company": "Leidos",
+   "title": "Junior Software Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783732709000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783743826603
+  },
   {
    "key": "simplify:5fbcaa2a-e397-4a5e-9cd6-c5d130497416",
    "company": "American Express",
@@ -5772,63 +5831,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782771992000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:55c7c29d-5579-48fe-a3f7-dd38b476dba0",
-   "company": "Cadence Design Systems",
-   "title": "Product Engineering Intern - Simulation and Verification",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782425388000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7da1537a-25f6-4903-bbf2-d1b20d7a1c3d",
-   "company": "Saronic",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7/application",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782772021000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ae07548a-a2c2-42c2-950d-889a02c663bc",
-   "company": "Zipline",
-   "title": "Software Engineer Intern",
-   "url": "https://www.zipline.com/open-roles?gh_jid=7787509003",
-   "locations": [
-    "San Bruno, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782522541000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
