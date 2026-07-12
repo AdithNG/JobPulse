@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-12T22:27:39.562Z",
+ "updatedAt": "2026-07-12T23:31:45.779Z",
  "jobs": [
+  {
+   "key": "simplify:6f5b146c-a752-43f8-a404-465ff293511c",
+   "company": "Westinghouse Electric Company",
+   "title": "Software Procurement Specialist",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Procurement-Specialist-NC/1407798400/?ats=successfactors",
+   "locations": [
+    "Grove City, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783894143000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783899104762
+  },
   {
    "key": "simplify:c1aef919-6a3e-46ea-8cfa-6ec5fd93783b",
    "company": "Alkegen",
@@ -5816,25 +5835,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782857465000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:de258f68-480f-46d8-90eb-6a87d8ded565",
-   "company": "Tesla",
-   "title": "Data Engineer Intern - Applications Engineering",
-   "url": "https://www.tesla.com/careers/search/job/272928",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782782019000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
