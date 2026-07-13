@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-07-13T13:39:59.195Z",
+ "updatedAt": "2026-07-13T16:14:02.669Z",
  "jobs": [
+  {
+   "key": "simplify:12bb8c08-3ba6-419a-aac2-cbaded0ca79f",
+   "company": "Peraton",
+   "title": "Entry-Level Full Stack Developer",
+   "url": "https://careers-peraton.icims.com/jobs/168438/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783953202000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1783959241673
+  },
+  {
+   "key": "simplify:83655c31-de25-41df-8a21-e5cd5246f66b",
+   "company": "Denso",
+   "title": "Software Developer 1",
+   "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24516",
+   "locations": [
+    "Battle Creek, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783952462000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783959241673
+  },
+  {
+   "key": "simplify:3d6cfbee-bf7c-4fa4-bdc5-7beea6d5ae6a",
+   "company": "BeyondTrust",
+   "title": "Data Engineer Associate",
+   "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/6602214",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783953742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1783959241673
+  },
   {
    "key": "simplify:6f5b146c-a752-43f8-a404-465ff293511c",
    "company": "Westinghouse Electric Company",
@@ -5778,63 +5837,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782426159000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e48da94e-987a-48e6-a34c-82e0558ae8bb",
-   "company": "Rise8",
-   "title": "Software Engineer Intern - Software Engineer",
-   "url": "https://job-boards.greenhouse.io/rise8/jobs/4359623007",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782868507000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:77fe355c-f71a-4b4f-8ac1-348d2b156c64",
-   "company": "Tesla",
-   "title": "Machine Learning Engineer Intern - Machine Learning Engineer - Factory Software",
-   "url": "https://www.tesla.com/careers/search/job/275380",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782858580000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ffc1f08c-7dd5-4fce-986e-2e3b824aabb4",
-   "company": "Palantir",
-   "title": "Forward Deployed Software Engineer Intern - Commercial",
-   "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782857465000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
