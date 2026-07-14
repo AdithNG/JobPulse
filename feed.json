@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-07-14T21:28:36.556Z",
+ "updatedAt": "2026-07-14T22:34:31.326Z",
  "jobs": [
+  {
+   "key": "simplify:db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
+   "company": "Argmax",
+   "title": "On-device AI Frameworks Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/argmax/jobs/4067268009",
+   "locations": [
+    "Palo Alto, CA",
+    "Union City, NJ"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784068158000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784068470665
+  },
+  {
+   "key": "simplify:4e9240aa-a379-4464-a140-2114eff885a2",
+   "company": "Navy Federal",
+   "title": "Frontend Application Engineer Intern",
+   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
+   "locations": [
+    "Pensacola, FL",
+    "Vienna, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784068009000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784068470665
+  },
+  {
+   "key": "simplify:5a64923f-55d5-4d98-bf50-5764675ebb54",
+   "company": "Kulicke & Soffa",
+   "title": "BB Process Engineering Intern",
+   "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11508",
+   "locations": [
+    "Ambler, PA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784067953000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784068470665
+  },
+  {
+   "key": "simplify:d557630f-831a-471f-a70b-deeebe4ca3a6",
+   "company": "NextGen Federal Systems",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784066799000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784068470665
+  },
+  {
+   "key": "simplify:ab954d87-227f-493a-937e-9b6bc2c9ce33",
+   "company": "Voloridge",
+   "title": "Quantitative Developer Intern",
+   "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
+   "locations": [
+    "Jupiter, FL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784066666000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784068470665
+  },
   {
    "key": "simplify:c7a6ce05-131f-4bb4-acbc-7a68ccd537b7",
    "company": "AeroVect",
@@ -5763,103 +5860,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780795464000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:111dac09-feff-4585-9cde-69f369a37990",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Linux Update Systems",
-   "url": "https://www.tesla.com/careers/search/job/266986",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780795467000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:fc4cc01c-6cd1-45d5-ad18-270e23066dea",
-   "company": "Tesla",
-   "title": "Energy System Optimization Intern - Energy Optimization Software",
-   "url": "https://www.tesla.com/careers/search/job/271349",
-   "locations": [
-    "Palo Alto, CA",
-    "Fremont, CA",
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780795316000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a4a728e5-80fa-4bbc-b061-af4dfb06fe10",
-   "company": "Tesla",
-   "title": "Software Engineering Intern - Software Engineering - Service Engineering",
-   "url": "https://www.tesla.com/careers/search/job/266119",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780795462000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:810d9cbc-e0ce-40ca-96de-7fd6ff8d69e8",
-   "company": "Tesla",
-   "title": "Data Engineer Intern - Data Engineer - Energy",
-   "url": "https://www.tesla.com/careers/search/job/271331",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780795457000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:79443f9d-f854-4915-abaf-2312579d6808",
-   "company": "Tesla",
-   "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
-   "url": "https://www.tesla.com/careers/search/job/271352",
-   "locations": [
-    "Draper, UT"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780795294000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
