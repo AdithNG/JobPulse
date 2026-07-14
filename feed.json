@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-07-14T05:57:34.468Z",
+ "updatedAt": "2026-07-14T08:23:50.218Z",
  "jobs": [
+  {
+   "key": "simplify:84a39b8e-8d89-4f91-ab45-1d53e8d86776",
+   "company": "Huntington Ingalls Industries",
+   "title": "Software Engineer 1",
+   "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
+   "locations": [
+    "Newport News, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784011681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784017429456
+  },
+  {
+   "key": "simplify:e705fffd-6c2f-4555-b991-f5808e23542c",
+   "company": "NVIDIA",
+   "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
+   "locations": [
+    "Remote in USA",
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784011765000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784017429456
+  },
   {
    "key": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
    "company": "NVIDIA",
@@ -5818,44 +5857,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780797624000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:eb82c528-1521-4b17-a1c4-5f5f979c84d9",
-   "company": "Tesla",
-   "title": "AI Performance Engineer Intern - AI Performance Engineer - Performance Optimization",
-   "url": "https://www.tesla.com/careers/search/job/263759",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780813223000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:e5e96098-6521-4bb0-8994-3127501c8908",
-   "company": "Tesla",
-   "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
-   "url": "https://www.tesla.com/careers/search/job/263211",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780813246000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
