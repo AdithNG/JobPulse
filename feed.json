@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-14T00:12:09.122Z",
+ "updatedAt": "2026-07-14T03:39:18.423Z",
  "jobs": [
+  {
+   "key": "simplify:58e0500b-3577-4e69-9d43-b710f8155f10",
+   "company": "NVIDIA",
+   "title": "Backend Compiler Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783992294000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1784000357158
+  },
+  {
+   "key": "simplify:82efb81a-9d97-4172-9331-701b618857c6",
+   "company": "Varsity Brands",
+   "title": "Software Engineer 1",
+   "url": "https://careers.varsitybrands.com/global/en/job/JR114172",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783991819000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784000357158
+  },
+  {
+   "key": "simplify:0c885940-c72f-4328-9091-a397224b4ef2",
+   "company": "MGM Resorts International",
+   "title": "Computer Engineer - Corporate",
+   "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Computer-Engineer---Corporate_277232",
+   "locations": [
+    "Las Vegas, NV"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783991521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784000357158
+  },
+  {
+   "key": "simplify:94b5c207-eda9-41bc-b43a-082ff957f285",
+   "company": "SambaNova Systems",
+   "title": "AI Systems Performance Engineer New Grad",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6115124004",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1783993012000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784000357158
+  },
   {
    "key": "simplify:87235779-9531-4bf2-b265-6cc448aa0f35",
    "company": "Hudson River Trading",
@@ -5778,82 +5856,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780813246000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:90c5d0b6-db8a-4cbe-bd09-bc14d5433132",
-   "company": "Tesla",
-   "title": "Software Machine Learning Engineer Intern - Reliability Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/272619",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780813223000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:87840e6d-dbd7-4d75-8c8f-875bc8946ef0",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Site Controller Software Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/272615",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780813221000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:0606524d-078f-47d6-8447-f7842723a934",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Vehicle UI Development",
-   "url": "https://www.tesla.com/careers/search/job/270063",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780813290000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:c6ed98e1-2c89-4ee7-b7a3-8e6b72563fc7",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Simulation Platform - Software Engineer",
-   "url": "https://www.tesla.com/careers/search/job/270356",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780813497000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
