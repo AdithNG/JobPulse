@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-15T01:00:07.239Z",
+ "updatedAt": "2026-07-15T04:14:16.005Z",
  "jobs": [
+  {
+   "key": "simplify:a9596af1-37ea-45c6-ba7e-f258dd7b9350",
+   "company": "Varian",
+   "title": "Data Engineer",
+   "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Data-Engineer_R-29114-1",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784077741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784088855282
+  },
   {
    "key": "simplify:d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
    "company": "Ignite Digital Services",
@@ -5831,27 +5850,6 @@
    "score": 16,
    "matchedWords": [
     "cloud"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:f023b068-443c-4a3f-a999-a2a15a39b368",
-   "company": "ByteDance",
-   "title": "Graduate Software Engineer - Inference Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7556439896494754066/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780438751000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
    ],
    "firstSeen": 1782957145466
   }
