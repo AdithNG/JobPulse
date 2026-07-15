@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-07-14T23:34:16.723Z",
+ "updatedAt": "2026-07-15T01:00:07.239Z",
  "jobs": [
+  {
+   "key": "simplify:d7042ff9-73e7-4c5a-bc41-551e7b2533b7",
+   "company": "Ignite Digital Services",
+   "title": "Engineer/Scientist Intern",
+   "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008",
+   "locations": [
+    "Chesapeake, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784071624000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784077206602
+  },
+  {
+   "key": "simplify:0acde240-8d95-48ba-9f67-ea228b4cbb22",
+   "company": "Formlabs",
+   "title": "Test Software Intern",
+   "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784071798000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784077206602
+  },
+  {
+   "key": "simplify:cec7ea72-fd1c-4f5e-94e4-3d0650cf934b",
+   "company": "Ignite Digital Services",
+   "title": "Engineer/Scientist 1",
+   "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5343803008",
+   "locations": [
+    "Chesapeake, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784071874000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784077206602
+  },
+  {
+   "key": "simplify:32671d23-475d-488c-a8ca-48ba428e3c3a",
+   "company": "Esri",
+   "title": "Software Development Engineer 1 - Agentic AI - Arcgis Enterprise",
+   "url": "https://www.esri.com/careers/5186832007?gh_jid=5186832007",
+   "locations": [
+    "West Redlands, Redlands, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784071843000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784077206602
+  },
   {
    "key": "simplify:5735479a-0db8-4cb4-b4d1-faf8deb278c3",
    "company": "Google",
@@ -5771,90 +5847,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780438751000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
-   "company": "ByteDance",
-   "title": "Software Engineer Graduate - Inference Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7556509698578663687/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780438697000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ab5425fe-34cf-4b24-ace3-73fdb7eb3b44",
-   "company": "SpaceX",
-   "title": "Software Engineer - Test Infrastructure - Application Software",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8585072002",
-   "locations": [
-    "West Athens, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781053741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:1941cf58-d377-4f13-8d66-ee6d978d4f5a",
-   "company": "Tesla",
-   "title": "Frontend Software Engineer - Infrastructure",
-   "url": "https://www.tesla.com/careers/search/job/274330",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781822385000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:2da60465-c35e-418c-ba70-4bdf052f70b7",
-   "company": "Palantir",
-   "title": "Software Engineer New Grad - Production Infrastructure",
-   "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782772239000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 16,
