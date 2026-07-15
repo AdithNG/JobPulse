@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-07-15T22:15:26.544Z",
+ "updatedAt": "2026-07-15T23:25:23.242Z",
  "jobs": [
+  {
+   "key": "simplify:1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
+   "company": "The Trade Desk",
+   "title": "Software Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
+   "locations": [
+    "Seattle, WA",
+    "Irvine, CA",
+    "Bellevue, WA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784155264000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:135813b2-fa17-4721-a9c8-af93c8895b2a",
+   "company": "Clera",
+   "title": "Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/clera/362f083b-b694-47c4-82db-7f885d338690/application?embed=true",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784153524000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:38c31d17-1f58-4475-945b-9f073f5b3fe8",
+   "company": "Voltus",
+   "title": "Software Engineer",
+   "url": "https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784153524000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:c3a35352-dd95-4e1d-8d8e-3e3638f11467",
+   "company": "Wyetech",
+   "title": "Software Engineer 1",
+   "url": "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784153161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:e79aefdd-a0ab-47c7-8139-2d34c1e2b4a5",
+   "company": "The Boeing Company",
+   "title": "Entry Level Support Engineering Data Specialist",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Support-Engineering-Data-Specialist--Associate-_JR2026517149-1",
+   "locations": [
+    "Tukwila, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784154963000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:b52bcc7e-bf47-4695-99c3-7e6f6e09542f",
+   "company": "Torch Technologies",
+   "title": "Entry Level Engineer/Analyst",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Engineer-Analyst_R1395",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784155160000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:6b4c5fd7-4db2-478d-bed5-063080af9fc8",
+   "company": "WellSky",
+   "title": "Product Analyst - Healthcare Platform",
+   "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Product-Analyst---Healthcare-Platform_JR4813",
+   "locations": [
+    "Overland Park, KS"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784154963000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
+  {
+   "key": "simplify:353a0a1c-6ce4-40d5-a59f-8bb29fbacee9",
+   "company": "Vytalize Health",
+   "title": "Associate Data Engineer",
+   "url": "https://jobs.ashbyhq.com/Vytalize%20Health/3576b087-709e-4bf0-a016-6cc1c24b802c/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784154244000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784157922655
+  },
   {
    "key": "simplify:74127152-f238-47ca-b3b4-df49a5135001",
    "company": "Cerebras",
@@ -5680,158 +5834,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:16524a29-d4d9-4586-8450-b373b50ae311",
-   "company": "GE Vernova",
-   "title": "Change Management Engineer - Controls Engineer",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Change-Management---Controls-Engineer_R5045878-1",
-   "locations": [
-    "Greenville, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782960910000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:4c5e215e-0cb9-4fe9-96f8-e3144750e300",
-   "company": "Deloitte",
-   "title": "AI and Data Science Engineer",
-   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Palantir-AI-and-Data-Science-Engineer/357597",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782960854000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:4126dfc9-f400-4a64-a3e7-1373338d3289",
-   "company": "Trane Technologies",
-   "title": "Application Engineer 1",
-   "url": "https://careers.tranetechnologies.com/global/en/job/JR-8943",
-   "locations": [
-    "Fort Smith, AR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782960522000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:76f71978-498c-4056-9c97-c822a125cc6f",
-   "company": "Pennsylvania State University",
-   "title": "Computer Science and Engineering Researcher",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2",
-   "locations": [
-    "State College, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782960356000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:5c520aff-46ae-4816-86db-f0e15f726997",
-   "company": "Electronic Arts",
-   "title": "Rendering Software Engineer Intern",
-   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Software-Engineer-Intern-Fall-2026/210865",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780439528000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782958124473
-  },
-  {
-   "key": "simplify:315a995c-68f2-421b-a0f3-fb06cfb4fd63",
-   "company": "Genuine Parts Company",
-   "title": "Motion Automation Intelligence-Application Engineer",
-   "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Eden-Prairie-MN-USA/Motion-Ai--Senior-Application-Engineer_R25_0000033573",
-   "locations": [
-    "Eden Prairie, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782957421000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782958124473
-  },
-  {
-   "key": "simplify:564176c6-4df9-4388-9981-5734c8cb5bff",
-   "company": "Leidos",
-   "title": "Junior Software Developer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Developer_R-00179871",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782957031000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782958124473
-  },
-  {
-   "key": "simplify:3269d503-bd18-4d81-adef-c0e31d44d822",
-   "company": "Sysco",
-   "title": "Associate Web Developer - NET",
-   "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Edward-Don--Company---Woodridge---IL/Associate-Web-Developer--Net-_R253464",
-   "locations": [
-    "Woodridge, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782955982000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782958124473
   }
  ]
 }
