@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-15T08:59:53.124Z",
+ "updatedAt": "2026-07-15T11:00:30.166Z",
  "jobs": [
+  {
+   "key": "simplify:0d4ef954-ada4-4373-b140-31c73052bdf4",
+   "company": "KBR",
+   "title": "Junior Systems Engineer - Digital Engineering Infrastructure",
+   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Infrastructure-_R2125984",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784104882000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1784113229514
+  },
+  {
+   "key": "simplify:b638e646-a8c7-484b-9b2b-51e2b939e5c6",
+   "company": "Faros AI",
+   "title": "Software Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784107079000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784113229514
+  },
+  {
+   "key": "simplify:c46d2cc8-7f2c-4f61-aecc-a772d5b62fe3",
+   "company": "Faros AI",
+   "title": "Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/faros-ai/842a6e50-4050-4d7d-99f0-b9272c76cf43/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784107441000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784113229514
+  },
+  {
+   "key": "simplify:5164ca1e-9a08-4913-8e3c-322ddd5352b6",
+   "company": "Ferrovial",
+   "title": "Traffic and Revenue Engineer",
+   "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR18294",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784110111000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784113229514
+  },
   {
    "key": "simplify:7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
    "company": "Cloudflare",
@@ -5759,91 +5837,6 @@
    "matchedWords": [
     "cloud",
     "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:53afcb81-1e2e-483f-a749-45c014336327",
-   "company": "ByteDance",
-   "title": "Graduate Software Engineer - Cloud Native Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7538951609075271943/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780449015000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 23,
-   "matchedWords": [
-    "cloud",
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:7df6766d-b43b-464c-a03e-68387c5ffb37",
-   "company": "Rippling",
-   "title": "Software Engineer Intern - Backend Focused",
-   "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780698556000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:ef93f09e-4c86-4564-b611-d55ba2cf4134",
-   "company": "PacificSource",
-   "title": "Backend Software Developer 1",
-   "url": "https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Springfield-OR/Backend-Software-Developer-I_2026-676",
-   "locations": [
-    "Springfield, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782858256000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:14f15f8c-4d06-416b-ae40-d498a8e4b07c",
-   "company": "Censys",
-   "title": "Software Engineer - Backend - Core Services",
-   "url": "https://job-boards.greenhouse.io/censys/jobs/8500307002",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782772562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
    ],
    "firstSeen": 1782957145466
   }
