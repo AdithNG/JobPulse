@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-15T14:23:17.321Z",
+ "updatedAt": "2026-07-15T16:06:03.501Z",
  "jobs": [
+  {
+   "key": "simplify:74127152-f238-47ca-b3b4-df49a5135001",
+   "company": "Cerebras",
+   "title": "Software Engineer - Tools & Infrastructure / DevOps",
+   "url": "https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784127961000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1784131562670
+  },
+  {
+   "key": "simplify:27bc7565-972b-4dff-a2b6-d86296a62c88",
+   "company": "Copart",
+   "title": "Software Engineer Intern",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784125268000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784131562670
+  },
+  {
+   "key": "simplify:1b9a36a2-6f07-4938-983a-19a711787c74",
+   "company": "Rainmaker",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784125154000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784131562670
+  },
+  {
+   "key": "simplify:a4848b4c-f20b-4b74-93ca-64fd316ffe97",
+   "company": "LeoLabs",
+   "title": "Data Engineer",
+   "url": "https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784125264000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784131562670
+  },
   {
    "key": "simplify:9f8cf1af-90e3-46c9-b825-c902ce5bdddf",
    "company": "KBR",
@@ -5754,88 +5832,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1782958124473
-  },
-  {
-   "key": "simplify:2306c8cb-5299-4e79-9eb0-b728d55ed1ca",
-   "company": "Salesforce",
-   "title": "Software Engineering MTS - Salesforce Engineer",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782956023000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782958124473
-  },
-  {
-   "key": "simplify:ab02ee55-a577-453a-bb9f-7cd2320ae755",
-   "company": "WebFX",
-   "title": "Junior Backend Software Engineer - Nutshell CRM - AWS & React Native",
-   "url": "https://jobs.lever.co/webfx/497bb548-b7d7-4aff-b87b-da9dcc8fbcc8/apply",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781735844000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 31,
-   "matchedWords": [
-    "aws",
-    "backend"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "gh:affirm:7485068003",
-   "company": "Affirm",
-   "title": "Software Engineer, Early Career",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003",
-   "locations": [
-    "San Francisco, California, United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781796467000,
-   "source": "Affirm careers (greenhouse)",
-   "fromAtsBoard": true,
-   "score": 30,
-   "matchedWords": [],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:788a250d-5057-4584-ba08-4aece01fb4c1",
-   "company": "ByteDance",
-   "title": "Software Engineer Graduate - Cloud Native Infrastructure - BS/MS",
-   "url": "https://jobs.bytedance.com/en/position/7540437283565848850/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780438697000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 23,
-   "matchedWords": [
-    "cloud",
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
   }
  ]
 }
