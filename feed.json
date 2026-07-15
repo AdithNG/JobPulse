@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-15T06:33:10.587Z",
+ "updatedAt": "2026-07-15T08:59:53.124Z",
  "jobs": [
+  {
+   "key": "simplify:7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
+   "company": "Cloudflare",
+   "title": "Software Engineer Intern",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784099881000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1784105992151
+  },
+  {
+   "key": "simplify:085793b3-9e21-48f8-9900-26508af2957c",
+   "company": "Fundamental Research Labs",
+   "title": "Research Engineer",
+   "url": "https://jobs.ashbyhq.com/fundamentalresearchlabs/8d460b28-233d-4305-a708-cf547ec3285e/application?embed=true",
+   "locations": [
+    "Menlo Park, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784096641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784105992151
+  },
+  {
+   "key": "simplify:ec6787f1-d9ad-4f43-b1cd-83f7db32213b",
+   "company": "X Development",
+   "title": "Machine Learning Engineer - Tapestry",
+   "url": "https://x.company/careers/8633983002?gh_jid=8633983002",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784099881000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784105992151
+  },
+  {
+   "key": "simplify:189e6612-61ee-4e53-bbbf-55a23596ef33",
+   "company": "T-Mobile",
+   "title": "Associate Engineer - Multiple Teams",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--Software---Agentic-AI-Engineering---Network_REQ360354",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784100037000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784105992151
+  },
   {
    "key": "simplify:a9596af1-37ea-45c6-ba7e-f258dd7b9350",
    "company": "Varian",
@@ -5766,90 +5844,6 @@
    "score": 21,
    "matchedWords": [
     "backend"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:87b3e2e9-6e48-46cf-a3ad-0144480aaea6",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/275558",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782944931000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 18,
-   "matchedWords": [
-    "distributed"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:308cebd0-af4e-4e6f-8da2-0a9a58a1182f",
-   "company": "Tesla",
-   "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
-   "url": "https://www.tesla.com/careers/search/job/267005",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780795464000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:f224e9c0-6aa1-45bb-b02c-b75ccda9b00c",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - AI Data Infrastructure",
-   "url": "https://www.tesla.com/careers/search/job/269829",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780814384000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
-   "company": "Cloudflare",
-   "title": "Systems Engineer – Data Residency Intern - Global Resource Management",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8015230",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782945471000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 16,
-   "matchedWords": [
-    "cloud"
    ],
    "firstSeen": 1782957145466
   }
