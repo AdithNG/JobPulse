@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-15T11:00:30.166Z",
+ "updatedAt": "2026-07-15T12:23:11.443Z",
  "jobs": [
+  {
+   "key": "simplify:9f8cf1af-90e3-46c9-b825-c902ce5bdddf",
+   "company": "KBR",
+   "title": "Junior Systems Engineer - Digital Engineering Methodology",
+   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Methodology-_R2125985-1",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784113638000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784118190585
+  },
   {
    "key": "simplify:0d4ef954-ada4-4373-b140-31c73052bdf4",
    "company": "KBR",
@@ -5801,28 +5820,6 @@
    "company": "ByteDance",
    "title": "Software Engineer Graduate - Cloud Native Infrastructure - BS/MS",
    "url": "https://jobs.bytedance.com/en/position/7540437283565848850/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1780438697000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 23,
-   "matchedWords": [
-    "cloud",
-    "infrastructure"
-   ],
-   "firstSeen": 1782957145466
-  },
-  {
-   "key": "simplify:1fbda922-46f7-467c-92fd-f4b3ee1dc2fd",
-   "company": "ByteDance",
-   "title": "Software Engineer Graduate - Cloud Native Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7540430373219977479/detail",
    "locations": [
     "Seattle, WA"
    ],
