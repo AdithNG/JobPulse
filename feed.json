@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-16T09:04:14.168Z",
+ "updatedAt": "2026-07-16T11:12:07.322Z",
  "jobs": [
+  {
+   "key": "simplify:38f5e07d-e077-4145-ace5-85e4eb815a92",
+   "company": "AllianceBernstein",
+   "title": "Developer - Wealth Planning Tools - Wealth Forecasting System",
+   "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2",
+   "locations": [
+    "Nashville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1781907841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784200326486
+  },
   {
    "key": "simplify:3aa50c82-9381-4d06-bbd0-5f063ed38312",
    "company": "Microsoft",
@@ -5808,25 +5827,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782966781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:ae2ced0f-f2e0-45de-9937-89deb69a3565",
-   "company": "Apple",
-   "title": "Software Engineer-Systems",
-   "url": "https://jobs.apple.com/en-us/details/200669153",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782972901000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
