@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-16T15:09:37.282Z",
+ "updatedAt": "2026-07-16T16:42:35.173Z",
  "jobs": [
+  {
+   "key": "simplify:6452af52-4f5e-468d-8fb2-34baca8a9840",
+   "company": "Commvault",
+   "title": "Entry-Level Software Engineer - AI/ML",
+   "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008",
+   "locations": [
+    "Shrewsbury, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784215678000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784220154455
+  },
+  {
+   "key": "simplify:67b263fd-9197-4c3c-bcf7-fdf6ef1c0343",
+   "company": "General Dynamics",
+   "title": "Engineer 1/2 - Communication Systems",
+   "url": "https://careers-gdeb.icims.com/jobs/19807/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Groton, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784215521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784220154455
+  },
+  {
+   "key": "simplify:72c67b39-d84c-46b6-b7b6-e9e97c47087d",
+   "company": "L3Harris Technologies",
+   "title": "Software Engineering Associate",
+   "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors",
+   "locations": [
+    "Palm Bay, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784215824000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784220154455
+  },
   {
    "key": "simplify:117c2f2b-e16b-44db-b634-e9cb1579b304",
    "company": "Solar Turbines",
@@ -5769,64 +5826,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782966222000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:c3dea2d7-279c-4e0e-bda1-9787607a3028",
-   "company": "RTX",
-   "title": "Research Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/XMLNAME-2026-Research-Engineer-I---Arlington--VA---Cambridge--MA---Hybrid_01855555",
-   "locations": [
-    "Cambridge, MA",
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782966065000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:88f7093d-cc55-4bbe-889a-fe246a426404",
-   "company": "Ohio State University",
-   "title": "Biomedical Engineering Research Technician",
-   "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Senior-Technician_R153428",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782967400000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:2d211cf5-7727-4985-9a34-6afd5a6ea8f9",
-   "company": "Citi",
-   "title": "Junior Applications Developer - Programmer Analyst",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782966781000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
