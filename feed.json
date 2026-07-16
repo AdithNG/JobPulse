@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-16T06:40:11.099Z",
+ "updatedAt": "2026-07-16T09:04:14.168Z",
  "jobs": [
+  {
+   "key": "simplify:3aa50c82-9381-4d06-bbd0-5f063ed38312",
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784190873000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784192653307
+  },
   {
    "key": "simplify:4deda6be-a646-425e-9411-9a86903827d1",
    "company": "ICF International",
@@ -5808,25 +5827,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782972901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:0ad7f4c0-4ab8-4bed-8204-15a557a79c1e",
-   "company": "Apple",
-   "title": "Darwin Runtime Engineer - Core OS",
-   "url": "https://jobs.apple.com/en-us/details/200668853",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782972543000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
