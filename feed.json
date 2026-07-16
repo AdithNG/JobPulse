@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-15T23:25:23.242Z",
+ "updatedAt": "2026-07-16T01:00:58.852Z",
  "jobs": [
+  {
+   "key": "simplify:b31743bd-7fcf-42a4-aca1-0e6146dfb105",
+   "company": "Old Mission",
+   "title": "Software Engineer Intern",
+   "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784157861000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784163658141
+  },
+  {
+   "key": "simplify:8f12319d-baff-4b24-b854-a8c4433d3c14",
+   "company": "The Brattle Group",
+   "title": "Data and AI Engineer",
+   "url": "https://job-boards.greenhouse.io/thebrattlegroup/jobs/4713471005",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784157661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784163658141
+  },
+  {
+   "key": "simplify:56d69755-6c4e-43bf-8e66-eda652410a6c",
+   "company": "Ensono",
+   "title": "Associate Machine Learning AI Engineer",
+   "url": "https://ensono.com/company/careers/jobs-board/?gh_jid=4711789005",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784157353000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784163658141
+  },
   {
    "key": "simplify:1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
    "company": "The Trade Desk",
@@ -5775,65 +5832,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:94553853-01a8-4ae7-8aff-21e02d826aa5",
-   "company": "Adobe",
-   "title": "Software Development Engineer 2",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781775165000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:768e4d7c-d1fc-4490-94ba-51a4efdf2cb3",
-   "company": "PNC Financial Services",
-   "title": "Associate Software Engineer - Test",
-   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Associate-Software-Engineer---Test_R221948-1",
-   "locations": [
-    "Birmingham, AL",
-    "Dallas, TX",
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782138166000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
-  },
-  {
-   "key": "simplify:a486f855-def5-4be3-91d3-fcffc8d842ae",
-   "company": "CACI",
-   "title": "Data Scientist for Analytics - Engineer/Scientist Support",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Scientist-for-Analytics--Engineer-Scientist-Support-_328426",
-   "locations": [
-    "Norco, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782961023000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782961958066
   }
  ]
 }
