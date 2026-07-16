@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-16T01:00:58.852Z",
+ "updatedAt": "2026-07-16T04:20:24.010Z",
  "jobs": [
+  {
+   "key": "simplify:4deda6be-a646-425e-9411-9a86903827d1",
+   "company": "ICF International",
+   "title": "Associate ServiceNow Developer",
+   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-ServiceNow-Developer--Secret-Clearance-Required-_R2602450",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784164758000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784175623026
+  },
   {
    "key": "simplify:b31743bd-7fcf-42a4-aca1-0e6146dfb105",
    "company": "Old Mission",
@@ -5808,25 +5827,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782972543000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:f1a07716-de8a-4033-9d52-d72b1cb408f7",
-   "company": "Northrop Grumman",
-   "title": "Cyber Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Cyber-Software-Engineer---Level-1-2_R10238442",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782961755000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
