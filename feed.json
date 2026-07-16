@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-16T12:53:32.117Z",
+ "updatedAt": "2026-07-16T15:09:37.282Z",
  "jobs": [
+  {
+   "key": "simplify:117c2f2b-e16b-44db-b634-e9cb1579b304",
+   "company": "Solar Turbines",
+   "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
+   "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784206248000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784214576696
+  },
+  {
+   "key": "simplify:d45acc1f-f48c-4f62-8dd2-171e5665c943",
+   "company": "Road Runner",
+   "title": "Junior Applications Engineer",
+   "url": "https://wd1.myworkdaysite.com/en-US/recruiting/rrts/careers/job/Downers-Grove-IL/Junior-Applications-Engineer_R0002296-2",
+   "locations": [
+    "Downers Grove, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784205461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784214576696
+  },
+  {
+   "key": "simplify:1f641045-f717-4a41-9a0a-20d4a4e5092b",
+   "company": "Solar Turbines",
+   "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
+   "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784210580000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784214576696
+  },
   {
    "key": "simplify:38f5e07d-e077-4145-ace5-85e4eb815a92",
    "company": "AllianceBernstein",
@@ -5764,63 +5821,6 @@
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294",
    "locations": [
     "Jacksonville, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782966781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:c93b9c62-cd0a-4bd8-96be-17be52390763",
-   "company": "Northrop Grumman",
-   "title": "ServiceNow Developer - T1/ T2",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/ServiceNow-Developer--T1--T2---15066---Roy-Utah_R10238182",
-   "locations": [
-    "Hill AFB, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782966991000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:8b101998-170d-4443-ad6d-edf8d5105b6f",
-   "company": "Hewlett Packard Enterprise",
-   "title": "Software Engineer",
-   "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770",
-   "locations": [
-    "Westford, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782966781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:9b2981bc-4d32-488b-883d-9bbc37b18840",
-   "company": "Cardinal Health",
-   "title": "Product Engineer",
-   "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Butterfield/Product-Engineer_20182974",
-   "locations": [
-    "El Paso, TX"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
