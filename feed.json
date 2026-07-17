@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-07-17T04:30:57.867Z",
+ "updatedAt": "2026-07-17T07:00:49.562Z",
  "jobs": [
+  {
+   "key": "simplify:5922f002-13a5-421a-835f-d69782f4f801",
+   "company": "Acrisure",
+   "title": "Software Engineer 1",
+   "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871",
+   "locations": [
+    "Uniondale, NY",
+    "Austin, TX",
+    "Grand Rapids, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784269283000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784271648606
+  },
+  {
+   "key": "simplify:fd97851c-d4e9-4a60-838c-e9bc18451bed",
+   "company": "Arlington County VA",
+   "title": "Engineering Support Associate",
+   "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1665",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784268542000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784271648606
+  },
   {
    "key": "simplify:5cb1d020-580f-4457-ad97-f82309db2eca",
    "company": "SpaceX",
@@ -5792,44 +5832,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:35d73839-e8d5-46bd-9d06-9cfafc3a8c62",
-   "company": "TikTok",
-   "title": "Frontend Software Engineer Project Intern - Global CRM",
-   "url": "https://lifeattiktok.com/search/7654431844394322229",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782961023000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:fa7fbaf4-50b2-4148-af69-22df652b6fd5",
-   "company": "Palantir",
-   "title": "Forward Deployed Software Engineer Intern - Intel",
-   "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89/apply",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782965441000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1782980819592
   }
  ]
