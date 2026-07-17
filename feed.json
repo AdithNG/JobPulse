@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-17T14:10:26.592Z",
+ "updatedAt": "2026-07-17T15:43:07.768Z",
  "jobs": [
+  {
+   "key": "simplify:177af578-19a1-428a-8acb-184beaa3cf9e",
+   "company": "Motorola",
+   "title": "Software Engineering",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering_R66217",
+   "locations": [
+    "Plantation, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784298241000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784302986921
+  },
   {
    "key": "simplify:477e4909-9fa1-4e10-a7cc-bdc0526bc2a2",
    "company": "Alkami Technology",
@@ -5805,25 +5824,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1780477806000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782990744605
-  },
-  {
-   "key": "simplify:08acace2-9fd1-4285-8c6b-4ae9d8803e29",
-   "company": "RTX",
-   "title": "Digital Product Configuration Management Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/XMLNAME-2026-Raytheon-Full-Time-Digital-Product-Configuration-Management-Engineer-I--Onsite-_01855446",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782981129000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
