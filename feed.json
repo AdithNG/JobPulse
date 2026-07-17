@@ -1,6 +1,276 @@
 {
- "updatedAt": "2026-07-16T23:39:40.454Z",
+ "updatedAt": "2026-07-17T01:13:02.331Z",
  "jobs": [
+  {
+   "key": "simplify:5cb1d020-580f-4457-ad97-f82309db2eca",
+   "company": "SpaceX",
+   "title": "Software Engineer - Test Infrastructure - C/C++",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8637049002",
+   "locations": [
+    "West Athens, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784240641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:da57bdc2-8679-4ce5-a046-ae2d4ab54823",
+   "company": "Formlabs",
+   "title": "Algorithms Software Intern",
+   "url": "https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242084000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:a0a6c7de-12fb-4e52-93f3-86d62a5a9b19",
+   "company": "Formlabs",
+   "title": "AI Software Intern",
+   "url": "https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242084000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:8c876217-e8c7-4d37-9703-ecd3485077ae",
+   "company": "Torch Technologies",
+   "title": "Software Engineer Intern",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784241364000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:09855ad6-f11c-4939-b41a-39ff8df98ee6",
+   "company": "Chevron Corporation",
+   "title": "Software Engineer Intern - Information Technology - Software Engineer",
+   "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784240310000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:668cc2ce-ddbc-4d16-9c40-c27e83c81d93",
+   "company": "Western Digital",
+   "title": "Software Engineering Co-op",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138184309",
+   "locations": [
+    "Rochester, MN"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784239882000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:107d51de-17ca-4680-96a1-a86848cc5ca9",
+   "company": "Esri",
+   "title": "Web Developer 1 - UI for Arcgis Enterprise",
+   "url": "https://www.esri.com/careers/5188696007?gh_jid=5188696007",
+   "locations": [
+    "West Redlands, Redlands, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242657000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:59a4a1d2-f693-4878-9ae5-7fea28c4d6e5",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer/Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10240868",
+   "locations": [
+    "Oklahoma City, OK"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242617000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:4920c8bb-024e-4b58-a4b9-58fe968ee612",
+   "company": "Allegion",
+   "title": "Associate Analytics Engineer",
+   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
+   "locations": [
+    "Carmel, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242084000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:a3d1960e-0ff9-4c33-a3c2-30e9652ee2ba",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software-Engineer---Huntsville-AL_R10240672-1",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242419000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:b397dfd4-9a6c-4fbe-a24e-b1130513b7be",
+   "company": "Chevron Corporation",
+   "title": "Information Technology Engineer - Software Engineer",
+   "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
+   "locations": [
+    "Midland, TX",
+    "Houston, TX",
+    "Bakersfield, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784242193000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:efdc29ac-3896-4cea-8dfa-2a4eb0e9929d",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Associate",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784241952000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:ac6dfc8f-7d5b-4f50-8a9a-4add4fa19f6c",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer - Level 2 or 3",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Software-Engineers--Level-2-or-3-_R10240742",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784241956000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
+  {
+   "key": "simplify:294e8c59-e444-4348-a3c1-ff277ced192b",
+   "company": "UTHealth Houston",
+   "title": "Clinical Interface Engineer Associate",
+   "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7371",
+   "locations": [
+    "San Antonio, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784240316000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784250778903
+  },
   {
    "key": "simplify:6452af52-4f5e-468d-8fb2-34baca8a9840",
    "company": "Commvault",
@@ -5557,276 +5827,6 @@
    "sponsorship": "unknown",
    "posted": 1782965441000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:a96e051e-0011-414a-ac15-bede853f8700",
-   "company": "Johnson Controls",
-   "title": "Equipment Systems Application Engineer 1",
-   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Greenville-Wisconsin-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272609",
-   "locations": [
-    "Appleton, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781879102000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:7665ed7d-c986-4890-9c4d-a7b0e2545e12",
-   "company": "Northrop Grumman",
-   "title": "Survivability Engineer - Survivability",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer-Principal-Engineer---Survivability--El-Segundo-CA-_R10237923",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962968000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:dc745eca-150d-4756-8dbf-8e31321a9587",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer 2 - Aht",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Engineer-Level-2--AHT-_R10237979",
-   "locations": [
-    "Northridge, LA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962943000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:c433508a-ffd3-4dbf-a5c3-0aa574c12c6d",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer_R10238169",
-   "locations": [
-    "Palmdale, CA",
-    "San Diego, CA",
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:a9f2a5a2-f500-4dc0-bbdf-bdc9d36d08db",
-   "company": "Northrop Grumman",
-   "title": "Research Software Engineer 1",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Research-Software-Engineer-Level-1_R10237693",
-   "locations": [
-    "Aurora, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:908e39ee-02d0-4835-8810-f81587f5e109",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer - Level 1",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-1_R10238172",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:dac9cae3-0071-42ed-9f63-60609679292f",
-   "company": "Micron Technology",
-   "title": "Engineer New Grad - Thin Films Equipment - Engineer",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/Engineer--Thin-Films-Equipment_JR105007",
-   "locations": [
-    "Manassas, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962512000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:ef94e327-12f8-4e9e-a0b0-5cd804b92e09",
-   "company": "U.S. Bank",
-   "title": "Software Engineer 1 - Mainframe - Cobol",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Brookfield-WI/Software-Engineer-I---Mainframe--Cobol-_2026-0018566",
-   "locations": [
-    "Brookfield, WI",
-    "Hopkins, MN",
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962023000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:c6b88cdf-a082-4483-829d-77d3e106239b",
-   "company": "Leidos",
-   "title": "Software Engineer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782961878000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:939c8fec-74a5-4b4f-8885-23c551df8eca",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-   "url": "https://lifeattiktok.com/search/7515557805312297223",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782961023000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:a4f9ce66-16ae-4d49-ae02-97b49dae5a8b",
-   "company": "Ohio State University",
-   "title": "Applications Developer 1",
-   "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Applications-Developer-1_R154116-1",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:c4339fa8-d8c5-415d-b41a-c6cfea1c7bf8",
-   "company": "Corewell Health",
-   "title": "Business Intelligence Developer",
-   "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Business-Intelligence-Developer_R216565-1",
-   "locations": [
-    "Grand Rapids, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782962462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:5da6cb6c-5d67-4819-ad52-80be74042612",
-   "company": "NVIDIA",
-   "title": "Compiler Engineer New Grad",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782963490000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:f9611d49-1136-49a8-b63f-ea9127d7838b",
-   "company": "Amentum",
-   "title": "Software Programmer Entry Level",
-   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0164277",
-   "locations": [
-    "Tullahoma, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782966222000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
