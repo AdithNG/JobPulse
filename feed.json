@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-17T07:00:49.562Z",
+ "updatedAt": "2026-07-17T09:18:53.738Z",
  "jobs": [
+  {
+   "key": "simplify:2682987d-bc44-43ad-aca5-109801591e78",
+   "company": "Blue Cross Blue Shield of Arizona",
+   "title": "Business Intelligence Developer Medicaid - Level I",
+   "url": "https://bcbsaz.wd1.myworkdayjobs.com/en-US/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Business-Intelligence-Developer-Medicaid---Level-I--Remote-AZ-_R6047",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784278180000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784279933194
+  },
+  {
+   "key": "simplify:1a57c9ec-6a95-47a9-a89b-c29ccdee57d7",
+   "company": "Wash U",
+   "title": "Neuroimaging Engineer - Neurology",
+   "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Neuroimaging-Engineer--Remote----Neurology_JR94536",
+   "locations": [
+    "Jefferson City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784277239000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784279933194
+  },
   {
    "key": "simplify:5922f002-13a5-421a-835f-d69782f4f801",
    "company": "Acrisure",
@@ -5791,48 +5829,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1782990744605
-  },
-  {
-   "key": "simplify:cf5b742b-7660-43e5-969b-f4a57b8b9935",
-   "company": "NVIDIA",
-   "title": "Java Engineer Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782963497000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1782980819592
-  },
-  {
-   "key": "simplify:336cbbc3-eb04-4282-b306-8d4ed5362bec",
-   "company": "State Street",
-   "title": "Full Stack Software Engineer",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Full-Stack-Software-Engineer--Officer_R-793044",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782961023000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1782980819592
   }
  ]
 }
