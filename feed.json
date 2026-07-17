@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-17T11:01:53.265Z",
+ "updatedAt": "2026-07-17T12:19:22.209Z",
  "jobs": [
+  {
+   "key": "simplify:477e4909-9fa1-4e10-a7cc-bdc0526bc2a2",
+   "company": "Alkami Technology",
+   "title": "Software Engineer",
+   "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer_JR-000768",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784288269000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784290761400
+  },
   {
    "key": "simplify:6d7eaee5-c397-4318-a363-1aca5bdb6bde",
    "company": "Formlabs",
@@ -5805,25 +5824,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782981129000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782990744605
-  },
-  {
-   "key": "simplify:18595a95-ff33-450b-8b60-fe45c06bcaa4",
-   "company": "Northrop Grumman",
-   "title": "Autonomy Software Integration and Test Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Autonomy-Software-Integration-and-Test_R10238191",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782982205000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
