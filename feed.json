@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-17T09:18:53.738Z",
+ "updatedAt": "2026-07-17T11:01:53.265Z",
  "jobs": [
+  {
+   "key": "simplify:6d7eaee5-c397-4318-a363-1aca5bdb6bde",
+   "company": "Formlabs",
+   "title": "Supply Chain Operations Software Intern",
+   "url": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784283304000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784286112402
+  },
+  {
+   "key": "simplify:7a47a886-ca29-40ec-abf3-b9c408436dca",
+   "company": "Emerson Electric",
+   "title": "Software Engineer",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007639",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784279341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784286112402
+  },
+  {
+   "key": "simplify:e671d1ed-b76e-49b7-8d2a-81b5e6f9f4ed",
+   "company": "Western & Southern Financial Group",
+   "title": "Software Developer 1",
+   "url": "https://careers-westernsouthern.icims.com/jobs/24908/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784284207000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784286112402
+  },
   {
    "key": "simplify:2682987d-bc44-43ad-aca5-109801591e78",
    "company": "Blue Cross Blue Shield of Arizona",
@@ -5767,63 +5824,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782982205000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782990744605
-  },
-  {
-   "key": "simplify:43c1d1fd-08c0-4d52-b478-2b03c8895b08",
-   "company": "Seagate Technology ",
-   "title": "Wafer Sustaining Engineer 1 - Early Career",
-   "url": "https://seagatecareers.com/job/Bloomington-Wafer-Sustaining-Engineer-I-Early-Career-MN/1356284900/?ats=successfactors",
-   "locations": [
-    "Bloomington, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782982471000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782990744605
-  },
-  {
-   "key": "simplify:617b7d9e-74a5-491a-a658-e4dec4262c68",
-   "company": "Andrew Morgan",
-   "title": "OneStream Developer",
-   "url": "https://andrew-morgan.com/current-openings/?gh_jid=5288472008",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782983507000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1782990744605
-  },
-  {
-   "key": "simplify:c2582b57-89c6-4642-a9f2-b5a0b7e3678a",
-   "company": "Micron Technology",
-   "title": "New College Grad - Product Yield Enhancement Engineer - High Bandwidth Memory",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Product-Yield-Enhancement-Engineer--HBM_JR104805",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782988284000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
