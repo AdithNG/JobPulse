@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-18T06:25:08.862Z",
+ "updatedAt": "2026-07-18T08:23:28.187Z",
  "jobs": [
+  {
+   "key": "simplify:bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7",
+   "company": "Walmart",
+   "title": "Software Engineer 2",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784355722000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784363007398
+  },
   {
    "key": "simplify:1619e24c-542d-4737-9c8d-d2da19828cee",
    "company": "Bot Auto",
@@ -5806,26 +5825,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783041659000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:f1ff7da9-0228-4439-858e-699aad2ebc40",
-   "company": "Visa",
-   "title": "Military Talent Program - Software Engineering Pipeline",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W",
-   "locations": [
-    "Austin, TX",
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783041318000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
