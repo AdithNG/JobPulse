@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-07-18T18:38:48.053Z",
+ "updatedAt": "2026-07-18T19:52:22.084Z",
  "jobs": [
+  {
+   "key": "simplify:09c87d1d-43ad-457b-b3ef-c2d74085e356",
+   "company": "Simpson Strong-Tie",
+   "title": "Software Engineer Associate - Cloud Services & API Platform - C#/Azure track",
+   "url": "https://strongtie.wd1.myworkdayjobs.com/en-US/External/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784401209000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1784404341189
+  },
   {
    "key": "simplify:bdc202da-c93e-413f-ae34-0eb62dc56c07",
    "company": "Amgen",
@@ -5806,26 +5827,6 @@
    "sponsorship": "unknown",
    "posted": 1783042116000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:d3ff5ace-964a-408c-b75f-58756c9ba738",
-   "company": "Visa",
-   "title": "Software Engineer",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1",
-   "locations": [
-    "Austin, TX",
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783041883000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
