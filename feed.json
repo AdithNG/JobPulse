@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-17T23:31:09.381Z",
+ "updatedAt": "2026-07-18T01:02:37.008Z",
  "jobs": [
+  {
+   "key": "simplify:b9eb627c-cc95-42eb-a6d2-f2b33c57b4af",
+   "company": "SpaceX",
+   "title": "Full Stack Software Engineer Observability - Observability - Starlink",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8638457002",
+   "locations": [
+    "West Athens, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784332329000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1784336556078
+  },
+  {
+   "key": "simplify:a4eef38d-ac79-4a0d-9d92-3d515c380d75",
+   "company": "Altera Corporation",
+   "title": "AI Software Development Engineer Intern",
+   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784332293000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784336556078
+  },
+  {
+   "key": "simplify:ddfdefdf-b2dc-4658-94dd-c253366dcb36",
+   "company": "Magnatech",
+   "title": "Associate Developer",
+   "url": "https://magnatech.io/technology-careers/?gh_jid=4716011005",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784332621000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784336556078
+  },
+  {
+   "key": "simplify:edd6aeac-fc67-4167-a57d-6fc4be8c5c17",
+   "company": "CVS Health",
+   "title": "AI Engineer",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/AI-Engineer_R0968098",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784332081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784336556078
+  },
   {
    "key": "simplify:aff3422f-383b-44e6-9d0f-918bc9bc2543",
    "company": "SpaceX",
@@ -5753,82 +5831,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:aec3e3cb-1b29-499e-85f5-1be1da41c842",
-   "company": "Intel",
-   "title": "Data Engineer Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783031924000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783035896255
-  },
-  {
-   "key": "simplify:1294efe4-9bb6-417c-83bc-7da76b87978c",
-   "company": "Bot Auto",
-   "title": "Deep Learning Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783031568000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783035896255
-  },
-  {
-   "key": "simplify:6780854f-d466-4761-a41b-c6932f23f1da",
-   "company": "Leidos",
-   "title": "Software Engineer/Developer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Englewood-CO/Software-Engineer-Developer_R-00186276-1",
-   "locations": [
-    "Cherry Hills Village, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783032254000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783035896255
-  },
-  {
-   "key": "simplify:553c1a91-6942-422b-9b0f-8dbfd4116a9f",
-   "company": "Cotiviti",
-   "title": "Associate Software Engineer",
-   "url": "https://careers-cotiviti.icims.com/jobs/19318/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783031941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783035896255
   }
  ]
 }
