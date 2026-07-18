@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-18T01:02:37.008Z",
+ "updatedAt": "2026-07-18T04:13:54.881Z",
  "jobs": [
+  {
+   "key": "simplify:1619e24c-542d-4737-9c8d-d2da19828cee",
+   "company": "Bot Auto",
+   "title": "Software Engineer - Simulation Systems",
+   "url": "https://job-boards.greenhouse.io/botauto/jobs/5363495008",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784337121000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784348033958
+  },
+  {
+   "key": "simplify:cc405aa1-7c6d-473f-8adf-3bd7354528d5",
+   "company": "Pierre Fabre",
+   "title": "Data Engineer",
+   "url": "https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/USA---Secaucus/Data-Engineer_JR112468",
+   "locations": [
+    "Union City, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784337326000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784348033958
+  },
+  {
+   "key": "simplify:93ee2a52-ab38-49dc-8fdb-327a42940329",
+   "company": "Comcast",
+   "title": "Software Development Engineer",
+   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Development-Engineer_R440794",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784337121000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784348033958
+  },
   {
    "key": "simplify:b9eb627c-cc95-42eb-a6d2-f2b33c57b4af",
    "company": "SpaceX",
@@ -5769,63 +5826,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783041318000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:da5958b1-3c85-4bef-a6ab-9ca1ded957c5",
-   "company": "Visa",
-   "title": "Software Engineer - GenAI - Finance Tech",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer-Austin_REF083267W",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783041121000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:e0be99bd-ffea-49b6-951c-25030dee438d",
-   "company": "Inflection",
-   "title": "Research Engineer - Voice",
-   "url": "https://boards.greenhouse.io/inflectionai/jobs/4681124006",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783042021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:f667aafd-a58e-4445-a974-54d1951d1f59",
-   "company": "Flexport",
-   "title": "Automation Engineer 1",
-   "url": "https://boards.greenhouse.io/flexport/jobs/8015840",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783042242000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
