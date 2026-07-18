@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-18T15:40:58.780Z",
+ "updatedAt": "2026-07-18T16:38:13.739Z",
  "jobs": [
+  {
+   "key": "simplify:bdc202da-c93e-413f-ae34-0eb62dc56c07",
+   "company": "Amgen",
+   "title": "Engineer 1",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Engineer-I_R-242685",
+   "locations": [
+    "Thousand Oaks, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784389652000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784392692925
+  },
+  {
+   "key": "simplify:09b622fc-3724-4b0d-b819-3a5c3d6dfbd2",
+   "company": "Micron Technology",
+   "title": "Engineer – Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375",
+   "locations": [
+    "Leander, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784389141000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784392692925
+  },
   {
    "key": "simplify:bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7",
    "company": "Walmart",
@@ -5787,44 +5825,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783041883000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:e26b2edc-1dbc-4a35-aaff-5c93a013dd1a",
-   "company": "Walmart",
-   "title": "Software Engineer 3",
-   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Software-Engineer-III_R-2558596",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783041820000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783056771323
-  },
-  {
-   "key": "simplify:b31b7881-e6d7-4605-ace6-749d9ebfd5c3",
-   "company": "Visa",
-   "title": "Product Analyst - Generative AI Platform",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Product-Analyst---Generative-AI-Platform_REF080612W",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783041659000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
