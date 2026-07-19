@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-19T08:57:59.100Z",
+ "updatedAt": "2026-07-19T10:40:18.860Z",
  "jobs": [
+  {
+   "key": "simplify:c8945595-20d2-46f8-8647-88f20add37e6",
+   "company": "SpaceX",
+   "title": "Software Engineer - Applied AI - Starlink",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8637712002",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784453221000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784457618041
+  },
   {
    "key": "simplify:a6aaef17-692b-47d3-b343-0592b9b8d586",
    "company": "The Boeing Company",
@@ -5807,25 +5826,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783059123000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783067997864
-  },
-  {
-   "key": "simplify:5b37ce6e-1b4e-4d48-bd5a-a44127328601",
-   "company": "Sono Bello",
-   "title": "Application Developer 2",
-   "url": "https://job-boards.greenhouse.io/sonobello/jobs/5290870008",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783058761000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
