@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-20T12:36:10.224Z",
+ "updatedAt": "2026-07-20T14:57:29.369Z",
  "jobs": [
+  {
+   "key": "simplify:329c34b0-2085-4389-8916-e5acd0bdb164",
+   "company": "KAYAK",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application?embed=true",
+   "locations": [
+    "Concord, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784556901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784559448589
+  },
   {
    "key": "simplify:40cf634e-92e6-4592-983b-7d2595222420",
    "company": "Globus Medical",
@@ -5812,25 +5831,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783077502429
-  },
-  {
-   "key": "simplify:098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
-   "company": "Arlington County VA",
-   "title": "Utility Engineering Intern",
-   "url": "https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1624",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783059020000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783067997864
   }
  ]
 }
