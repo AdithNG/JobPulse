@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-20T14:57:29.369Z",
+ "updatedAt": "2026-07-20T16:39:54.773Z",
  "jobs": [
+  {
+   "key": "simplify:f09f0a56-4999-4d19-afb4-894ea819d401",
+   "company": "GE Healthcare",
+   "title": "Engineering Development Program Intern - Software",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
+   "locations": [
+    "Waukesha, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784559831000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784565594034
+  },
+  {
+   "key": "simplify:ec5d8a02-e212-41b7-beae-22d51584065e",
+   "company": "The Boeing Company",
+   "title": "Entry Level Software Engineer",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1",
+   "locations": [
+    "Hazelwood, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784557997000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784565594034
+  },
   {
    "key": "simplify:329c34b0-2085-4389-8916-e5acd0bdb164",
    "company": "KAYAK",
@@ -5787,45 +5825,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782813601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783077502429
-  },
-  {
-   "key": "simplify:122774c3-e3bb-4ef2-8ca6-8060398c2d9e",
-   "company": "Pennsylvania State University",
-   "title": "Guidance and Control Engineer",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Engineer_REQ_0000070656-2",
-   "locations": [
-    "State College, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783068409000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783077502429
-  },
-  {
-   "key": "simplify:56b688ac-5461-4812-9be2-46a7c60e49be",
-   "company": "Microsoft",
-   "title": "Software Engineer 2 - Foundry Agents - CoreAI",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227",
-   "locations": [
-    "Redmond, WA",
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783069297000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
