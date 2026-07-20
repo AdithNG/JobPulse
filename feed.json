@@ -1,6 +1,143 @@
 {
- "updatedAt": "2026-07-20T21:35:10.525Z",
+ "updatedAt": "2026-07-20T22:38:55.426Z",
  "jobs": [
+  {
+   "key": "simplify:01925f31-564d-4bc0-94fc-2a2717d3132d",
+   "company": "Western Digital",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138727213",
+   "locations": [
+    "Fremont, CA",
+    "Rochester, MN",
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784586270000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
+  {
+   "key": "simplify:25c78c31-7ddc-4133-b614-555627b96299",
+   "company": "AVEVA",
+   "title": "Software Developer Intern Co-op",
+   "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784585610000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
+  {
+   "key": "simplify:2639bb1a-2539-43a1-a08a-7ba213fd2fb6",
+   "company": "KLA Corporation",
+   "title": "Software Engineer",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer_2637811-1",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784585704000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
+  {
+   "key": "simplify:de2c8961-9838-4025-864c-04058434a52e",
+   "company": "Nextech Systems",
+   "title": "Data Engineer",
+   "url": "https://jobs.lever.co/nextech/5f2f3398-12f2-45c2-921e-f22f915e1c15/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784585704000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
+  {
+   "key": "simplify:170d71a3-3702-4153-b3fd-4d73225e3caa",
+   "company": "Western Digital",
+   "title": "Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138717897",
+   "locations": [
+    "Fremont, CA",
+    "Rochester, MN",
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784585161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
+  {
+   "key": "simplify:96951771-a874-48c9-8e96-2512f1ad2c48",
+   "company": "RESPEC",
+   "title": "AI Engineer 1 - Contractor",
+   "url": "https://jobs.smartrecruiters.com/RESPECInc/744000138705239",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784585470000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
+  {
+   "key": "simplify:f71cadfe-dc6d-4908-ab16-8a9bb933bb52",
+   "company": "Cornell University",
+   "title": "AI Engineer",
+   "url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions/job/Ithaca-Main-Campus/AI-Engineer--Temporary-_WDR-00059902",
+   "locations": [
+    "Ithaca, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784584981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784587134479
+  },
   {
    "key": "simplify:f09f0a56-4999-4d19-afb4-894ea819d401",
    "company": "GE Healthcare",
@@ -5693,143 +5830,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783266062892
-  },
-  {
-   "key": "simplify:d5334592-4814-4ea5-a7f1-14bb1ae228ca",
-   "company": "Becton Dickinson",
-   "title": "Commercial Analytics Engineer - Go To Market Analytics",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer---Go-To-Market-Analytics_R-548948-1",
-   "locations": [
-    "Midland Park, NJ",
-    "Vernon Hills, IL",
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783248364000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783253581386
-  },
-  {
-   "key": "simplify:5dd5bac7-36ff-4f7d-9bff-a16346ccfa89",
-   "company": "Verne Robotics",
-   "title": "Engineering Intern",
-   "url": "https://jobs.ashbyhq.com/Verne%20Robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b/application",
-   "locations": [
-    "San Bruno, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783174145000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783176367067
-  },
-  {
-   "key": "simplify:6763db63-2703-4fa3-ba56-026f329dda6e",
-   "company": "Becton Dickinson",
-   "title": "Commercial Analytics Engineer Business Decision Intelligence",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-549477-1",
-   "locations": [
-    "Midland Park, NJ",
-    "Vernon Hills, IL",
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783170299000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783176367067
-  },
-  {
-   "key": "simplify:b1ef56f6-35ca-45ae-a9b7-9b57b95a7b04",
-   "company": "Sitreps",
-   "title": "Implementation Engineer",
-   "url": "https://job-boards.greenhouse.io/sitrepsllc/jobs/4093707009",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783117441000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783121957980
-  },
-  {
-   "key": "simplify:1d83102a-79d5-4b64-af59-494b78508aa7",
-   "company": "Targeted Victory",
-   "title": "Junior AI Engineer",
-   "url": "https://careers-targetedvictory.icims.com/jobs/8008/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783116723000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783121957980
-  },
-  {
-   "key": "simplify:f0b5d4dc-e932-4eb9-a406-003fba8d30b1",
-   "company": "Transcend",
-   "title": "Software Engineer",
-   "url": "https://job-boards.greenhouse.io/transcendinc/jobs/4202502009",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783118521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783121957980
-  },
-  {
-   "key": "simplify:fa3cb7f0-6412-49af-b445-fe376d338128",
-   "company": "Inova",
-   "title": "Epic Community Connect BI Developer",
-   "url": "https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/676305",
-   "locations": [
-    "Fairfax, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782813601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783077502429
   }
  ]
 }
