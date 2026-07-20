@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-20T04:11:37.796Z",
+ "updatedAt": "2026-07-20T07:33:11.141Z",
  "jobs": [
+  {
+   "key": "simplify:40cf634e-92e6-4592-983b-7d2595222420",
+   "company": "Globus Medical",
+   "title": "Associate Software Engineer",
+   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784527742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784532790149
+  },
   {
    "key": "simplify:c8945595-20d2-46f8-8647-88f20add37e6",
    "company": "SpaceX",
@@ -5808,25 +5827,6 @@
    "sponsorship": "unknown",
    "posted": 1783059020000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783067997864
-  },
-  {
-   "key": "simplify:45f6e525-5b17-4b57-9958-20605eb69c47",
-   "company": "Zscaler",
-   "title": "Software Development Engineer",
-   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177411007",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783059123000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
