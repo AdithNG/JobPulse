@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-21T22:40:59.551Z",
+ "updatedAt": "2026-07-21T23:42:43.192Z",
  "jobs": [
+  {
+   "key": "simplify:04b12d83-7012-4bc9-b2c2-f3fea47e301b",
+   "company": "Ciena",
+   "title": "Enterprise Integration Developer",
+   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/Enterprise-Integration-Developer_R030725",
+   "locations": [
+    "Baltimore, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784664542000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784677362408
+  },
   {
    "key": "simplify:684c7d2c-b34e-4cf6-95e4-d11be0cc5565",
    "company": "Littelfuse",
@@ -5811,27 +5830,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783550569000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:acf78218-ae13-4623-950b-916366d02693",
-   "company": "Jump Trading",
-   "title": "AI Research Engineer - Research Automation",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8052356",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550567000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 14,
