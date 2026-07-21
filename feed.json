@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-07-20T23:41:19.506Z",
+ "updatedAt": "2026-07-21T01:11:19.102Z",
  "jobs": [
+  {
+   "key": "simplify:b67c806f-262a-4ec2-8ed1-de44ffbca035",
+   "company": "Google",
+   "title": "Software Engineer Intern - MS",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
+   "locations": [
+    "Palo Alto, CA",
+    "Cambridge, MA",
+    "Madison, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784591882000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784596278562
+  },
+  {
+   "key": "simplify:820400f1-d2e5-43b3-94b0-c8913692b46a",
+   "company": "Google",
+   "title": "Software Engineer Intern",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
+   "locations": [
+    "Palo Alto, CA",
+    "Cambridge, MA",
+    "Madison, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784591853000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784596278562
+  },
   {
    "key": "simplify:5fdbf0e9-e98a-4251-b983-801d494ae586",
    "company": "Chicago Trading Company",
@@ -5790,45 +5832,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783376645000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783377550744
-  },
-  {
-   "key": "simplify:037965da-859d-4532-a3b3-45dc8fd6220f",
-   "company": "Amentum",
-   "title": "Entry Level Software Engineer",
-   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
-   "locations": [
-    "Fredericksburg, VA",
-    "Dahlgren, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783376641000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783377550744
-  },
-  {
-   "key": "simplify:c4af7370-f86a-400a-b34e-5235aa8c49d8",
-   "company": "Tesla",
-   "title": "Applied Reinforcement Learning Engineer - Whole Body Controls - Optimus",
-   "url": "https://www.tesla.com/careers/search/job/276000",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783376638000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
