@@ -1,6 +1,165 @@
 {
- "updatedAt": "2026-07-21T18:56:02.686Z",
+ "updatedAt": "2026-07-21T20:22:52.593Z",
  "jobs": [
+  {
+   "key": "simplify:3b6ae373-3a19-4ff6-98d5-02c593359a00",
+   "company": "Travelers",
+   "title": "Data Engineer 1 - Aws - Databricks",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784661496000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 19,
+   "matchedWords": [
+    "aws"
+   ],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:373ffa0d-6efb-4fdc-9e34-45018a822f3d",
+   "company": "NVIDIA",
+   "title": "Compiler Engineer New Grad - Infrastructure",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228",
+   "locations": [
+    "Austin, TX",
+    "Remote in USA",
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784662640000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:01ae98fa-826d-40b3-990a-3254933cd747",
+   "company": "Axon",
+   "title": "Software Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784662669000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:ab31b2e7-d70c-4b00-9f94-375767675a53",
+   "company": "The Boeing Company",
+   "title": "Modernization Software Engineer – Associate or Mid-Level",
+   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026519283-1",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784652302000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:3308ac34-523a-4204-824a-4cbe54e395b0",
+   "company": "Leidos",
+   "title": "Radar Sustainment Engineer - System Model Development",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Sustainment-Engineer---System-Model-Development_R-00187367",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784661313000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:c51c2471-daca-4788-9be1-bbcafa9e02c0",
+   "company": "General Dynamics",
+   "title": "Configuration and Logistics Data Analyst 1 - Engineering",
+   "url": "https://careers-gdbiw.icims.com/jobs/5255/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Brunswick, ME"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784663049000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:09196c2e-4267-4ca4-b899-14fa16e52c59",
+   "company": "Akamai Technologies",
+   "title": "Software Engineer",
+   "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784662880000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784665371450
+  },
+  {
+   "key": "simplify:315c6fae-a358-463d-b03c-942573ef4064",
+   "company": "Westinghouse Electric Company",
+   "title": "Nuclear Analysis Tech C / Engineering Techs / Physics Techs",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Techs-Physics-Techs-NC/1408720900/?ats=successfactors",
+   "locations": [
+    "Grove City, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784653742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784665371450
+  },
   {
    "key": "simplify:274aa428-8769-4ec7-ab3b-c7010c375afe",
    "company": "CACI",
@@ -5680,163 +5839,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:db2cd78b-7860-4653-a5d8-b6b7bd4a13dc",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer 1 or 2",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239507",
-   "locations": [
-    "Aurora, CO",
-    "Morrisville, NC",
-    "Fairfax, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550375000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:78a1a51e-7c5a-49ae-909c-fe53612553e2",
-   "company": "Northrop Grumman",
-   "title": "Associate Cyber Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/R10206390-22026-Associate-Cyber-Software-Engineer---Chantilly-VA_R10236425",
-   "locations": [
-    "Chantilly, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550370000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:381814e7-c378-4537-930a-24141fd8ce7c",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer Level 1 or 2",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239388",
-   "locations": [
-    "Aurora, CO",
-    "Morrisville, NC",
-    "Fairfax, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550345000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:7542bd72-3c3b-43b9-ac54-f025b0b56b66",
-   "company": "The Walt Disney Company",
-   "title": "Product Software Engineer 1",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711",
-   "locations": [
-    "Santa Monica, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550188000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:110f48d8-5c60-48c9-ab11-142d1241591f",
-   "company": "Built Technologies",
-   "title": "Software Engineer 1 - Internal Tooling",
-   "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005",
-   "locations": [
-    "Nashville, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550068000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3",
-   "company": "Rakuten International",
-   "title": "Software Engineer Intern",
-   "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783549659000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:470190ee-ee16-489d-95fd-db202e5d869d",
-   "company": "Travelers",
-   "title": "Software Engineer 1 - AI Driven",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AI-Driven-_R-51215",
-   "locations": [
-    "Hartford, CT",
-    "St Paul, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783549625000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:8711cb99-1e0e-45db-a68f-35b89350309e",
-   "company": "NOV",
-   "title": "Sustaining Product Engineer",
-   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42801",
-   "locations": [
-    "Tulsa, OK"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783548905000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
   }
  ]
 }
