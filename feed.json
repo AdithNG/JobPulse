@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-07-21T04:34:41.331Z",
+ "updatedAt": "2026-07-21T07:19:59.603Z",
  "jobs": [
+  {
+   "key": "simplify:3bf33138-afbc-44cb-bca9-b2c0ad54283a",
+   "company": "Pennsylvania State University",
+   "title": "Research and Development Engineer Intern",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000072876-1",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784609824000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
+  {
+   "key": "simplify:3d10b00e-4044-46fa-a6b1-65c1b085e91f",
+   "company": "University of Texas at Austin",
+   "title": "Post-Doctoral Researcher - Cockrell School of Engineering",
+   "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Post-Doctoral-Researcher--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00019690",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784607662000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
+  {
+   "key": "simplify:293396e0-618c-4ed7-b422-86fef88e7f36",
+   "company": "KLA Corporation",
+   "title": "Applications Development Engineer",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer_2532526",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784608383000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
+  {
+   "key": "simplify:a91a327a-440b-4f53-b087-4536d201af26",
+   "company": "Pennsylvania State University",
+   "title": "Research Positions - Nuclear Engineering",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Positions--Nuclear-Engineering_REQ_0000064875-1",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784608416000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
+  {
+   "key": "simplify:39c947cb-0cab-41b0-8056-745f80dc13af",
+   "company": "TD Synnex",
+   "title": "IT Business Systems Engineer - IT Specialist in Business Systems - API Web",
+   "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1",
+   "locations": [
+    "Greenville, SC",
+    "Clearwater, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784611983000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
+  {
+   "key": "simplify:d71c1f64-5215-4992-82d3-923cb945258c",
+   "company": "Travelers",
+   "title": "Software Engineer 1",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-50268",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784616403000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
+  {
+   "key": "simplify:70c0ef41-3b9b-40dc-84cf-e3cb9e43e0a2",
+   "company": "Axos Bank",
+   "title": "Junior Business & Technology Analyst - Application Developer",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Junior-Business---Technology-Analyst---Application-Developer_JR4465",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784612701000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784618398857
+  },
   {
    "key": "simplify:de36e85a-366d-49db-98a9-fb9c3004ef0b",
    "company": "Moon",
@@ -5700,141 +5834,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:438bd6ae-c51c-47cd-8ee5-66dcc7e5bba0",
-   "company": "Comcast",
-   "title": "Junior Software Developer - CDN Operations Engineering",
-   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Software-Development-Engineer---CDN-OpsEng_R440501-1",
-   "locations": [
-    "Cherry Hills Village, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783473256000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:d0aa5e4a-9602-46ff-a906-bcd51900a9a5",
-   "company": "Applied Materials",
-   "title": "Software Engineer 2 – New College Grad",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783473221000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:8271a031-5f9d-416a-9a7f-75c5c821afd7",
-   "company": "Blissway",
-   "title": "Machine Learning Engineer - Machine Learning Engineer",
-   "url": "https://jobs.ashbyhq.com/blissway/662f1761-5d28-421d-8b47-605cc910991d/application",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783473219000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:c46c59e7-80b8-4494-acf4-94ec39d2d300",
-   "company": "EXL",
-   "title": "Data Engineer",
-   "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/16842",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783472942000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4",
-   "company": "GE Healthcare",
-   "title": "Field Engineer 1",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2",
-   "locations": [
-    "El Paso, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783472992000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:c50d6926-df49-4af5-b944-37e8f46f94a7",
-   "company": "Hitachi Energy",
-   "title": "Python Engineer - Early-Career",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Waltham-Massachusetts-United-States/Python-Engineer--Early-Career-_R0134390-1",
-   "locations": [
-    "Waltham, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783463041000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "python"
-   ],
-   "firstSeen": 1783467182568
-  },
-  {
-   "key": "simplify:c397c573-0849-4481-968f-9dd2b5b1ab87",
-   "company": "Schweitzer Engineering Laboratories",
-   "title": "Software Engineering Intern",
-   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720",
-   "locations": [
-    "Round Rock, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783463870000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783467182568
   }
  ]
 }
