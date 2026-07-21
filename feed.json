@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-07-21T17:38:42.843Z",
+ "updatedAt": "2026-07-21T18:56:02.686Z",
  "jobs": [
+  {
+   "key": "simplify:274aa428-8769-4ec7-ab3b-c7010c375afe",
+   "company": "CACI",
+   "title": "Junior Systems Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Systems-Engineer_328922",
+   "locations": [
+    "Springfield, VA",
+    "St. Louis, MO",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784647262000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784660161667
+  },
   {
    "key": "simplify:263f198b-2169-4ff2-bfd5-465b3b33e059",
    "company": "Texas A&M University System",
@@ -5811,25 +5832,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783548905000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:12ee8070-f334-4f78-a421-b5bb89bd1d64",
-   "company": "Comcast",
-   "title": "Assisted Tools Engineer",
-   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Field-Experience-Domain-Engineer_R438012",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783549108000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
