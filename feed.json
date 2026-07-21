@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-07-21T11:55:36.675Z",
+ "updatedAt": "2026-07-21T14:14:07.351Z",
  "jobs": [
+  {
+   "key": "simplify:acf0d0e1-8c4d-46ec-b752-fd7a1e27b611",
+   "company": "Northrop Grumman",
+   "title": "Modeling and Simulation Engineer - Level 2 or 3",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Modeling-and-Simulation-Engineer---Level-2-or-3_R10237626",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784619904000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784643246693
+  },
+  {
+   "key": "simplify:e8cc1f0b-b9c4-4556-9174-cb286c1e23f3",
+   "company": "Baker Tilly",
+   "title": "Associate Data Engineer",
+   "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581",
+   "locations": [
+    "Frisco, TX",
+    "Madison, WI",
+    "Tampa, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784623502000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784643246693
+  },
+  {
+   "key": "simplify:346f07a8-ce10-40ae-b1d9-948c14b7069e",
+   "company": "The Boeing Company",
+   "title": "Systems Engineering",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Springfield-VA/Systems-Engineering--Associate-or-Experienced-_JR2026514487-1",
+   "locations": [
+    "Springfield, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784640062000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784643246693
+  },
   {
    "key": "simplify:c15bfdd3-3e0a-4db0-9aac-d0a6f0027459",
    "company": "Northrop Grumman",
@@ -5775,63 +5834,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783525129300
-  },
-  {
-   "key": "simplify:5158ca83-fadc-46bd-8a9d-7d714853a2c3",
-   "company": "RoadRunner Recycling",
-   "title": "Software Engineer 1 - Full-Stack",
-   "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783521567000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783525129300
-  },
-  {
-   "key": "simplify:49ac286b-0d2a-44df-b39a-c6540778f26a",
-   "company": "NVIDIA",
-   "title": "Performance Engineer Intern - Systems Software",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779",
-   "locations": [
-    "St. Louis, MO"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783503120000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783510764406
-  },
-  {
-   "key": "simplify:8bd70b8f-84a0-45a5-a141-6c12e2d84212",
-   "company": "Northrop Grumman",
-   "title": "Software Development Engineers - Level 2 or 3",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10236310",
-   "locations": [
-    "Dulles, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781373061000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783510764406
   }
  ]
 }
