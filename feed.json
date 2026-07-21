@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-07-21T09:58:26.216Z",
+ "updatedAt": "2026-07-21T11:55:36.675Z",
  "jobs": [
+  {
+   "key": "simplify:c15bfdd3-3e0a-4db0-9aac-d0a6f0027459",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer - Systems - BM/Srm",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Systems--BM-SRM--26-269-_R10235364",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784616304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784634935994
+  },
+  {
+   "key": "simplify:be5d5745-ee84-4ae6-b172-d4332c7a7ef7",
+   "company": "Grand Canyon University",
+   "title": "Image Processing and Computer Vision - Adjunct Faculty - College of Engineering and Technology",
+   "url": "https://gcu.wd1.myworkdayjobs.com/GCU/job/AZ-Phoenix/Image-Processing-and-Computer-Vision---Adjunct-Faculty---Traditional-Campus----Fall-2026----College-of-Engineering-and-Technology_R000066594",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784617742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784634935994
+  },
+  {
+   "key": "simplify:3115293e-b441-44c4-a702-ffbbf8b9ef9e",
+   "company": "Ryder System",
+   "title": "Application Support Engineer 1",
+   "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446",
+   "locations": [
+    "Coral Gables, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784629277000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784634935994
+  },
+  {
+   "key": "simplify:7efb34c1-acda-40fa-b1e8-308f2ae2f6f3",
+   "company": "Torch Technologies",
+   "title": "Junior Engineer/Analyst",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Engineer-Analyst_R1275",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784618461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784634935994
+  },
   {
    "key": "simplify:deae7556-338a-40f3-98fa-3efd925ab57e",
    "company": "Northrop Grumman",
@@ -5756,82 +5832,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783510764406
-  },
-  {
-   "key": "simplify:6233367e-05cb-4a93-bff1-f6acba246d4d",
-   "company": "WVUMedicine",
-   "title": "Systems Analyst Associate - Software Trainer - Inpatient and Outpatient Provider Training",
-   "url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/WVUH-Windwood/Associate-Systems-Analyst---Software-Trainer--Inpatient-and-Outpatient-Provider-Training----Hybrid_JR26-34833",
-   "locations": [
-    "Morgantown, WV"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783503958000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783510764406
-  },
-  {
-   "key": "simplify:a8310416-f49f-453b-98ea-266bb88d01b4",
-   "company": "General Dynamics Information Technology",
-   "title": "Software Developer",
-   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/Software-Developer-TS-SCI-w-Polygraph_RQ207428",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783507531000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783510764406
-  },
-  {
-   "key": "simplify:5cdafd83-dd1b-4e63-8712-e50a41b28317",
-   "company": "Commure",
-   "title": "Forward Deployed Engineer",
-   "url": "https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0/application",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783502101000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783503741924
-  },
-  {
-   "key": "simplify:de82883f-ad2d-473b-974e-08156f207dd9",
-   "company": "Vanguard",
-   "title": "Entry Level Application Engineer",
-   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908",
-   "locations": [
-    "Malvern, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783491664000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783494885014
   }
  ]
 }
