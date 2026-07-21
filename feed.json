@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-21T15:57:32.631Z",
+ "updatedAt": "2026-07-21T17:38:42.843Z",
  "jobs": [
+  {
+   "key": "simplify:263f198b-2169-4ff2-bfd5-465b3b33e059",
+   "company": "Texas A&M University System",
+   "title": "Associate Software Applications Developer 1",
+   "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
+   "locations": [
+    "College Station, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782137654000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784655521979
+  },
+  {
+   "key": "simplify:dfc6abcd-7f1b-4472-abff-5d0f26bab592",
+   "company": "Onto Innovation",
+   "title": "Applications Engineer 3",
+   "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Applications-Engineer-3_R-6211",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784652302000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784655521979
+  },
   {
    "key": "simplify:f6865848-c6d8-4488-a94b-ee21317efaa1",
    "company": "Travelers",
@@ -5792,44 +5830,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783549108000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:2ef54b60-3789-4c6c-9334-f82a476cfc90",
-   "company": "Cincinnati Children’s Hospital and Medical Center",
-   "title": "Application Developer 1 - Power Platform",
-   "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Application-Developer-I--Power-Platform_JR222607",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783548743000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:ceaec01f-9d2c-4c47-a917-add896c628e2",
-   "company": "Wellmark",
-   "title": "Software Engineer",
-   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000136512919",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783548363000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
