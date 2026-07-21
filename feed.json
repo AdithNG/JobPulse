@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-21T07:19:59.603Z",
+ "updatedAt": "2026-07-21T09:58:26.216Z",
  "jobs": [
+  {
+   "key": "simplify:deae7556-338a-40f3-98fa-3efd925ab57e",
+   "company": "Northrop Grumman",
+   "title": "Missile Modeling Infrared - Infrared Plume Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Missile-Modeling-Infrared--IR--Plume-Engineer---Level-2_R10232259",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784614145000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784627905202
+  },
+  {
+   "key": "simplify:e612f074-ef4f-414c-9858-087d37613ed8",
+   "company": "University of Southern California",
+   "title": "Research Engineer 1",
+   "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784621126000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784627905202
+  },
   {
    "key": "simplify:3bf33138-afbc-44cb-bca9-b2c0ad54283a",
    "company": "Pennsylvania State University",
@@ -5794,46 +5832,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783494885014
-  },
-  {
-   "key": "simplify:b043dd73-06f2-4ce6-8f9c-00113656ba29",
-   "company": "Otter.ai",
-   "title": "Software Engineer New Grad - Backend",
-   "url": "https://otter.ai/careers?gh_jid=7798264003",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783473232000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1783485281580
-  },
-  {
-   "key": "simplify:25b15347-192f-44ac-a85d-232632aaa217",
-   "company": "Uhaul",
-   "title": "ETL Developer",
-   "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/ETL-Developer_R247910",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781658721000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783485281580
   }
  ]
 }
