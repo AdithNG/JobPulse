@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-07-21T21:42:27.800Z",
+ "updatedAt": "2026-07-21T22:40:59.551Z",
  "jobs": [
+  {
+   "key": "simplify:684c7d2c-b34e-4cf6-95e4-d11be0cc5565",
+   "company": "Littelfuse",
+   "title": "Intern 1 - Engineering",
+   "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116",
+   "locations": [
+    "Gastonia, NC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784672549000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784673658828
+  },
+  {
+   "key": "simplify:c3f3ab90-4bb8-472e-8014-d03c8539633f",
+   "company": "Exact Sciences",
+   "title": "Automation Engineer 1 - R&D",
+   "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---CA---San-Diego/Automation-Engineer-I--R-D_R26-13732",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784672047000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784673658828
+  },
+  {
+   "key": "simplify:cca94237-baad-4b30-b8db-11bba0c08426",
+   "company": "Duke Energy",
+   "title": "Engineering Design Associate",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Greensboro-NC/Engineering-Design-Associate_R40575",
+   "locations": [
+    "Advance, NC",
+    "Winston-Salem, NC",
+    "Greensboro, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784672067000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784673658828
+  },
   {
    "key": "simplify:e93e54ef-8346-4df2-bd91-dd2a9f14956a",
    "company": "WellSky",
@@ -5779,64 +5838,6 @@
    "matchedWords": [
     "trading"
    ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:8990370a-d091-498f-98bb-082a18262cfa",
-   "company": "Hone Health",
-   "title": "Data Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/honehealth/jobs/5308958008",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550345000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:dc9a39f7-72fa-452b-8863-2071f8e63489",
-   "company": "ABB",
-   "title": "Application Engineering Intern",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999",
-   "locations": [
-    "Lombard, IL",
-    "Alpharetta, GA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550345000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:31dd3a77-4c93-48f9-823e-8c58a6c9c0c5",
-   "company": "The Boeing Company",
-   "title": "Development Security & Operations Associate - Devsecops - Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Development-Security---Operations--DevSecOps--Software-Engineer--Associate-or-Mid-Level-_JR2026515911",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550652000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1783554928209
   }
  ]
