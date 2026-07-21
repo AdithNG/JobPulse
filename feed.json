@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-07-21T20:22:52.593Z",
+ "updatedAt": "2026-07-21T21:42:27.800Z",
  "jobs": [
+  {
+   "key": "simplify:e93e54ef-8346-4df2-bd91-dd2a9f14956a",
+   "company": "WellSky",
+   "title": "Associate Software Engineer",
+   "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---Onsite_JR4907",
+   "locations": [
+    "Overland Park, KS"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782166333000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784670146783
+  },
+  {
+   "key": "simplify:d5b47b14-ab65-44e1-b532-56a96b46ed94",
+   "company": "Barr",
+   "title": "Geologist/Geological Engineer Entry Level",
+   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Jefferson-City-MO/Geologist-Geological-Engineer---Entry-Level--Hybrid-_R-102144",
+   "locations": [
+    "Jefferson City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784665389000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784670146783
+  },
+  {
+   "key": "simplify:bef822fd-5ed1-4394-b834-0255fb9e992e",
+   "company": "ONEOK",
+   "title": "Engineer 1 Engineering Development Program",
+   "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/FTE--Engineer-I-EDP-Program_R7775-1",
+   "locations": [
+    "Tulsa, OK"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784665274000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784670146783
+  },
+  {
+   "key": "simplify:12dac20b-912f-4745-8fc4-76b5c94d7d2d",
+   "company": "Northrop Grumman",
+   "title": "Structural Analysis Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985",
+   "locations": [
+    "Palmdale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784664269000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784670146783
+  },
   {
    "key": "simplify:3b6ae373-3a19-4ff6-98d5-02c593359a00",
    "company": "Travelers",
@@ -5757,83 +5833,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783550652000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:b0fc1f04-8798-4a46-a98c-012101ec8971",
-   "company": "The Boeing Company",
-   "title": "Modernization Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026515908-1",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550648000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:b5c78897-f495-4390-9607-22be34b2d35b",
-   "company": "AcuityMD",
-   "title": "Data Analyst - Software Engineering Track",
-   "url": "https://job-boards.greenhouse.io/acuitymd/jobs/6111981004",
-   "locations": [
-    "Boston, MA",
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550594000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:e20329ac-6427-4de0-96a0-96990e67b705",
-   "company": "Red Hat",
-   "title": "Associate Software Engineer",
-   "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395",
-   "locations": [
-    "Durham, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550345000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:275e9160-4185-4092-a492-236d2818469a",
-   "company": "Anduril",
-   "title": "Software Corporate Technology Rotation Program",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166390007",
-   "locations": [
-    "Newport Beach, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550345000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
