@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-21T14:14:07.351Z",
+ "updatedAt": "2026-07-21T15:57:32.631Z",
  "jobs": [
+  {
+   "key": "simplify:f6865848-c6d8-4488-a94b-ee21317efaa1",
+   "company": "Travelers",
+   "title": "Software Engineer 1 - Guidewire Policy Configuration",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545",
+   "locations": [
+    "Sparks, MD",
+    "Hartford, CT",
+    "St Paul, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784645835000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784649451918
+  },
+  {
+   "key": "simplify:f05a32fb-9cb5-4c9f-9c79-8f522cc6b6ef",
+   "company": "GRAIL",
+   "title": "Data Analytics Engineer 1",
+   "url": "https://jobs.lever.co/grailbio/475f2338-6a6a-450b-a851-f47c93a33e69/apply",
+   "locations": [
+    "Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784645720000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784649451918
+  },
+  {
+   "key": "simplify:5d4273a4-4eda-4ac4-8656-a398851d11d7",
+   "company": "Everfox",
+   "title": "Software Engineer 1",
+   "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784645663000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784649451918
+  },
+  {
+   "key": "simplify:f8f8b7bc-4fd2-4440-aa0c-ad3f67e75989",
+   "company": "OCLC",
+   "title": "Analytics Engineer",
+   "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Analytics-Engineer_R0003839",
+   "locations": [
+    "Dublin, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784638622000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784649451918
+  },
   {
    "key": "simplify:acf0d0e1-8c4d-46ec-b752-fd7a1e27b611",
    "company": "Northrop Grumman",
@@ -5757,83 +5835,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:16563ac6-f4a5-4af9-a956-d936a9ef337e",
-   "company": "Rocket Companies",
-   "title": "IOS Mobile Software Developer 1",
-   "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1",
-   "locations": [
-    "Seattle, WA",
-    "Detroit, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783548615000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:58482676-348d-4ce8-83f5-39def79ad066",
-   "company": "Super Micro Computer",
-   "title": "Application Engineer-Server",
-   "url": "https://jobs.supermicro.com/job/San-Jose-Application-Engineer-Server-Cali/1404538000/?ats=successfactors",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783548905000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783550626881
-  },
-  {
-   "key": "simplify:8085b0fb-3683-4307-b90e-062ef95c0389",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1783521174000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783525129300
-  },
-  {
-   "key": "simplify:27a0f900-c5b2-4b8f-85c2-8614ea5badf0",
-   "company": "Amazon",
-   "title": "Software Engineer - AI Security",
-   "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783519923000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783525129300
   }
  ]
 }
