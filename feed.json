@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-22T04:36:39.937Z",
+ "updatedAt": "2026-07-22T07:21:02.556Z",
  "jobs": [
+  {
+   "key": "simplify:a321ad73-583a-4203-bee3-a9fe75923346",
+   "company": "ServiceNow",
+   "title": "Servicenow Futures Summit - SWE Experience",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
+   "locations": [
+    "West Palm Beach, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784695518000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784704861464
+  },
+  {
+   "key": "simplify:6efed8e0-ecf9-4113-90cc-fd187d314b95",
+   "company": "AlphaLife Sciences",
+   "title": "AI Software Engineer",
+   "url": "https://jobs.ashbyhq.com/alphalifesci/238161ca-5aa0-4089-9cdf-d41912eba9c1/application?embed=true",
+   "locations": [
+    "Iselin, Woodbridge Township, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784697678000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784704861464
+  },
   {
    "key": "simplify:7f549e96-35e9-4370-9ece-eae9e6d752b3",
    "company": "DigiCert",
@@ -5795,44 +5833,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783660372801
-  },
-  {
-   "key": "simplify:54e3efd5-fdd5-4387-aa85-9ac6d93dd308",
-   "company": "The Boeing Company",
-   "title": "Product Data Management Specialist - Data Management - Engineering",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Product-Data-Mgmt-Specialist--Data-Management---Engineering-_JR2026505081",
-   "locations": [
-    "Tukwila, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783646303000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783660372801
-  },
-  {
-   "key": "simplify:1de12102-5f3b-4c75-83ce-02e4d9bb828d",
-   "company": "Vital Lyfe",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application",
-   "locations": [
-    "Carson, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783636257000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783640191137
   }
  ]
 }
