@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-22T14:17:00.891Z",
+ "updatedAt": "2026-07-22T15:54:55.349Z",
  "jobs": [
+  {
+   "key": "simplify:55f9d906-6fa5-49e9-8717-7e16023326ac",
+   "company": "Hewlett Packard (HP)",
+   "title": "Graduate Software Developer",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699",
+   "locations": [
+    "Palo Alto, CA",
+    "Spring, TX",
+    "Corvallis, OR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784729901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784735694577
+  },
+  {
+   "key": "simplify:3338f52b-1609-4387-84c5-cd609da9c84e",
+   "company": "Acxiom",
+   "title": "Associate Software Engineer",
+   "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/3397/Associate-Software-Engineer_JR014379",
+   "locations": [
+    "Jacksonville, AR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784729360000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784735694577
+  },
+  {
+   "key": "simplify:1da6cc61-1253-4949-8dcd-75e3f4e196c4",
+   "company": "Google",
+   "title": "Data Engineer - Gup Engineering",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/143481941373395654",
+   "locations": [
+    "Boulder, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784729360000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784735694577
+  },
+  {
+   "key": "simplify:53ebfe93-4676-4ec0-ba1f-2d6d66df5e5a",
+   "company": "Ameren",
+   "title": "Engineering Representative",
+   "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Collinsville-IL/Engineering-Rep--Electric-and-Gas-Distribution-Mapping-Specialist-_033703",
+   "locations": [
+    "Collinsville, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784729620000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784735694577
+  },
   {
    "key": "simplify:b1a50830-e5ae-4f43-a69b-471c3c58ea97",
    "company": "GE Appliances",
@@ -5745,84 +5823,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783723201000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:bc16e04e-483c-4b33-9153-1620809d551e",
-   "company": "Johnson Controls",
-   "title": "HVAC Equipment Systems Application Engineer 1",
-   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Linthicum-Maryland-United-States-of-America/HVAC-Equipment-Systems-Application-Engineer-I_WD30273247",
-   "locations": [
-    "Halethorpe, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783723202000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:0f06e190-3900-4101-b627-e187eddcb571",
-   "company": "Marriott International",
-   "title": "FLEX Associate Software Engineer - Customer Data Platform",
-   "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783722963000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:cac83c89-3891-4a0b-9daa-28eca0edcb0f",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer - Simulation",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890",
-   "locations": [
-    "Palmdale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783722949000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:102e3ec1-caea-45f1-93e6-2171f3261419",
-   "company": "Ultra Intelligence and Communications",
-   "title": "Software Engineer Associate",
-   "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Huntsville-USA/Associate-Software-Engineer_REQ-12218",
-   "locations": [
-    "Austin, TX",
-    "Remote in USA",
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783722892000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
