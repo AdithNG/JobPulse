@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-22T07:21:02.556Z",
+ "updatedAt": "2026-07-22T09:56:20.524Z",
  "jobs": [
+  {
+   "key": "simplify:17a4eca6-f636-4d76-ae6b-949e863c7613",
+   "company": "Valsoft Corporation",
+   "title": "Fullstack Software Developer - AI-enabled",
+   "url": "https://apply.workable.com/valsoft-corp/j/E96D7950A5/apply",
+   "locations": [
+    "Duluth, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784709199000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784714179665
+  },
   {
    "key": "simplify:a321ad73-583a-4203-bee3-a9fe75923346",
    "company": "ServiceNow",
@@ -5814,25 +5833,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783683484893
-  },
-  {
-   "key": "simplify:f5df0ff3-923c-48b4-abf3-9c10848eb7ed",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/276333",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783646087000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783660372801
   }
  ]
 }
