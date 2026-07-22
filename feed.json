@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-07-22T21:29:52.213Z",
+ "updatedAt": "2026-07-22T22:37:43.576Z",
  "jobs": [
+  {
+   "key": "simplify:6e043ff4-35f3-4dd9-b704-1be62043d4e9",
+   "company": "Lennox International",
+   "title": "AI Engineering Co-op",
+   "url": "https://uscareers-lennox.icims.com/jobs/54120/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784758622000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784759862873
+  },
+  {
+   "key": "simplify:62d11aec-ce0b-4085-b323-3da6cb9f2ea0",
+   "company": "Boson Ai",
+   "title": "Software Engineer - Platform & Application",
+   "url": "https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784758160000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784759862873
+  },
+  {
+   "key": "simplify:8b0a6977-f796-456e-a016-3191e02750a7",
+   "company": "General Dynamics Information Technology",
+   "title": "Reverse Engineer / Analyst",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Reverse-Engineer---Analyst_RQ224343-1",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784758160000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784759862873
+  },
+  {
+   "key": "simplify:e61b2329-b0a7-4424-abfb-79008dbcb442",
+   "company": "GE Vernova",
+   "title": "Engineer – Product Structuring Configuration Specialist",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411",
+   "locations": [
+    "Greenville, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784758160000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784759862873
+  },
   {
    "key": "simplify:55f9d906-6fa5-49e9-8717-7e16023326ac",
    "company": "Hewlett Packard (HP)",
@@ -5747,82 +5823,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783721874000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:1a605e3c-724b-47d8-8424-56b412aec324",
-   "company": "CACI",
-   "title": "AI Prompt Engineer",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_328834",
-   "locations": [
-    "Ashburn, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721524000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:f649268a-a699-41a6-9900-66818886f2ab",
-   "company": "Parsons",
-   "title": "Junior Software Developer",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Junior-Software-Developer_R183217",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783722963000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:f641296a-d046-402e-a13c-6df6218f537f",
-   "company": "NVIDIA",
-   "title": "Systems Software Engineer New Grad - Autonomous Systems Mapping",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783723195000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:e5dcf151-a718-4c4b-9591-5dfe88d744dc",
-   "company": "Maritz",
-   "title": "Software Engineer 1",
-   "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306",
-   "locations": [
-    "Fenton, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783723201000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
