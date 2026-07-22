@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-22T11:56:48.276Z",
+ "updatedAt": "2026-07-22T14:17:00.891Z",
  "jobs": [
+  {
+   "key": "simplify:b1a50830-e5ae-4f43-a69b-471c3c58ea97",
+   "company": "GE Appliances",
+   "title": "Engineering Co-op",
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2026_REQ-23567",
+   "locations": [
+    "Calhoun, GA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784724450000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784729819613
+  },
   {
    "key": "simplify:99d03a1a-766a-4c0d-92a6-d283adc7583a",
    "company": "Walmart",
@@ -5809,27 +5828,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:3a29091e-49cb-4e77-b096-8c192ea3daa2",
-   "company": "Northrop Grumman",
-   "title": "Python Software Engineer 2",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-2-or-3_R10239580",
-   "locations": [
-    "Aurora, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783693709000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "python"
-   ],
-   "firstSeen": 1783699586716
   }
  ]
 }
