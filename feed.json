@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-22T09:56:20.524Z",
+ "updatedAt": "2026-07-22T11:56:48.276Z",
  "jobs": [
+  {
+   "key": "simplify:99d03a1a-766a-4c0d-92a6-d283adc7583a",
+   "company": "Walmart",
+   "title": "Software Engineer 3",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2578445-1",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784717579000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784721407664
+  },
+  {
+   "key": "simplify:f3a9de98-82b9-40ff-be18-62ed750578c6",
+   "company": "KLA Corporation",
+   "title": "HPC Software Engineer",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784717118000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784721407664
+  },
+  {
+   "key": "simplify:ae7ac1d8-d114-4fd2-8588-3298ee46931a",
+   "company": "HCSC",
+   "title": "Mainframe Developer",
+   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784718370000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784721407664
+  },
   {
    "key": "simplify:17a4eca6-f636-4d76-ae6b-949e863c7613",
    "company": "Valsoft Corporation",
@@ -5773,66 +5830,6 @@
     "python"
    ],
    "firstSeen": 1783699586716
-  },
-  {
-   "key": "simplify:db916c2d-28d2-4779-bbfd-c94cf8269390",
-   "company": "Moog ",
-   "title": "Product Engineer Associate",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18822",
-   "locations": [
-    "Boston, NY",
-    "Buffalo, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783693514000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783699586716
-  },
-  {
-   "key": "simplify:9289b63c-3ec5-4fe4-9651-e3feb1b56586",
-   "company": "Caterpillar Inc.",
-   "title": "Cybersecurity Application Developer - Cybersecurity",
-   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Application-Developer---Cybersecurity_R0000381258",
-   "locations": [
-    "Peoria, IL",
-    "Nashville, TN",
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783692637000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783699586716
-  },
-  {
-   "key": "simplify:f5d0810b-8d0e-4bee-b85c-e93f19ab3aef",
-   "company": "Alkira",
-   "title": "Software Engineer - Datapath",
-   "url": "https://alkira.bamboohr.com/careers/232/",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783678321000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783683484893
   }
  ]
 }
