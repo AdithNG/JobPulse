@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-07-22T22:37:43.576Z",
+ "updatedAt": "2026-07-22T23:41:29.705Z",
  "jobs": [
+  {
+   "key": "simplify:bb2699db-c654-4cb9-b4ca-b5140fcb8ee6",
+   "company": "Moog ",
+   "title": "Software Engineering Intern",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1",
+   "locations": [
+    "Boston, NY",
+    "Buffalo, NY"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784762013000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784763688981
+  },
+  {
+   "key": "simplify:5b94931b-c8c1-4030-94fd-b855ea4581c5",
+   "company": "Amazon",
+   "title": "EFA Network Software Engineer 1 - Annapurna Labs",
+   "url": "https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784760410000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784763688981
+  },
+  {
+   "key": "simplify:ffb577d7-9361-420e-b157-f03bdbd597d3",
+   "company": "Motorola",
+   "title": "Software Engineer",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351",
+   "locations": [
+    "Hoffman Estates, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784762478000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784763688981
+  },
+  {
+   "key": "simplify:19a150c4-f533-4d98-8905-d6d49e99d509",
+   "company": "Fidelity National Information Services",
+   "title": "Mainframe Software Engineer 1",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308257-1",
+   "locations": [
+    "Columbus, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784762487000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784763688981
+  },
   {
    "key": "simplify:6e043ff4-35f3-4dd9-b704-1be62043d4e9",
    "company": "Lennox International",
@@ -5746,84 +5823,6 @@
    "sponsorship": "unknown",
    "posted": 1783722242000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:c474a38b-23d6-44f9-acd9-8caeea6920d6",
-   "company": "Brigham Young University",
-   "title": "Full-Stack Software Developer",
-   "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Full-Stack-Software-Developer_JR-10739",
-   "locations": [
-    "Provo, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721524000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:293f49e2-46ed-4681-8434-d125238c93fa",
-   "company": "Glean",
-   "title": "Software Engineer",
-   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713145005",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721524000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:1e8e3363-5834-49b1-98aa-0410f693f593",
-   "company": "HNTB",
-   "title": "Software Engineer 1",
-   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Software-Engineer-I_R-30741",
-   "locations": [
-    "Tallahassee, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721940000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:52a64e7d-6a58-407e-9ea4-d0e77f71d721",
-   "company": "Ultra",
-   "title": "Software Engineer Associate",
-   "url": "https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Huntsville-USA/Associate-Software-Engineer_REQ-12218-1",
-   "locations": [
-    "Austin, TX",
-    "Remote in USA",
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721874000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
