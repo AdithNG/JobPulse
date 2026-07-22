@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-07-21T23:42:43.192Z",
+ "updatedAt": "2026-07-22T01:11:45.300Z",
  "jobs": [
+  {
+   "key": "simplify:767f1d89-f1fa-4d06-bf5c-a61d9c738f7c",
+   "company": "WGU",
+   "title": "Software Engineer Python/Angular",
+   "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784678239000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "python"
+   ],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:800e06ea-4a8a-4db5-a93a-7aae82cfac49",
+   "company": "Virtu Financial",
+   "title": "Software Engineer Intern - Software Engineer",
+   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1784680915000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:9745ac46-fc40-486b-bdb3-c61ecf57fa66",
+   "company": "xAI",
+   "title": "Internal Tools Engineer",
+   "url": "https://job-boards.greenhouse.io/xai/jobs/5052038007",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1782090939000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:7201fef9-2990-4336-9766-3088f919731f",
+   "company": "Texas Instruments",
+   "title": "Career Accelerator Program - Product Engineer",
+   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003917",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784671761000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:598cd323-ba48-48d2-84cd-5d2cf2361bfb",
+   "company": "Humana",
+   "title": "SFDC/BPM Junior Developer",
+   "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/SFDC-BPM-Junior-Developer_R-420716",
+   "locations": [
+    "Louisville, KY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784672479000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:c36a8b5c-110b-4f94-a44c-d0f1fa8e4b22",
+   "company": "Westinghouse Electric Company",
+   "title": "Safety Software Engineer 1&C HMI Systems",
+   "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors",
+   "locations": [
+    "Cranberry Twp, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784678742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:e1ad5c14-e8ab-4797-95ce-3508ef2c3839",
+   "company": "Wells Fargo",
+   "title": "Engineering Associate - Mainframe Systems",
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Mainframe-Systems_R-559987",
+   "locations": [
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784681119000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
+  {
+   "key": "simplify:0921cc7c-5118-4b58-bb30-c23a720502d9",
+   "company": "Micron Technology",
+   "title": "Full-Stack AI Engineer",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377",
+   "locations": [
+    "Boise, ID"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784678959000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784682704513
+  },
   {
    "key": "simplify:04b12d83-7012-4bc9-b2c2-f3fea47e301b",
    "company": "Ciena",
@@ -5671,172 +5825,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783569982858
-  },
-  {
-   "key": "simplify:4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d",
-   "company": "Leidos",
-   "title": "Software Development Engineer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1",
-   "locations": [
-    "Gaithersburg, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783559934000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783569982858
-  },
-  {
-   "key": "simplify:c1d1053c-438a-481e-8375-57149313ea2f",
-   "company": "National Laboratory of the Rockies",
-   "title": "Software and Data Infrastructure Intern",
-   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394",
-   "locations": [
-    "Golden, CO"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550642000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:17780196-7325-4b2e-b9d8-42c0b3830d62",
-   "company": "Jump Trading",
-   "title": "Campus UI Software Engineer Intern",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8003019",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550939000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:7dde25d1-45b9-4f21-b627-cae44898fbb3",
-   "company": "Jump Trading",
-   "title": "AI Research Engineer Intern - Research Automation",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8052351",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550568000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:9d14590b-3922-4c2d-a411-04bbe025a5bc",
-   "company": "Jump Trading",
-   "title": "AI Research Engineer Intern",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8052281",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550569000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:5cbbf737-ec58-4199-bd17-62438749ebc9",
-   "company": "Jump Trading",
-   "title": "Campus AI Research Engineer Intern - Deep Learning",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8052338",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550572000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:b3b5bb79-eed9-4cae-a682-cc7068f5d3eb",
-   "company": "Jump Trading",
-   "title": "Campus Software Engineer",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8000835",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550345000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
-  },
-  {
-   "key": "simplify:86eec77e-62fa-43bc-a011-1e73aac2d372",
-   "company": "Jump Trading",
-   "title": "AI Research Engineer",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8052313",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783550569000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1783554928209
   }
  ]
 }
