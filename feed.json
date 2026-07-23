@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-23T07:22:55.067Z",
+ "updatedAt": "2026-07-23T10:02:03.434Z",
  "jobs": [
+  {
+   "key": "simplify:5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c",
+   "company": "Sunbird Software Inc.",
+   "title": "Software Support Engineer",
+   "url": "https://sunbirdsoftwareinc.applytojob.com/apply/YEyTkwbnWT/Software-Support-Engineer",
+   "locations": [
+    "Middlesex, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784791549000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784800922743
+  },
+  {
+   "key": "simplify:ba9ad1ed-d788-4244-adea-7bc7bc4b8022",
+   "company": "GABLETEK",
+   "title": "Librarian 3DEXPERIENCE PLM Platform - Automotive",
+   "url": "https://gabletek.applytojob.com/apply/VG6dFF94IX/Librarian-3DEXPERIENCE-PLM-Platform-Automotive",
+   "locations": [
+    "Southfield, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784790158000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784800922743
+  },
+  {
+   "key": "simplify:03a80408-3fdc-4795-a4b5-eae66d9d2956",
+   "company": "University of Maryland - College Park",
+   "title": "Junior Data Engineer - Faculty Specialist",
+   "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
+   "locations": [
+    "Hyattsville, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784796827000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784800922743
+  },
   {
    "key": "simplify:fe62ac8c-b53f-441e-adef-00c3e30e3624",
    "company": "Atoms",
@@ -5768,63 +5825,6 @@
     "full stack"
    ],
    "firstSeen": 1783959241673
-  },
-  {
-   "key": "simplify:83655c31-de25-41df-8a21-e5cd5246f66b",
-   "company": "Denso",
-   "title": "Software Developer 1",
-   "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24516",
-   "locations": [
-    "Battle Creek, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783952462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783959241673
-  },
-  {
-   "key": "simplify:3d6cfbee-bf7c-4fa4-bdc5-7beea6d5ae6a",
-   "company": "BeyondTrust",
-   "title": "Data Engineer Associate",
-   "url": "https://job-boards.greenhouse.io/beyondtrust/jobs/6602214",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783953742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783959241673
-  },
-  {
-   "key": "simplify:6f5b146c-a752-43f8-a404-465ff293511c",
-   "company": "Westinghouse Electric Company",
-   "title": "Software Procurement Specialist",
-   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Software-Procurement-Specialist-NC/1407798400/?ats=successfactors",
-   "locations": [
-    "Grove City, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783894143000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783899104762
   }
  ]
 }
