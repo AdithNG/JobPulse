@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-07-23T04:42:11.770Z",
+ "updatedAt": "2026-07-23T07:22:55.067Z",
  "jobs": [
+  {
+   "key": "simplify:fe62ac8c-b53f-441e-adef-00c3e30e3624",
+   "company": "Atoms",
+   "title": "Cloud Platform Engineer - Data Engineer",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8638573002",
+   "locations": [
+    "Cranberry Twp, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784787852000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1784791374123
+  },
+  {
+   "key": "simplify:511d9576-3972-49cf-a949-a84c117895f1",
+   "company": "CrackaJack Digital Solutions LLC",
+   "title": "Software Developer",
+   "url": "https://crackajackdigitalsolutionsllc.applytojob.com/apply/KpZktL66FY/Software-Developer-Multiple-Openings",
+   "locations": [
+    "Portland, OR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784788066000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784791374123
+  },
+  {
+   "key": "simplify:256b9544-3a10-40a8-b3af-597fbb332828",
+   "company": "Southwest Airlines",
+   "title": "Associate Software Engineer",
+   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Software-Engineer_R-2026-69992",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784788039000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784791374123
+  },
+  {
+   "key": "simplify:98692bc2-e4ee-44ca-8252-b744fef826af",
+   "company": "General Motors",
+   "title": "Software Engineer - AV HIL Platform and Services",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform-and-Services_JR-202602819-2",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784787575000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784791374123
+  },
+  {
+   "key": "simplify:bd40fda7-37cc-4439-aca3-fdc324bbba53",
+   "company": "Lentech Inc.",
+   "title": "Entry Level Web Developer - Multiple Teams",
+   "url": "https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784788400000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784791374123
+  },
+  {
+   "key": "simplify:58675663-1619-413f-b473-3a52d0da40bb",
+   "company": "Digital Foundry, Inc.",
+   "title": "Software Engineer Associate",
+   "url": "https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate",
+   "locations": [
+    "Sausalito, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784788219000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784791374123
+  },
   {
    "key": "simplify:9c9d72e2-4773-4a77-b5c5-5776ba645c14",
    "company": "Salesforce",
@@ -5709,126 +5825,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783899104762
-  },
-  {
-   "key": "simplify:c1aef919-6a3e-46ea-8cfa-6ec5fd93783b",
-   "company": "Alkegen",
-   "title": "Application Engineer - Industrial Thermal Management",
-   "url": "https://alkegen.wd5.myworkdayjobs.com/alkegen/job/Buffalo-NY/Application-Engineer---Industrial-Thermal-Management_R12639",
-   "locations": [
-    "Buffalo, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783777861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783782323335
-  },
-  {
-   "key": "simplify:4f6973c1-da33-4e06-83f6-24ba86a31d95",
-   "company": "Google",
-   "title": "Software Engineer 3 - AI/ML - Google Cloud AI",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/87457161382109894",
-   "locations": [
-    "Seattle, WA",
-    "Kirkland, WA",
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783762272000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1783764230736
-  },
-  {
-   "key": "simplify:5b64f61a-3dab-4251-b2a8-9b98d24e78c1",
-   "company": "Gen Digital",
-   "title": "AI & Machine Learning Engineer 1",
-   "url": "https://jobs.ashbyhq.com/gen-digital/b3ab78c4-af7c-4a95-9bbb-f6264e0c3adf/application",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783762023000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783764230736
-  },
-  {
-   "key": "simplify:4622ed51-4f9d-46b5-91bd-1c2ccfb80a49",
-   "company": "DiDi Global",
-   "title": "Motion Planning Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/didi/jobs/8056492",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783751082000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783751897570
-  },
-  {
-   "key": "simplify:98b8f971-621c-46bf-8915-22ec116e536a",
-   "company": "Inversion Space",
-   "title": "Full Stack Engineer 2",
-   "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005",
-   "locations": [
-    "Culver City, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783733984000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1783743826603
-  },
-  {
-   "key": "simplify:842d796a-d789-46c6-b40f-ee55dd5d2367",
-   "company": "Leidos",
-   "title": "Junior Software Engineer - AI/ML Applications",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer---AI-ML-Applications_R-00187033",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783732702000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783743826603
   }
  ]
 }
