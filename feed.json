@@ -1,6 +1,106 @@
 {
- "updatedAt": "2026-07-23T21:31:49.188Z",
+ "updatedAt": "2026-07-23T22:34:46.801Z",
  "jobs": [
+  {
+   "key": "simplify:555378b1-69c4-4a27-b664-d84ac05b0bfd",
+   "company": "Becton Dickinson",
+   "title": "Commercial Analytics Engineer Business Decision Intelligence",
+   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-548945-1",
+   "locations": [
+    "Midland Park, NJ",
+    "Vernon Hills, IL",
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784845794000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784846086105
+  },
+  {
+   "key": "simplify:b4ad4629-f0a9-4e6f-b201-d0b42f4a6dec",
+   "company": "AeroVironment",
+   "title": "Machine Learning Engineer 2",
+   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Machine-Learning-Engineer-II_8124",
+   "locations": [
+    "Centreville, VA",
+    "Minneapolis, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784845673000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784846086105
+  },
+  {
+   "key": "simplify:4c2be7ac-eebd-440e-964d-55577780ece6",
+   "company": "Intel",
+   "title": "Software Development Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0285267",
+   "locations": [
+    "Santa Clara, CA",
+    "Hillsboro, OR",
+    "Folsom, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784845549000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784846086105
+  },
+  {
+   "key": "simplify:c8b1494a-3262-4b95-a356-612e9c1e1dd9",
+   "company": "Citi",
+   "title": "Junior Generative AI Application Developer",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
+   "locations": [
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784845081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784846086105
+  },
+  {
+   "key": "simplify:7c2fa168-ddab-4de9-b079-324d9c069d22",
+   "company": "Azenta",
+   "title": "Software Developer",
+   "url": "https://azenta.wd1.myworkdayjobs.com/AzentaJobs/job/US---South-Plainfield-NJ/Software-Developer_R20260491",
+   "locations": [
+    "South Plainfield, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784844362000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784846086105
+  },
   {
    "key": "simplify:3547f1fc-3473-484d-9766-31b2a0f754c1",
    "company": "Illumia",
@@ -5730,102 +5830,6 @@
    "sponsorship": "unknown",
    "posted": 1783980724000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:d39e516b-ae65-4cf9-9970-b8daf6d787ef",
-   "company": "U.S. Bank",
-   "title": "Mainframe Software Engineering Apprentice 2",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Mainframe-Software-Engineering-Apprentice-2_2026-0020641",
-   "locations": [
-    "Hopkins, MN"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783981319000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:12c71417-7d4c-4820-a1dc-e69c433eb686",
-   "company": "Persona AI",
-   "title": "Teleoperation Software Engineering Internship",
-   "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c/application",
-   "locations": [
-    "Houston, TX",
-    "Pensacola, FL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783981871000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:17b55e16-4b9d-4870-ba60-51a53eaf71c5",
-   "company": "Akuna Capital University",
-   "title": "Software Engineer Intern - C# .NET Desktop",
-   "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1783981441000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:6f99e1c0-bfec-450e-b005-708019d6c388",
-   "company": "Bristol Myers Squibb",
-   "title": "Associate Engineer - Analytical AI Engineering",
-   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1603317-1",
-   "locations": [
-    "Princeton, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781647988000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:a3f73d95-78af-40f1-98a5-e230608dae8c",
-   "company": "RTX",
-   "title": "Software Engineer - Software Engineer I",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473",
-   "locations": [
-    "McKinney, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781707810000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
