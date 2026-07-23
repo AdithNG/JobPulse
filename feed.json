@@ -1,6 +1,188 @@
 {
- "updatedAt": "2026-07-23T12:00:39.892Z",
+ "updatedAt": "2026-07-23T14:26:18.279Z",
  "jobs": [
+  {
+   "key": "simplify:80294e61-203e-4217-8dc6-ec6801f1860f",
+   "company": "Travelers",
+   "title": "Data Engineer 1 - Python - AWS",
+   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I-TM1-IPA-_R-50835",
+   "locations": [
+    "Hartford, CT",
+    "St Paul, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784811546000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 23,
+   "matchedWords": [
+    "aws",
+    "python"
+   ],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:43ca5d0b-0cd2-46ca-9b5a-55d7590fcaaa",
+   "company": "PNC Financial Services",
+   "title": "Software Engineer - Java/OpenShift/Kubernetes",
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer--JAVA--Openshift-Kubernetes-_R219224-1",
+   "locations": [
+    "Pittsburgh, PA",
+    "Strongsville, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784813016000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:ad7c7576-5b17-4beb-b37d-50523cb7f627",
+   "company": "Vantor",
+   "title": "GIS Engineer - Jr",
+   "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
+   "locations": [
+    "Washington, DC",
+    "Arlington, VA",
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784806525000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:522fa117-c316-4e57-a2a1-8e128d51a306",
+   "company": "Smithfield Foods",
+   "title": "Software Engineer",
+   "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Suffolk-VA/Software-Engineer_R-2026-6268",
+   "locations": [
+    "Suffolk, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784806576000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:94be9874-44c0-445c-a293-6f469b674484",
+   "company": "Adobe",
+   "title": "Software Development Engineer",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R170466-1",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784809427000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:d8f01940-000a-4963-a53a-a8ecc213ca07",
+   "company": "CACI",
+   "title": "Junior Application Developer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Application-Developer_328917",
+   "locations": [
+    "Springfield, VA",
+    "St. Louis, MO",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784808901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:540cb73e-d506-40f3-9265-30fdcf18d821",
+   "company": "Alkami Technology",
+   "title": "Application Support Engineer",
+   "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Application-Support-Engineer--Temporary-Worker-_JR-000770",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784812605000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:858080e3-2352-462b-935d-b2105782b4fb",
+   "company": "Walmart",
+   "title": "Data Engineer 3",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Data-Engineer-III_R-2559247",
+   "locations": [
+    "Bentonville, AR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784812009000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
+  {
+   "key": "simplify:7bc6376f-bcd6-4836-99e5-8721a5d55ed8",
+   "company": "AeroVironment",
+   "title": "Software Engineer 1 - Applications",
+   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Software-Engineer-III--Apps-_7569",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784813439000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784816777265
+  },
   {
    "key": "simplify:50180eb2-dcb7-40d6-b58d-4cb6d07f22d3",
    "company": "LightGuide, Inc.",
@@ -5643,178 +5825,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1783980361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:b3876b2d-c196-46fb-96c4-bbb3e767c0b0",
-   "company": "xAI",
-   "title": "Software Engineer - Ads Product",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783981441000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:cb54a03c-1819-40d6-85dd-7c94b79b337e",
-   "company": "DoorDash",
-   "title": "Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610",
-   "locations": [
-    "Seattle, WA",
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783983272000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:bdc4dc00-1451-4635-9061-5f99a7bb9c42",
-   "company": "DRW",
-   "title": "Software Developer",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783982881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:d0a9a917-c584-4609-9cdb-f603bc663215",
-   "company": "Old Mission",
-   "title": "Software Engineer – Graduate Program - August Start",
-   "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783983038000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:83321b81-03ae-44e2-a162-537842c8082c",
-   "company": "Comcast",
-   "title": "Machine Learning Engineer 3",
-   "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Machine-Learning-Engineer-3--7882_R440810",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783982164000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:af31d257-e826-465a-bc7a-4c04fb574032",
-   "company": "AbbVie",
-   "title": "Associate Engineer - Technology I",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014058986",
-   "locations": [
-    "Waukegan, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783982164000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:8f04b5c1-b5a3-41ae-87b2-8a2339959201",
-   "company": "Allstate Insurance Company",
-   "title": "AI Product Engineer - Copilot & Power Platform",
-   "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R30742-1",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783982164000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:3280f6de-005d-4216-bc5c-c1052e58d650",
-   "company": "NVIDIA",
-   "title": "Compiler Engineer AI Inference New Grad",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783982095000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:105c3126-384f-4e87-837d-063dffc60a79",
-   "company": "Milwaukee Tool",
-   "title": "Applied Machine Learning Engineer 1 - Advanced Engineering & Technology",
-   "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Brookfield-WI/Applied-Machine-Learning-Engineer-I---Advanced-Engineering---Technology_R75643",
-   "locations": [
-    "Brookfield, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783982071000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
