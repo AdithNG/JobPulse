@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-07-23T01:16:12.112Z",
+ "updatedAt": "2026-07-23T04:42:11.770Z",
  "jobs": [
+  {
+   "key": "simplify:9c9d72e2-4773-4a77-b5c5-5776ba645c14",
+   "company": "Salesforce",
+   "title": "Software Engineering AMTS/MTS – College Grad",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
+   "locations": [
+    "Palo Alto, CA",
+    "Bellevue, WA",
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784768695000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784781730936
+  },
+  {
+   "key": "simplify:ea634b62-9d57-4c6d-8b6f-bbc560848a6f",
+   "company": "Woongjin",
+   "title": "MES Operation Engineer/ Developer Bilingual",
+   "url": "https://jobs.smartrecruiters.com/WJCompany/744000139167387",
+   "locations": [
+    "Savannah, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784775963000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784781730936
+  },
+  {
+   "key": "simplify:189921e3-430a-4e43-b346-19090aca1deb",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer_R10241797",
+   "locations": [
+    "Palmdale, CA",
+    "San Diego, CA",
+    "El Segundo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784776684000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784781730936
+  },
+  {
+   "key": "simplify:febf0ce3-b358-48c8-805e-03aab0ba0354",
+   "company": "Crusoe",
+   "title": "Workforce Intelligence Engineer",
+   "url": "https://jobs.ashbyhq.com/Crusoe/bd0a5128-8727-4631-ab3b-913249b2ea84/application?embed=true",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784776684000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784781730936
+  },
+  {
+   "key": "simplify:4d2d22a7-7d80-4f59-8a8c-e8044adb9556",
+   "company": "KLA Corporation",
+   "title": "Customer Application Engineer",
+   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Austin-TX/Customer-Applications-Development-Engineer_2638213",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784778234000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784781730936
+  },
   {
    "key": "simplify:bb2699db-c654-4cb9-b4ca-b5140fcb8ee6",
    "company": "Moog ",
@@ -5730,103 +5829,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1783743826603
-  },
-  {
-   "key": "simplify:73e95483-23f7-498e-83cf-df008b007d83",
-   "company": "Leidos",
-   "title": "Junior Software Engineer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783732709000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783743826603
-  },
-  {
-   "key": "simplify:5fbcaa2a-e397-4a5e-9cd6-c5d130497416",
-   "company": "American Express",
-   "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783723267000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:c0a71d19-4941-44c1-9408-7c39f29dfb85",
-   "company": "Exowatt",
-   "title": "Software Engineer Intern - Agent Platform - AI",
-   "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c/apply",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721957000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:cbc90c52-de35-4d7b-b7f2-bc0a30bb1d72",
-   "company": "Xsolla",
-   "title": "AI-First Engineer Intern",
-   "url": "https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874/apply",
-   "locations": [
-    "Raleigh, NC"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783721849000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
-  },
-  {
-   "key": "simplify:cee814d5-6814-4bea-b567-0b0b7460e127",
-   "company": "Arrowstreet Capital",
-   "title": "Quantitative Developer Intern",
-   "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1783722242000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783725964163
   }
  ]
 }
