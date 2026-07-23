@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-07-23T14:26:18.279Z",
+ "updatedAt": "2026-07-23T16:11:05.441Z",
  "jobs": [
+  {
+   "key": "simplify:3547f1fc-3473-484d-9766-31b2a0f754c1",
+   "company": "Illumia",
+   "title": "Associate Integration Engineer",
+   "url": "https://transact-campus.breezy.hr/p/e8d28d6d8087/apply",
+   "locations": [
+    "Alpharetta, GA",
+    "Scottsdale, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784816822000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784823064486
+  },
+  {
+   "key": "simplify:d5647d2a-f398-444e-b1ac-3d03cc6604a7",
+   "company": "Cerebras",
+   "title": "Software Engineer - Cluster Deployment",
+   "url": "https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784816822000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784823064486
+  },
+  {
+   "key": "simplify:502a427d-2a14-4b25-8a0e-2b093361ed1a",
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434",
+   "locations": [
+    "Concord, MA",
+    "Tewksbury, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784819992000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784823064486
+  },
+  {
+   "key": "simplify:4644bdd6-0956-4473-86a3-ef0a98bdcd5c",
+   "company": "L3Harris Technologies",
+   "title": "Associate – Software Engineer",
+   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784816822000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784823064486
+  },
+  {
+   "key": "simplify:99e46a07-02c6-4ca9-aa86-628729f79425",
+   "company": "Goldman Sachs",
+   "title": "Foundation Engineering Product Management Associate",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176110",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784820176000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784823064486
+  },
+  {
+   "key": "simplify:eb6d5f77-90a1-46ca-97de-1e5ad01af6a5",
+   "company": "LMI ",
+   "title": "Junior Back-End Software Application Developer",
+   "url": "https://careers-lmi.icims.com/jobs/14309/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784821861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784823064486
+  },
   {
    "key": "simplify:80294e61-203e-4217-8dc6-ec6801f1860f",
    "company": "Travelers",
@@ -5709,122 +5825,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1781707810000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:9d30c3d7-1758-421d-a077-2d19157f76a0",
-   "company": "SpaceX",
-   "title": "Application Software Engineer",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8632103002",
-   "locations": [
-    "West Athens, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783980724000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:bf3bb7d0-4752-43c7-af63-b4cc89d1b005",
-   "company": "GHD",
-   "title": "Graduate Developer",
-   "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26934",
-   "locations": [
-    "Houston, TX",
-    "Dallas, TX",
-    "Norridge, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783980724000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:ba5a942e-be3c-493b-9ef4-bf0dbc07a0ce",
-   "company": "Akuna Capital University",
-   "title": "Entry Level Software Engineer - C++",
-   "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783981337000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:a92f1e72-634c-4222-886a-0b93307f9477",
-   "company": "Akuna Capital University",
-   "title": "Junior Quantitative Developer & Strategist",
-   "url": "https://www.akunacapital.com/careers/job/8016687/?gh_jid=8016687",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783980724000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:8d65fc4d-653b-431a-9d28-83ca20384ab0",
-   "company": "HNTB",
-   "title": "Tolling Business Intelligence Developer 1",
-   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Raleigh-NC/Tolling-Business-Intelligence-Developer-I_R-30750",
-   "locations": [
-    "Raleigh, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783981021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1783984452579
-  },
-  {
-   "key": "simplify:78b2fe28-b6b4-4bdb-ade7-200e8a96e904",
-   "company": "Kimley-Horn",
-   "title": "Software Developer",
-   "url": "https://careers-kimley-horn.icims.com/jobs/25144/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "St Paul, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1783980361000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
