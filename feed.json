@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-24T04:34:37.668Z",
+ "updatedAt": "2026-07-24T07:17:19.112Z",
  "jobs": [
+  {
+   "key": "simplify:5199b683-6293-4db7-9b3b-04a3a15cb801",
+   "company": "Cisco",
+   "title": "Software Engineer Data/AI/Intelligent Systems 1",
+   "url": "https://careers.cisco.com/global/en/job/2000073",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784874283000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784877438291
+  },
   {
    "key": "simplify:6e46ee35-62d6-45c2-a8e5-1056b7d01e45",
    "company": "Broadridge",
@@ -5794,26 +5813,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58",
-   "company": "Argmax",
-   "title": "On-device AI Frameworks Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/argmax/jobs/4067268009",
-   "locations": [
-    "Palo Alto, CA",
-    "Union City, NJ"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784068158000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784068470665
   }
  ]
 }
