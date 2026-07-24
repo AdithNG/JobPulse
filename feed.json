@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-24T01:10:36.393Z",
+ "updatedAt": "2026-07-24T04:34:37.668Z",
  "jobs": [
+  {
+   "key": "simplify:6e46ee35-62d6-45c2-a8e5-1056b7d01e45",
+   "company": "Broadridge",
+   "title": "Software Engineer",
+   "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-_JR1084518",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784855673000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784867676772
+  },
   {
    "key": "simplify:87afd5e6-c90a-42d0-a2f7-3d5ac0176d87",
    "company": "JP Morgan Chase",
@@ -5790,26 +5809,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784068158000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784068470665
-  },
-  {
-   "key": "simplify:4e9240aa-a379-4464-a140-2114eff885a2",
-   "company": "Navy Federal",
-   "title": "Frontend Application Engineer Intern",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776",
-   "locations": [
-    "Pensacola, FL",
-    "Vienna, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784068009000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
