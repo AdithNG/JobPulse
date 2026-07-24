@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-24T11:26:04.229Z",
+ "updatedAt": "2026-07-24T13:04:03.468Z",
  "jobs": [
+  {
+   "key": "simplify:d12f2ff0-0f88-454c-b37a-5deed2b941d6",
+   "company": "Ascentt",
+   "title": "Data Engineer",
+   "url": "https://ats.rippling.com/ascentt/jobs/73a84276-c50c-4688-891b-38f58e4a03ea",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784892572000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784898242688
+  },
+  {
+   "key": "simplify:9f5d48f6-bd0d-4055-94d9-a60792839957",
+   "company": "Studycast",
+   "title": "Automation Engineer",
+   "url": "https://ats.rippling.com/core-sound-imaging/jobs/f56c3bcb-4f11-4f4f-98bb-ce2560297c05",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784892567000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784898242688
+  },
+  {
+   "key": "simplify:8a2fcdb7-da4d-42a2-96ac-e566a2545414",
+   "company": "Jackson",
+   "title": "CRM – Dynamics - Platform Analyst",
+   "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Nashville-TN/CRM-Platform-Analyst_REQ-03658",
+   "locations": [
+    "Nashville, TN",
+    "East Lansing, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784893261000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784898242688
+  },
+  {
+   "key": "simplify:e0f4ad95-621b-4469-be39-0a9855d90b63",
+   "company": "Pennsylvania State University",
+   "title": "Software Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000077212-2",
+   "locations": [
+    "State College, PA",
+    "Key West, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784896848000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784898242688
+  },
   {
    "key": "simplify:6d8d94bc-1cc9-4b93-992e-645170ca871e",
    "company": "GridCARE",
@@ -5732,82 +5810,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784068021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:49472a99-45e3-46a5-a17f-131dee3d8b89",
-   "company": "Northrop Grumman",
-   "title": "Material & Process Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer-or-Principal-Engineer-Material---Process---HGT_R10240105",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784071687000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:6784ff82-84bb-4425-8da6-d612962085a2",
-   "company": "Cisco",
-   "title": "Software Engineer Quality Assurance 2",
-   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-QA-II--Full-Time----United-States_1449147",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784071674000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:5015afe2-a54d-4d15-b986-71f8e2995b83",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer - Aht",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer--AHT-_R10240365",
-   "locations": [
-    "Offutt AFB, NE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784071624000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:1704991d-f184-40b1-91ef-a74b76753d06",
-   "company": "Nuro",
-   "title": "Software Engineer New Grad - Performance",
-   "url": "https://nuro.ai/careersitem?gh_jid=8064655",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784071651000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
