@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-24T09:39:51.923Z",
+ "updatedAt": "2026-07-24T11:26:04.229Z",
  "jobs": [
+  {
+   "key": "simplify:6d8d94bc-1cc9-4b93-992e-645170ca871e",
+   "company": "GridCARE",
+   "title": "Optimization Engineer - Grid Systems",
+   "url": "https://jobs.ashbyhq.com/gridcare/ed076579-3cdf-445e-a70c-fb9470adfbfd/application?embed=true",
+   "locations": [
+    "San Carlos, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784886648000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784892363468
+  },
+  {
+   "key": "simplify:5f0c7466-a88a-459b-8ab1-4419d5fa2750",
+   "company": "Closinglock",
+   "title": "Software Engineer",
+   "url": "https://ats.rippling.com/closinglock/jobs/00263a48-3158-443d-bbdc-7bf1249a57a7",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784886490000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784892363468
+  },
   {
    "key": "simplify:5199b683-6293-4db7-9b3b-04a3a15cb801",
    "company": "Cisco",
@@ -5770,44 +5808,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784071651000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:840954cd-3ba5-456f-a6cf-c4788e41762e",
-   "company": "RTX",
-   "title": "Conversion Software Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784071173000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:56ebd5c3-64ef-4742-a645-3dd905fa3007",
-   "company": "Viavi Solutions",
-   "title": "Software Development Engineer",
-   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Wichita-KS-USA/Software-Development-Engineer_260004910-1",
-   "locations": [
-    "Wichita, KS"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784070181000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
