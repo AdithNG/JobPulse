@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-24T13:04:03.468Z",
+ "updatedAt": "2026-07-24T15:05:34.674Z",
  "jobs": [
+  {
+   "key": "simplify:c21ea81c-9844-46be-9e30-5d382756f674",
+   "company": "Medtronic",
+   "title": "Software Engineer 1 - AI-Driven Data Solutions",
+   "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435",
+   "locations": [
+    "Lafayette, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784903086000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784905533440
+  },
+  {
+   "key": "simplify:d18bc1a4-16e1-4dad-9fb3-8dcae83337fe",
+   "company": "Apple",
+   "title": "GPU ML Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200672759",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784902322000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784905533440
+  },
   {
    "key": "simplify:d12f2ff0-0f88-454c-b37a-5deed2b941d6",
    "company": "Ascentt",
@@ -5772,44 +5810,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784068933000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:cdbc0a69-360c-4dfe-8c6d-5c0fea16678d",
-   "company": "Intuit",
-   "title": "Software Engineer 1",
-   "url": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784068719000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784072055421
-  },
-  {
-   "key": "simplify:9e455d5a-c157-4189-b1f4-40f1219f2987",
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Integration Engineer",
-   "url": "https://careers-gdms.icims.com/jobs/73543/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Groton, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784068021000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
