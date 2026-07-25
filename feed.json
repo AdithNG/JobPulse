@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-25T04:31:09.704Z",
+ "updatedAt": "2026-07-25T06:59:45.987Z",
  "jobs": [
+  {
+   "key": "simplify:085d792a-4c79-4104-946c-89da75b559db",
+   "company": "Bot Auto",
+   "title": "Software Engineer - Generalist in Autonomous Driving System",
+   "url": "https://job-boards.greenhouse.io/botauto/jobs/5370717008",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784960461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784962785208
+  },
   {
    "key": "simplify:df78c0fb-57f3-4187-b36f-0cde8952f3ea",
    "company": "Cisco",
@@ -5795,25 +5814,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784154963000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:b52bcc7e-bf47-4695-99c3-7e6f6e09542f",
-   "company": "Torch Technologies",
-   "title": "Entry Level Engineer/Analyst",
-   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Engineer-Analyst_R1395",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784155160000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
