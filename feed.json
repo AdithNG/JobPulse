@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-25T09:08:03.086Z",
+ "updatedAt": "2026-07-25T10:43:51.336Z",
  "jobs": [
+  {
+   "key": "simplify:6131fc0a-92b8-493d-9444-82f1e8b4a4db",
+   "company": "United Airlines",
+   "title": "Developer – IT - Front End Developer",
+   "url": "https://careers.united.com/us/en/job/HSC00001085",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784973440000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784976230551
+  },
+  {
+   "key": "simplify:6694cd0e-74db-438a-bc09-b57fed2cb371",
+   "company": "Confluence Technologies",
+   "title": "Software Engineer - .NET & AI",
+   "url": "https://confluence.pinpointhq.com/en/postings/49d5aa65-dc1b-4254-ae94-f645e7488aa1?ats=pinpointhq",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784973061000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784976230551
+  },
   {
    "key": "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f",
    "company": "The Redesign Group",
@@ -5781,46 +5819,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784163658141
-  },
-  {
-   "key": "simplify:1cb48f29-b8a3-47e1-98f2-1a2b893d0027",
-   "company": "The Trade Desk",
-   "title": "Software Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-   "locations": [
-    "Seattle, WA",
-    "Irvine, CA",
-    "Bellevue, WA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784155264000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:135813b2-fa17-4721-a9c8-af93c8895b2a",
-   "company": "Clera",
-   "title": "Forward Deployed Engineer",
-   "url": "https://jobs.ashbyhq.com/clera/362f083b-b694-47c4-82db-7f885d338690/application?embed=true",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784153524000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
   }
  ]
 }
