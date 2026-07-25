@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-25T01:11:35.451Z",
+ "updatedAt": "2026-07-25T04:31:09.704Z",
  "jobs": [
+  {
+   "key": "simplify:df78c0fb-57f3-4187-b36f-0cde8952f3ea",
+   "company": "Cisco",
+   "title": "Data Engineer 2",
+   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Data-Engineer-II--Full-Time--United-States_2001849",
+   "locations": [
+    "Research Triangle, Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784942225000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784953868734
+  },
+  {
+   "key": "simplify:dceefd56-77ad-4397-9c52-241f80ebb5d7",
+   "company": "Chan Zuckerberg Initiative",
+   "title": "Applied AI Engineer - Investments",
+   "url": "https://job-boards.greenhouse.io/chanzuckerberginitiative/jobs/8084561",
+   "locations": [
+    "San Carlos, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784941561000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784953868734
+  },
   {
    "key": "simplify:9760e8f0-a376-4d0d-b635-be2d7014cb9c",
    "company": "Snap",
@@ -5776,44 +5814,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784155160000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:6b4c5fd7-4db2-478d-bed5-063080af9fc8",
-   "company": "WellSky",
-   "title": "Product Analyst - Healthcare Platform",
-   "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Product-Analyst---Healthcare-Platform_JR4813",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784154963000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:353a0a1c-6ce4-40d5-a59f-8bb29fbacee9",
-   "company": "Vytalize Health",
-   "title": "Associate Data Engineer",
-   "url": "https://jobs.ashbyhq.com/Vytalize%20Health/3576b087-709e-4bf0-a016-6cc1c24b802c/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784154244000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
