@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-07-25T06:59:45.987Z",
+ "updatedAt": "2026-07-25T09:08:03.086Z",
  "jobs": [
+  {
+   "key": "simplify:0012aa78-86b4-4df6-adf6-b46844f4ad9f",
+   "company": "The Redesign Group",
+   "title": "Infrastructure Implementation Engineer",
+   "url": "https://ats.rippling.com/redesigncareers/jobs/cf4c6c27-b2c3-4803-ab86-62b4118904aa",
+   "locations": [
+    "Tampa, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784968002000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1784970482441
+  },
+  {
+   "key": "simplify:1997626d-c3df-42dc-9710-0ea1e9fc21b4",
+   "company": "Visa",
+   "title": "Software Engineer",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer_REF081843W-1",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784969590000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784970482441
+  },
+  {
+   "key": "simplify:1fb61bf7-fdc5-4977-8393-9c5e9e1d4d42",
+   "company": "Quest Global",
+   "title": "Repair Engineer",
+   "url": "https://careers.quest-global.com/global/en/job/P-118654",
+   "locations": [
+    "Winston-Salem, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784968791000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1784970482441
+  },
   {
    "key": "simplify:085d792a-4c79-4104-946c-89da75b559db",
    "company": "Bot Auto",
@@ -5757,63 +5816,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784153524000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:38c31d17-1f58-4475-945b-9f073f5b3fe8",
-   "company": "Voltus",
-   "title": "Software Engineer",
-   "url": "https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784153524000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:c3a35352-dd95-4e1d-8d8e-3e3638f11467",
-   "company": "Wyetech",
-   "title": "Software Engineer 1",
-   "url": "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784153161000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784157922655
-  },
-  {
-   "key": "simplify:e79aefdd-a0ab-47c7-8139-2d34c1e2b4a5",
-   "company": "The Boeing Company",
-   "title": "Entry Level Support Engineering Data Specialist",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Support-Engineering-Data-Specialist--Associate-_JR2026517149-1",
-   "locations": [
-    "Tukwila, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784154963000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
