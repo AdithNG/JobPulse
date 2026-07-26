@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-26T22:13:47.934Z",
+ "updatedAt": "2026-07-26T23:25:09.243Z",
  "jobs": [
+  {
+   "key": "simplify:15516d2c-266f-4437-aa09-f737ed54939c",
+   "company": "Retell AI",
+   "title": "Internal Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application?embed=true",
+   "locations": [
+    "San Carlos, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785106081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785108308447
+  },
+  {
+   "key": "simplify:2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf",
+   "company": "Retell AI",
+   "title": "Software Engineer",
+   "url": "https://jobs.ashbyhq.com/retell-ai/538ecfa9-2315-42a6-89cc-3cae52165526/application?embed=true",
+   "locations": [
+    "San Carlos, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785104821000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785108308447
+  },
   {
    "key": "simplify:e3601b6a-4638-441c-9854-c14ef8a978d7",
    "company": "Mosaic",
@@ -5785,44 +5823,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:6452af52-4f5e-468d-8fb2-34baca8a9840",
-   "company": "Commvault",
-   "title": "Entry-Level Software Engineer - AI/ML",
-   "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008",
-   "locations": [
-    "Shrewsbury, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784215678000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784220154455
-  },
-  {
-   "key": "simplify:67b263fd-9197-4c3c-bcf7-fdf6ef1c0343",
-   "company": "General Dynamics",
-   "title": "Engineer 1/2 - Communication Systems",
-   "url": "https://careers-gdeb.icims.com/jobs/19807/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Groton, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784215521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784220154455
   }
  ]
 }
