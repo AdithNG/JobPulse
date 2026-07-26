@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-07-26T09:45:38.779Z",
+ "updatedAt": "2026-07-26T11:11:13.578Z",
  "jobs": [
+  {
+   "key": "simplify:1d4ccaec-ea2e-4ca6-8715-9278732e08b4",
+   "company": "Leidos",
+   "title": "Software Developer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Software-Developer_R-00185862-1",
+   "locations": [
+    "Eagan, MN",
+    "Gaithersburg, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785059816000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785064272559
+  },
   {
    "key": "simplify:b916f41f-f7eb-4b6f-8f44-0548ef19671b",
    "company": "Huntington Ingalls Industries",
@@ -5798,25 +5818,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784206248000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784214576696
-  },
-  {
-   "key": "simplify:d45acc1f-f48c-4f62-8dd2-171e5665c943",
-   "company": "Road Runner",
-   "title": "Junior Applications Engineer",
-   "url": "https://wd1.myworkdaysite.com/en-US/recruiting/rrts/careers/job/Downers-Grove-IL/Junior-Applications-Engineer_R0002296-2",
-   "locations": [
-    "Downers Grove, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784205461000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
