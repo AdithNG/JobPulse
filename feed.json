@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-26T11:11:13.578Z",
+ "updatedAt": "2026-07-26T12:18:14.185Z",
  "jobs": [
+  {
+   "key": "simplify:e3601b6a-4638-441c-9854-c14ef8a978d7",
+   "company": "Mosaic",
+   "title": "Operations & Automation Engineering Co-op/Intern",
+   "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Operations---Automation-Engineering-Co-op-Intern---Spring-2027_64675-1",
+   "locations": [
+    "Bartow, FL"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785064476000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785068293562
+  },
+  {
+   "key": "simplify:5ca3bc72-43e4-4a36-b7b4-f89a490308c0",
+   "company": "BlackRock",
+   "title": "Portfolio Management Group Tech AI Engineer - Associate",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Portfolio-Management-Group-Tech-AI-Engineer--Associate_R265434",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785063847000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785068293562
+  },
   {
    "key": "simplify:1d4ccaec-ea2e-4ca6-8715-9278732e08b4",
    "company": "Leidos",
@@ -5785,44 +5823,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784220154455
-  },
-  {
-   "key": "simplify:72c67b39-d84c-46b6-b7b6-e9e97c47087d",
-   "company": "L3Harris Technologies",
-   "title": "Software Engineering Associate",
-   "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors",
-   "locations": [
-    "Palm Bay, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784215824000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784220154455
-  },
-  {
-   "key": "simplify:117c2f2b-e16b-44db-b634-e9cb1579b304",
-   "company": "Solar Turbines",
-   "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
-   "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784206248000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784214576696
   }
  ]
 }
