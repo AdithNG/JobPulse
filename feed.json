@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-26T04:50:29.760Z",
+ "updatedAt": "2026-07-26T07:32:20.725Z",
  "jobs": [
+  {
+   "key": "simplify:b916f41f-f7eb-4b6f-8f44-0548ef19671b",
+   "company": "Huntington Ingalls Industries",
+   "title": "Software Engineer 1",
+   "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors",
+   "locations": [
+    "Newport News, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785046322000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785051139903
+  },
+  {
+   "key": "simplify:654f8583-841f-42d1-9ffa-4687d0d8bcd1",
+   "company": "Vanderbilt Health",
+   "title": "C# / Angular Associate Application Developer",
+   "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/C----Angular-Associate-Application-Developer--Local---Hybrid-_R-63031-1",
+   "locations": [
+    "Nashville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785045961000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785051139903
+  },
   {
    "key": "simplify:8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
    "company": "Ambarella",
@@ -5784,44 +5822,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784214576696
-  },
-  {
-   "key": "simplify:1f641045-f717-4a41-9a0a-20d4a4e5092b",
-   "company": "Solar Turbines",
-   "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
-   "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784210580000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784214576696
-  },
-  {
-   "key": "simplify:38f5e07d-e077-4145-ace5-85e4eb815a92",
-   "company": "AllianceBernstein",
-   "title": "Developer - Wealth Planning Tools - Wealth Forecasting System",
-   "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2",
-   "locations": [
-    "Nashville, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1781907841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784200326486
   }
  ]
 }
