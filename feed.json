@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-25T23:44:10.726Z",
+ "updatedAt": "2026-07-26T01:18:53.659Z",
  "jobs": [
+  {
+   "key": "simplify:8fc7291e-0de8-484f-8554-ea5ae8d9b5dd",
+   "company": "Ambarella",
+   "title": "Algorithm Engineer Intern",
+   "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100102",
+   "locations": [
+    "United States"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784694079000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785028731792
+  },
   {
    "key": "simplify:cff6c5a6-5c4a-4f30-bb48-4543328cc059",
    "company": "Pennsylvania State University",
@@ -5803,25 +5822,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784200326486
-  },
-  {
-   "key": "simplify:3aa50c82-9381-4d06-bbd0-5f063ed38312",
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784190873000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784192653307
   }
  ]
 }
