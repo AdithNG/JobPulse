@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-27T01:11:47.867Z",
+ "updatedAt": "2026-07-27T04:54:57.036Z",
  "jobs": [
+  {
+   "key": "simplify:5dc00cee-4e2e-4533-9b44-94c295ffddd4",
+   "company": "Toshiba Global Commerce",
+   "title": "Agentic Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007",
+   "locations": [
+    "Durham, NC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785115591000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785128095646
+  },
+  {
+   "key": "simplify:3393d4cf-e1e5-47d1-8143-309545e4195f",
+   "company": "Toshiba Global Commerce",
+   "title": "AI Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007",
+   "locations": [
+    "Frisco, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785115305000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785128095646
+  },
   {
    "key": "simplify:15516d2c-266f-4437-aa09-f737ed54939c",
    "company": "Retell AI",
@@ -5780,44 +5818,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784241952000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:ac6dfc8f-7d5b-4f50-8a9a-4add4fa19f6c",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer - Level 2 or 3",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Software-Engineers--Level-2-or-3-_R10240742",
-   "locations": [
-    "Chantilly, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784241956000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:294e8c59-e444-4348-a3c1-ff277ced192b",
-   "company": "UTHealth Houston",
-   "title": "Clinical Interface Engineer Associate",
-   "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7371",
-   "locations": [
-    "San Antonio, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784240316000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
