@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-27T08:39:56.757Z",
+ "updatedAt": "2026-07-27T11:59:22.757Z",
  "jobs": [
+  {
+   "key": "simplify:172ad890-81ad-4e3a-ab8b-3e63d27b0a38",
+   "company": "DGR Systems",
+   "title": "Associate Engineer - Microsoft 365 Solutions",
+   "url": "https://ats.rippling.com/dgrsystems/jobs/8165421c-9513-46ad-9a80-78c676c49771",
+   "locations": [
+    "Tampa, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785141635000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785153561717
+  },
+  {
+   "key": "simplify:4f269b50-3cb1-4960-9d2f-c2b2a5f0a932",
+   "company": "Leidos",
+   "title": "Cybersecurity Product Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785149493000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785153561717
+  },
   {
    "key": "simplify:5dc00cee-4e2e-4533-9b44-94c295ffddd4",
    "company": "Toshiba Global Commerce",
@@ -5778,46 +5816,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784242419000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:b397dfd4-9a6c-4fbe-a24e-b1130513b7be",
-   "company": "Chevron Corporation",
-   "title": "Information Technology Engineer - Software Engineer",
-   "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1",
-   "locations": [
-    "Midland, TX",
-    "Houston, TX",
-    "Bakersfield, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784242193000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:efdc29ac-3896-4cea-8dfa-2a4eb0e9929d",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer Associate",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784241952000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
