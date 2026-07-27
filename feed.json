@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-07-27T11:59:22.757Z",
+ "updatedAt": "2026-07-27T15:07:35.638Z",
  "jobs": [
+  {
+   "key": "simplify:fa0ebc2b-c763-4683-926b-c4befa25a42e",
+   "company": "RTX",
+   "title": "Java Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785162723000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1785164854764
+  },
+  {
+   "key": "simplify:96f057ba-4984-4466-ad7a-4e8f75d1ddf9",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785163668000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785164854764
+  },
+  {
+   "key": "simplify:b87fb0cc-a6b4-405f-8642-7485bd8fffee",
+   "company": "Copart",
+   "title": "Data Engineer Intern",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110075",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785162556000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785164854764
+  },
+  {
+   "key": "simplify:da1edac2-c456-4ca2-abdc-5419d5c04292",
+   "company": "UW Credit Union",
+   "title": "Software Engineer 1",
+   "url": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Madison, WI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785163863000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785164854764
+  },
   {
    "key": "simplify:172ad890-81ad-4e3a-ab8b-3e63d27b0a38",
    "company": "DGR Systems",
@@ -5741,82 +5819,6 @@
    "sponsorship": "unknown",
    "posted": 1784239882000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:107d51de-17ca-4680-96a1-a86848cc5ca9",
-   "company": "Esri",
-   "title": "Web Developer 1 - UI for Arcgis Enterprise",
-   "url": "https://www.esri.com/careers/5188696007?gh_jid=5188696007",
-   "locations": [
-    "West Redlands, Redlands, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784242657000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:59a4a1d2-f693-4878-9ae5-7fea28c4d6e5",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer/Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10240868",
-   "locations": [
-    "Oklahoma City, OK"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784242617000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:4920c8bb-024e-4b58-a4b9-58fe968ee612",
-   "company": "Allegion",
-   "title": "Associate Analytics Engineer",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Associate-Analytics-Engineer_JR36667",
-   "locations": [
-    "Carmel, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784242084000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784250778903
-  },
-  {
-   "key": "simplify:a3d1960e-0ff9-4c33-a3c2-30e9652ee2ba",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software-Engineer---Huntsville-AL_R10240672-1",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784242419000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
