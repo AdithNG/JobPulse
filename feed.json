@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-07-28T04:30:49.341Z",
+ "updatedAt": "2026-07-28T07:21:08.278Z",
  "jobs": [
+  {
+   "key": "simplify:a3601998-ef72-41e2-80ff-7dfdfbd87143",
+   "company": "Savannah River Mission Completion",
+   "title": "Puridiom Java Developer – Associate or Mid-level IT Programmer Analyst",
+   "url": "https://careers-fsse-srmc.icims.com/jobs/2009/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "North Augusta, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785218581000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1785223267505
+  },
   {
    "key": "simplify:e3baf487-91f1-4382-825c-a0b8cbdd9ea8",
    "company": "NewsBreak",
@@ -5801,25 +5822,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784363007398
-  },
-  {
-   "key": "simplify:1619e24c-542d-4737-9c8d-d2da19828cee",
-   "company": "Bot Auto",
-   "title": "Software Engineer - Simulation Systems",
-   "url": "https://job-boards.greenhouse.io/botauto/jobs/5363495008",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784337121000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784348033958
   }
  ]
 }
