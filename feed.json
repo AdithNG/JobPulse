@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-07-27T23:46:09.487Z",
+ "updatedAt": "2026-07-28T01:11:15.988Z",
  "jobs": [
+  {
+   "key": "simplify:498eccae-caa0-431f-8c04-ffd7922d92a6",
+   "company": "Tesla",
+   "title": "Vehicle Software Intern - Vehicle Controls",
+   "url": "https://www.tesla.com/careers/search/job/278203",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785195096000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785201053094
+  },
+  {
+   "key": "simplify:5dbfce20-e73f-4080-acb5-e87c3799b33d",
+   "company": "Leidos",
+   "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00188211",
+   "locations": [
+    "Manassas, VA",
+    "Bethesda, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785195137000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785201053094
+  },
+  {
+   "key": "simplify:2361eb91-04c3-4c59-9b31-d26309c4ca59",
+   "company": "Cox Automotive",
+   "title": "Software Engineer 1",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785195104000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785201053094
+  },
+  {
+   "key": "simplify:8f70efd9-bbb5-49a2-8281-d6c0755dafe1",
+   "company": "The Trade Desk",
+   "title": "Software Engineer 1",
+   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785195034000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785201053094
+  },
+  {
+   "key": "simplify:2abdeb2f-c08f-453f-bcf4-452c264696d6",
+   "company": "Mitratech",
+   "title": "Software Engineer 1 - Assurehire - Go",
+   "url": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785195031000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785201053094
+  },
   {
    "key": "simplify:33e07ede-5d28-4a3b-bf01-3140aceac8da",
    "company": "SRI International",
@@ -5726,103 +5822,6 @@
     "full stack"
    ],
    "firstSeen": 1784336556078
-  },
-  {
-   "key": "simplify:a4eef38d-ac79-4a0d-9d92-3d515c380d75",
-   "company": "Altera Corporation",
-   "title": "AI Software Development Engineer Intern",
-   "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784332293000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784336556078
-  },
-  {
-   "key": "simplify:ddfdefdf-b2dc-4658-94dd-c253366dcb36",
-   "company": "Magnatech",
-   "title": "Associate Developer",
-   "url": "https://magnatech.io/technology-careers/?gh_jid=4716011005",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784332621000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784336556078
-  },
-  {
-   "key": "simplify:edd6aeac-fc67-4167-a57d-6fc4be8c5c17",
-   "company": "CVS Health",
-   "title": "AI Engineer",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/AI-Engineer_R0968098",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784332081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784336556078
-  },
-  {
-   "key": "simplify:aff3422f-383b-44e6-9d0f-918bc9bc2543",
-   "company": "SpaceX",
-   "title": "Software Engineer - Platform / Infrastructure - Starlink",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8632322002",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784327045000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1784331068065
-  },
-  {
-   "key": "simplify:9b8c84ef-c762-4da1-9f47-56e4a62375d5",
-   "company": "Deepgram",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784327313000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784331068065
   }
  ]
 }
