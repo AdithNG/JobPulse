@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-07-28T22:12:47.093Z",
+ "updatedAt": "2026-07-28T23:27:26.296Z",
  "jobs": [
+  {
+   "key": "simplify:2bac3eef-7c9a-432b-9261-87bd7c6669d4",
+   "company": "First Bank & Trust",
+   "title": "SharePoint/Power Platform Intern - SharePoint - Power Platform",
+   "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780",
+   "locations": [
+    "Brookings, SD"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785279365000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785281245341
+  },
+  {
+   "key": "simplify:08b821af-a2a3-42fa-b03d-fd9289252ec1",
+   "company": "Life.Church",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.lever.co/life/40e4d965-d90d-4408-bddf-b0f5e840648c/apply",
+   "locations": [
+    "Edmond, OK"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785276542000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785281245341
+  },
+  {
+   "key": "simplify:293a2db3-6ec7-465d-b8ba-1e20db33494f",
+   "company": "L3Harris Technologies",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413415700/?ats=successfactors",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785276693000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785281245341
+  },
+  {
+   "key": "simplify:94fd2be0-ad0f-4d9e-868d-305cdda3c042",
+   "company": "Nidec",
+   "title": "Software Engineer 2",
+   "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSACaliforniaRancho-Cordova-CA/Software-Engineer_R0012452",
+   "locations": [
+    "Rancho Cordova, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785279517000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785281245341
+  },
+  {
+   "key": "simplify:f9c4ac87-55f4-4b44-bb97-5e2f3ab430ea",
+   "company": "Linamar",
+   "title": "Product Engineer",
+   "url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14006",
+   "locations": [
+    "Livonia, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785278881000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785281245341
+  },
+  {
+   "key": "simplify:d6ad51e0-366b-4b13-b829-8c5dacf13565",
+   "company": "Apple",
+   "title": "Camera Framework Tooling Engineer - Photo Capture - Camera & Photos",
+   "url": "https://jobs.apple.com/en-us/details/200674154",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785277081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785281245341
+  },
   {
    "key": "simplify:2225cd46-4cec-4699-ad57-d987498d2ddc",
    "company": "Wash U",
@@ -5707,120 +5821,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784587134479
-  },
-  {
-   "key": "simplify:f09f0a56-4999-4d19-afb4-894ea819d401",
-   "company": "GE Healthcare",
-   "title": "Engineering Development Program Intern - Software",
-   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program-Intern---Software_R4043933-2",
-   "locations": [
-    "Waukesha, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784559831000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784565594034
-  },
-  {
-   "key": "simplify:ec5d8a02-e212-41b7-beae-22d51584065e",
-   "company": "The Boeing Company",
-   "title": "Entry Level Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1",
-   "locations": [
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784557997000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784565594034
-  },
-  {
-   "key": "simplify:329c34b0-2085-4389-8916-e5acd0bdb164",
-   "company": "KAYAK",
-   "title": "Associate Software Engineer",
-   "url": "https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application?embed=true",
-   "locations": [
-    "Concord, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784556901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784559448589
-  },
-  {
-   "key": "simplify:40cf634e-92e6-4592-983b-7d2595222420",
-   "company": "Globus Medical",
-   "title": "Associate Software Engineer",
-   "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1",
-   "locations": [
-    "King of Prussia, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784527742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784532790149
-  },
-  {
-   "key": "simplify:c8945595-20d2-46f8-8647-88f20add37e6",
-   "company": "SpaceX",
-   "title": "Software Engineer - Applied AI - Starlink",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8637712002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784453221000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784457618041
-  },
-  {
-   "key": "simplify:a6aaef17-692b-47d3-b343-0592b9b8d586",
-   "company": "The Boeing Company",
-   "title": "Associate Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1",
-   "locations": [
-    "Omaha, NE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784423881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784433381463
   }
  ]
 }
