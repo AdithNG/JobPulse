@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-28T14:45:48.730Z",
+ "updatedAt": "2026-07-28T16:25:39.754Z",
  "jobs": [
+  {
+   "key": "simplify:2225cd46-4cec-4699-ad57-d987498d2ddc",
+   "company": "Wash U",
+   "title": "Postdoctoral Research Associate - Engineering",
+   "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Danforth-Campus/Postdoctoral-Research-Associate---Engineering_JR96129",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785251535000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785255938985
+  },
   {
    "key": "simplify:d3981dc2-eb59-464b-bef9-70365bd9af64",
    "company": "Pennsylvania State University",
@@ -5802,27 +5821,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784433381463
-  },
-  {
-   "key": "simplify:09c87d1d-43ad-457b-b3ef-c2d74085e356",
-   "company": "Simpson Strong-Tie",
-   "title": "Software Engineer Associate - Cloud Services & API Platform - C#/Azure track",
-   "url": "https://strongtie.wd1.myworkdayjobs.com/en-US/External/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784401209000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1784404341189
   }
  ]
 }
