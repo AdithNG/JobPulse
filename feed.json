@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-07-28T12:12:52.336Z",
+ "updatedAt": "2026-07-28T14:45:48.730Z",
  "jobs": [
+  {
+   "key": "simplify:d3981dc2-eb59-464b-bef9-70365bd9af64",
+   "company": "Pennsylvania State University",
+   "title": "R&D Engineer Intern",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1",
+   "locations": [
+    "State College, PA",
+    "Reston, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785242973000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785249947803
+  },
+  {
+   "key": "simplify:7f814df9-4d07-4be5-b742-9ed37b9549a8",
+   "company": "RTX",
+   "title": "Software Engineer 2",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II--Onsite-_01855746",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785243277000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785249947803
+  },
+  {
+   "key": "simplify:553369f5-663d-4019-8901-6134f7102b4d",
+   "company": "Peraton",
+   "title": "Software Development Associate",
+   "url": "https://careers-peraton.icims.com/jobs/168949/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785248764000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785249947803
+  },
   {
    "key": "simplify:a3601998-ef72-41e2-80ff-7dfdfbd87143",
    "company": "Savannah River Mission Completion",
@@ -5765,63 +5823,6 @@
     "cloud"
    ],
    "firstSeen": 1784404341189
-  },
-  {
-   "key": "simplify:bdc202da-c93e-413f-ae34-0eb62dc56c07",
-   "company": "Amgen",
-   "title": "Engineer 1",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Engineer-I_R-242685",
-   "locations": [
-    "Thousand Oaks, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784389652000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784392692925
-  },
-  {
-   "key": "simplify:09b622fc-3724-4b0d-b819-3a5c3d6dfbd2",
-   "company": "Micron Technology",
-   "title": "Engineer – Metro Real-time Defect Analysis - Real-time Defect Analysis - Process & Equipment",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Engineer--Metro-Real-time-Defect-Analysis--RDA--Process---Equipment_JR94375",
-   "locations": [
-    "Leander, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784389141000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784392692925
-  },
-  {
-   "key": "simplify:bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7",
-   "company": "Walmart",
-   "title": "Software Engineer 2",
-   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784355722000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784363007398
   }
  ]
 }
