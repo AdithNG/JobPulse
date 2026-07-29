@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-07-29T14:54:19.171Z",
+ "updatedAt": "2026-07-29T16:35:41.865Z",
  "jobs": [
+  {
+   "key": "simplify:13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
+   "company": "Leidos",
+   "title": "Software Developer Intern",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785338863000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785342939985
+  },
+  {
+   "key": "simplify:3b22e93e-4d46-491f-9ba6-12c83ea4bb48",
+   "company": "American Express",
+   "title": "Data Engineer 1 - Global Servicing Technology",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011091",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785335491000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785342939985
+  },
+  {
+   "key": "simplify:9fc66465-c638-4a10-a6cc-877f7f9e1966",
+   "company": "GE Vernova",
+   "title": "AI Tool Developer Engineer",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/AI-Tool-Developer-Engineer_R5047870-2",
+   "locations": [
+    "Schenectady, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785338101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785342939985
+  },
+  {
+   "key": "simplify:4657472e-a2eb-4524-81f8-d95bef5db1d7",
+   "company": "CLEAResult",
+   "title": "QuickBase Developer",
+   "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Portland-OR---2000-SW-1st-Avenue/QuickBase-Developer_R0017884",
+   "locations": [
+    "Portland, OR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785338216000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785342939985
+  },
   {
    "key": "simplify:167abad4-6ad1-4afd-ac76-a97071a7a67b",
    "company": "Conduent",
@@ -5732,82 +5808,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784598123000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:81410c86-5eab-481e-b83a-d9aef5ae21a3",
-   "company": "Maigrate",
-   "title": "Junior AI Engineer",
-   "url": "https://jobs.ashbyhq.com/maigrate/8bfd51bb-0cef-4fc3-9b9d-5d30bce8d813/application?embed=true",
-   "locations": [
-    "Jamaica, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598123000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:85d5f698-d3a7-44d8-ba19-1f5bb9c76509",
-   "company": "DLS Engineering Associates, Inc.",
-   "title": "Mid-Level Software Engineer - Multiple Teams",
-   "url": "https://ats.rippling.com/dlsengineering/jobs/54c5b4d2-bd37-40e2-a157-cab7d8c4226b",
-   "locations": [
-    "St. Louis, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598467000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:00620949-7bbd-4342-a515-87e57990c860",
-   "company": "Supernova Technology",
-   "title": "Junior Software Engineer",
-   "url": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598359000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:235d8840-df58-48d8-8809-bcb07403c8c4",
-   "company": "Vortex Companies, LLC",
-   "title": "Robotic Engineering Technician",
-   "url": "https://ats.rippling.com/vortex-companies-llc/jobs/79676646-b359-4208-b23c-80f2f65a5963",
-   "locations": [
-    "Greenville, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598229000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
