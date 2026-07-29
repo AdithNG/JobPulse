@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-29T10:13:01.055Z",
+ "updatedAt": "2026-07-29T12:25:42.367Z",
  "jobs": [
+  {
+   "key": "simplify:a70201a1-bfeb-4b8f-953c-78e1ea281813",
+   "company": "Vibrant Emotional Health",
+   "title": "Salesforce Engineer 1",
+   "url": "https://vibrant.wd5.myworkdayjobs.com/VEH_EXTERNAL_CAREER_SITE/job/Remote-USA/Salesforce-Engineer-I_JR100169-1",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785321851000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785327941619
+  },
   {
    "key": "simplify:0d592991-3f3c-4b1b-b380-4395ca871e34",
    "company": "PathAI",
@@ -5782,25 +5801,6 @@
    "url": "https://jobs.ashbyhq.com/cohort/1ccefa5e-f19c-4753-99ff-e05cfdbf671e/application?embed=true",
    "locations": [
     "Naperville, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784596685000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:7b28ad1a-3b67-44fa-9397-e62fd4fab9d3",
-   "company": "Monogram",
-   "title": "Software Engineer",
-   "url": "https://jobs.ashbyhq.com/monogram/83fe2f22-953f-4848-b09c-fc9d78c655d1/application?embed=true",
-   "locations": [
-    "San Mateo, CA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
