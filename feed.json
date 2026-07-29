@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-29T04:25:54.818Z",
+ "updatedAt": "2026-07-29T07:22:56.263Z",
  "jobs": [
+  {
+   "key": "simplify:355b5e1d-f111-47b2-8e17-99593839fef6",
+   "company": "Brunswick",
+   "title": "Software Engineer Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
+   "locations": [
+    "Urbana, IL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785305930000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785309775504
+  },
+  {
+   "key": "simplify:30612f5b-226b-4ab8-9610-ae2ae82ca2a0",
+   "company": "NVIDIA",
+   "title": "Developer Technology Engineer New Grad - Public Sector",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784760166000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785309775504
+  },
+  {
+   "key": "simplify:49643f6b-95e6-4d37-af1d-1118ce4439cd",
+   "company": "Texas Sports Academy",
+   "title": "Junior Software Engineer - AI-Forward",
+   "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785305521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785309775504
+  },
   {
    "key": "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
    "company": "TikTok",
@@ -5755,67 +5812,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:23748ab0-91e3-4972-9291-59273e31a724",
-   "company": "Tavern Research",
-   "title": "Engineer 1",
-   "url": "https://ats.rippling.com/tavernresearch/jobs/bf39b76f-cfe0-47a0-ad25-0f9aa66fdcc6",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784600677000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:b67c806f-262a-4ec2-8ed1-de44ffbca035",
-   "company": "Google",
-   "title": "Software Engineer Intern - MS",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086",
-   "locations": [
-    "Palo Alto, CA",
-    "Cambridge, MA",
-    "Madison, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784591882000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784596278562
-  },
-  {
-   "key": "simplify:820400f1-d2e5-43b3-94b0-c8913692b46a",
-   "company": "Google",
-   "title": "Software Engineer Intern",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126",
-   "locations": [
-    "Palo Alto, CA",
-    "Cambridge, MA",
-    "Madison, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784591853000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784596278562
   }
  ]
 }
