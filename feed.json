@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-07-29T12:25:42.367Z",
+ "updatedAt": "2026-07-29T14:54:19.171Z",
  "jobs": [
+  {
+   "key": "simplify:167abad4-6ad1-4afd-ac76-a97071a7a67b",
+   "company": "Conduent",
+   "title": "Java Developer – Entry Level",
+   "url": "https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22738",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785334501000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1785336858450
+  },
+  {
+   "key": "simplify:a574a4cd-de72-4459-8bc1-2cde97524618",
+   "company": "Magna",
+   "title": "Engineer 1 - Software Algorithm",
+   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Engineer-I---Software-Algorithm_R00237795",
+   "locations": [
+    "Auburn Hills, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785327555000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785336858450
+  },
+  {
+   "key": "simplify:bea57c4a-be73-42eb-b6da-e93a1735c880",
+   "company": "Pennsylvania State University",
+   "title": "Software Research and Development Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000073411-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785329271000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785336858450
+  },
+  {
+   "key": "simplify:8ea72754-f0f4-4214-a82a-7dfe08a5b26c",
+   "company": "ElevenLabs",
+   "title": "Full-Stack Engineer - ElevenAPI",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/179541ee-8225-437b-b67d-d24c09240cd5/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785330865000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785336858450
+  },
+  {
+   "key": "simplify:6b03630d-0a84-4e5b-8cef-095cd0a12c22",
+   "company": "Logicbroker, Inc.",
+   "title": "Software Engineer",
+   "url": "https://ats.rippling.com/logicbroker-inc/jobs/3d23113d-d689-407d-af4b-57907b4e2a61",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785330804000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785336858450
+  },
+  {
+   "key": "simplify:c7546bb5-49ec-469b-8a16-49691bdd40dc",
+   "company": "RTX",
+   "title": "Program/Product Engineer 2",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-PUEBLO-050--50-William-White-Blvd--BLDG-50/Program-Product-Engineer-II--Onsite-_01860288",
+   "locations": [
+    "Pueblo, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785330345000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785336858450
+  },
+  {
+   "key": "simplify:c5ff9f6b-a9b1-42fb-a97c-480de7e81283",
+   "company": "Markon",
+   "title": "Software Engineer Level 1",
+   "url": "https://careers-markon.icims.com/jobs/8540/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Odenton, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785334501000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785336858450
+  },
   {
    "key": "simplify:a70201a1-bfeb-4b8f-953c-78e1ea281813",
    "company": "Vibrant Emotional Health",
@@ -5673,140 +5808,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784598229000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:4ad4d5d3-e2ca-4f73-aa5b-bffb158a1aad",
-   "company": "Proper Voltage",
-   "title": "Associate Product & Programs Engineer",
-   "url": "https://ats.rippling.com/proper-voltage/jobs/a24948f9-25cd-4174-94b9-a14dc8971939",
-   "locations": [
-    "Carlsbad, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598135000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:3bf25066-222f-48ac-827a-d9f4bec52703",
-   "company": "Bloom Growth",
-   "title": "Software Product Owner",
-   "url": "https://ats.rippling.com/bloomgrowth/jobs/34e67ce0-7c83-452f-8cf6-336c60defdfa",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598014000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:c5fcea16-f224-42aa-9e2e-6da4137424ee",
-   "company": "Runpod",
-   "title": "Full-Stack Software Engineer - Full-Stack",
-   "url": "https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784597962000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:49359bde-573c-4530-af6e-e13563e1ff13",
-   "company": "Castle",
-   "title": "Software Engineer",
-   "url": "https://jobs.ashbyhq.com/castle/932f2d90-0233-4f8c-9ca6-5bf63b88d6cd/application?embed=true",
-   "locations": [
-    "Cambridge, MA",
-    "Catskill, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784597404000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:40e2fdfc-acb5-47d6-8840-3499fd5901c8",
-   "company": "endeavorai.com",
-   "title": "Forward Deployed Engineer",
-   "url": "https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8/application?embed=true",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784597848000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:2ddc678f-eab8-41af-aace-5d5fb90b0e1d",
-   "company": "Hipp Health",
-   "title": "Software Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/hipp/ea04e914-674c-4c05-b40a-7e8a035bad14/application?embed=true",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784597790000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:de42fe19-a406-4689-988c-3c42fd8b0821",
-   "company": "Cohort AI Inc.",
-   "title": "Associate Data Engineer",
-   "url": "https://jobs.ashbyhq.com/cohort/1ccefa5e-f19c-4753-99ff-e05cfdbf671e/application?embed=true",
-   "locations": [
-    "Naperville, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784596685000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
