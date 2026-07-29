@@ -1,6 +1,104 @@
 {
- "updatedAt": "2026-07-29T21:36:28.565Z",
+ "updatedAt": "2026-07-29T22:38:34.321Z",
  "jobs": [
+  {
+   "key": "simplify:2057a6a2-9cb3-47f1-8662-38f1773c7a1c",
+   "company": "CACI",
+   "title": "Full Stack Developer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Full-Stack-Developer_329779",
+   "locations": [
+    "San Antonio, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785362944000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1785364713291
+  },
+  {
+   "key": "simplify:0ea4d18f-2790-404b-a61e-8a07c46a5523",
+   "company": "GE Healthcare",
+   "title": "Engineering Development Program",
+   "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
+   "locations": [
+    "Aurora, CO",
+    "Waukesha, WI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785364136000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785364713291
+  },
+  {
+   "key": "simplify:57e3c2b2-cace-4ed3-af66-6750ec47bbde",
+   "company": "Cetera Financial Group",
+   "title": "AI Engineer",
+   "url": "https://ebhu.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6517",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785362944000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785364713291
+  },
+  {
+   "key": "simplify:7b0c1480-d0b7-4999-8881-7cf5699e4aa9",
+   "company": "Cooper Companies",
+   "title": "Product Engineer 1 - Research and Development",
+   "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12101",
+   "locations": [
+    "Bridgeport, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785363329000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785364713291
+  },
+  {
+   "key": "simplify:72d55dcb-e320-4394-ba68-2a4ea45c18f3",
+   "company": "Tevora",
+   "title": "Associate Developer 1",
+   "url": "https://jobs.lever.co/tevora/e6dea5d8-d882-448f-80cd-e0f4a3b0589d/apply",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785363088000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785364713291
+  },
   {
    "key": "simplify:13dd6f9c-c173-4f09-aefe-7255a8bc03f6",
    "company": "Leidos",
@@ -5713,102 +5811,6 @@
    "sponsorship": "unknown",
    "posted": 1784596685000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:2391b68e-833b-4f9b-9a5a-1786185957f9",
-   "company": "Wildfire Defense Systems, Inc.",
-   "title": "Software Developer 2",
-   "url": "https://ats.rippling.com/wdscareers/jobs/7e1868fc-6ca3-4be2-99aa-885050075d1b",
-   "locations": [
-    "Post Falls, ID",
-    "Bozeman, MT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784596609000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:54eb8a09-3206-49de-ab52-5f7361b9dae4",
-   "company": "Zededa",
-   "title": "Software Engineer - AI & Edge Kubernetes Orchestration",
-   "url": "https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598911000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:a6c9e89f-2433-4341-82a6-aa201ad90379",
-   "company": "Zededa",
-   "title": "Software Engineer - Core team",
-   "url": "https://ats.rippling.com/zededa/jobs/f289c83c-1afd-47fd-bd2a-f57fdba3fd4e",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598744000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:87686f55-6312-4dc1-a69b-1b70710add27",
-   "company": "Morris Health Technologies Inc.",
-   "title": "Software Engineer 1",
-   "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true",
-   "locations": [
-    "Logan, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598614000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:66fa9c33-4570-4bc3-99ea-4ccffd19d14b",
-   "company": "Valinor",
-   "title": "Full-Stack Software Engineer - C2 & Tactical Integration",
-   "url": "https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e/application?embed=true",
-   "locations": [
-    "Monterey, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784598123000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
