@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-29T07:22:56.263Z",
+ "updatedAt": "2026-07-29T10:13:01.055Z",
  "jobs": [
+  {
+   "key": "simplify:0d592991-3f3c-4b1b-b380-4395ca871e34",
+   "company": "PathAI",
+   "title": "Software Engineering Mlops Co-op",
+   "url": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785314130000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785319979970
+  },
+  {
+   "key": "simplify:56706b17-a1d7-48dd-bba3-9ffdfd036a04",
+   "company": "Realm",
+   "title": "Software Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785317971000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785319979970
+  },
   {
    "key": "simplify:355b5e1d-f111-47b2-8e17-99593839fef6",
    "company": "Brunswick",
@@ -5763,44 +5801,6 @@
    "url": "https://jobs.ashbyhq.com/monogram/83fe2f22-953f-4848-b09c-fc9d78c655d1/application?embed=true",
    "locations": [
     "San Mateo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784596685000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:6d45c124-a55b-42b9-91ce-c2a6748876d5",
-   "company": "Embedding VC",
-   "title": "AI Research Engineer",
-   "url": "https://jobs.ashbyhq.com/embedding-vc/925e9460-e2db-45ee-86d3-69d497106272/application?embed=true",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784596685000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784608480538
-  },
-  {
-   "key": "simplify:ccec55af-3020-4ce4-9a46-d24c1dff05aa",
-   "company": "Archy",
-   "title": "Migration Automation Software Engineer",
-   "url": "https://jobs.ashbyhq.com/archy/5eb1c3cd-1031-4699-b89c-9bd94f15783b/application?embed=true",
-   "locations": [
-    "United States"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
