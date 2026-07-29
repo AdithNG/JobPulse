@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-07-29T01:02:00.583Z",
+ "updatedAt": "2026-07-29T04:25:54.818Z",
  "jobs": [
+  {
+   "key": "simplify:6219c04b-bc5c-4d14-90ea-426f117b51c0",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality",
+   "url": "https://lifeattiktok.com/search/7667690418804902149",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785287881000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785299154167
+  },
+  {
+   "key": "simplify:01a98038-5e8b-421a-9505-1e936c4c1648",
+   "company": "The Boeing Company",
+   "title": "Entry-Level Software Engineer-Developers",
+   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452",
+   "locations": [
+    "Seal Beach, CA",
+    "El Segundo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785288576000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785299154167
+  },
   {
    "key": "simplify:02855d39-751b-42b4-909c-814d9d98b768",
    "company": "Cloudflare",
@@ -5777,49 +5816,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784596278562
-  },
-  {
-   "key": "simplify:5fdbf0e9-e98a-4251-b983-801d494ae586",
-   "company": "Chicago Trading Company",
-   "title": "Software Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784587638000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1784590878256
-  },
-  {
-   "key": "simplify:e3161a79-bcb1-4574-9813-427804f6fd73",
-   "company": "The Hartford ",
-   "title": "Associate Software Engineer - Java",
-   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Software-Engineer---Java_R2626130",
-   "locations": [
-    "Charlotte, NC",
-    "Hartford, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784587141000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1784590878256
   }
  ]
 }
