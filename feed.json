@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-30T09:42:18.660Z",
+ "updatedAt": "2026-07-30T11:42:48.768Z",
  "jobs": [
+  {
+   "key": "simplify:69aff88e-4f1d-437a-82b3-be6100ddd3ea",
+   "company": "Rollout",
+   "title": "Founding Software Engineer",
+   "url": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application?embed=true",
+   "locations": [
+    "Louisville, KY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785406681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785411767949
+  },
   {
    "key": "simplify:0fe46774-0c06-4ab5-94e3-f5f8af293290",
    "company": "Tesla",
@@ -5792,25 +5811,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784614145000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784627905202
-  },
-  {
-   "key": "simplify:e612f074-ef4f-414c-9858-087d37613ed8",
-   "company": "University of Southern California",
-   "title": "Research Engineer 1",
-   "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Arlington-VA/Research-Engineer-I_REQ20175277-1",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784621126000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
