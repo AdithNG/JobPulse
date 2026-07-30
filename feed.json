@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-07-30T11:42:48.768Z",
+ "updatedAt": "2026-07-30T13:17:44.669Z",
  "jobs": [
+  {
+   "key": "simplify:ca7c8e33-3118-4603-b1b2-eefe6d2f3903",
+   "company": "Pennsylvania State University",
+   "title": "Signal Processing Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Engineer_REQ_0000077400-1",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785411808000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785417464059
+  },
+  {
+   "key": "simplify:f205101a-c504-424c-a768-a9e0ebb3adf3",
+   "company": "Pennsylvania State University",
+   "title": "Computer Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Engineer_REQ_0000077378-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785414681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785417464059
+  },
   {
    "key": "simplify:69aff88e-4f1d-437a-82b3-be6100ddd3ea",
    "company": "Rollout",
@@ -5778,44 +5816,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784634935994
-  },
-  {
-   "key": "simplify:7efb34c1-acda-40fa-b1e8-308f2ae2f6f3",
-   "company": "Torch Technologies",
-   "title": "Junior Engineer/Analyst",
-   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Engineer-Analyst_R1275",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784618461000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784634935994
-  },
-  {
-   "key": "simplify:deae7556-338a-40f3-98fa-3efd925ab57e",
-   "company": "Northrop Grumman",
-   "title": "Missile Modeling Infrared - Infrared Plume Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Missile-Modeling-Infrared--IR--Plume-Engineer---Level-2_R10232259",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784614145000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784627905202
   }
  ]
 }
