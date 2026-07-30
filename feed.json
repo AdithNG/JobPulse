@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-07-30T21:32:32.725Z",
+ "updatedAt": "2026-07-30T22:46:11.833Z",
  "jobs": [
+  {
+   "key": "simplify:c63937cc-49b3-4672-b316-c4e35731c6af",
+   "company": "Copart",
+   "title": "Software Engineer Intern",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785450369000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
+  {
+   "key": "simplify:25ff5a02-661b-4cf0-88b9-9bde21990ff2",
+   "company": "Westinghouse Electric Company",
+   "title": "Probabilistic Risk Assessment Engineer 1",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Probabilistic-Risk-Assessment-Engineer-I-NC/1414234600/?ats=successfactors",
+   "locations": [
+    "Grove City, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785450593000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
+  {
+   "key": "simplify:e2782551-ee25-4e02-a7f4-f2f46752bd8e",
+   "company": "Pyrovio",
+   "title": "Copilot Developer/AI Engineer",
+   "url": "https://pyrovio.breezy.hr/p/a0653fb2684d/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785449882000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
+  {
+   "key": "simplify:ad30a281-d114-4faa-9791-373a3fa5be68",
+   "company": "BP",
+   "title": "Environmental Engineer Low Carbon",
+   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Colorado---Denver/Environmental-Engineer_RQ113835",
+   "locations": [
+    "Houston, TX",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785450072000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
+  {
+   "key": "simplify:021f1a8a-72d0-45fe-b5ad-e0ba1a09c0d0",
+   "company": "Woven",
+   "title": "Software Engineer - Calibration - Analysis/Tool",
+   "url": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190/apply",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785449343000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
+  {
+   "key": "simplify:7f58512b-7c72-4449-b08a-f9bb3ba87acc",
+   "company": "Duke University",
+   "title": "Analytics Engineer",
+   "url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors",
+   "locations": [
+    "Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785449343000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
+  {
+   "key": "simplify:2d167d8e-a034-4b6d-a578-d0806e341bbd",
+   "company": "Amerisure",
+   "title": "Software Engineer 1",
+   "url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063",
+   "locations": [
+    "Southfield, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785449232000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785451570629
+  },
   {
    "key": "simplify:3de25395-1297-4e1d-b5f3-4924542251ad",
    "company": "National Laboratory of the Rockies",
@@ -5681,141 +5815,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784649451918
-  },
-  {
-   "key": "simplify:5d4273a4-4eda-4ac4-8656-a398851d11d7",
-   "company": "Everfox",
-   "title": "Software Engineer 1",
-   "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784645663000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784649451918
-  },
-  {
-   "key": "simplify:f8f8b7bc-4fd2-4440-aa0c-ad3f67e75989",
-   "company": "OCLC",
-   "title": "Analytics Engineer",
-   "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Analytics-Engineer_R0003839",
-   "locations": [
-    "Dublin, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784638622000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784649451918
-  },
-  {
-   "key": "simplify:acf0d0e1-8c4d-46ec-b752-fd7a1e27b611",
-   "company": "Northrop Grumman",
-   "title": "Modeling and Simulation Engineer - Level 2 or 3",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Modeling-and-Simulation-Engineer---Level-2-or-3_R10237626",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784619904000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784643246693
-  },
-  {
-   "key": "simplify:e8cc1f0b-b9c4-4556-9174-cb286c1e23f3",
-   "company": "Baker Tilly",
-   "title": "Associate Data Engineer",
-   "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-TX-Frisco/Associate-Data-Engineer_JR106581",
-   "locations": [
-    "Frisco, TX",
-    "Madison, WI",
-    "Tampa, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784623502000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784643246693
-  },
-  {
-   "key": "simplify:346f07a8-ce10-40ae-b1d9-948c14b7069e",
-   "company": "The Boeing Company",
-   "title": "Systems Engineering",
-   "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Springfield-VA/Systems-Engineering--Associate-or-Experienced-_JR2026514487-1",
-   "locations": [
-    "Springfield, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784640062000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784643246693
-  },
-  {
-   "key": "simplify:c15bfdd3-3e0a-4db0-9aac-d0a6f0027459",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer - Systems - BM/Srm",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Systems--BM-SRM--26-269-_R10235364",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784616304000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784634935994
-  },
-  {
-   "key": "simplify:be5d5745-ee84-4ae6-b172-d4332c7a7ef7",
-   "company": "Grand Canyon University",
-   "title": "Image Processing and Computer Vision - Adjunct Faculty - College of Engineering and Technology",
-   "url": "https://gcu.wd1.myworkdayjobs.com/GCU/job/AZ-Phoenix/Image-Processing-and-Computer-Vision---Adjunct-Faculty---Traditional-Campus----Fall-2026----College-of-Engineering-and-Technology_R000066594",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784617742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784634935994
   }
  ]
 }
