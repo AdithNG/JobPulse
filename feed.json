@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-07-30T22:46:11.833Z",
+ "updatedAt": "2026-07-30T23:47:45.218Z",
  "jobs": [
+  {
+   "key": "simplify:12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
+   "company": "GoDaddy",
+   "title": "Software Development Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003",
+   "locations": [
+    "Tempe, AZ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785450644000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785455264273
+  },
+  {
+   "key": "simplify:ac4ef6f6-759d-4722-84e4-20b1fcd59ac8",
+   "company": "Esri",
+   "title": "Product Engineer 1 - ArcGIS Maps SDKs",
+   "url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007",
+   "locations": [
+    "West Redlands, Redlands, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785451492000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785455264273
+  },
+  {
+   "key": "simplify:fd35bf7d-2a83-4c94-84df-7f5ae7a4429f",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer / Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785451256000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785455264273
+  },
+  {
+   "key": "simplify:6e9955f2-6e61-4e9c-9465-615ddfb93823",
+   "company": "Generac",
+   "title": "Application Engineer 1",
+   "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/USA---CO-Fort-Collins/Application-Engineer-I_JR15688",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785451064000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785455264273
+  },
+  {
+   "key": "simplify:d8fd75f8-9639-4a1e-a974-f68d2c24cad7",
+   "company": "Cisco",
+   "title": "Software Engineer 1",
+   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785451011000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785455264273
+  },
+  {
+   "key": "simplify:002edf7c-6a14-4eb5-ac0e-eea3094b22f4",
+   "company": "Axos Bank",
+   "title": "AI Engineer - Consumer IT AI Team",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785450998000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785455264273
+  },
   {
    "key": "simplify:c63937cc-49b3-4672-b316-c4e35731c6af",
    "company": "Copart",
@@ -5697,124 +5811,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:315c6fae-a358-463d-b03c-942573ef4064",
-   "company": "Westinghouse Electric Company",
-   "title": "Nuclear Analysis Tech C / Engineering Techs / Physics Techs",
-   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-Engineering-Techs-Physics-Techs-NC/1408720900/?ats=successfactors",
-   "locations": [
-    "Grove City, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784653742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:274aa428-8769-4ec7-ab3b-c7010c375afe",
-   "company": "CACI",
-   "title": "Junior Systems Engineer",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Systems-Engineer_328922",
-   "locations": [
-    "Springfield, VA",
-    "St. Louis, MO",
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784647262000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784660161667
-  },
-  {
-   "key": "simplify:263f198b-2169-4ff2-bfd5-465b3b33e059",
-   "company": "Texas A&M University System",
-   "title": "Associate Software Applications Developer 1",
-   "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Associate-Software-Applications-Developer-I_R-094102",
-   "locations": [
-    "College Station, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782137654000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784655521979
-  },
-  {
-   "key": "simplify:dfc6abcd-7f1b-4472-abff-5d0f26bab592",
-   "company": "Onto Innovation",
-   "title": "Applications Engineer 3",
-   "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Applications-Engineer-3_R-6211",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784652302000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784655521979
-  },
-  {
-   "key": "simplify:f6865848-c6d8-4488-a94b-ee21317efaa1",
-   "company": "Travelers",
-   "title": "Software Engineer 1 - Guidewire Policy Configuration",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545",
-   "locations": [
-    "Sparks, MD",
-    "Hartford, CT",
-    "St Paul, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784645835000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784649451918
-  },
-  {
-   "key": "simplify:f05a32fb-9cb5-4c9f-9c79-8f522cc6b6ef",
-   "company": "GRAIL",
-   "title": "Data Analytics Engineer 1",
-   "url": "https://jobs.lever.co/grailbio/475f2338-6a6a-450b-a851-f47c93a33e69/apply",
-   "locations": [
-    "Durham, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784645720000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784649451918
   }
  ]
 }
