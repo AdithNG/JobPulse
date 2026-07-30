@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-30T13:17:44.669Z",
+ "updatedAt": "2026-07-30T15:27:52.331Z",
  "jobs": [
+  {
+   "key": "simplify:3de25395-1297-4e1d-b5f3-4924542251ad",
+   "company": "National Laboratory of the Rockies",
+   "title": "Research Engineer",
+   "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Research-Engineer---Machine-learning-applications-to-power-system-operations_R14435",
+   "locations": [
+    "Golden, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785420721000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785425271499
+  },
   {
    "key": "simplify:ca7c8e33-3118-4603-b1b2-eefe6d2f3903",
    "company": "Pennsylvania State University",
@@ -5792,25 +5811,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784617742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784634935994
-  },
-  {
-   "key": "simplify:3115293e-b441-44c4-a702-ffbbf8b9ef9e",
-   "company": "Ryder System",
-   "title": "Application Support Engineer 1",
-   "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446",
-   "locations": [
-    "Coral Gables, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784629277000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
