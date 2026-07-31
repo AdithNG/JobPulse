@@ -1,6 +1,139 @@
 {
- "updatedAt": "2026-07-31T10:50:42.499Z",
+ "updatedAt": "2026-07-31T12:51:25.662Z",
  "jobs": [
+  {
+   "key": "simplify:c0af9d72-1728-4150-80da-21fdc78a0bbb",
+   "company": "Colonist",
+   "title": "Product Developer Intern",
+   "url": "https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785499021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
+  {
+   "key": "simplify:b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3",
+   "company": "Reverb",
+   "title": "Software Engineer-Shipping",
+   "url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785494217000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
+  {
+   "key": "simplify:d0c5c25a-e0ac-488e-8b2f-feb1134545b5",
+   "company": "FlexGen",
+   "title": "Energy Storage Application Engineer - Data Center",
+   "url": "https://ats.rippling.com/external-job-board/jobs/919d9328-a3a9-4932-b69a-93258670da2f",
+   "locations": [
+    "Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785495110000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
+  {
+   "key": "simplify:da170a22-9c31-4c51-8a59-7f3578b94753",
+   "company": "BlackRock",
+   "title": "Associate – Frontend Software Engineer - React",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React-_R264790",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785496715000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
+  {
+   "key": "simplify:dc78ae5b-1e53-4193-9e47-0549b350dd79",
+   "company": "Intel",
+   "title": "System Software Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineer_JR0285048",
+   "locations": [
+    "Hillsboro, OR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785499153000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
+  {
+   "key": "simplify:d49d4a3f-dcd1-4699-9cad-00b2bbc628dc",
+   "company": "Pennsylvania State University",
+   "title": "Simulation Software Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785498009000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
+  {
+   "key": "simplify:b7d89584-5255-481b-839d-d772ddca1830",
+   "company": "POET",
+   "title": "Developer 1 - I",
+   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Developer-I_R101525",
+   "locations": [
+    "Sioux Falls, SD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785500409000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785502285052
+  },
   {
    "key": "simplify:17699a31-38e1-4e82-b409-fe317a841c6f",
    "company": "Fidelity Investments",
@@ -5674,146 +5807,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784673658828
-  },
-  {
-   "key": "simplify:e93e54ef-8346-4df2-bd91-dd2a9f14956a",
-   "company": "WellSky",
-   "title": "Associate Software Engineer",
-   "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---Onsite_JR4907",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782166333000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784670146783
-  },
-  {
-   "key": "simplify:d5b47b14-ab65-44e1-b532-56a96b46ed94",
-   "company": "Barr",
-   "title": "Geologist/Geological Engineer Entry Level",
-   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Jefferson-City-MO/Geologist-Geological-Engineer---Entry-Level--Hybrid-_R-102144",
-   "locations": [
-    "Jefferson City, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784665389000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784670146783
-  },
-  {
-   "key": "simplify:bef822fd-5ed1-4394-b834-0255fb9e992e",
-   "company": "ONEOK",
-   "title": "Engineer 1 Engineering Development Program",
-   "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/FTE--Engineer-I-EDP-Program_R7775-1",
-   "locations": [
-    "Tulsa, OK"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784665274000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784670146783
-  },
-  {
-   "key": "simplify:12dac20b-912f-4745-8fc4-76b5c94d7d2d",
-   "company": "Northrop Grumman",
-   "title": "Structural Analysis Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985",
-   "locations": [
-    "Palmdale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784664269000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784670146783
-  },
-  {
-   "key": "simplify:3b6ae373-3a19-4ff6-98d5-02c593359a00",
-   "company": "Travelers",
-   "title": "Data Engineer 1 - Aws - Databricks",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Databricks-_R-51521",
-   "locations": [
-    "Hartford, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784661496000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "aws"
-   ],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:373ffa0d-6efb-4fdc-9e34-45018a822f3d",
-   "company": "NVIDIA",
-   "title": "Compiler Engineer New Grad - Infrastructure",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228",
-   "locations": [
-    "Austin, TX",
-    "Remote in USA",
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784662640000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:01ae98fa-826d-40b3-990a-3254933cd747",
-   "company": "Axon",
-   "title": "Software Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003",
-   "locations": [
-    "Boston, MA",
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784662669000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784665371450
   }
  ]
 }
