@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-31T15:16:01.419Z",
+ "updatedAt": "2026-07-31T16:59:53.899Z",
  "jobs": [
+  {
+   "key": "simplify:c901668e-e666-4a15-8b45-9e6d79ac332a",
+   "company": "KLA Corporation",
+   "title": "Product Development Engineer",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Product-Development-Engineer_2638788",
+   "locations": [
+    "Paterson, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785511261000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785517192870
+  },
   {
    "key": "simplify:fe6f340c-a4df-4a15-b14f-5d0a4ccea31f",
    "company": "Pennsylvania State University",
@@ -5786,25 +5805,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:04b12d83-7012-4bc9-b2c2-f3fea47e301b",
-   "company": "Ciena",
-   "title": "Enterprise Integration Developer",
-   "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/Enterprise-Integration-Developer_R030725",
-   "locations": [
-    "Baltimore, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784664542000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784677362408
   }
  ]
 }
