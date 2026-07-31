@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-07-31T04:52:13.447Z",
+ "updatedAt": "2026-07-31T08:05:11.774Z",
  "jobs": [
+  {
+   "key": "simplify:b5c7fd89-4672-4907-87b7-68a4b6957acb",
+   "company": "Tesla",
+   "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
+   "url": "https://www.tesla.com/careers/search/job/278703",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785478904000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785485110824
+  },
   {
    "key": "simplify:12d18ee4-5916-44bb-8d90-d5b39f8a7c4b",
    "company": "GoDaddy",
@@ -5787,25 +5806,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784663049000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:09196c2e-4267-4ca4-b899-14fa16e52c59",
-   "company": "Akamai Technologies",
-   "title": "Software Engineer",
-   "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784662880000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
