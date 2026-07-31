@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-07-31T22:38:44.972Z",
+ "updatedAt": "2026-07-31T23:42:55.686Z",
  "jobs": [
+  {
+   "key": "simplify:c911e5bb-b9e8-4e01-963b-4cf92e087878",
+   "company": "Ursa Major",
+   "title": "Configuration Engineer 1",
+   "url": "https://ursamajor.com/careers/?gh_jid=4720277005",
+   "locations": [
+    "Berthoud, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785538318000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785541375076
+  },
+  {
+   "key": "simplify:74a989fe-b773-400b-ad75-106de8e3267e",
+   "company": "KLA",
+   "title": "Software Engineer - HPC",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/High-Performance-Computing--HPC----Software-Engineer_2638954",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785538012000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785541375076
+  },
+  {
+   "key": "simplify:a1b78398-f928-4540-906d-107312019bc7",
+   "company": "State Street",
+   "title": "Junior SIEM Data Engineer",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
+   "locations": [
+    "Quincy, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785540241000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785541375076
+  },
+  {
+   "key": "simplify:cfeb11b9-ce3a-4296-9dba-69307b8df18d",
+   "company": "Cadence Design Systems",
+   "title": "Application Software Developer New Grad",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
+   "locations": [
+    "Livonia, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785540039000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785541375076
+  },
+  {
+   "key": "simplify:ab74ecca-af20-483d-9d93-2db6d26feb93",
+   "company": "Cadence Design Systems",
+   "title": "Multibody Dynamics Application Software Developer New Grad - Adams",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-MultiBody-Dynamics-Application-Software-Developer--Recent-Grad-2026-_R55788",
+   "locations": [
+    "Livonia, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785540052000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785541375076
+  },
+  {
+   "key": "simplify:247fd114-6046-4c46-853c-a15c455a2486",
+   "company": "Deloitte",
+   "title": "Software Engineering Analyst - Consultative Offerings",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Software-Engineering/350472",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785539638000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785541375076
+  },
   {
    "key": "simplify:4ff8ce00-d5ca-486c-b103-e438be53ee1a",
    "company": "Manulife Financial",
@@ -5691,122 +5805,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:313831ca-ffcc-4bd3-a849-b96c643c8df9",
-   "company": "Ask IT Consulting",
-   "title": ".NET Developer",
-   "url": "https://jobs.smartrecruiters.com/AskITConsulting/112581670",
-   "locations": [
-    "Greenville, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784685774000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:21d62d0d-885a-455d-b351-7f9ef87a1904",
-   "company": "L3Harris Technologies",
-   "title": "Software Engineer Associate",
-   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1410863700/?ats=successfactors",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784685614000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:bbb4cfe5-a327-4309-86a0-3fc83e080711",
-   "company": "Niagara Bottling",
-   "title": "Systems Engineer 1",
-   "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R55432",
-   "locations": [
-    "Walnut, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784688248000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:767f1d89-f1fa-4d06-bf5c-a61d9c738f7c",
-   "company": "WGU",
-   "title": "Software Engineer Python/Angular",
-   "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784678239000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "python"
-   ],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:800e06ea-4a8a-4db5-a93a-7aae82cfac49",
-   "company": "Virtu Financial",
-   "title": "Software Engineer Intern - Software Engineer",
-   "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784680915000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:9745ac46-fc40-486b-bdb3-c61ecf57fa66",
-   "company": "xAI",
-   "title": "Internal Tools Engineer",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5052038007",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782090939000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
   }
  ]
 }
