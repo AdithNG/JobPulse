@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-07-31T21:32:35.044Z",
+ "updatedAt": "2026-07-31T22:38:44.972Z",
  "jobs": [
+  {
+   "key": "simplify:4ff8ce00-d5ca-486c-b103-e438be53ee1a",
+   "company": "Manulife Financial",
+   "title": "Full Stack Software Engineer - Fund Administration IT",
+   "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26070424-2",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785535562000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1785537524290
+  },
+  {
+   "key": "simplify:443c6322-3e3b-48b4-9fd4-3a9c04931db8",
+   "company": "Altice USA",
+   "title": "Data Engineer Intern",
+   "url": "https://www.optimumcareers.com/job/Long-Island-City-Intern-Data-Engineer-NY-11101/1414286700/?ats=successfactors",
+   "locations": [
+    "Long Island City, Queens, NY"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785536925000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785537524290
+  },
+  {
+   "key": "simplify:48921fdc-0754-40c8-91cc-f5e1bb6277bb",
+   "company": "NewsBreak",
+   "title": "Software Engineer Junior New Grad - ML Infra",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785536688000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785537524290
+  },
+  {
+   "key": "simplify:8d1a8f69-8cf2-44eb-8e74-0921d29de230",
+   "company": "Clearwater Analytics",
+   "title": "Associate Software Development Engineer",
+   "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R11879",
+   "locations": [
+    "Boise, ID"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785535921000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785537524290
+  },
+  {
+   "key": "simplify:448885da-fdf1-4759-b904-870c29e0369e",
+   "company": "General Motors",
+   "title": "Software Developer - Virtualization and SIL Integration",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Virtualization-and-SIL-Integration_JR-202610792",
+   "locations": [
+    "Milford, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785536235000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785537524290
+  },
   {
    "key": "simplify:c901668e-e666-4a15-8b45-9e6d79ac332a",
    "company": "KLA Corporation",
@@ -5705,101 +5802,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1782090939000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:7201fef9-2990-4336-9766-3088f919731f",
-   "company": "Texas Instruments",
-   "title": "Career Accelerator Program - Product Engineer",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003917",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784671761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:598cd323-ba48-48d2-84cd-5d2cf2361bfb",
-   "company": "Humana",
-   "title": "SFDC/BPM Junior Developer",
-   "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/SFDC-BPM-Junior-Developer_R-420716",
-   "locations": [
-    "Louisville, KY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784672479000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:c36a8b5c-110b-4f94-a44c-d0f1fa8e4b22",
-   "company": "Westinghouse Electric Company",
-   "title": "Safety Software Engineer 1&C HMI Systems",
-   "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors",
-   "locations": [
-    "Cranberry Twp, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784678742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:e1ad5c14-e8ab-4797-95ce-3508ef2c3839",
-   "company": "Wells Fargo",
-   "title": "Engineering Associate - Mainframe Systems",
-   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Engineering-Associate---Mainframe-Systems_R-559987",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784681119000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784682704513
-  },
-  {
-   "key": "simplify:0921cc7c-5118-4b58-bb30-c23a720502d9",
-   "company": "Micron Technology",
-   "title": "Full-Stack AI Engineer",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Full-Stack-AI-Engineer_JR106377",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784678959000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
