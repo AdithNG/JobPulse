@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-07-31T12:51:25.662Z",
+ "updatedAt": "2026-07-31T15:16:01.419Z",
  "jobs": [
+  {
+   "key": "simplify:fe6f340c-a4df-4a15-b14f-5d0a4ccea31f",
+   "company": "Pennsylvania State University",
+   "title": "DevSecOps Research Computing Software Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785505331000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785510960735
+  },
+  {
+   "key": "simplify:899119f2-65a4-4b58-bbf8-884ec290abcd",
+   "company": "Pennsylvania State University",
+   "title": "Navigation Analysis Research and Development Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Navigation-Analysis-Research-and-Development-Engineer_REQ_0000076265-2",
+   "locations": [
+    "Horsham, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785505063000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785510960735
+  },
+  {
+   "key": "simplify:f49965a8-66d7-460e-aefb-c756911f4dff",
+   "company": "L3Harris Technologies",
+   "title": "Software Engineering Associate",
+   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785507282000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785510960735
+  },
   {
    "key": "simplify:c0af9d72-1728-4150-80da-21fdc78a0bbb",
    "company": "Colonist",
@@ -5748,65 +5805,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784677362408
-  },
-  {
-   "key": "simplify:684c7d2c-b34e-4cf6-95e4-d11be0cc5565",
-   "company": "Littelfuse",
-   "title": "Intern 1 - Engineering",
-   "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116",
-   "locations": [
-    "Gastonia, NC"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784672549000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784673658828
-  },
-  {
-   "key": "simplify:c3f3ab90-4bb8-472e-8014-d03c8539633f",
-   "company": "Exact Sciences",
-   "title": "Automation Engineer 1 - R&D",
-   "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---CA---San-Diego/Automation-Engineer-I--R-D_R26-13732",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784672047000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784673658828
-  },
-  {
-   "key": "simplify:cca94237-baad-4b30-b8db-11bba0c08426",
-   "company": "Duke Energy",
-   "title": "Engineering Design Associate",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Greensboro-NC/Engineering-Design-Associate_R40575",
-   "locations": [
-    "Advance, NC",
-    "Winston-Salem, NC",
-    "Greensboro, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784672067000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784673658828
   }
  ]
 }
