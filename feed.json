@@ -1,6 +1,66 @@
 {
- "updatedAt": "2026-07-31T08:05:11.774Z",
+ "updatedAt": "2026-07-31T10:50:42.499Z",
  "jobs": [
+  {
+   "key": "simplify:17699a31-38e1-4e82-b409-fe317a841c6f",
+   "company": "Fidelity Investments",
+   "title": "Software Engineer",
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
+   "locations": [
+    "Westlake, TX",
+    "Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785491188000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785495041724
+  },
+  {
+   "key": "simplify:2cf04723-b22e-46b7-995d-d613b616e5b1",
+   "company": "Hitachi Energy",
+   "title": "Process Engineering Technician",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Process-Engineering-Technician_R0135210-1",
+   "locations": [
+    "Danville, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785491186000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785495041724
+  },
+  {
+   "key": "simplify:b3f1d4e0-dd2c-42b1-b5e9-3075cb96e6ea",
+   "company": "Oracle",
+   "title": "Application Software Engineer",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334471",
+   "locations": [
+    "Orlando, FL",
+    "Nashville, TN",
+    "Kansas City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785492721000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785495041724
+  },
   {
    "key": "simplify:b5c7fd89-4672-4907-87b7-68a4b6957acb",
    "company": "Tesla",
@@ -5750,63 +5810,6 @@
    "sponsorship": "unknown",
    "posted": 1784662669000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:ab31b2e7-d70c-4b00-9f94-375767675a53",
-   "company": "The Boeing Company",
-   "title": "Modernization Software Engineer – Associate or Mid-Level",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026519283-1",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784652302000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:3308ac34-523a-4204-824a-4cbe54e395b0",
-   "company": "Leidos",
-   "title": "Radar Sustainment Engineer - System Model Development",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Sustainment-Engineer---System-Model-Development_R-00187367",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784661313000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784665371450
-  },
-  {
-   "key": "simplify:c51c2471-daca-4788-9be1-bbcafa9e02c0",
-   "company": "General Dynamics",
-   "title": "Configuration and Logistics Data Analyst 1 - Engineering",
-   "url": "https://careers-gdbiw.icims.com/jobs/5255/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Brunswick, ME"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784663049000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
