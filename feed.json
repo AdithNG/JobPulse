@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-08-01T09:32:23.299Z",
+ "updatedAt": "2026-08-01T11:04:04.171Z",
  "jobs": [
+  {
+   "key": "simplify:249582ff-82d0-4883-adda-90d4315e8a98",
+   "company": "Susquehanna International Group (SIG)",
+   "title": "Trading System Engineer Intern",
+   "url": "https://careers-sig.icims.com/jobs/11169/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "United States"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785578746000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "trading"
+   ],
+   "firstSeen": 1785582243431
+  },
   {
    "key": "simplify:12aa2c6b-b760-419c-820f-79b597d212da",
    "company": "Apple",
@@ -5788,26 +5809,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:e01898a9-7ee0-4abc-a2e4-d7973c542041",
-   "company": "Castleton Commodities International",
-   "title": "Data Engineering Intern",
-   "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346",
-   "locations": [
-    "Houston, TX",
-    "Stamford, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784685821000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1784694998111
   }
  ]
