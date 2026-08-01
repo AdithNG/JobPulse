@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-08-01T01:20:14.022Z",
+ "updatedAt": "2026-08-01T04:47:17.009Z",
  "jobs": [
+  {
+   "key": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
+   "company": "Wolverine Trading",
+   "title": "Entry-Level C++ Software Engineer",
+   "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785547441000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "trading"
+   ],
+   "firstSeen": 1785559636132
+  },
+  {
+   "key": "simplify:68d9d4d0-a1b3-4673-a429-1d2524909e32",
+   "company": "Microchip Technology",
+   "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
+   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
+   "locations": [
+    "Chandler, AZ"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785547375000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785559636132
+  },
+  {
+   "key": "simplify:ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d",
+   "company": "Tesla",
+   "title": "Software Compiler Engineer Intern - AI Inference",
+   "url": "https://www.tesla.com/careers/search/job/278847",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785547853000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785559636132
+  },
+  {
+   "key": "simplify:59aaa50c-6f7f-427b-950f-8b772440e208",
+   "company": "Quora",
+   "title": "Software Engineer New Grad - Machine Learning Platform",
+   "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785547666000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785559636132
+  },
+  {
+   "key": "simplify:15b8e425-7774-43c9-9a6b-93b969bef2a3",
+   "company": "Asure",
+   "title": "Associate Software Engineer",
+   "url": "https://asuresoftware.bamboohr.com/careers/1020/",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785547466000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785559636132
+  },
   {
    "key": "simplify:c911e5bb-b9e8-4e01-963b-4cf92e087878",
    "company": "Ursa Major",
@@ -5703,103 +5800,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784681119000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:c2a64f1a-65f7-4c6f-840f-518f7696cf6d",
-   "company": "Western Digital",
-   "title": "Configuration Specialist Engineer",
-   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138714070",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784681119000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:831d8752-6c94-411b-8fef-685284bf3e82",
-   "company": "Allen Control Systems",
-   "title": "Junior Computer Vision & Machine Learning Engineer",
-   "url": "https://jobs.ashbyhq.com/allen-control-systems/cfb348d0-ab31-4fa5-9bd5-def1de764ca9/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784684615000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:b8b13950-f977-4efa-a16f-25c7dfd1d262",
-   "company": "Travelers",
-   "title": "Data Engineer 1 - Multiple Teams",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-50910",
-   "locations": [
-    "Hartford, CT",
-    "Richardson, TX",
-    "St Paul, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784687012000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:6a810ab1-0940-4ee9-970b-0bc36edcfb2a",
-   "company": "Huron",
-   "title": "Digital Consulting Associate - Salesforce Omni Developer",
-   "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Digital-Consulting-Associate--Salesforce-Omni-Developer_JR-0015844",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784682559000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:7ab1c033-3124-4e15-9c57-6e49cbba7061",
-   "company": "Duracell",
-   "title": "Forward Deployed Engineer - AI Solutions",
-   "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1337",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784683998000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
