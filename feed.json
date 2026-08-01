@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-01T15:18:33.281Z",
+ "updatedAt": "2026-08-01T16:27:04.897Z",
  "jobs": [
+  {
+   "key": "simplify:3da38c8c-84b4-4241-baac-86f895a2bc4f",
+   "company": "Hendrick Motorsports",
+   "title": "Project and Race Support Engineer Intern",
+   "url": "https://hendrick.wd5.myworkdayjobs.com/HMSCareers/job/Hendrick-Motorsports/Project-and-Race-Support-Engineer-Spring-2027---Internship_R-81647",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785599619000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785601623924
+  },
+  {
+   "key": "simplify:52f9eadc-60f4-4611-acc4-ff1bb10ee61c",
+   "company": "OneDigital",
+   "title": "Data Engineer",
+   "url": "https://onedigital.wd5.myworkdayjobs.com/onedigital/job/Atlanta-GA/Data-Engineer_R9062",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785596941000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785601623924
+  },
+  {
+   "key": "simplify:58ef82e0-8648-4b2b-8976-fee15467601b",
+   "company": "Peraton",
+   "title": "Software Engineer",
+   "url": "https://careers-peraton.icims.com/jobs/167887/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Blacksburg, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785597841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785601623924
+  },
   {
    "key": "simplify:52380edf-9fbc-4ef4-b33a-33bf00d230a4",
    "company": "Cboe",
@@ -5744,63 +5801,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784729901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784735694577
-  },
-  {
-   "key": "simplify:3338f52b-1609-4387-84c5-cd609da9c84e",
-   "company": "Acxiom",
-   "title": "Associate Software Engineer",
-   "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/3397/Associate-Software-Engineer_JR014379",
-   "locations": [
-    "Jacksonville, AR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784729360000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784735694577
-  },
-  {
-   "key": "simplify:1da6cc61-1253-4949-8dcd-75e3f4e196c4",
-   "company": "Google",
-   "title": "Data Engineer - Gup Engineering",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/143481941373395654",
-   "locations": [
-    "Boulder, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784729360000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784735694577
-  },
-  {
-   "key": "simplify:53ebfe93-4676-4ec0-ba1f-2d6d66df5e5a",
-   "company": "Ameren",
-   "title": "Engineering Representative",
-   "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Collinsville-IL/Engineering-Rep--Electric-and-Gas-Distribution-Mapping-Specialist-_033703",
-   "locations": [
-    "Collinsville, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784729620000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
