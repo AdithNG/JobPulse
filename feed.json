@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-01T14:02:52.108Z",
+ "updatedAt": "2026-08-01T15:18:33.281Z",
  "jobs": [
+  {
+   "key": "simplify:52380edf-9fbc-4ef4-b33a-33bf00d230a4",
+   "company": "Cboe",
+   "title": "Technical Content Engineer",
+   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Technical-Content-Engineer_R-4455",
+   "locations": [
+    "Kansas City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785595141000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785597512324
+  },
+  {
+   "key": "simplify:a98768c3-1d79-4f8a-89a9-d3357004a2de",
+   "company": "Apple",
+   "title": "AI Software Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200666380",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785594241000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785597512324
+  },
   {
    "key": "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1",
    "company": "Marmon Holdings",
@@ -5768,44 +5806,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784735694577
-  },
-  {
-   "key": "simplify:b1a50830-e5ae-4f43-a69b-471c3c58ea97",
-   "company": "GE Appliances",
-   "title": "Engineering Co-op",
-   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2026_REQ-23567",
-   "locations": [
-    "Calhoun, GA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784724450000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784729819613
-  },
-  {
-   "key": "simplify:99d03a1a-766a-4c0d-92a6-d283adc7583a",
-   "company": "Walmart",
-   "title": "Software Engineer 3",
-   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2578445-1",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784717579000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784721407664
   }
  ]
 }
