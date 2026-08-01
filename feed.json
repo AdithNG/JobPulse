@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-08-01T21:05:08.004Z",
+ "updatedAt": "2026-08-01T22:10:29.855Z",
  "jobs": [
+  {
+   "key": "simplify:9e130b58-5f39-4a5b-b464-85ddbc71940d",
+   "company": "Kearney",
+   "title": "Full Stack Developer",
+   "url": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX",
+   "locations": [
+    "Boston, MA",
+    "Washington, DC",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785620101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1785622228998
+  },
+  {
+   "key": "simplify:8e39caee-5981-4592-85be-242f01506e38",
+   "company": "Cruise Planners",
+   "title": "Data & AI Engineer",
+   "url": "https://ats.rippling.com/cruiseplanners/jobs/e6ae477d-6a3c-45aa-ade1-21414fe119f9",
+   "locations": [
+    "Coral Springs, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785619455000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785622228998
+  },
+  {
+   "key": "simplify:b75b33ad-8ca9-41fa-93dd-45a8df47f6c1",
+   "company": "Cadence Design Systems",
+   "title": "Computational Aeroelasticity Developer",
+   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/IRVINE/Computational-Aeroelasticity-Developer_R55697",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785618721000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785622228998
+  },
+  {
+   "key": "simplify:f3b7a1a3-5bd5-4370-87cd-0c469759e19f",
+   "company": "Pennsylvania State University",
+   "title": "Graduate Researcher - Materials Science and Engineering",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1",
+   "locations": [
+    "University Park, State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785617101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785622228998
+  },
+  {
+   "key": "simplify:adecc85e-b7f8-41d2-ac00-fcce573e58a3",
+   "company": "Nordstrom",
+   "title": "Assistant Product Developer - Non-Apparel",
+   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Nordstrom-Made---Assistant-Product-Developer---Non-Apparel---Hybrid--Seattle--WA-_R-861721",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785620753000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785622228998
+  },
   {
    "key": "simplify:d1956f60-b9eb-4d52-8da7-ac5ab857772b",
    "company": "k-ID",
@@ -5707,103 +5806,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784791374123
-  },
-  {
-   "key": "simplify:98692bc2-e4ee-44ca-8252-b744fef826af",
-   "company": "General Motors",
-   "title": "Software Engineer - AV HIL Platform and Services",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform-and-Services_JR-202602819-2",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784787575000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784791374123
-  },
-  {
-   "key": "simplify:bd40fda7-37cc-4439-aca3-fdc324bbba53",
-   "company": "Lentech Inc.",
-   "title": "Entry Level Web Developer - Multiple Teams",
-   "url": "https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784788400000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784791374123
-  },
-  {
-   "key": "simplify:58675663-1619-413f-b473-3a52d0da40bb",
-   "company": "Digital Foundry, Inc.",
-   "title": "Software Engineer Associate",
-   "url": "https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate",
-   "locations": [
-    "Sausalito, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784788219000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784791374123
-  },
-  {
-   "key": "simplify:9c9d72e2-4773-4a77-b5c5-5776ba645c14",
-   "company": "Salesforce",
-   "title": "Software Engineering AMTS/MTS – College Grad",
-   "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
-   "locations": [
-    "Palo Alto, CA",
-    "Bellevue, WA",
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784768695000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784781730936
-  },
-  {
-   "key": "simplify:ea634b62-9d57-4c6d-8b6f-bbc560848a6f",
-   "company": "Woongjin",
-   "title": "MES Operation Engineer/ Developer Bilingual",
-   "url": "https://jobs.smartrecruiters.com/WJCompany/744000139167387",
-   "locations": [
-    "Savannah, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784775963000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784781730936
   }
  ]
 }
