@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-08-01T12:12:21.231Z",
+ "updatedAt": "2026-08-01T14:02:52.108Z",
  "jobs": [
+  {
+   "key": "simplify:ecb42b72-6094-48fe-8619-10c8cace6cc1",
+   "company": "Marmon Holdings",
+   "title": "Digital Production Engineer Intern Co-op",
+   "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2",
+   "locations": [
+    "Milwaukee, WI"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785588144000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785592971128
+  },
+  {
+   "key": "simplify:818b6742-1ac3-4971-a101-50412e68b6f8",
+   "company": "Sierra Nevada Corporation",
+   "title": "Software Engineer Fellow - Military Fellowship Program",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640",
+   "locations": [
+    "Southern Pines, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785586268000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785592971128
+  },
+  {
+   "key": "simplify:952b7a4f-f17b-4712-96a9-08c652fbeedb",
+   "company": "Apple",
+   "title": "Systems Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200636915",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785585961000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785592971128
+  },
+  {
+   "key": "simplify:7203fd2a-618f-4b83-add2-568ca918f1b1",
+   "company": "Expedia Group",
+   "title": "Career Discovery Program - Software Development",
+   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Discovery-Program-2026---Software-Development---Seattle_R-106372",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785592232000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785592971128
+  },
+  {
+   "key": "simplify:6326a4d5-8dd0-40ca-9d13-630ce1177617",
+   "company": "Carnegie Mellon University",
+   "title": "Innovation Engineer",
+   "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Innovation-Engineer---Office-of-the-Vice-President-for-Research_2023697",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785592262000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785592971128
+  },
+  {
+   "key": "simplify:661f570a-c103-4c06-9b18-929661f1a1b3",
+   "company": "ITC Federal",
+   "title": "Web Software Developer",
+   "url": "https://careers-itcfederal.icims.com/jobs/1532/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785591362000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785592971128
+  },
   {
    "key": "simplify:3e0ff160-6782-4b09-90e1-18475b83bfbf",
    "company": "University of Texas at Austin",
@@ -5692,122 +5806,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784721407664
-  },
-  {
-   "key": "simplify:f3a9de98-82b9-40ff-be18-62ed750578c6",
-   "company": "KLA Corporation",
-   "title": "HPC Software Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784717118000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784721407664
-  },
-  {
-   "key": "simplify:ae7ac1d8-d114-4fd2-8588-3298ee46931a",
-   "company": "HCSC",
-   "title": "Mainframe Developer",
-   "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784718370000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784721407664
-  },
-  {
-   "key": "simplify:17a4eca6-f636-4d76-ae6b-949e863c7613",
-   "company": "Valsoft Corporation",
-   "title": "Fullstack Software Developer - AI-enabled",
-   "url": "https://apply.workable.com/valsoft-corp/j/E96D7950A5/apply",
-   "locations": [
-    "Duluth, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784709199000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784714179665
-  },
-  {
-   "key": "simplify:a321ad73-583a-4203-bee3-a9fe75923346",
-   "company": "ServiceNow",
-   "title": "Servicenow Futures Summit - SWE Experience",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849",
-   "locations": [
-    "West Palm Beach, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784695518000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784704861464
-  },
-  {
-   "key": "simplify:6efed8e0-ecf9-4113-90cc-fd187d314b95",
-   "company": "AlphaLife Sciences",
-   "title": "AI Software Engineer",
-   "url": "https://jobs.ashbyhq.com/alphalifesci/238161ca-5aa0-4089-9cdf-d41912eba9c1/application?embed=true",
-   "locations": [
-    "Iselin, Woodbridge Township, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784697678000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784704861464
-  },
-  {
-   "key": "simplify:7f549e96-35e9-4370-9ece-eae9e6d752b3",
-   "company": "DigiCert",
-   "title": "Associate Backend Engineer",
-   "url": "https://www.digicert.com/careers/?gh_jid=8637536002",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784682559000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1784694998111
   }
  ]
 }
