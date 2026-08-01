@@ -1,6 +1,147 @@
 {
- "updatedAt": "2026-08-01T07:20:17.512Z",
+ "updatedAt": "2026-08-01T09:32:23.299Z",
  "jobs": [
+  {
+   "key": "simplify:12aa2c6b-b760-419c-820f-79b597d212da",
+   "company": "Apple",
+   "title": "CAD Engineer - Signoff Infrastructure",
+   "url": "https://jobs.apple.com/en-us/details/200660225",
+   "locations": [
+    "Austin, TX",
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785575702000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1785576742340
+  },
+  {
+   "key": "simplify:21b6e94b-4f91-465d-bc30-69fd58f8dbe5",
+   "company": "Glide",
+   "title": "Full Stack Engineer Mid Level",
+   "url": "https://jobs.ashbyhq.com/glide/7954a0ba-27ef-4e8b-90c7-337001f1ce98/application?embed=true",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785574963000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1785576742340
+  },
+  {
+   "key": "simplify:0052ea09-d7ee-44ff-929d-418fc69ac588",
+   "company": "Power Design, Inc",
+   "title": "AI Innovation Engineer",
+   "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer_R12316-2",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785573682000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785576742340
+  },
+  {
+   "key": "simplify:1dcc863f-1171-49ac-a22d-a2261e9a29fa",
+   "company": "Applied Materials",
+   "title": "Computer Vision/Machine Learning/Deep Learning Algorithm Developer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2612906",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785576110000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785576742340
+  },
+  {
+   "key": "simplify:0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
+   "company": "Air Liquide",
+   "title": "Modelling & Simulation Engineer",
+   "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785574956000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785576742340
+  },
+  {
+   "key": "simplify:339d95bb-c9b2-4376-9613-4e3f90631143",
+   "company": "Amazon",
+   "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+   "url": "https://amazon.jobs/en/jobs/10374689/software-dev-engineer-prime-video-personalization-discovery",
+   "locations": [
+    "Seattle, WA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785576350000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785576742340
+  },
+  {
+   "key": "simplify:222309af-4985-4525-a1f9-8a183a6c64b0",
+   "company": "Prelim",
+   "title": "Software Engineer",
+   "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785574442000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785576742340
+  },
   {
    "key": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
    "company": "Wolverine Trading",
@@ -5664,143 +5805,6 @@
    "sponsorship": "unknown",
    "posted": 1784685821000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:41018f36-15af-46ed-8719-1fb8d0abe78e",
-   "company": "Castleton Commodities International",
-   "title": "Full-Stack Software Engineer Intern",
-   "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350",
-   "locations": [
-    "Houston, TX",
-    "Stamford, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1784685812000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:4094133f-5f18-4aff-9d72-ecf4280916d4",
-   "company": "ZOLL Medical Corporation",
-   "title": "Software Engineer",
-   "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer_R19423",
-   "locations": [
-    "Lowell, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1782165961000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:e2d5e6c7-81fd-47e1-9fbb-e3e3a0cb9c27",
-   "company": "Deloitte",
-   "title": "Consultative Offerings - Government & Public Services - AI & Data Engineering",
-   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering/350596",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784682559000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:9119a940-c285-418f-8fad-397e77889ae6",
-   "company": "Deloitte",
-   "title": "Consultative Offerings Analyst - Government & Public Services - Software Engineering",
-   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784683209000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:52c8bdc5-91f7-416d-8a1b-26f9975959b9",
-   "company": "PNC Financial Services",
-   "title": "Software Engineer Associate Mainframe Testing/Selenium",
-   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate-Mainframe-testing-Selenium_R228735-1",
-   "locations": [
-    "Dallas, TX",
-    "Pittsburgh, PA",
-    "Strongsville, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784683235000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:04c098a9-3456-47b2-b361-2179dddb0322",
-   "company": "Pitt Ohio",
-   "title": "Agent Engineer",
-   "url": "https://careers-pittohio.icims.com/jobs/4081/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784681839000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784694998111
-  },
-  {
-   "key": "simplify:5dc014dc-40fe-4d80-8937-e6edfd2fc3e1",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer / User Experience Applications",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1",
-   "locations": [
-    "Oklahoma City, OK",
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784681119000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
