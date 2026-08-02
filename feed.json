@@ -1,6 +1,47 @@
 {
- "updatedAt": "2026-08-02T22:09:23.353Z",
+ "updatedAt": "2026-08-02T23:13:23.247Z",
  "jobs": [
+  {
+   "key": "simplify:e3cfe515-6df5-4847-9b31-0a9b950a8524",
+   "company": "Lightfield",
+   "title": "Early Career Infrastructure Software Engineer",
+   "url": "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true",
+   "locations": [
+    "Cambridge, MA",
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785709476000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1785712402390
+  },
+  {
+   "key": "simplify:48c4cfa3-389b-4a66-abd7-a1d6cb9708a5",
+   "company": "Yotta Labs",
+   "title": "Research Engineer Intern - AI Systems",
+   "url": "https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785709441000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785712402390
+  },
   {
    "key": "simplify:ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
    "company": "Obsidian Solutions Group",
@@ -5755,47 +5796,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784849940061
-  },
-  {
-   "key": "simplify:555378b1-69c4-4a27-b664-d84ac05b0bfd",
-   "company": "Becton Dickinson",
-   "title": "Commercial Analytics Engineer Business Decision Intelligence",
-   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-NJ---Franklin-Lakes/Commercial-Analytics-Engineer-Business-Decision-Intelligence_R-548945-1",
-   "locations": [
-    "Midland Park, NJ",
-    "Vernon Hills, IL",
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784845794000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784846086105
-  },
-  {
-   "key": "simplify:b4ad4629-f0a9-4e6f-b201-d0b42f4a6dec",
-   "company": "AeroVironment",
-   "title": "Machine Learning Engineer 2",
-   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Machine-Learning-Engineer-II_8124",
-   "locations": [
-    "Centreville, VA",
-    "Minneapolis, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784845673000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784846086105
   }
  ]
 }
