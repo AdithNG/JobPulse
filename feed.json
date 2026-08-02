@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-02T14:04:06.487Z",
+ "updatedAt": "2026-08-02T15:19:32.283Z",
  "jobs": [
+  {
+   "key": "simplify:ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
+   "company": "Obsidian Solutions Group",
+   "title": "Unity 3D Developer Intern",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435",
+   "locations": [
+    "Fredericksburg, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785680641000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785683971651
+  },
+  {
+   "key": "simplify:19e4f3e2-8068-46e5-b5f9-879b2594bd38",
+   "company": "ABEC",
+   "title": "Product Engineer",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257",
+   "locations": [
+    "Bethlehem, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785680461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785683971651
+  },
+  {
+   "key": "simplify:f10c1379-0b00-4d27-9fac-9387dafbd7df",
+   "company": "Storage Solutions",
+   "title": "Software Engineer",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4078621",
+   "locations": [
+    "Erlanger, KY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785680282000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785683971651
+  },
   {
    "key": "simplify:76fd2c40-9ab2-4c91-bf0d-bc8695bca524",
    "company": "Pennsylvania State University",
@@ -5734,65 +5791,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784845673000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784846086105
-  },
-  {
-   "key": "simplify:4c2be7ac-eebd-440e-964d-55577780ece6",
-   "company": "Intel",
-   "title": "Software Development Engineer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0285267",
-   "locations": [
-    "Santa Clara, CA",
-    "Hillsboro, OR",
-    "Folsom, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784845549000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784846086105
-  },
-  {
-   "key": "simplify:c8b1494a-3262-4b95-a356-612e9c1e1dd9",
-   "company": "Citi",
-   "title": "Junior Generative AI Application Developer",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784845081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784846086105
-  },
-  {
-   "key": "simplify:7c2fa168-ddab-4de9-b079-324d9c069d22",
-   "company": "Azenta",
-   "title": "Software Developer",
-   "url": "https://azenta.wd1.myworkdayjobs.com/AzentaJobs/job/US---South-Plainfield-NJ/Software-Developer_R20260491",
-   "locations": [
-    "South Plainfield, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784844362000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
