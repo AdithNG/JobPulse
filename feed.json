@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-02T12:15:36.932Z",
+ "updatedAt": "2026-08-02T14:04:06.487Z",
  "jobs": [
+  {
+   "key": "simplify:76fd2c40-9ab2-4c91-bf0d-bc8695bca524",
+   "company": "Pennsylvania State University",
+   "title": "Signal Processing Research and Development Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Signal-Processing-Research-and-Development-Engineer_REQ_0000071090-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785673993000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785679445417
+  },
   {
    "key": "simplify:b075f87f-70d6-4067-8b91-9fd15fa20351",
    "company": "Kanshe Infotech",
@@ -5779,26 +5798,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784846086105
-  },
-  {
-   "key": "simplify:3547f1fc-3473-484d-9766-31b2a0f754c1",
-   "company": "Illumia",
-   "title": "Associate Integration Engineer",
-   "url": "https://transact-campus.breezy.hr/p/e8d28d6d8087/apply",
-   "locations": [
-    "Alpharetta, GA",
-    "Scottsdale, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784816822000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784823064486
   }
  ]
 }
