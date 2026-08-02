@@ -1,6 +1,124 @@
 {
- "updatedAt": "2026-08-02T09:27:36.388Z",
+ "updatedAt": "2026-08-02T11:04:09.464Z",
  "jobs": [
+  {
+   "key": "simplify:b075f87f-70d6-4067-8b91-9fd15fa20351",
+   "company": "Kanshe Infotech",
+   "title": "Python Fullstack Training",
+   "url": "https://jobs.smartrecruiters.com/Learnkwikcom/744000065800616",
+   "locations": [
+    "Newark, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785662101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "python"
+   ],
+   "firstSeen": 1785668648747
+  },
+  {
+   "key": "simplify:ddf53d2b-54a9-409e-a0c4-16b535b95685",
+   "company": "Sajix",
+   "title": "Python Developer",
+   "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603750",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785662101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "python"
+   ],
+   "firstSeen": 1785668648747
+  },
+  {
+   "key": "simplify:7599b00f-543d-45cf-ad21-d80fa58b6d90",
+   "company": "Deloitte",
+   "title": "Software Engineering Analyst - Government & Public Services - Software Engineering",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Fall-2026-Hire/360282",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785662101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785668648747
+  },
+  {
+   "key": "simplify:15e2628c-9ea6-46b7-b10b-1c4aae03e7df",
+   "company": "Deloitte",
+   "title": "Consultative Offerings Analyst - Government & Public Services - AI & Data Engineering",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Fall-2026-Hire/360284",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785662101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785668648747
+  },
+  {
+   "key": "simplify:093acc82-ac5e-463e-8739-43de0fe8a38d",
+   "company": "ByteDance",
+   "title": "Graduate Software Development Engineer",
+   "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785662101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785668648747
+  },
+  {
+   "key": "simplify:89b5d725-a59f-4eb3-9e08-476905ff182c",
+   "company": "Sajix",
+   "title": "Machine Learning Engineer Trainee",
+   "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603021",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785662199000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785668648747
+  },
   {
    "key": "simplify:76c3f204-9af7-4adb-8e3a-577de865f6cf",
    "company": "ManTech",
@@ -5681,125 +5799,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1784823064486
-  },
-  {
-   "key": "simplify:d5647d2a-f398-444e-b1ac-3d03cc6604a7",
-   "company": "Cerebras",
-   "title": "Software Engineer - Cluster Deployment",
-   "url": "https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application?embed=true",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784816822000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784823064486
-  },
-  {
-   "key": "simplify:502a427d-2a14-4b25-8a0e-2b093361ed1a",
-   "company": "RTX",
-   "title": "Software Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434",
-   "locations": [
-    "Concord, MA",
-    "Tewksbury, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784819992000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784823064486
-  },
-  {
-   "key": "simplify:4644bdd6-0956-4473-86a3-ef0a98bdcd5c",
-   "company": "L3Harris Technologies",
-   "title": "Associate – Software Engineer",
-   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784816822000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784823064486
-  },
-  {
-   "key": "simplify:99e46a07-02c6-4ca9-aa86-628729f79425",
-   "company": "Goldman Sachs",
-   "title": "Foundation Engineering Product Management Associate",
-   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176110",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784820176000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784823064486
-  },
-  {
-   "key": "simplify:eb6d5f77-90a1-46ca-97de-1e5ad01af6a5",
-   "company": "LMI ",
-   "title": "Junior Back-End Software Application Developer",
-   "url": "https://careers-lmi.icims.com/jobs/14309/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784821861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784823064486
-  },
-  {
-   "key": "simplify:80294e61-203e-4217-8dc6-ec6801f1860f",
-   "company": "Travelers",
-   "title": "Data Engineer 1 - Python - AWS",
-   "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I-TM1-IPA-_R-50835",
-   "locations": [
-    "Hartford, CT",
-    "St Paul, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784811546000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 23,
-   "matchedWords": [
-    "aws",
-    "python"
-   ],
-   "firstSeen": 1784816777265
   }
  ]
 }
