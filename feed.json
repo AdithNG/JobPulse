@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-08-02T01:02:25.239Z",
+ "updatedAt": "2026-08-02T04:33:04.630Z",
  "jobs": [
+  {
+   "key": "simplify:76c3f204-9af7-4adb-8e3a-577de865f6cf",
+   "company": "ManTech",
+   "title": "Software Engineer 1",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/61501",
+   "locations": [
+    "Crane, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785632661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785645183463
+  },
+  {
+   "key": "simplify:cb369351-882d-41be-9e85-42d3312f503a",
+   "company": "ManTech",
+   "title": "Associate Computer Network Operations Developer",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/64786",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785632548000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785645183463
+  },
+  {
+   "key": "simplify:86247036-93b7-4e67-9fd5-4b5eb0573583",
+   "company": "ManTech",
+   "title": "Associate Software Engineer",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/65051",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785632425000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785645183463
+  },
+  {
+   "key": "simplify:678077f9-ae48-457f-8a21-5b51072d2d48",
+   "company": "ManTech",
+   "title": "Associate CNO Developer",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/64788",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785632425000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785645183463
+  },
+  {
+   "key": "simplify:e8a83f95-a91b-4658-ad2b-d5a105fe51e9",
+   "company": "ManTech",
+   "title": "Launch Vehicle Software Developer - 5th Space Launch Squadron",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/65190",
+   "locations": [
+    "Cape Canaveral, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785632425000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785645183463
+  },
+  {
+   "key": "simplify:aaaa8a89-4a65-414d-ad5f-46e681c28716",
+   "company": "Garmin",
+   "title": "Software Engineer 1 - Aviation Web Development",
+   "url": "https://careers.garmin.com/jobs/17742?icims=1",
+   "locations": [
+    "Chandler, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785632941000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785645183463
+  },
   {
    "key": "simplify:e142c984-ca46-4624-af2c-e5061b8b60f2",
    "company": "HPR (Hyannis Port Research)",
@@ -5685,127 +5799,6 @@
     "aws",
     "python"
    ],
-   "firstSeen": 1784816777265
-  },
-  {
-   "key": "simplify:43ca5d0b-0cd2-46ca-9b5a-55d7590fcaaa",
-   "company": "PNC Financial Services",
-   "title": "Software Engineer - Java/OpenShift/Kubernetes",
-   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer--JAVA--Openshift-Kubernetes-_R219224-1",
-   "locations": [
-    "Pittsburgh, PA",
-    "Strongsville, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784813016000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1784816777265
-  },
-  {
-   "key": "simplify:ad7c7576-5b17-4beb-b37d-50523cb7f627",
-   "company": "Vantor",
-   "title": "GIS Engineer - Jr",
-   "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Bolling-AFB-DC/GIS-Engineer--Jr-_R23748",
-   "locations": [
-    "Washington, DC",
-    "Arlington, VA",
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784806525000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784816777265
-  },
-  {
-   "key": "simplify:522fa117-c316-4e57-a2a1-8e128d51a306",
-   "company": "Smithfield Foods",
-   "title": "Software Engineer",
-   "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Suffolk-VA/Software-Engineer_R-2026-6268",
-   "locations": [
-    "Suffolk, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784806576000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784816777265
-  },
-  {
-   "key": "simplify:94be9874-44c0-445c-a293-6f469b674484",
-   "company": "Adobe",
-   "title": "Software Development Engineer",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R170466-1",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784809427000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784816777265
-  },
-  {
-   "key": "simplify:d8f01940-000a-4963-a53a-a8ecc213ca07",
-   "company": "CACI",
-   "title": "Junior Application Developer",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Application-Developer_328917",
-   "locations": [
-    "Springfield, VA",
-    "St. Louis, MO",
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784808901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784816777265
-  },
-  {
-   "key": "simplify:540cb73e-d506-40f3-9265-30fdcf18d821",
-   "company": "Alkami Technology",
-   "title": "Application Support Engineer",
-   "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Application-Support-Engineer--Temporary-Worker-_JR-000770",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784812605000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1784816777265
   }
  ]
