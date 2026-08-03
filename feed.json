@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-08-03T21:34:49.082Z",
+ "updatedAt": "2026-08-03T22:40:39.098Z",
  "jobs": [
+  {
+   "key": "simplify:de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
+   "company": "Williams",
+   "title": "Engineering Intern",
+   "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502",
+   "locations": [
+    "Salt Lake City, UT",
+    "Houston, TX",
+    "Tulsa, OK"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785795556000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785796838340
+  },
+  {
+   "key": "simplify:76024ce1-258c-433e-87c4-2d704c53a61c",
+   "company": "Novanta",
+   "title": "Engineering Co-op",
+   "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R009487",
+   "locations": [
+    "Apex, NC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785794761000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785796838340
+  },
+  {
+   "key": "simplify:dc53bf27-8562-4b15-bb8a-5c712b61d498",
+   "company": "Analytical Mechanics Associates",
+   "title": "Software Engineer",
+   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785794953000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785796838340
+  },
+  {
+   "key": "simplify:5b4a19fe-7e31-4e2e-9669-38716112bf76",
+   "company": "Waystar",
+   "title": "Junior Data Engineer",
+   "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Engineer_R3322",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785795139000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785796838340
+  },
   {
    "key": "simplify:42c0c70a-f3aa-4aab-b737-a65c498589b7",
    "company": "TikTok",
@@ -5737,84 +5815,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785249947803
-  },
-  {
-   "key": "simplify:7f814df9-4d07-4be5-b742-9ed37b9549a8",
-   "company": "RTX",
-   "title": "Software Engineer 2",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II--Onsite-_01855746",
-   "locations": [
-    "Fort Wayne, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785243277000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785249947803
-  },
-  {
-   "key": "simplify:553369f5-663d-4019-8901-6134f7102b4d",
-   "company": "Peraton",
-   "title": "Software Development Associate",
-   "url": "https://careers-peraton.icims.com/jobs/168949/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785248764000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785249947803
-  },
-  {
-   "key": "simplify:a3601998-ef72-41e2-80ff-7dfdfbd87143",
-   "company": "Savannah River Mission Completion",
-   "title": "Puridiom Java Developer – Associate or Mid-level IT Programmer Analyst",
-   "url": "https://careers-fsse-srmc.icims.com/jobs/2009/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "North Augusta, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785218581000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1785223267505
-  },
-  {
-   "key": "simplify:e3baf487-91f1-4382-825c-a0b8cbdd9ea8",
-   "company": "NewsBreak",
-   "title": "Applied AI Engineer New Grad - Advertising Agents",
-   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4700278006",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785201994000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785213048482
   }
  ]
 }
