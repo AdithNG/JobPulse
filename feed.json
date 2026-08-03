@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-03T11:42:59.416Z",
+ "updatedAt": "2026-08-03T14:06:08.212Z",
  "jobs": [
+  {
+   "key": "simplify:acab3458-c681-419e-821c-031f7b12b082",
+   "company": "RTX",
+   "title": "Cyberspace Research Developer",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyberspace-Research-Developer--Onsite-_01862901",
+   "locations": [
+    "Columbia, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785759728000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785765967370
+  },
   {
    "key": "simplify:89cf07d7-dea8-45c0-bd63-f03870bf2088",
    "company": "ByteDance",
@@ -5794,25 +5813,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785191941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785195968339
-  },
-  {
-   "key": "simplify:b8f78492-15f1-4f82-89cd-020a8716caec",
-   "company": "Barry-Wehmiller",
-   "title": "Entry Level Software Engineer",
-   "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785190681000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
