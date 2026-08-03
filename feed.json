@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-08-03T01:00:18.975Z",
+ "updatedAt": "2026-08-03T04:40:07.306Z",
  "jobs": [
+  {
+   "key": "simplify:59d36e2a-3413-468e-a72e-8c350b5dad94",
+   "company": "Walgreens",
+   "title": "Software Engineer 1 - Java",
+   "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141",
+   "locations": [
+    "Deerfield, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785723375000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1785732006476
+  },
   {
    "key": "simplify:e3cfe515-6df5-4847-9b31-0a9b950a8524",
    "company": "Lightfield",
@@ -5772,25 +5793,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1784847733000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1784849940061
-  },
-  {
-   "key": "simplify:da048e8f-6ba6-43fd-8dc9-7c5a1adf494a",
-   "company": "Compass",
-   "title": "Software Engineer - Mobile - iOS",
-   "url": "https://www.compass.com/careers?gh_jid=8081848",
-   "locations": [
-    "Aventura, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784846702000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
