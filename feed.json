@@ -1,6 +1,254 @@
 {
- "updatedAt": "2026-08-03T14:06:08.212Z",
+ "updatedAt": "2026-08-03T16:40:26.567Z",
  "jobs": [
+  {
+   "key": "simplify:42c0c70a-f3aa-4aab-b737-a65c498589b7",
+   "company": "TikTok",
+   "title": "Research Engineer Intern - Monetization Technology - Business Integrity",
+   "url": "https://lifeattiktok.com/search/7668204394458466565",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767221000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:beffc9df-d33a-4e8c-bd21-8ac5229e3ab7",
+   "company": "Peraton",
+   "title": "Junior Web Developer",
+   "url": "https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fort Huachuca, Sierra Vista, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767265000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:fc4f2880-dfbe-4370-a129-24ea58c9a173",
+   "company": "Freddie Mac",
+   "title": "Software Developer Analyst",
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785766863000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:9dd271a3-9548-43cb-aa06-75e9947c1623",
+   "company": "Universal Health Services",
+   "title": "Associate Software Engineer - FSI",
+   "url": "https://jobs.uhsinc.com/jobs/362176?icims=1",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785766323000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:0c5577ea-da23-4f9c-b54f-70bc34fee45d",
+   "company": "Autostore",
+   "title": "AI Engineer - HW Development",
+   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/AI-Engineer---HW-Development_JR102615",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785766681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:0e8a5b2c-b74c-4698-9f5d-00348584454a",
+   "company": "Voyager Technologies",
+   "title": "Accelerated Physics Simulation Engineer - Agentic Computational Engineering",
+   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
+   "locations": [
+    "Seattle, WA",
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767761000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
+   "company": "TikTok",
+   "title": "Research Engineer Graduate - Monetization Technology - Business Integrity",
+   "url": "https://lifeattiktok.com/search/7667769079948347701",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767221000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - Trust and Safety",
+   "url": "https://lifeattiktok.com/search/7665994926854555909",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767221000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:a361534e-bae9-48ea-971f-acc6566fbb47",
+   "company": "TikTok",
+   "title": "Research Engineer New Grad - Multiple Teams",
+   "url": "https://lifeattiktok.com/search/7667767820142643461",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767583000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:e5443b5b-331f-470e-b03e-f8cb378f467a",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer New Grad - Trust and Safety",
+   "url": "https://lifeattiktok.com/search/7665991852209932597",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767582000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:6877141a-26a2-42c6-affa-8795287920b8",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer New Grad - Recommendation",
+   "url": "https://lifeattiktok.com/search/7663389745178757429",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767571000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:8490582c-bd48-42a8-a07c-ba525cec17a2",
+   "company": "CoxHealth",
+   "title": "Analytics Engineer 1",
+   "url": "https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Analytics-Engineer-I_R17671",
+   "locations": [
+    "Springfield, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785767469000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
+  {
+   "key": "simplify:9ee25097-f93f-4cf5-94fc-b8071589bf17",
+   "company": "Texas Sports Academy",
+   "title": "Junior AI Software Engineer",
+   "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785766681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785775225078
+  },
   {
    "key": "simplify:acab3458-c681-419e-821c-031f7b12b082",
    "company": "RTX",
@@ -5567,257 +5815,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785213048482
-  },
-  {
-   "key": "simplify:a989c928-8174-43bf-9198-bcec981430c7",
-   "company": "Color",
-   "title": "Software Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true",
-   "locations": [
-    "San Bruno, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785201759000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785213048482
-  },
-  {
-   "key": "simplify:fc0d7cba-48a3-45df-b65a-7a272b43dc54",
-   "company": "Vestmark",
-   "title": "Software Engineer",
-   "url": "https://job-boards.greenhouse.io/vestmark/jobs/8009953",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785202021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785213048482
-  },
-  {
-   "key": "simplify:498eccae-caa0-431f-8c04-ffd7922d92a6",
-   "company": "Tesla",
-   "title": "Vehicle Software Intern - Vehicle Controls",
-   "url": "https://www.tesla.com/careers/search/job/278203",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785195096000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785201053094
-  },
-  {
-   "key": "simplify:5dbfce20-e73f-4080-acb5-e87c3799b33d",
-   "company": "Leidos",
-   "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00188211",
-   "locations": [
-    "Manassas, VA",
-    "Bethesda, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785195137000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785201053094
-  },
-  {
-   "key": "simplify:2361eb91-04c3-4c59-9b31-d26309c4ca59",
-   "company": "Cox Automotive",
-   "title": "Software Engineer 1",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785195104000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785201053094
-  },
-  {
-   "key": "simplify:8f70efd9-bbb5-49a2-8281-d6c0755dafe1",
-   "company": "The Trade Desk",
-   "title": "Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785195034000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785201053094
-  },
-  {
-   "key": "simplify:2abdeb2f-c08f-453f-bcf4-452c264696d6",
-   "company": "Mitratech",
-   "title": "Software Engineer 1 - Assurehire - Go",
-   "url": "https://job-boards.greenhouse.io/mitratech/jobs/8060928",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785195031000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785201053094
-  },
-  {
-   "key": "simplify:33e07ede-5d28-4a3b-bf01-3140aceac8da",
-   "company": "SRI International",
-   "title": "Drexel University Co-op: Software Engineering/Full stack development",
-   "url": "https://careers-sri.icims.com/jobs/6432/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Princeton, NJ"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785194281000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1785195968339
-  },
-  {
-   "key": "simplify:0988d1cc-3a7b-4621-84fc-6367ac9218d9",
-   "company": "Waystar",
-   "title": "Application Engineer Co-op",
-   "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785191703000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785195968339
-  },
-  {
-   "key": "simplify:97736cf7-6766-46a2-81bc-b5cc5f9ea248",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785194474000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785195968339
-  },
-  {
-   "key": "simplify:8fd43783-717e-437c-9ad2-a3f7f542958d",
-   "company": "RSM",
-   "title": "ServiceNow Developer Associate",
-   "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288",
-   "locations": [
-    "Indianapolis, IN",
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785194035000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785195968339
-  },
-  {
-   "key": "simplify:a86a72df-04d0-4c52-bf2f-71170d986cf4",
-   "company": "Johnson Controls",
-   "title": "Software Engineer - Data Center Engineering",
-   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer---Data-Center-Engineering_WD30270944-1",
-   "locations": [
-    "Brown Deer, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785192339000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785195968339
-  },
-  {
-   "key": "simplify:1ae4d477-2ac5-41f7-848a-cf5ccb939aa2",
-   "company": "Tax Relief Advocates",
-   "title": "Junior Machine Learning Engineer",
-   "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785191941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785195968339
   }
  ]
 }
