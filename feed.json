@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-04T12:22:35.939Z",
+ "updatedAt": "2026-08-04T15:05:10.874Z",
  "jobs": [
+  {
+   "key": "simplify:a34cd5b9-9bbf-4ec0-9485-89dac6af3581",
+   "company": "Ohio State University",
+   "title": "Associate Applications Developer",
+   "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Developer_R156425-2",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785852543000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785855910020
+  },
   {
    "key": "simplify:ac3e3883-21b0-4ad1-8011-bf5060c01aab",
    "company": "TikTok",
@@ -5811,27 +5830,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785491186000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785495041724
-  },
-  {
-   "key": "simplify:b3f1d4e0-dd2c-42b1-b5e9-3075cb96e6ea",
-   "company": "Oracle",
-   "title": "Application Software Engineer",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334471",
-   "locations": [
-    "Orlando, FL",
-    "Nashville, TN",
-    "Kansas City, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785492721000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
