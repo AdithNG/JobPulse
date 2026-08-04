@@ -1,6 +1,178 @@
 {
- "updatedAt": "2026-08-04T22:49:20.903Z",
+ "updatedAt": "2026-08-04T23:54:42.660Z",
  "jobs": [
+  {
+   "key": "simplify:fd3e2e22-2204-4e00-a4a5-16dab46017cb",
+   "company": "Micron Technology",
+   "title": "Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486",
+   "locations": [
+    "Boise, ID"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785884159000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:6203f891-9874-4b06-9079-4a95178007dc",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer / Software Engineer - Software Engineering",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10243047",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785883508000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:b0c3891e-ee7f-4fd2-8bd6-68e85a6e9822",
+   "company": "Cox",
+   "title": "Entry Level Software Engineer",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785882626000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:4bcd5c13-f55d-4f88-98d3-31644264b8b8",
+   "company": "Kognitos",
+   "title": "Associate Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/Kognitos/1f7775f7-eb11-4dca-b30c-bbd077d7d1f9/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785883540000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:59d07036-60ed-4be1-8045-1e7dd3482bb7",
+   "company": "Abacus Insights",
+   "title": "Associate Data Engineer",
+   "url": "https://boards.greenhouse.io/abacusinsights/jobs/8674746002",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785882626000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:89554157-ce6a-4bfe-b783-fb6582dacd3d",
+   "company": "Bespoke Technologies, Inc.",
+   "title": "Data Engineer Analyst - WDP",
+   "url": "https://bespoketechinc.applytojob.com/apply/540EXNvUfv/Data-Engineer-Analyst-WDP",
+   "locations": [
+    "Chantilly, VA",
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785882626000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:25bae6a6-ddae-4c18-a721-7986920585cc",
+   "company": "Draper",
+   "title": "System Analysis Engineer",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Requirements-Engineer_JR002399-1",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785882626000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:ecd7306e-e1ab-4153-bd2f-50c077e829c7",
+   "company": "Peraton",
+   "title": "Junior Software Engineer - Developer - Space Communications Program",
+   "url": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Las Cruces, NM"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785882636000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
+  {
+   "key": "simplify:2c9a9813-d166-422b-adf3-2c534553bedb",
+   "company": "Shirley Ryan AbilityLab",
+   "title": "Machine Learning Ops Engineer 1 - CBM Lab",
+   "url": "https://sralab.wd1.myworkdayjobs.com/SRAlabCareers/job/Chicago-IL/Engineer-I--Machine-Learning-Ops-CBM-Lab_JR-1065210-2",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785882653000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785887681606
+  },
   {
    "key": "simplify:430476fa-929a-40d6-baa9-2ff79a9c2899",
    "company": "General Dynamics Information Technology",
@@ -5663,177 +5835,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785517192870
-  },
-  {
-   "key": "simplify:fe6f340c-a4df-4a15-b14f-5d0a4ccea31f",
-   "company": "Pennsylvania State University",
-   "title": "DevSecOps Research Computing Software Engineer",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2",
-   "locations": [
-    "State College, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785505331000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785510960735
-  },
-  {
-   "key": "simplify:899119f2-65a4-4b58-bbf8-884ec290abcd",
-   "company": "Pennsylvania State University",
-   "title": "Navigation Analysis Research and Development Engineer",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Warminster-PA/Navigation-Analysis-Research-and-Development-Engineer_REQ_0000076265-2",
-   "locations": [
-    "Horsham, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785505063000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785510960735
-  },
-  {
-   "key": "simplify:f49965a8-66d7-460e-aefb-c756911f4dff",
-   "company": "L3Harris Technologies",
-   "title": "Software Engineering Associate",
-   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785507282000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785510960735
-  },
-  {
-   "key": "simplify:c0af9d72-1728-4150-80da-21fdc78a0bbb",
-   "company": "Colonist",
-   "title": "Product Developer Intern",
-   "url": "https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785499021000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3",
-   "company": "Reverb",
-   "title": "Software Engineer-Shipping",
-   "url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785494217000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:d0c5c25a-e0ac-488e-8b2f-feb1134545b5",
-   "company": "FlexGen",
-   "title": "Energy Storage Application Engineer - Data Center",
-   "url": "https://ats.rippling.com/external-job-board/jobs/919d9328-a3a9-4932-b69a-93258670da2f",
-   "locations": [
-    "Durham, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785495110000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:da170a22-9c31-4c51-8a59-7f3578b94753",
-   "company": "BlackRock",
-   "title": "Associate – Frontend Software Engineer - React",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React-_R264790",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785496715000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:dc78ae5b-1e53-4193-9e47-0549b350dd79",
-   "company": "Intel",
-   "title": "System Software Engineer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineer_JR0285048",
-   "locations": [
-    "Hillsboro, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785499153000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:d49d4a3f-dcd1-4699-9cad-00b2bbc628dc",
-   "company": "Pennsylvania State University",
-   "title": "Simulation Software Engineer",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2",
-   "locations": [
-    "State College, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785498009000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
   }
  ]
 }
