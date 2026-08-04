@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-04T21:47:37.036Z",
+ "updatedAt": "2026-08-04T22:49:20.903Z",
  "jobs": [
+  {
+   "key": "simplify:430476fa-929a-40d6-baa9-2ff79a9c2899",
+   "company": "General Dynamics Information Technology",
+   "title": "Software Developer Intern",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785881988000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785883760285
+  },
+  {
+   "key": "simplify:d7db9bcb-09a6-4fff-a393-b83f4c24650a",
+   "company": "Kimley-Horn",
+   "title": "Software Analyst",
+   "url": "https://careers-kimley-horn.icims.com/jobs/25695/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Peachtree Corners, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785881702000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785883760285
+  },
+  {
+   "key": "simplify:cf26a438-849a-4994-b37e-ab1fdb0e3dc1",
+   "company": "Advanced Energy",
+   "title": "Rotational Field Application Engineer",
+   "url": "https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785881163000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785883760285
+  },
   {
    "key": "simplify:a34cd5b9-9bbf-4ec0-9485-89dac6af3581",
    "company": "Ohio State University",
@@ -5777,64 +5834,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:b7d89584-5255-481b-839d-d772ddca1830",
-   "company": "POET",
-   "title": "Developer 1 - I",
-   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Developer-I_R101525",
-   "locations": [
-    "Sioux Falls, SD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785500409000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785502285052
-  },
-  {
-   "key": "simplify:17699a31-38e1-4e82-b409-fe317a841c6f",
-   "company": "Fidelity Investments",
-   "title": "Software Engineer",
-   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114",
-   "locations": [
-    "Westlake, TX",
-    "Durham, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785491188000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785495041724
-  },
-  {
-   "key": "simplify:2cf04723-b22e-46b7-995d-d613b616e5b1",
-   "company": "Hitachi Energy",
-   "title": "Process Engineering Technician",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Process-Engineering-Technician_R0135210-1",
-   "locations": [
-    "Danville, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785491186000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785495041724
   }
  ]
 }
