@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-05T11:28:40.356Z",
+ "updatedAt": "2026-08-05T13:15:43.236Z",
  "jobs": [
+  {
+   "key": "simplify:6015b17d-9db7-4a5d-91d0-7c0123409f32",
+   "company": "Nordstrom",
+   "title": "Engineer AI Agentic Solutions",
+   "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--AI-Agentic-Solutions--Hybrid---Seattle--WA-_R-862126",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785931281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785935742523
+  },
   {
    "key": "simplify:ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
    "company": "TikTok",
@@ -5809,27 +5828,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785576350000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785576742340
-  },
-  {
-   "key": "simplify:222309af-4985-4525-a1f9-8a183a6c64b0",
-   "company": "Prelim",
-   "title": "Software Engineer",
-   "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true",
-   "locations": [
-    "Boston, MA",
-    "Seattle, WA",
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785574442000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
