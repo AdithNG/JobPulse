@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-08-05T09:06:08.711Z",
+ "updatedAt": "2026-08-05T11:28:40.356Z",
  "jobs": [
+  {
+   "key": "simplify:ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Intern - Creation Platform",
+   "url": "https://lifeattiktok.com/search/7670289874020993285",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785921482000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1785929319454
+  },
+  {
+   "key": "simplify:633fde2a-eea3-462a-91b6-f0c8025fba8d",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - Search",
+   "url": "https://lifeattiktok.com/search/7668396597746862341",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785921482000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785929319454
+  },
+  {
+   "key": "simplify:7fdf2de6-75ca-4715-8764-720c7cc52695",
+   "company": "TikTok",
+   "title": "Data Engineer Intern - Ads Targeting",
+   "url": "https://lifeattiktok.com/search/7668533140146817333",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785921668000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785929319454
+  },
+  {
+   "key": "simplify:3d38784e-80ec-40c4-9082-77aabd533031",
+   "company": "ByteDance",
+   "title": "Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering",
+   "url": "https://jobs.bytedance.com/en/position/7669899962768165173/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785921466000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785929319454
+  },
+  {
+   "key": "simplify:924b8ac7-f08b-4620-9762-01deab61c794",
+   "company": "Starbucks",
+   "title": "Application Developer - Application Development",
+   "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
+   "locations": [
+    "Nashville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785922656000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785929319454
+  },
+  {
+   "key": "simplify:2c2eb6e8-d129-4384-bdce-cdd5ba022bfc",
+   "company": "Starbucks",
+   "title": "Software Engineer - Software Engineering",
+   "url": "https://starbucks.eightfold.ai/careers/job/481078371803",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785922412000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785929319454
+  },
   {
    "key": "simplify:1356bccf-812b-4aec-bc0e-77f74393868f",
    "company": "Qualcomm",
@@ -5719,122 +5835,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785576742340
-  },
-  {
-   "key": "simplify:f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
-   "company": "Wolverine Trading",
-   "title": "Entry-Level C++ Software Engineer",
-   "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785547441000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1785559636132
-  },
-  {
-   "key": "simplify:68d9d4d0-a1b3-4673-a429-1d2524909e32",
-   "company": "Microchip Technology",
-   "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785547375000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785559636132
-  },
-  {
-   "key": "simplify:ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d",
-   "company": "Tesla",
-   "title": "Software Compiler Engineer Intern - AI Inference",
-   "url": "https://www.tesla.com/careers/search/job/278847",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785547853000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785559636132
-  },
-  {
-   "key": "simplify:59aaa50c-6f7f-427b-950f-8b772440e208",
-   "company": "Quora",
-   "title": "Software Engineer New Grad - Machine Learning Platform",
-   "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785547666000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785559636132
-  },
-  {
-   "key": "simplify:15b8e425-7774-43c9-9a6b-93b969bef2a3",
-   "company": "Asure",
-   "title": "Associate Software Engineer",
-   "url": "https://asuresoftware.bamboohr.com/careers/1020/",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785547466000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785559636132
-  },
-  {
-   "key": "simplify:c911e5bb-b9e8-4e01-963b-4cf92e087878",
-   "company": "Ursa Major",
-   "title": "Configuration Engineer 1",
-   "url": "https://ursamajor.com/careers/?gh_jid=4720277005",
-   "locations": [
-    "Berthoud, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785538318000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785541375076
   }
  ]
 }
