@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-05T06:09:02.586Z",
+ "updatedAt": "2026-08-05T09:06:08.711Z",
  "jobs": [
+  {
+   "key": "simplify:1356bccf-812b-4aec-bc0e-77f74393868f",
+   "company": "Qualcomm",
+   "title": "Machine Learning Engineer - Machine Learning Engineering",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446717859953",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785910961000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785920768090
+  },
+  {
+   "key": "simplify:77fe5b68-ffda-4a79-b56d-caddb2246641",
+   "company": "Qualcomm",
+   "title": "Data Networking Software Engineer - Modem Software Engineering",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446719871565",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785910681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785920768090
+  },
+  {
+   "key": "simplify:a9e5ba6b-2800-495b-8c9f-777e43f4c7b6",
+   "company": "Dexcom",
+   "title": "Software Development Engineer 1",
+   "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR120131",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785910679000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1785920768090
+  },
   {
    "key": "simplify:87667d11-6adc-446a-9b2e-15e0dc0b761b",
    "company": "TikTok",
@@ -5773,63 +5830,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785538318000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785541375076
-  },
-  {
-   "key": "simplify:74a989fe-b773-400b-ad75-106de8e3267e",
-   "company": "KLA",
-   "title": "Software Engineer - HPC",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/High-Performance-Computing--HPC----Software-Engineer_2638954",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785538012000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785541375076
-  },
-  {
-   "key": "simplify:a1b78398-f928-4540-906d-107312019bc7",
-   "company": "State Street",
-   "title": "Junior SIEM Data Engineer",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
-   "locations": [
-    "Quincy, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785540241000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785541375076
-  },
-  {
-   "key": "simplify:cfeb11b9-ce3a-4296-9dba-69307b8df18d",
-   "company": "Cadence Design Systems",
-   "title": "Application Software Developer New Grad",
-   "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-3",
-   "locations": [
-    "Livonia, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785540039000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
