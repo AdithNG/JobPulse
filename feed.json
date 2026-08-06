@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-08-06T09:18:17.809Z",
+ "updatedAt": "2026-08-06T11:37:44.060Z",
  "jobs": [
+  {
+   "key": "simplify:c8f7dd03-3fba-4f1d-850e-76adc3a00557",
+   "company": "Emerald AI",
+   "title": "Distributed Systems Engineer - Backend/Distributed Systems",
+   "url": "https://jobs.ashbyhq.com/emerald-ai/ca65afd7-4b42-45ac-9e17-ea88f07240af/application?embed=true",
+   "locations": [
+    "Boston, MA",
+    "Washington, DC",
+    "Oakland, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786012236000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 29,
+   "matchedWords": [
+    "backend",
+    "distributed"
+   ],
+   "firstSeen": 1786016263117
+  },
   {
    "key": "simplify:ea9a3407-4535-40e5-900c-45b263afa69c",
    "company": "ByteDance",
@@ -5801,25 +5825,6 @@
    "url": "https://mantech.avature.net/en_US/careers/JobDetail/64788",
    "locations": [
     "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785632425000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785645183463
-  },
-  {
-   "key": "simplify:e8a83f95-a91b-4658-ad2b-d5a105fe51e9",
-   "company": "ManTech",
-   "title": "Launch Vehicle Software Developer - 5th Space Launch Squadron",
-   "url": "https://mantech.avature.net/en_US/careers/JobDetail/65190",
-   "locations": [
-    "Cape Canaveral, FL"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
