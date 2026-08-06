@@ -1,6 +1,166 @@
 {
- "updatedAt": "2026-08-06T06:18:58.137Z",
+ "updatedAt": "2026-08-06T09:18:17.809Z",
  "jobs": [
+  {
+   "key": "simplify:ea9a3407-4535-40e5-900c-45b263afa69c",
+   "company": "ByteDance",
+   "title": "Backend Inference Framework Engineer - AML Inference",
+   "url": "https://jobs.bytedance.com/en/position/7669670735275526453/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785996992000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:5cb3ada5-c00c-41c3-b649-06b652453d46",
+   "company": "ByteDance",
+   "title": "Machine Learning Backend Engineer Graduate - AML MLDev",
+   "url": "https://jobs.bytedance.com/en/position/7669791940490168629/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785996901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:50e97511-4f52-43a6-985d-3fc9ce92d6bb",
+   "company": "ByteDance",
+   "title": "Backend Inference Runtime Engineer New Grad - AML Inference",
+   "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785997004000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:ca012a00-87e1-40b7-ac6f-1464ce5ad2f1",
+   "company": "ByteDance",
+   "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+   "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785997001000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:d22b9a28-466e-4bdc-aa6e-bb61ca96a1e7",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation/Search Alliance",
+   "url": "https://lifeattiktok.com/search/7670247810111768837",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785997261000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
+   "company": "ByteDance",
+   "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
+   "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1785996901000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:da8a18fa-889f-40b2-aed8-e47cf70f8f15",
+   "company": "ByteDance",
+   "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
+   "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785996985000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786007896775
+  },
+  {
+   "key": "simplify:1ffbd441-9fea-43f5-819f-f097b8702aaf",
+   "company": "ByteDance",
+   "title": "Applied Machine Learning Production Engineer Graduate - AML Production Engineer",
+   "url": "https://jobs.bytedance.com/en/position/7670004502598060341/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785996901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786007896775
+  },
   {
    "key": "simplify:fad1406c-cd92-4587-b376-d9839b629e3c",
    "company": "TikTok",
@@ -5671,161 +5831,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785645183463
-  },
-  {
-   "key": "simplify:aaaa8a89-4a65-414d-ad5f-46e681c28716",
-   "company": "Garmin",
-   "title": "Software Engineer 1 - Aviation Web Development",
-   "url": "https://careers.garmin.com/jobs/17742?icims=1",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785632941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785645183463
-  },
-  {
-   "key": "simplify:e142c984-ca46-4624-af2c-e5061b8b60f2",
-   "company": "HPR (Hyannis Port Research)",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-   "locations": [
-    "Needham, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785624670000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
-  },
-  {
-   "key": "simplify:cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
-   "company": "Postman",
-   "title": "AI Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-   "locations": [
-    "Berkeley, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785624665000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
-  },
-  {
-   "key": "simplify:43929c26-d19b-4057-9543-bf087c4bbf62",
-   "company": "Medtronic",
-   "title": "Software Engineer Intern",
-   "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630",
-   "locations": [
-    "Boston, MA",
-    "Santa Ana, CA",
-    "Fridley, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785624482000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
-  },
-  {
-   "key": "simplify:03f21060-0f3b-4d8c-b3e7-d49a1584cbbf",
-   "company": "Invesco",
-   "title": "Software Engineer - Strategy, Innovation & Planning",
-   "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Engineer--SIP_R-13716-1",
-   "locations": [
-    "Houston, TX",
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785622599000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
-  },
-  {
-   "key": "simplify:021114e1-c556-4de3-ac71-007b3f8adb26",
-   "company": "Bank of Montreal",
-   "title": "Software Developer",
-   "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785621967000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
-  },
-  {
-   "key": "simplify:949d8a95-4a05-4773-abf0-ef1ba68de79d",
-   "company": "Apple",
-   "title": "Swift Software Engineer - SWE Program Tools",
-   "url": "https://jobs.apple.com/en-us/details/200675075",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785621241000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
-  },
-  {
-   "key": "simplify:0a0493c3-6930-4513-9133-44efe6284bea",
-   "company": "Garmin",
-   "title": "Software Engineer 1 - Real Time Aviation Data",
-   "url": "https://careers.garmin.com/jobs/18762?icims=1",
-   "locations": [
-    "Olathe, KS"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785623401000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785625982968
   }
  ]
 }
