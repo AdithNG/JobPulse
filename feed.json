@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-06T11:37:44.060Z",
+ "updatedAt": "2026-08-06T13:19:28.875Z",
  "jobs": [
+  {
+   "key": "simplify:ac18c1f0-07af-4081-accf-59aebb2b6fd0",
+   "company": "RTX",
+   "title": "Digital Product Configuration Management Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Digital-Product-Configuration-Management-Engineer-I--Onsite-_01864368",
+   "locations": [
+    "Woburn, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786017503000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786022367982
+  },
   {
    "key": "simplify:c8f7dd03-3fba-4f1d-850e-76adc3a00557",
    "company": "Emerald AI",
@@ -5804,25 +5823,6 @@
    "company": "ManTech",
    "title": "Associate Software Engineer",
    "url": "https://mantech.avature.net/en_US/careers/JobDetail/65051",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785632425000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785645183463
-  },
-  {
-   "key": "simplify:678077f9-ae48-457f-8a21-5b51072d2d48",
-   "company": "ManTech",
-   "title": "Associate CNO Developer",
-   "url": "https://mantech.avature.net/en_US/careers/JobDetail/64788",
    "locations": [
     "Fort Meade, MD"
    ],
