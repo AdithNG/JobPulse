@@ -1,6 +1,201 @@
 {
- "updatedAt": "2026-08-07T21:56:09.316Z",
+ "updatedAt": "2026-08-07T22:48:18.010Z",
  "jobs": [
+  {
+   "key": "simplify:fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
+   "company": "Belvedere Trading",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786140725000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "trading"
+   ],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:f4b05847-d015-43a2-b07f-482144c9580f",
+   "company": "Belvedere Trading",
+   "title": "Software Engineer",
+   "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141060000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "trading"
+   ],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:ea2731af-2fbc-4e8e-834a-a0db3c17ab9c",
+   "company": "RTX",
+   "title": "Systems Engineer 1 Intern - Intern Conversion",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141526000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:1aeed220-bf37-4565-a0cb-fa72dae2456d",
+   "company": "Amcor",
+   "title": "Product Development Engineer Intern",
+   "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654",
+   "locations": [
+    "Evansville, IN"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141477000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:b85eddaf-16be-4f29-9179-6de363f4299b",
+   "company": "Varda Space",
+   "title": "Applications Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786140875000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:199e7d94-1625-41cc-861d-a587e1f7b52e",
+   "company": "Ensemble Health Partners",
+   "title": "Associate BI Engineer",
+   "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Associate-BI-Engineer_R048864",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786140901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:4915b29d-de2c-4adf-8f91-a6dd8ecb25ac",
+   "company": "Intercontinental Exchange",
+   "title": "Engineer 1",
+   "url": "https://careers-ice.icims.com/jobs/13435/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141629000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:952bbac0-18af-4767-b6a2-6d9e3639a5af",
+   "company": "Charles Schwab",
+   "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
+   "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141448000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:9b831cbe-5890-4ad9-a523-4a866da71a42",
+   "company": "CACI",
+   "title": "Associate Software Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Associate-Software-Engineer_330249",
+   "locations": [
+    "Aurora, CO",
+    "King of Prussia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786140725000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
+  {
+   "key": "simplify:c9372099-ac31-46fe-82ad-547ac87f1e6f",
+   "company": "Riverside Research",
+   "title": "Software Developer - Sensor and Systems",
+   "url": "https://careers-riversideresearch.icims.com/jobs/4331/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fairfax, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786140725000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786142897114
+  },
   {
    "key": "simplify:de7466cc-1557-459d-8035-37be599c14d0",
    "company": "Tyson Foods",
@@ -5651,197 +5846,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785737701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:2885ff59-1385-48a3-8b0d-ae0a20235b78",
-   "company": "GliaCell Technologies",
-   "title": "Junior Software Engineer",
-   "url": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:5da5d91c-78a7-406f-a127-8b23189ab015",
-   "company": "Capgemini",
-   "title": "Junior Data Engineer/Junior Data Scientist",
-   "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Data-EngineerJunior-Data-Scientist-GA-30301/1418864933/?ats=successfactors",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:1b62de55-253b-4ee8-8381-54120f90d0da",
-   "company": "L3Harris Technologies",
-   "title": "Associate Software Engineering",
-   "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1415116300/?ats=successfactors",
-   "locations": [
-    "Palm Bay, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737488000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:8164a1a2-c8ee-4c4f-b296-1c29817a193e",
-   "company": "Stellar Science",
-   "title": "Emerging Modern C++ Software Developer",
-   "url": "https://stellarscience.applytojob.com/apply/7gp90TxJAT/Emerging-Modern-C-Software-Developer-ABQ",
-   "locations": [
-    "Tysons, VA",
-    "Albuquerque, NM"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:c8522e95-f6e1-419a-b503-80a942a4ce72",
-   "company": "HarmonyTech",
-   "title": "Junior Software Developer - .NET",
-   "url": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:8099b035-680b-404a-b74f-bd92b979b063",
-   "company": "ITC Defense Corp.",
-   "title": "Software Developer - .NET/C# - NAVSUP Programs",
-   "url": "https://itcdefense.applytojob.com/apply/Zlhmseroea/Software-Developer-NETC-NAVSUP-Programs",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:fa5f9365-4100-48b9-a209-20b0abd1211d",
-   "company": "EAi Technologies",
-   "title": "Physics/Math Graduate Software Developer",
-   "url": "https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer",
-   "locations": [
-    "Vienna, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739586000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:1661ac6f-3138-4aac-8219-cd2fefdde9f7",
-   "company": "METECS",
-   "title": "Simulation Software Engineer",
-   "url": "https://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739588000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:147cf476-9156-4387-9b97-bca152ce1461",
-   "company": "Analytica",
-   "title": "Data Engineer",
-   "url": "https://analyticallc.applytojob.com/apply/3QMztCSYzt/Data-Engineer",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:682f9b47-5081-4f77-85e3-da6ba3076369",
-   "company": "EAi Technologies",
-   "title": "Entry Level Software Developer",
-   "url": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
-   "locations": [
-    "Vienna, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739323000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
