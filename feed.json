@@ -1,6 +1,125 @@
 {
- "updatedAt": "2026-08-07T05:23:48.233Z",
+ "updatedAt": "2026-08-07T06:50:30.034Z",
  "jobs": [
+  {
+   "key": "simplify:0d08870e-e904-49a6-acf8-7dce45403ba0",
+   "company": "Solerity",
+   "title": "JavaScript Software Engineer 1 - TS/SCI with Poly",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786084066000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1786085429166
+  },
+  {
+   "key": "simplify:26f3c78f-dda8-42c5-95af-0b4294303214",
+   "company": "InterImage",
+   "title": "Full Stack Developer - Entry/Associate Level",
+   "url": "https://apply.workable.com/interimage/j/8DBD237A8E/apply",
+   "locations": [
+    "Columbia, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786083481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1786085429166
+  },
+  {
+   "key": "simplify:5725405b-6f22-485b-a418-ad3c6148afb4",
+   "company": "Terranova",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true",
+   "locations": [
+    "Berkeley, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786084070000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786085429166
+  },
+  {
+   "key": "simplify:d70d2957-012d-4805-b794-0d5527276f27",
+   "company": "Avalore",
+   "title": "Software Engineer",
+   "url": "https://apply.workable.com/avalore/j/F157AC3B65/apply",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786083841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786085429166
+  },
+  {
+   "key": "simplify:b0e4f405-60ec-4f76-bad9-511dd698c08d",
+   "company": "InterImage",
+   "title": "Software Engineer 0",
+   "url": "https://apply.workable.com/interimage/j/35ED59E021/apply",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786083481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786085429166
+  },
+  {
+   "key": "simplify:0483a44f-f140-427e-a301-9d87c2344515",
+   "company": "InterImage",
+   "title": "Software Engineer",
+   "url": "https://apply.workable.com/interimage/j/50AEE969C4/apply",
+   "locations": [
+    "Remote in USA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786083481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786085429166
+  },
   {
    "key": "simplify:f555debe-b0d3-424f-b231-329a6d2df96a",
    "company": "TikTok",
@@ -5719,120 +5838,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785739200000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:78f040d4-9950-46c8-93de-a0a189144450",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Data Search Visual Search",
-   "url": "https://lifeattiktok.com/search/7667349591747758341",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739171000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:06426b56-1656-40d9-af47-7df0807a5b02",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Data Search Basic Ranking",
-   "url": "https://lifeattiktok.com/search/7667344111675246901",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:18aa6242-cd69-4aa2-999b-e8a7f5daa34f",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Data Search - Visual Search",
-   "url": "https://lifeattiktok.com/search/7667346535273007413",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739163000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:dfb14959-39c2-4aaa-8ea0-a7f75c6dd02e",
-   "company": "TikTok",
-   "title": "Software Engineer New Grad - Quality and Efficiency Technology",
-   "url": "https://lifeattiktok.com/search/7668680253677504821",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739137000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:db70cc78-6903-4f3e-98df-d5eef1dabd84",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Data-Global E-Commerce-Search",
-   "url": "https://lifeattiktok.com/search/7668389759463393589",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739137000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:b027e384-ef72-4db9-8ff3-c63ea36f4583",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad",
-   "url": "https://lifeattiktok.com/search/7668376903708281141",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739136000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
