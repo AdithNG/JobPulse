@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-07T13:37:47.083Z",
+ "updatedAt": "2026-08-07T14:40:19.323Z",
  "jobs": [
+  {
+   "key": "simplify:de7466cc-1557-459d-8035-37be599c14d0",
+   "company": "Tyson Foods",
+   "title": "Data Engineer 1 - Inventory Optimization",
+   "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0475407-1",
+   "locations": [
+    "Springdale, AR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786112419000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786113618315
+  },
   {
    "key": "simplify:e0c8a83a-ab36-4f9d-8587-275d4d7007db",
    "company": "ByteDance",
@@ -5815,25 +5834,6 @@
    "company": "EAi Technologies",
    "title": "Entry Level Software Developer",
    "url": "https://eaiti.applytojob.com/apply/Y16NUsHVnd/Entry-Level-Software-Developer",
-   "locations": [
-    "Vienna, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:165def57-d2b8-4820-944f-203575dd7b00",
-   "company": "EAi Technologies",
-   "title": "Entry Level .NET Software Developer",
-   "url": "https://eaiti.applytojob.com/apply/9RStfnAuq4/Entry-Level-NET-Software-Developer",
    "locations": [
     "Vienna, VA"
    ],
