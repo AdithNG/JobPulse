@@ -1,6 +1,354 @@
 {
- "updatedAt": "2026-08-07T22:48:18.010Z",
+ "updatedAt": "2026-08-07T23:22:16.918Z",
  "jobs": [
+  {
+   "key": "simplify:6eff9788-f38e-4357-8646-cd6f5984f3cb",
+   "company": "Axon",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786143233000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
+   "company": "Atoms",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+   "locations": [
+    "Seattle, WA",
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786143220000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:cca92450-5ead-4d71-8d7f-084c27b9d1f9",
+   "company": "The Nuclear Company",
+   "title": "AI/ML Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786142954000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:b57a206e-05f4-4b02-9ccd-b54ba30848e2",
+   "company": "The Nuclear Company",
+   "title": "Software Engineering Intern - Product - Platform",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786142950000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:40ea3092-e7fc-4bc8-9e63-abe6f047adf4",
+   "company": "The Nuclear Company",
+   "title": "AI/ML Engineer Intern - Platform Integration & AI/Data",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142956000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:51b99bce-c9cc-4f6f-9a52-d602f8e9e826",
+   "company": "Johnson & Johnson",
+   "title": "Software Engineer Co-op",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142895000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:50faea58-028e-467f-b373-f0c40e657222",
+   "company": "The Nuclear Company",
+   "title": "Software Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142936000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:44950f93-2f35-41ce-9bbc-d82279022aa6",
+   "company": "The Nuclear Company",
+   "title": "AI Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142941000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968",
+   "company": "TikTok",
+   "title": "Frontend Engineer Intern - Ads Interface",
+   "url": "https://lifeattiktok.com/search/7671211313289398581",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786141261000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:44d659f8-4edf-405b-b579-79593f6180a1",
+   "company": "Cortica",
+   "title": "Junior AI Data Engineer",
+   "url": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142881000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:f0d91c80-6a29-46d4-bfb7-ad3fb4918547",
+   "company": "Torch Technologies",
+   "title": "Software Engineer 1",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142859000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:219eb184-29fc-49a1-821e-93c62b472925",
+   "company": "Auto-Owners Insurance",
+   "title": "Business Intelligence Developer",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13789-1",
+   "locations": [
+    "Lansing, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:dbc8423a-e279-4fee-97ce-cc3f8a124aa5",
+   "company": "Netsmart",
+   "title": "Software Engineer - EVV",
+   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--Java-Experience-Onsite--Overland-Park--KS-_R015567",
+   "locations": [
+    "Overland Park, KS"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142626000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:37a1894e-f216-436f-8f54-98b6d75622b0",
+   "company": "Booz Allen",
+   "title": "Software Engineer - University",
+   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246656",
+   "locations": [
+    "Honolulu, HI",
+    "Annapolis Junction, MD",
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142568000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:00912e53-abce-46c1-84a0-f14dc8684f13",
+   "company": "Booz Allen",
+   "title": "Software Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246663",
+   "locations": [
+    "Honolulu, HI",
+    "Annapolis Junction, MD",
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142539000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:b62812e2-241d-4fc7-810e-2726318274e3",
+   "company": "Curtiss-Wright Corporation",
+   "title": "Graduate Engineer",
+   "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
+   "locations": [
+    "Frederick, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141261000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:983f8874-b9ed-43ca-9910-718e20bcac70",
+   "company": "ByteDance",
+   "title": "Software Development Engineer Graduate - Intent-Based Networking",
+   "url": "https://jobs.bytedance.com/en/position/7671145911004842245/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786141261000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
+  {
+   "key": "simplify:8035433a-5a4c-497b-92a1-2440c1b386d6",
+   "company": "xAI",
+   "title": "Software Engineer - Evals",
+   "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786142341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786144935648
+  },
   {
    "key": "simplify:fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
    "company": "Belvedere Trading",
@@ -5503,350 +5851,6 @@
    "sponsorship": "unknown",
    "posted": 1785738601000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:3a5ca7be-fe69-4dc6-90df-9bdae4a796cc",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Trust and Safety",
-   "url": "https://lifeattiktok.com/search/7662672554084059445",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785739179000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:1c50abfc-6825-4aa2-8dff-f244f74c75bf",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Search Quality",
-   "url": "https://lifeattiktok.com/search/7665475460339665157",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:475c6e64-fc16-434f-a3fc-59634cda73e3",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Data Search - Visual Search",
-   "url": "https://lifeattiktok.com/search/7667349591727278341",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:07a9c26b-bccd-44eb-8314-fee1a7513235",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Ads Measurement Signal and Privacy",
-   "url": "https://lifeattiktok.com/search/7668582031916435717",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:8db73e59-868b-443c-ae94-c136c0561141",
-   "company": "TikTok",
-   "title": "Artificial Intelligence Engineer Intern - Client Architecture",
-   "url": "https://lifeattiktok.com/search/7667935738190465285",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785739153000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:c03b7a2c-d1b6-4e44-bfc8-e638eeb45dac",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Social Friending",
-   "url": "https://lifeattiktok.com/search/7667935399050692917",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:b39e7951-0395-4c53-8303-28b2f26bd237",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Data Architecture - E-commerce",
-   "url": "https://lifeattiktok.com/search/7668582146236631349",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:b810a416-7ff9-4dd2-9bee-5b5b5ca5e317",
-   "company": "TikTok",
-   "title": "Frontend Engineer Intern - Open Platform",
-   "url": "https://lifeattiktok.com/search/7667935739300792629",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:8f05dd2f-befa-4ddd-8488-134b03cc716d",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Agentic Creation-Effect Platform",
-   "url": "https://lifeattiktok.com/search/7668445566565321013",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:4e30bd9b-ebf0-4353-86db-38408f6b37c3",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - ML Infra",
-   "url": "https://lifeattiktok.com/search/7668696895234197813",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:21843187-b30d-4873-8247-27a9a3d7b05d",
-   "company": "TikTok",
-   "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
-   "url": "https://lifeattiktok.com/search/7668584161852229893",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:7ebfe14e-9cc5-4d58-a36d-60f66838f248",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Business Integrity",
-   "url": "https://lifeattiktok.com/search/7668584916620527925",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:33f7cf59-11b2-4422-b6b4-0d340392d3b9",
-   "company": "JP Morgan Chase",
-   "title": "Software Engineer Intern - Software Engineer Program",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773759",
-   "locations": [
-    "Palo Alto, CA",
-    "Houston, TX",
-    "Tampa, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785740952000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:b2e7a1d7-ed4a-47c7-907d-22faa28f71f5",
-   "company": "Nebo",
-   "title": "Back-End Engineer Intern",
-   "url": "https://neboagency.applytojob.com/apply/VhgOaS6Nx3/BackEnd-Engineering-Intern",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785740700000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:e2cd2c18-b6de-4e54-bdcf-f35c06225ca4",
-   "company": "Nebo",
-   "title": "Front-End Engineer Intern",
-   "url": "https://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785740645000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:c9a5b195-2b20-4bf0-9c3d-574667e66bd4",
-   "company": "Independent Software",
-   "title": "Software Engineer 1",
-   "url": "https://independentsoftware.applytojob.com/apply/1zxyOvNOGu/Software-Engineer-Level-1-FORECASTED",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738354000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:c6f4e0f0-e734-4061-a5fc-9a5c209b86eb",
-   "company": "Independent Software",
-   "title": "Software Engineer",
-   "url": "https://independentsoftware.applytojob.com/apply/fCGbXaNPRL/Software-Engineer-Level-0-FORECASTED",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:4f002917-8cdb-4ef9-a66c-02d05d0d220e",
-   "company": "Peterson Technologies",
-   "title": "Junior Software Engineer",
-   "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737701000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
