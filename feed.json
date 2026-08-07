@@ -1,6 +1,124 @@
 {
- "updatedAt": "2026-08-07T09:15:45.254Z",
+ "updatedAt": "2026-08-07T10:15:59.638Z",
  "jobs": [
+  {
+   "key": "simplify:e0c8a83a-ab36-4f9d-8587-275d4d7007db",
+   "company": "ByteDance",
+   "title": "LLM Backend Engineer Graduate - Applied Machine Learning",
+   "url": "https://jobs.bytedance.com/en/position/7667730992538585349/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786094822000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786097758783
+  },
+  {
+   "key": "simplify:37eb8005-8ed0-4c9c-9441-4833520687dc",
+   "company": "ByteDance",
+   "title": "Large Language Model Inference System Engineer New Grad - Applied Machine Learning",
+   "url": "https://jobs.bytedance.com/en/position/7667726338627356933/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786094900000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786097758783
+  },
+  {
+   "key": "simplify:39ac8ee1-4714-4c09-984d-d8ca05fca666",
+   "company": "ByteDance",
+   "title": "Large Language Model Training System Engineer Graduate - Applied Machine Learning",
+   "url": "https://jobs.bytedance.com/en/position/7667685712993650997/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786094822000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786097758783
+  },
+  {
+   "key": "simplify:3c510880-5a95-4889-b975-ff4cbcea4877",
+   "company": "ByteDance",
+   "title": "Machine Learning Systems Scheduling Engineer Graduate - Applied Machine Learning",
+   "url": "https://jobs.bytedance.com/en/position/7667727006294214965/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786094898000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786097758783
+  },
+  {
+   "key": "simplify:4d438c3b-47f9-456f-af8e-c67ed0178519",
+   "company": "ByteDance",
+   "title": "Machine Learning Engineer Graduate - Agent Evaluation & Evolution",
+   "url": "https://jobs.bytedance.com/en/position/7670932427485186309/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786094822000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786097758783
+  },
+  {
+   "key": "simplify:089391ad-ee52-4c4f-993a-e79f42219682",
+   "company": "Google",
+   "title": "Software Engineer - Campus",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750",
+   "locations": [
+    "Cambridge, MA",
+    "Seattle, WA",
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786093639000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786097758783
+  },
   {
    "key": "simplify:0d08870e-e904-49a6-acf8-7dce45403ba0",
    "company": "Solerity",
@@ -5724,120 +5842,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785739323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:79b491ab-bce0-4dfc-8c6b-bf158961339b",
-   "company": "TikTok",
-   "title": "Design Engineering Graduate",
-   "url": "https://lifeattiktok.com/search/7667837906192877829",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:492953a8-9863-41ff-b149-9e8fa3081af9",
-   "company": "TikTok",
-   "title": "Software Engineer/Mobile Engineer New Grad - Ads Core Demonstration",
-   "url": "https://lifeattiktok.com/search/7668701834807101749",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739209000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:17be086b-1987-4060-8151-25af9f96e55f",
-   "company": "Set of X",
-   "title": "Software Engineer 0",
-   "url": "https://setofx.applytojob.com/apply/slG3BGozXj/Software-Engineer-0",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:e4f90f60-0ef3-4d02-97a2-ee3aa0c21d26",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate",
-   "url": "https://lifeattiktok.com/search/7665797203155896581",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:d8f41f3f-586c-4f20-8868-e9832e690e61",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Search Quality",
-   "url": "https://lifeattiktok.com/search/7665793152026740997",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739173000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:d6849abb-e865-4cce-a9b9-a23021fc49f7",
-   "company": "TikTok",
-   "title": "Software Engineer New Grad - Ads Measurement Signal Technology",
-   "url": "https://lifeattiktok.com/search/7668717356843977013",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739200000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
