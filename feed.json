@@ -1,6 +1,204 @@
 {
- "updatedAt": "2026-08-07T00:34:40.227Z",
+ "updatedAt": "2026-08-07T03:38:23.802Z",
  "jobs": [
+  {
+   "key": "simplify:f555debe-b0d3-424f-b231-329a6d2df96a",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Graduate - Data Lifecycle Management",
+   "url": "https://lifeattiktok.com/search/7670391173613160757",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786065661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:65374907-a79c-4477-928a-78fd06e99828",
+   "company": "TikTok",
+   "title": "Backend Software Engineer Graduate - Privacy and Security - Product",
+   "url": "https://lifeattiktok.com/search/7670387719826786565",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786065661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:470d8405-efc2-46a4-984e-477fa5e3d31e",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
+   "url": "https://lifeattiktok.com/search/7662594807715072261",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786065685000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357",
+   "company": "TikTok",
+   "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+   "url": "https://lifeattiktok.com/search/7670700387322300677",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786065661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:3eeac721-35f3-4f16-9019-05cfc80ad251",
+   "company": "TikTok",
+   "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+   "url": "https://lifeattiktok.com/search/7670738362521520437",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786065661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:aa7eb673-811f-4d32-a109-b840c82a1fab",
+   "company": "ByteDance",
+   "title": "Network Software Engineer Intern - Network Switch",
+   "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786065411000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:1a9582e0-2525-494c-8737-53db648f37cb",
+   "company": "ByteDance",
+   "title": "Network Software Engineer Intern - Network Observation",
+   "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786065399000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:c44d58c3-05e3-470a-9f21-4722f9d8522d",
+   "company": "Amazon",
+   "title": "Software Development Engineer Internship - Fall 2026 - US",
+   "url": "https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784754558000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:e4ec4b12-71e5-44a2-9874-b52d28e6006a",
+   "company": "ByteDance",
+   "title": "LLM/AI Operations Development Engineer Graduate - Data Center Networking",
+   "url": "https://jobs.bytedance.com/en/position/7670773781477394741/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786065404000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
+  {
+   "key": "simplify:25f1d732-78f0-476f-9d25-b0f357ab023f",
+   "company": "Merck",
+   "title": "Software Engineer - AI Development",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1",
+   "locations": [
+    "North Wales, PA",
+    "West Point, PA",
+    "Rahway, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786065301000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786073902414
+  },
   {
    "key": "simplify:e80e3302-1101-475b-8706-adaf4a95d93a",
    "company": " impact.com ",
@@ -5635,196 +5833,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785739136000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:74e63cee-7e63-4b47-9dcd-f6b3b72a68f7",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Ads Delivery",
-   "url": "https://lifeattiktok.com/search/7668660365135808821",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:972a395a-4b76-444b-8f8a-9ce1e1a55d22",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Monetization Technology - Ads Core Global",
-   "url": "https://lifeattiktok.com/search/7668592348941273349",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:7656aad8-a423-4e16-bb7e-5b487532457f",
-   "company": "TikTok",
-   "title": "Software Engineer New Grad - Ads Signal & Measurement",
-   "url": "https://lifeattiktok.com/search/7668724383120804149",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739129000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:2e854092-b1ff-4691-a581-23d94da76a5b",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Brand Ads",
-   "url": "https://lifeattiktok.com/search/7668698260232702261",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:234d00c7-54f5-4ec4-b8c2-ad6ae52fd01e",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Ads Targeting",
-   "url": "https://lifeattiktok.com/search/7668629846058223877",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:0327292f-07c4-467b-83c8-867fbee19266",
-   "company": "TikTok",
-   "title": "Software Engineer New Grad - Business Integrity",
-   "url": "https://lifeattiktok.com/search/7668592494649690421",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739131000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:6908222c-e936-4f53-9279-78f6f59e507d",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - MLOps",
-   "url": "https://lifeattiktok.com/search/7668700671828707589",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:5ec4eb06-b685-4987-acef-eb1358008f6b",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Ads Delivery",
-   "url": "https://lifeattiktok.com/search/7668662545059023157",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:5352619a-3d75-4bd9-b7af-098751f77cad",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - E-Commerce Search",
-   "url": "https://lifeattiktok.com/search/7668390999147776309",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739136000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:2e5c1d58-b0ed-49e8-9544-80f758fb517a",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Ads Creative",
-   "url": "https://lifeattiktok.com/search/7668669015051405573",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
