@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-10T13:35:14.466Z",
+ "updatedAt": "2026-08-10T14:43:22.086Z",
  "jobs": [
+  {
+   "key": "simplify:fdd7e7ec-c300-4a26-931c-56c3adc48425",
+   "company": "TikTok",
+   "title": "Data Engineer Intern - Monetization Data",
+   "url": "https://lifeattiktok.com/search/7671232204182276405",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786371661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786373000972
+  },
+  {
+   "key": "simplify:d1768aee-f240-4353-b609-278b04785c95",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Global E-commerce-Search",
+   "url": "https://lifeattiktok.com/search/7670839727059339525",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786371661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786373000972
+  },
   {
    "key": "simplify:b7d2b969-6593-4660-bd91-dc2baae3f910",
    "company": "Cummins",
@@ -5800,48 +5838,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785739176000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:50d9a250-7c25-4fe5-861d-0c8ad7f9299a",
-   "company": "TikTok",
-   "title": "Backend Software Engineer New Grad - Feed Safety",
-   "url": "https://lifeattiktok.com/search/7663028952600807733",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:1d7d6985-791b-4b60-be34-7ca3806aacba",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Graduate - Business Governance",
-   "url": "https://lifeattiktok.com/search/7663042453461600517",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738601000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 21,
