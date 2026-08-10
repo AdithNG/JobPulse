@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-08-10T06:04:52.862Z",
+ "updatedAt": "2026-08-10T08:03:30.248Z",
  "jobs": [
+  {
+   "key": "simplify:b7d2b969-6593-4660-bd91-dc2baae3f910",
+   "company": "Cummins",
+   "title": "Product Engineer",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797",
+   "locations": [
+    "Columbus, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786342681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786349009429
+  },
+  {
+   "key": "simplify:8def6cd4-02f6-4045-9290-2e08f2f10b24",
+   "company": "Cummins",
+   "title": "Software Engineer 1",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786342731000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786349009429
+  },
+  {
+   "key": "simplify:794d9023-0e6c-4e52-aba9-a759253853f2",
+   "company": "Cummins",
+   "title": "Product Engineer - Turbo Platform Product Engineering",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434284",
+   "locations": [
+    "Columbus, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786342681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786349009429
+  },
+  {
+   "key": "simplify:1d6917cc-c2ac-4a2b-8ffc-9e08ecc68f64",
+   "company": "Cummins",
+   "title": "Electronic Systems Engineer - Software",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277",
+   "locations": [
+    "Columbus, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786342681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786349009429
+  },
+  {
+   "key": "simplify:08cca5ea-66d4-4c06-bc78-8aa1c6a832e4",
+   "company": "ASR INTERNATIONAL",
+   "title": "Junior Software Engineer Intern - Instrumentation",
+   "url": "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior",
+   "locations": [
+    "Newport News, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786342731000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786349009429
+  },
+  {
+   "key": "simplify:50f47dfa-2767-4349-b388-347aa02f6f46",
+   "company": "L3Harris Technologies",
+   "title": "Associate Software Engineering",
+   "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000/?ats=successfactors",
+   "locations": [
+    "Rochester, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786342428000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786349009429
+  },
   {
    "key": "simplify:40dbbf5f-d4ad-493a-9644-4f4b0662556c",
    "company": "Cadence Design Systems",
@@ -5734,129 +5848,6 @@
    "matchedWords": [
     "backend"
    ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:05bd45cb-da24-4b7e-8939-30ee09ff4c4f",
-   "company": "Booker DiMaio, LLC",
-   "title": "Full Stack Java Developer",
-   "url": "https://bookerdimaio.applytojob.com/apply/jPoQXED5J3/Full-Stack-Java-Developer-With-TSSCI-Clearance-Full-Scope-PolygraphOnsite-In-Annapolis-Jct-MD",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785739657000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "full stack",
-    "java"
-   ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79",
-   "company": "GliaCell Technologies",
-   "title": "Junior Java Software Engineer",
-   "url": "https://gliacelltechnologies.applytojob.com/apply/5LJjRwD5B9/Junior-Java-Software-Engineer",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:467bb962-7ff9-480a-b4ce-fea726704dee",
-   "company": "Black Cape",
-   "title": "Python Data Engineer",
-   "url": "https://blackcape.applytojob.com/apply/AxU2pDbq3P/Python-Data-Engineer",
-   "locations": [
-    "Tampa, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785737701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "python"
-   ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:a479ff94-1a7a-4fd1-86d9-36386d78ef32",
-   "company": "Validity",
-   "title": "Full Stack AI Software Engineer",
-   "url": "https://validity.applytojob.com/apply/BmbSlUDxj6/Full-Stack-AI-Software-Engineer-I",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785740175000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:19c7a628-f5e1-4852-ae69-dc9b1519d3c3",
-   "company": "Black Cape",
-   "title": "Software Engineer Intern",
-   "url": "https://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA",
-   "locations": [
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785738297000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785744360620
-  },
-  {
-   "key": "simplify:ca23e8c8-d634-4b67-96ce-647e34eb388b",
-   "company": "Stellar Science",
-   "title": "Scientific Software Developer Intern Co-op",
-   "url": "https://stellarscience.applytojob.com/apply/my4AC4VXHI/Scientific-Software-Developer-Paid-CoopInternship",
-   "locations": [
-    "Albuquerque, NM"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785740066000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1785744360620
   }
  ]
