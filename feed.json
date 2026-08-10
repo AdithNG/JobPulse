@@ -1,6 +1,158 @@
 {
- "updatedAt": "2026-08-10T22:55:43.036Z",
+ "updatedAt": "2026-08-10T23:44:05.401Z",
  "jobs": [
+  {
+   "key": "simplify:af90f319-0d2d-4222-9f22-92f3dab0d342",
+   "company": "Mujin",
+   "title": "Software Integration Intern",
+   "url": "https://mujin.bamboohr.com/careers/166/",
+   "locations": [
+    "Suwanee, GA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786401572000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3",
+   "company": "ByteDance",
+   "title": "Software Engineer Intern - AML-Engine-Orchestration",
+   "url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786401541000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:245185f0-482e-4f3d-b036-598acb899969",
+   "company": "Mujin",
+   "title": "Software Development Intern - Spring 2027",
+   "url": "https://mujin.bamboohr.com/careers/165/",
+   "locations": [
+    "Suwanee, GA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786401403000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:60f8cb68-d09b-40e1-83e3-85541cc9d3d4",
+   "company": "Altamira Technologies",
+   "title": "Software Development Intern",
+   "url": "https://jobs.jobvite.com/altamiracorps/job/oMqCAfw8?nl=1&nl=1&fr=false",
+   "locations": [
+    "Fairborn, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786401001000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:01fb5702-b0a0-461a-8f55-9947b864709a",
+   "company": "Babel Street",
+   "title": "Data Warehouse Software Engineer",
+   "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8120325",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786402081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:db040850-9b1f-4c19-93d8-de0c16003f79",
+   "company": "Deloitte",
+   "title": "Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022",
+   "locations": [
+    "Gilbert, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786401575000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:42eb9963-840a-46d6-96fd-975e596c839f",
+   "company": "ByteDance",
+   "title": "Software Engineer Graduate - AML Engine Orchestration - 2027 Start",
+   "url": "https://jobs.bytedance.com/en/position/7671148355447343365/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786401541000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
+  {
+   "key": "simplify:06753993-8ac8-46f8-95a2-773c488a8d07",
+   "company": "FSH Technologies",
+   "title": "Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application?embed=true",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786401245000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786405444616
+  },
   {
    "key": "simplify:155f6df6-7cca-471e-8fb1-e8318faa6845",
    "company": "Tesla",
@@ -5660,159 +5812,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785766323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:0c5577ea-da23-4f9c-b54f-70bc34fee45d",
-   "company": "Autostore",
-   "title": "AI Engineer - HW Development",
-   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/AI-Engineer---HW-Development_JR102615",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785766681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:0e8a5b2c-b74c-4698-9f5d-00348584454a",
-   "company": "Voyager Technologies",
-   "title": "Accelerated Physics Simulation Engineer - Agentic Computational Engineering",
-   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
-   "locations": [
-    "Seattle, WA",
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
-   "company": "TikTok",
-   "title": "Research Engineer Graduate - Monetization Technology - Business Integrity",
-   "url": "https://lifeattiktok.com/search/7667769079948347701",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767221000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Trust and Safety",
-   "url": "https://lifeattiktok.com/search/7665994926854555909",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767221000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:a361534e-bae9-48ea-971f-acc6566fbb47",
-   "company": "TikTok",
-   "title": "Research Engineer New Grad - Multiple Teams",
-   "url": "https://lifeattiktok.com/search/7667767820142643461",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767583000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:e5443b5b-331f-470e-b03e-f8cb378f467a",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Trust and Safety",
-   "url": "https://lifeattiktok.com/search/7665991852209932597",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767582000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:6877141a-26a2-42c6-affa-8795287920b8",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Recommendation",
-   "url": "https://lifeattiktok.com/search/7663389745178757429",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767571000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:8490582c-bd48-42a8-a07c-ba525cec17a2",
-   "company": "CoxHealth",
-   "title": "Analytics Engineer 1",
-   "url": "https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Analytics-Engineer-I_R17671",
-   "locations": [
-    "Springfield, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767469000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
