@@ -1,6 +1,256 @@
 {
- "updatedAt": "2026-08-10T22:06:07.753Z",
+ "updatedAt": "2026-08-10T22:55:43.036Z",
  "jobs": [
+  {
+   "key": "simplify:155f6df6-7cca-471e-8fb1-e8318faa6845",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Engineering Automation - Vehicle Engineering",
+   "url": "https://www.tesla.com/careers/search/job/279763",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400721000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:73c1ef4b-88b7-4b1c-b439-231e8bb950fd",
+   "company": "Medpace",
+   "title": "Software Development Co-op - Spring 2027",
+   "url": "https://careers.medpace.com/jobs/12922?icims=1",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400142000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:8d01d105-695f-44f3-869c-064b79240d4c",
+   "company": "Medpace",
+   "title": "Data Engineer Intern - Spring 2027",
+   "url": "https://careers.medpace.com/jobs/12921?icims=1",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786399921000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:b87ec6ca-b7d5-41e8-9f74-dcd3244d464c",
+   "company": "Helmerich & Payne",
+   "title": "Wellbore Positioning Engineer",
+   "url": "https://hpinc.wd5.myworkdayjobs.com/hpinc/job/Tulsa-OK-USA/Wellbore-Positioning-Engineer_REQ-2815",
+   "locations": [
+    "Tulsa, OK",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:f0b8e23b-2ade-4c11-b110-06b6d18f1043",
+   "company": "Mastercard",
+   "title": "Software Engineer 1 - AI and Decision Product Enablement",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783",
+   "locations": [
+    "O'Fallon, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400755000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:6ecd2227-64fc-4d77-99bb-158081023302",
+   "company": "Apple",
+   "title": "Frontend Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200676168",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400727000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:96822135-f7cd-43a6-9b4f-7089def81ef5",
+   "company": "Knowledge Services",
+   "title": "Junior Data Engineer",
+   "url": "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:527124c6-94ed-4350-b517-dcb8a25d41e8",
+   "company": "Captivation",
+   "title": "Software Engineer 0 - Multiple Teams",
+   "url": "https://job-boards.greenhouse.io/captivation/jobs/5384983008",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400282000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:22f4cbf0-ea63-4e72-9fba-4319ef8415c3",
+   "company": "Blue Origin",
+   "title": "Software Development Engineer 1 - Early Career",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786400318000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:8c4d7dd9-6687-4b16-be26-325556c16534",
+   "company": "Commvault",
+   "title": "Software Engineer - AI/ML",
+   "url": "https://job-boards.greenhouse.io/commvault/jobs/5233623008",
+   "locations": [
+    "Tinton Falls, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786399921000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:81f6102b-b17c-4792-8d73-f5f5b8783ac2",
+   "company": "PAM Health",
+   "title": "AI Engineer",
+   "url": "https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786399741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:97d2fcce-ce62-4964-b105-dbef913bdce6",
+   "company": "Microsoft",
+   "title": "Software Engineer 1/2 - Identity and Network Access",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556953615",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786399913000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
+  {
+   "key": "simplify:aa8f8c78-313a-41e4-b996-661755cc45df",
+   "company": "Guidehouse",
+   "title": "Data Engineer 1",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995",
+   "locations": [
+    "Houston, TX",
+    "Charlotte, NC",
+    "San Antonio, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786399698000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786402541879
+  },
   {
    "key": "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
    "company": "ByteDance",
@@ -5568,274 +5818,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:9ee25097-f93f-4cf5-94fc-b8071589bf17",
-   "company": "Texas Sports Academy",
-   "title": "Junior AI Software Engineer",
-   "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785766681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:acab3458-c681-419e-821c-031f7b12b082",
-   "company": "RTX",
-   "title": "Cyberspace Research Developer",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyberspace-Research-Developer--Onsite-_01862901",
-   "locations": [
-    "Columbia, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785759728000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785765967370
-  },
-  {
-   "key": "simplify:89cf07d7-dea8-45c0-bd63-f03870bf2088",
-   "company": "ByteDance",
-   "title": "Backend and Infrastructure Software Engineer New Grad - Dev Infra",
-   "url": "https://jobs.bytedance.com/en/position/7667894766036322565/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748871000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 27,
-   "matchedWords": [
-    "backend",
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:e568e4b0-521c-46fd-9755-b2d6ee6b85f3",
-   "company": "ByteDance",
-   "title": "Backend Software Engineer Graduate - Platform",
-   "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:7a3479e6-fa2c-40d9-b917-c42922bfeaf1",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - Distributed NoSQL Database Systems",
-   "url": "https://jobs.bytedance.com/en/position/7668374190764050741/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785748681000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 20,
-   "matchedWords": [
-    "distributed"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:d96b68e1-8512-4890-8276-eac5392e1f2d",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - AI Infrastructure Compute",
-   "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785748681000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:906a54ba-479e-4593-8fae-3ac47867717b",
-   "company": "ByteDance",
-   "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
-   "url": "https://jobs.bytedance.com/en/position/7667976924430633269/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748926000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:d7b7af97-f9b0-4faf-84d3-6c33874a3f86",
-   "company": "ByteDance",
-   "title": "Software Engineer New Grad - Traffic Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7665849950984194309/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748910000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:8cad0fcf-e891-4637-91ed-259c291121f3",
-   "company": "ByteDance",
-   "title": "Software Engineer New Grad - AI Infrastructure-Compute Efficiency & Scheduling",
-   "url": "https://jobs.bytedance.com/en/position/7668799020705679669/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748906000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:566a98e3-cad9-4eb0-b7a7-ee9879c926e5",
-   "company": "ByteDance",
-   "title": "Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling",
-   "url": "https://jobs.bytedance.com/en/position/7668799019359357237/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:1b859931-1544-478a-bc10-f4d7d0521089",
-   "company": "ByteDance",
-   "title": "Software Engineer Graduate - AI Infrastructure Compute",
-   "url": "https://jobs.bytedance.com/en/position/7667334059728341253/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:c1f8fe81-6b8b-4d12-b133-c8b19cbe336d",
-   "company": "ByteDance",
-   "title": "Artificial Intelligence Software Engineer - Development Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7667901772678302005/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785748872000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785757377973
-  },
-  {
-   "key": "simplify:a7327377-6839-4afe-a0e7-a1e99135d7b4",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - AI Infra Compute",
-   "url": "https://jobs.bytedance.com/en/position/7667378931599214853/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785748681000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785757377973
   }
  ]
 }
