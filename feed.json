@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-08-11T05:41:20.662Z",
+ "updatedAt": "2026-08-11T06:38:53.555Z",
  "jobs": [
+  {
+   "key": "simplify:be884771-8768-4d4e-8fe8-545efc9a2cb0",
+   "company": "Meyer Distributing",
+   "title": "Junior Full Stack Developer",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786429081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1786430332726
+  },
   {
    "key": "simplify:a793a502-be13-4c61-a978-d990f3122ad0",
    "company": "CWILL",
@@ -5800,25 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785798814000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:01962f7a-42a4-45ab-97e2-65d2c97ee12c",
-   "company": "Applied Materials",
-   "title": "Application Engineer 3",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Application-Engineer-III-New-College-Grad_R2622545",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798681000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
