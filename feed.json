@@ -1,6 +1,316 @@
 {
- "updatedAt": "2026-08-11T16:38:29.472Z",
+ "updatedAt": "2026-08-11T17:41:53.699Z",
  "jobs": [
+  {
+   "key": "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
+   "company": "ByteDance",
+   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
+   "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786468863000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:3d753fc3-2bd4-4933-88e0-f2500926ed8b",
+   "company": "ByteDance",
+   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
+   "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786468863000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:b6f0ed37-c65c-493a-b002-0e540bc09413",
+   "company": "Kimley-Horn",
+   "title": "Software Developer Intern",
+   "url": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Cary, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786469042000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
+   "company": "RTX",
+   "title": "Software Development Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635",
+   "locations": [
+    "Tewksbury, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786469282000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:d94fdfc5-eb6a-4d86-9548-af67b0732bd1",
+   "company": "Analytic Partners",
+   "title": "Software Engineer Co-op - Mcgill University",
+   "url": "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54/apply",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469057000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:593ee6f1-3e6c-4136-8182-829091448ed2",
+   "company": "Analytic Partners",
+   "title": "Software Engineer Co-op - Georgia Tech",
+   "url": "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650/apply",
+   "locations": [
+    "Miami, FL",
+    "United States"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469221000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:08dcec1c-e97a-4c39-978e-cd2dede8bb31",
+   "company": "Analytic Partners",
+   "title": "Software Engineer Co-op - Northeastern University",
+   "url": "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688/apply",
+   "locations": [
+    "Miami, FL",
+    "United States"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469221000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:7b75fe14-a899-4b20-9785-85fc95da69b3",
+   "company": "ByteDance",
+   "title": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
+   "url": "https://jobs.bytedance.com/en/position/7672382828525832501/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786468863000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:48614093-9c24-4b18-92b5-a3b6f4e55c36",
+   "company": "Analytic Partners",
+   "title": "Software Engineer Co-op - University of Waterloo",
+   "url": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b/apply",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469057000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:6162ec1b-8a67-4399-9131-ab748f523281",
+   "company": "Analytic Partners",
+   "title": "Software Engineer Co-op - University of Toronto",
+   "url": "https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9/apply",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469058000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:1c48a615-424d-40fa-89b5-62e31990980c",
+   "company": "Insitu",
+   "title": "Software Engineer - Simulation",
+   "url": "https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1",
+   "locations": [
+    "Bingen, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469042000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
+   "company": "State Street",
+   "title": "Software Engineer New Grad",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
+   "locations": [
+    "Burlington, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469130000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:73cef19e-ced7-497b-bf62-388cb64b1801",
+   "company": "ByteDance",
+   "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate",
+   "url": "https://jobs.bytedance.com/en/position/7672392998189959429/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786468863000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:7f2aef69-8f56-49be-8f29-f9b37419bd0e",
+   "company": "ByteDance",
+   "title": "Research Engineer",
+   "url": "https://jobs.bytedance.com/en/position/7672398686110910773/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469095000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:22f7250b-258e-431c-af1b-a4fec83d9665",
+   "company": "ByteDance",
+   "title": "Software Engineer Graduate - AML-Engine-Orchestration",
+   "url": "https://jobs.bytedance.com/en/position/7672389697767377205/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786468863000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
+  {
+   "key": "simplify:1bf4a67e-16ac-4465-bb86-b325834f6ac1",
+   "company": "ByteDance",
+   "title": "Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark",
+   "url": "https://jobs.bytedance.com/en/position/7672391016194066693/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786469091000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786470112177
+  },
   {
    "key": "simplify:d5772952-0a23-4d22-8064-4a62a28bedf6",
    "company": "L3Harris Technologies",
@@ -5508,324 +5818,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785807775166
-  },
-  {
-   "key": "simplify:cef4c60b-0a55-4305-94cf-d725b8c66ad2",
-   "company": "Chicago Trading Company",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785796860000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:57f4a033-f0ed-4ca1-a46f-e084010c71f3",
-   "company": "Chicago Trading Company",
-   "title": "Associate Engineer",
-   "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716937005",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785796202000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:be331c13-8c20-4369-b515-8a9ef603b26b",
-   "company": "StudyFetch",
-   "title": "Engineering Intern",
-   "url": "https://ats.rippling.com/studyfetch/jobs/4ab846a3-a963-46c3-a60d-03fa832fa7d5",
-   "locations": [
-    "Beverly Hills, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785797753000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:3d2ef8a9-a5da-4120-9c53-50ceec3023cd",
-   "company": "Persona AI",
-   "title": "Autonomy Software Engineer Intern - World Modeling",
-   "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08/application?embed=true",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785797738000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:f258c80b-4140-4f8b-a3f4-4c1682682d30",
-   "company": "Bosch Home Comfort",
-   "title": "Artificial Intelligence and Software Development Engineering Intern",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000141302469",
-   "locations": [
-    "Plymouth, MI"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785796797000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:8b2a46d9-a5b0-4325-976b-4c70e9da4077",
-   "company": "Incident IQ",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/incidentiq/jobs/7824038003",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798181000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:6339287b-3f1f-45ea-964d-65549925660a",
-   "company": "SpaceX",
-   "title": "Software Engineering Intern/Co-op",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621757002",
-   "locations": [
-    "Palo Alto, CA",
-    "Bastrop, TX",
-    "Irvine, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785799025000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:9bf4727a-804d-4ee8-8c44-0eeec2960987",
-   "company": "SpaceX",
-   "title": "Software Engineer Intern/Co-op",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8621756002",
-   "locations": [
-    "Palo Alto, CA",
-    "Bastrop, TX",
-    "Irvine, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798855000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:86e907c2-6aef-4071-ae6c-20a9c6b7306c",
-   "company": "Netsmart",
-   "title": "Software Engineer Intern",
-   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785798855000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:447a57f2-3927-462b-b9ad-02970b6def5c",
-   "company": "Uline",
-   "title": "Business Intelligence Developer Intern",
-   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Business-Intelligence-Developer-Internship---Summer-2027_R265685",
-   "locations": [
-    "Waukegan, IL",
-    "Milwaukee, WI",
-    "Glenview, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785798810000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:de291c1a-da34-4159-9059-1234151298ef",
-   "company": "Uline",
-   "title": "Software Development Intern",
-   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684",
-   "locations": [
-    "Waukegan, IL",
-    "Milwaukee, WI",
-    "Glenview, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785798783000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:7668d718-523e-431c-a2b3-b39a409c2dec",
-   "company": "Intel",
-   "title": "AI Software Engineer Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798659000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:1b2d5e3a-9ab3-42a9-ab25-8ade9c457825",
-   "company": "Pariveda Solutions",
-   "title": "Entry Level Software Engineer",
-   "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true",
-   "locations": [
-    "Seattle, WA",
-    "Houston, TX",
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785797056000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:9f4a96b4-c4db-44c0-ab99-d6ce8f33934e",
-   "company": "FormFactor",
-   "title": "Supply Chain Data Engineer",
-   "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Farmers-Branch-TX/Supply-Chain-Data-Scientist_JR100869",
-   "locations": [
-    "Farmers Branch, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785796202000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:a10ca49c-25c2-42e5-971a-9e76f1b60fdb",
-   "company": "SimpliSafe",
-   "title": "Software Engineer 1 - User Systems",
-   "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785799076000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:51209c2a-1386-4eea-aa73-cd13c66ca8c0",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Systems Engineer - Sentinel",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate-Software-Systems-Engineer---19148_R10243153",
-   "locations": [
-    "Roy, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798943000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
   }
  ]
 }
