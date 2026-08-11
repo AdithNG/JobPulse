@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-11T14:38:30.925Z",
+ "updatedAt": "2026-08-11T15:40:04.812Z",
  "jobs": [
+  {
+   "key": "simplify:d5772952-0a23-4d22-8064-4a62a28bedf6",
+   "company": "L3Harris Technologies",
+   "title": "Associate Systems Engineer - Integrated Communication System",
+   "url": "https://jobs.l3harris.com/job/Camden-Associate,-Systems-Engineering-NJ-08103/1418083600/?ats=successfactors",
+   "locations": [
+    "Camden, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786458831000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786462804078
+  },
   {
    "key": "simplify:aa9feb49-b586-4dba-80ab-d35720db8230",
    "company": "Gulfstream",
@@ -5802,25 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785798943000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:d477274f-b6e9-4cd5-a6d6-1bc88d730ff9",
-   "company": "Northrop Grumman",
-   "title": "Associate Cyber Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798960000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
