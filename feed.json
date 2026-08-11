@@ -1,6 +1,186 @@
 {
- "updatedAt": "2026-08-11T00:39:29.733Z",
+ "updatedAt": "2026-08-11T02:53:39.200Z",
  "jobs": [
+  {
+   "key": "simplify:a793a502-be13-4c61-a978-d990f3122ad0",
+   "company": "CWILL",
+   "title": "R&D Trainee - Full-Stack Engineer - Backend",
+   "url": "https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply",
+   "locations": [
+    "Remote in USA",
+    "Cary, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786412125000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:60d005ff-fe23-4fdd-9573-6188bca2a95f",
+   "company": "The Anywhere",
+   "title": "Full Stack Developer",
+   "url": "https://apply.workable.com/the-anywhere-company/j/523D858ED1/apply",
+   "locations": [
+    "Hilton Head Island, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786411981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:6538dcdb-7ff2-4214-ba47-f53b40274027",
+   "company": "LPL Financial Holdings",
+   "title": "Software Engineer Intern",
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921",
+   "locations": [
+    "Austin, TX",
+    "Fort Mill, SC",
+    "Charlotte, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786412259000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:14051ce6-a050-4a8e-851b-555583f7ba2c",
+   "company": "LPL Financial Holdings",
+   "title": "Data Engineer Intern - Data",
+   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+   "locations": [
+    "Austin, TX",
+    "Fort Mill, SC",
+    "Charlotte, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786412255000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:12ce52b4-da60-4458-9f42-1581e549d94c",
+   "company": "Caddi Workflow Automation",
+   "title": "Software Engineer Intern",
+   "url": "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786411981000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:88f8ac40-cff8-45a1-97c8-5f968f94bfed",
+   "company": "KLA",
+   "title": "Applications Development Engineer - Broadband Plasma Division",
+   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355-1",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786410721000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:071ed622-765f-4844-a5d5-2482916aec1e",
+   "company": "Deloitte",
+   "title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786412257000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:6559e446-af35-47e2-9ceb-23d2f30345a1",
+   "company": "Teserac",
+   "title": "AI Engineer",
+   "url": "https://apply.workable.com/teserac-inc/j/6DB18627C3/apply",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786411981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
+  {
+   "key": "simplify:49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af",
+   "company": "SZNS Solutions",
+   "title": "Entry-Level Software Engineer",
+   "url": "https://apply.workable.com/szns/j/D24DE0E111/apply",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786412086000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786416818360
+  },
   {
    "key": "simplify:af90f319-0d2d-4222-9f22-92f3dab0d342",
    "company": "Mujin",
@@ -5644,179 +5824,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:6fd3ef51-26eb-4f6e-a368-592b0f49f210",
-   "company": "Intel",
-   "title": "Input/Output Shift Engineer 6 - Technology Development Engineer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/On-Shift--IOS--Technology-Development-Engineer---Night-Shift-6_JR0286100",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798613000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:de4fe3d1-76de-472c-8e5d-cd3753a6ab3c",
-   "company": "Williams",
-   "title": "Engineering Intern",
-   "url": "https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Summer-2027-Return-Engineering-Intern_R112502",
-   "locations": [
-    "Salt Lake City, UT",
-    "Houston, TX",
-    "Tulsa, OK"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785795556000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785796838340
-  },
-  {
-   "key": "simplify:76024ce1-258c-433e-87c4-2d704c53a61c",
-   "company": "Novanta",
-   "title": "Engineering Co-op",
-   "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R009487",
-   "locations": [
-    "Apex, NC"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785794761000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785796838340
-  },
-  {
-   "key": "simplify:dc53bf27-8562-4b15-bb8a-5c712b61d498",
-   "company": "Analytical Mechanics Associates",
-   "title": "Software Engineer",
-   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Mountain-View-CA/Software-Engineer_R-100728",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785794953000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785796838340
-  },
-  {
-   "key": "simplify:5b4a19fe-7e31-4e2e-9669-38716112bf76",
-   "company": "Waystar",
-   "title": "Junior Data Engineer",
-   "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Data-Engineer_R3322",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785795139000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785796838340
-  },
-  {
-   "key": "simplify:42c0c70a-f3aa-4aab-b737-a65c498589b7",
-   "company": "TikTok",
-   "title": "Research Engineer Intern - Monetization Technology - Business Integrity",
-   "url": "https://lifeattiktok.com/search/7668204394458466565",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767221000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:beffc9df-d33a-4e8c-bd21-8ac5229e3ab7",
-   "company": "Peraton",
-   "title": "Junior Web Developer",
-   "url": "https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Fort Huachuca, Sierra Vista, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785767265000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:fc4f2880-dfbe-4370-a129-24ea58c9a173",
-   "company": "Freddie Mac",
-   "title": "Software Developer Analyst",
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785766863000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
-  },
-  {
-   "key": "simplify:9dd271a3-9548-43cb-aa06-75e9947c1623",
-   "company": "Universal Health Services",
-   "title": "Associate Software Engineer - FSI",
-   "url": "https://jobs.uhsinc.com/jobs/362176?icims=1",
-   "locations": [
-    "King of Prussia, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785766323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785775225078
   }
  ]
 }
