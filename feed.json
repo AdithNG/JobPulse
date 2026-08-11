@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-11T13:23:44.463Z",
+ "updatedAt": "2026-08-11T14:38:30.925Z",
  "jobs": [
+  {
+   "key": "simplify:aa9feb49-b586-4dba-80ab-d35720db8230",
+   "company": "Gulfstream",
+   "title": "IT Applications Developer",
+   "url": "https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors",
+   "locations": [
+    "Savannah, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786457600000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786459110215
+  },
+  {
+   "key": "simplify:a7ad89c3-bfca-4132-bafe-f790f3d25000",
+   "company": "Western Digital",
+   "title": "Software Engineer - Apps",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786457521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786459110215
+  },
   {
    "key": "simplify:be884771-8768-4d4e-8fe8-545efc9a2cb0",
    "company": "Meyer Distributing",
@@ -5783,44 +5821,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785798960000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:db9c57de-0338-484f-acbc-6ea1db0e12ed",
-   "company": "Netsmart",
-   "title": "Software Engineer",
-   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785800989082
-  },
-  {
-   "key": "simplify:e060f699-0319-4af1-86fe-3235c0e032c1",
-   "company": "Analog Devices",
-   "title": "Product Engineer - Design Evaluation",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805",
-   "locations": [
-    "Wilmington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785798814000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
