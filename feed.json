@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-11T18:38:43.780Z",
+ "updatedAt": "2026-08-11T19:46:36.691Z",
  "jobs": [
+  {
+   "key": "simplify:ddb04217-d7a2-4576-abf4-9213f9bda09f",
+   "company": "Pennsylvania State University",
+   "title": "Computing Software Specialist - Platform Observability",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Computing-Software-Engineer--Platform-Observability-_REQ_0000080511-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786468938000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786477595685
+  },
   {
    "key": "simplify:83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
    "company": "Deloitte",
@@ -5794,25 +5813,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785806848000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785807775166
-  },
-  {
-   "key": "simplify:b42f1692-5275-4f0e-8d12-d63ea6464341",
-   "company": "Microchip Technology",
-   "title": "Engineering Intern - Software Development",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785806343000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
