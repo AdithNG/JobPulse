@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-08-12T02:38:55.961Z",
+ "updatedAt": "2026-08-12T04:27:49.748Z",
  "jobs": [
+  {
+   "key": "simplify:cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - AI Inference Co Design",
+   "url": "https://www.tesla.com/careers/search/job/279600",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786507037000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786508868900
+  },
+  {
+   "key": "simplify:fb0623ca-1ed7-4273-adcc-dda455705721",
+   "company": "Truveta",
+   "title": "Software Engineer - Live Link",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6140479004",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786505660000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786508868900
+  },
+  {
+   "key": "simplify:85abc859-5041-4b75-b40d-40befacf7a1e",
+   "company": "Axos Bank",
+   "title": "Data Engineer",
+   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--Data-Engineer_JR5192-1",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786505648000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786508868900
+  },
+  {
+   "key": "simplify:66396035-7ef7-4576-a4e0-7487fd68616c",
+   "company": "D.R. Horton",
+   "title": "Application Developer 1",
+   "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2603801",
+   "locations": [
+    "Arlington, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786505641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786508868900
+  },
   {
    "key": "simplify:511e7c10-e092-4a5a-8187-fe5563536b99",
    "company": "TikTok",
@@ -5731,82 +5807,6 @@
    "url": "https://lifeattiktok.com/search/7669905277419948293",
    "locations": [
     "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:167762d6-af17-4e7f-bea6-cf7ca8facdde",
-   "company": "TikTok",
-   "title": "Mobile Software Engineer Graduate - Global E-commerce",
-   "url": "https://lifeattiktok.com/search/7668831181590513925",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:ccb9cf6d-ffb8-459a-8bbd-a388a599923c",
-   "company": "TikTok",
-   "title": "Data Scientist Graduate - TikTok Platform Safety",
-   "url": "https://lifeattiktok.com/search/7667074822035261749",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:026bd529-ffe1-45ee-8845-df907c700cdc",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer New Grad - Performance Monetization",
-   "url": "https://lifeattiktok.com/search/7669691374918011141",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835691000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:1bd6de3a-14ad-41a7-8735-bc978a982b66",
-   "company": "TikTok",
-   "title": "Frontend Software Engineer Graduate - Global E-commerce",
-   "url": "https://lifeattiktok.com/search/7668828193675036981",
-   "locations": [
-    "Seattle, WA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
