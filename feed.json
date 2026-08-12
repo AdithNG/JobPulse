@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-12T08:55:31.488Z",
+ "updatedAt": "2026-08-12T10:15:45.055Z",
  "jobs": [
+  {
+   "key": "simplify:248bd865-39b3-4dab-8ccf-6a8fed297dc7",
+   "company": "Barrios",
+   "title": "Software Developer",
+   "url": "https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786526641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786529743592
+  },
   {
    "key": "simplify:e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
    "company": "Felix Magazine",
@@ -5786,25 +5805,6 @@
    "company": "TikTok",
    "title": "Machine Learning Engineer Graduate - Performance Monetization",
    "url": "https://lifeattiktok.com/search/7669691057987520773",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835765000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:52fd78c7-1550-4616-9097-1c380e47fb86",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Monetization Technology-Ads Core Global",
-   "url": "https://lifeattiktok.com/search/7668809845088504117",
    "locations": [
     "San Jose, CA"
    ],
