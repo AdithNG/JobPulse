@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-08-12T19:50:53.713Z",
+ "updatedAt": "2026-08-12T20:36:37.245Z",
  "jobs": [
+  {
+   "key": "simplify:8805a32d-c38e-4a8a-8843-ed203eec617f",
+   "company": "TMEIC Corporation Americas",
+   "title": "Engineer Intern - Spring 2027 - Eis",
+   "url": "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply",
+   "locations": [
+    "Roanoke, VA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786565992000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786566996474
+  },
+  {
+   "key": "simplify:b9f974bd-1020-49a6-bb58-787fba5d9e9e",
+   "company": "General Motors",
+   "title": "Software Engineer",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904",
+   "locations": [
+    "Warren, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786566168000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786566996474
+  },
+  {
+   "key": "simplify:61b8359d-6611-4e4e-af7f-469b630f576e",
+   "company": "Securian Financial Group",
+   "title": "Engineering Analyst",
+   "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst_R-010805",
+   "locations": [
+    "St Paul, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786566064000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786566996474
+  },
+  {
+   "key": "simplify:97058eb6-70e5-40db-8c64-0391a99980ec",
+   "company": "Integration Innovation (i3)",
+   "title": "Associate Software Developer - COMPASS",
+   "url": "https://careers-i3-corps.icims.com/jobs/5211/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786565231000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786566996474
+  },
   {
    "key": "simplify:05cc6b19-1ebc-4435-b908-56f4805a54d3",
    "company": " CCC Intelligent Solutions",
@@ -5739,86 +5815,6 @@
    "matchedWords": [
     "backend"
    ],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:76749e6c-ae46-458c-958e-1980f2fc2dc6",
-   "company": "TikTok",
-   "title": "Backend Engineer Graduate",
-   "url": "https://lifeattiktok.com/search/7665989305914984709",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:a355430e-bb97-47ee-9229-434cec3e3a6c",
-   "company": "TikTok",
-   "title": "Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch",
-   "url": "https://lifeattiktok.com/search/7667935568626043141",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:708992c3-129c-4bbd-9c10-a0ae59f29fd2",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Performance Monetization",
-   "url": "https://lifeattiktok.com/search/7669693163422845237",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835755000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:6c0be2d1-eac9-429a-b900-df719577d679",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
-   "url": "https://lifeattiktok.com/search/7669711968043092229",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1785838541457
   }
  ]
