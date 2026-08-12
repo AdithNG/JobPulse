@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-12T06:01:36.610Z",
+ "updatedAt": "2026-08-12T07:47:05.851Z",
  "jobs": [
+  {
+   "key": "simplify:e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
+   "company": "Felix Magazine",
+   "title": "Web Developer/Programmer Intern",
+   "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786514959000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786520824772
+  },
+  {
+   "key": "simplify:ad10670d-56f5-4600-ab6f-5c48cbd8fb5c",
+   "company": "AmNet Services",
+   "title": "Software Systems Engineer 3",
+   "url": "https://jobs.smartrecruiters.com/AmNetServicesInc/743999652095708",
+   "locations": [
+    "Warren, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786515006000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786520824772
+  },
   {
    "key": "simplify:cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce",
    "company": "Tesla",
@@ -5775,44 +5813,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785835765000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:83ab4fcc-d246-4d39-999f-5bb6fbee8953",
-   "company": "TikTok",
-   "title": "AI Engineer Graduate - Client Architecture - 2027 Start",
-   "url": "https://lifeattiktok.com/search/7664978367107713333",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:2d1d84a0-ff46-441d-b4b8-e580fd19fa16",
-   "company": "TikTok",
-   "title": "AI Effects Workflow Software Engineer Graduate - Agentic Creation Effect House",
-   "url": "https://lifeattiktok.com/search/7669905277419948293",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
