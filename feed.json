@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-12T10:15:45.055Z",
+ "updatedAt": "2026-08-12T11:13:39.090Z",
  "jobs": [
+  {
+   "key": "simplify:656014ab-4409-4e99-a202-5cf3956fd828",
+   "company": "Abbott",
+   "title": "Associate Software Engineer - Multiple Teams",
+   "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1",
+   "locations": [
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786532221000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786533217763
+  },
   {
    "key": "simplify:248bd865-39b3-4dab-8ccf-6a8fed297dc7",
    "company": "Barrios",
@@ -5794,25 +5813,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:e2a3239b-97ee-4566-ac2b-764e100bcfc7",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Performance Monetization",
-   "url": "https://lifeattiktok.com/search/7669691057987520773",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835765000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
