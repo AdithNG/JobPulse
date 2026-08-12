@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-08-12T14:47:22.762Z",
+ "updatedAt": "2026-08-12T15:45:02.134Z",
  "jobs": [
+  {
+   "key": "simplify:b7fadd8a-1f88-4b03-9fa5-8befef1a3a26",
+   "company": "TikTok",
+   "title": "Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start",
+   "url": "https://lifeattiktok.com/search/7672532801686571317",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786545181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786549500862
+  },
+  {
+   "key": "simplify:37258bf6-9a8c-4245-bc45-0fb8e73fecca",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Foundation",
+   "url": "https://lifeattiktok.com/search/7672883129493948677",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786545181000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786549500862
+  },
+  {
+   "key": "simplify:baeedb05-7415-43b1-a352-ff0efdc23b6b",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+   "url": "https://lifeattiktok.com/search/7672920375646488885",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786545181000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786549500862
+  },
+  {
+   "key": "simplify:cbc9cae5-131c-4da5-9664-90601d74f6de",
+   "company": "TikTok",
+   "title": "Software Engineer Graduate - Recommendation",
+   "url": "https://lifeattiktok.com/search/7672517471946000645",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786545361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786549500862
+  },
+  {
+   "key": "simplify:d18e7a7d-54ff-4946-bca8-1bdb2a671a6f",
+   "company": "TikTok",
+   "title": "Big Data Engineer Graduate - TikTok Recommendation Architecture",
+   "url": "https://lifeattiktok.com/search/7672518398222387461",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786545181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786549500862
+  },
+  {
+   "key": "simplify:4ec8e592-f297-479a-ab56-d80abf24fa27",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - TikTok Vertical Recommendation",
+   "url": "https://lifeattiktok.com/search/7672532275557583157",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786545181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786549500862
+  },
+  {
+   "key": "simplify:a09f224d-f684-4fb4-915b-6dbc5f486570",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
+   "url": "https://lifeattiktok.com/search/7672911151560296709",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786545181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786549500862
+  },
   {
    "key": "simplify:656014ab-4409-4e99-a202-5cf3956fd828",
    "company": "Abbott",
@@ -5681,139 +5816,6 @@
    "sponsorship": "unknown",
    "posted": 1785835736000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:b11dddb4-7bc4-4864-8ee8-ab5d5bb12c9a",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - App Ads and Gaming",
-   "url": "https://lifeattiktok.com/search/7669709472078170373",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:b6428bbb-bf53-4e9c-8121-3217159bb9b6",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Data Search Recommendation Global E-Commerce",
-   "url": "https://lifeattiktok.com/search/7668383643375257909",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:b05ba4c5-016d-48b3-888c-f09fa7f253ad",
-   "company": "TikTok",
-   "title": "Frontend Engineer Intern - Global CRM",
-   "url": "https://lifeattiktok.com/search/7669711026846058757",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:5182ae3f-a0b7-4e07-80fd-25a69767ee5d",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Transaction Platform",
-   "url": "https://lifeattiktok.com/search/7669943120351906053",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:dde435d3-0494-49e6-bba7-811e7131b9be",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - Intelligent Creation-Camera",
-   "url": "https://lifeattiktok.com/search/7668862422178318597",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:b59992d0-e14b-4009-9121-ed1172ad9b24",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - AI Platform",
-   "url": "https://jobs.bytedance.com/en/position/7668212952030841093/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785834902000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785838541457
-  },
-  {
-   "key": "simplify:a9413073-fe48-40e8-acab-c3106fc3d9a7",
-   "company": "TikTok",
-   "title": "Data Engineer Graduate - Monetization Data",
-   "url": "https://lifeattiktok.com/search/7668550561096665397",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785835263000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
