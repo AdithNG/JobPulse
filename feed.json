@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-13T22:02:24.558Z",
+ "updatedAt": "2026-08-13T23:01:54.537Z",
  "jobs": [
+  {
+   "key": "simplify:d05b18bf-6196-4443-8b9a-4bd3ee417cae",
+   "company": "Interco",
+   "title": "Software Development Intern - React",
+   "url": "https://jobs.smartrecruiters.com/Interco/744000143346169",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786659250000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786662113655
+  },
+  {
+   "key": "simplify:6753f099-9106-4840-b725-97e422c72cb4",
+   "company": "ManTech",
+   "title": "Associate BI Analytics Engineer",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/64747",
+   "locations": [
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786660046000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786662113655
+  },
+  {
+   "key": "simplify:b82ebee3-b9ea-4a22-b498-9b803e53e092",
+   "company": "AIR Control Concepts",
+   "title": "Application Engineer",
+   "url": "https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
+   "locations": [
+    "Elkridge, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786659481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786662113655
+  },
   {
    "key": "simplify:8e8f913d-4263-4281-9cf3-3e083858cf58",
    "company": "Pennsylvania State University",
@@ -5755,63 +5812,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785968333000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:01738c78-da2c-4ccd-99a5-864c2d5a1df4",
-   "company": "Cboe",
-   "title": "Associate Software Engineer - Web",
-   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4563",
-   "locations": [
-    "Kansas City, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785967743000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:96fb8f30-f721-4712-816d-5a381a92d51f",
-   "company": "ServiceNow",
-   "title": "Software Engineer - Agentic AI Harness & Quality",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141804089",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785967561000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:bed7436e-6c48-4818-a11a-c314cfbf6574",
-   "company": "Roblox",
-   "title": "Software Engineer - Early Career",
-   "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785970148000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
