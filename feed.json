@@ -1,6 +1,181 @@
 {
- "updatedAt": "2026-08-12T23:59:01.342Z",
+ "updatedAt": "2026-08-13T02:39:25.370Z",
  "jobs": [
+  {
+   "key": "simplify:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
+   "company": "TikTok",
+   "title": "Backend Software Engineer New Grad - Creator Strategy",
+   "url": "https://lifeattiktok.com/search/7672976491146004741",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786583453000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:82b0f083-f346-4f10-91bf-8d21a2b88675",
+   "company": "TikTok",
+   "title": "Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure",
+   "url": "https://lifeattiktok.com/search/7672530785573980421",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786583341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:acf117a3-c0c1-472f-ad4c-e68012e06ab4",
+   "company": "Schweitzer Engineering Laboratories",
+   "title": "Software Engineer Intern - AI Focus",
+   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601",
+   "locations": [
+    "Pullman, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786584468000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
+   "company": "ByteDance",
+   "title": "Self-Built Engineer Intern - CDN Platform",
+   "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786584421000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:36649be5-6fcf-46db-86bb-69e8d9c6ce71",
+   "company": "Exelixis",
+   "title": "Associate Engineer - AI and Agentic",
+   "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031",
+   "locations": [
+    "Alameda, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786584421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:0f5bb908-9ac8-4a97-b45d-0ad47f7cd13b",
+   "company": "ByteDance",
+   "title": "Research Engineer Graduate - Seed Infra",
+   "url": "https://jobs.bytedance.com/en/position/7673256063231854901/detail",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786584421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:cf341e15-fb9e-4b2f-871f-b5f2c95f0e3f",
+   "company": "Resmed",
+   "title": "Associate Software Engineer - Digital Product Engineering - Internet-of-Things",
+   "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Software-Engineer_JR_053125",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786583881000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:54a06b84-67eb-4568-8969-1e478d303342",
+   "company": "Lennar Corporation",
+   "title": "Software Engineer 1",
+   "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786583414000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
+  {
+   "key": "simplify:d1775023-8318-4c20-8b84-7725fb52c8a3",
+   "company": "Consumer Direct Care Network",
+   "title": "Software Engineer 1",
+   "url": "https://cdcn.avature.net/careers/JobDetail/8611",
+   "locations": [
+    "Missoula, MT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786584690000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786588764383
+  },
   {
    "key": "simplify:2841155f-a6b5-417e-850c-c1fc194c2d3c",
    "company": "TikTok",
@@ -5636,179 +5811,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785920768090
-  },
-  {
-   "key": "simplify:87667d11-6adc-446a-9b2e-15e0dc0b761b",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search",
-   "url": "https://lifeattiktok.com/search/7668415591670417717",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785893230000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:daba25e4-9e11-4769-bf2a-22371dbb26a5",
-   "company": "Valstad",
-   "title": "Software Engineer Intern - 3D & Manufacturing Applications",
-   "url": "https://jobs.ashbyhq.com/valstad/7ff6d452-969f-43a6-9127-d153025e6aea/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785893098000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:e1ae2c85-470c-4630-9b2d-c0fcd897ad01",
-   "company": "Valstad",
-   "title": "Robotics Software Intern - Manipulation & Simulation",
-   "url": "https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785892861000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:3061f63a-c31f-410b-ac47-d6eb5e6299b1",
-   "company": "TikTok",
-   "title": "Data Scientist Graduate - UG-Mid Platform",
-   "url": "https://lifeattiktok.com/search/7668512600592812293",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785893230000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:781e8e77-26da-4d7b-8867-d164b82a48ef",
-   "company": "Asure",
-   "title": "Associate AI Software Engineer",
-   "url": "https://asuresoftware.bamboohr.com/careers/1059/",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785892682000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:da97cafd-77ea-4483-9906-531f63569fb1",
-   "company": "Constellation Energy",
-   "title": "Engineer – Risk Assessment",
-   "url": "https://jobs.constellationenergy.com/jobs/136246?icims=1",
-   "locations": [
-    "Lusby, MD",
-    "Delta, PA",
-    "Pottstown, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785892510000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:130fdccd-a8f5-4ed4-bdc4-f489a3d3553e",
-   "company": "Eastern Shipbuilding Group",
-   "title": "Software and Database Engineer 1",
-   "url": "https://easternshipbuilding.wd12.myworkdayjobs.com/EasternShipbuildingGroupsystem/job/Panama-City-FL/Software---Database-Engineer-I_JR101186",
-   "locations": [
-    "Panama City, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785892595000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:ea802313-9eb0-4ade-b79e-7384c8d00ede",
-   "company": "Hunt Electric",
-   "title": "BI Developer",
-   "url": "https://huntelec.wd501.myworkdayjobs.com/HuntElectric_Careers/job/Eagan-Office-MN/BI-DEVELOPER_R-100576",
-   "locations": [
-    "Eagan, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785892543000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785900254062
-  },
-  {
-   "key": "simplify:fd3e2e22-2204-4e00-a4a5-16dab46017cb",
-   "company": "Micron Technology",
-   "title": "Industrial Engineer Intern - Technology & Products Group - Global Industrial Engineering",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TPG-Global-IE_JR107486",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785884159000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785887681606
   }
  ]
 }
