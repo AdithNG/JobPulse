@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-08-13T09:20:11.682Z",
+ "updatedAt": "2026-08-13T10:34:06.982Z",
  "jobs": [
+  {
+   "key": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
+   "company": "TikTok",
+   "title": "Software Engineer Graduate - Recommendation Infrastructure",
+   "url": "https://lifeattiktok.com/search/7673284715407886597",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786612321000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1786617245978
+  },
+  {
+   "key": "simplify:495c218f-20df-48c5-baef-1726f57e1d01",
+   "company": "Applied Materials",
+   "title": "Software Engineer New Grad - DevOps",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786612676000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786617245978
+  },
   {
    "key": "simplify:3bb608c1-4704-4fe1-a877-eaf540f90cc1",
    "company": "Specter Aerospace",
@@ -5774,44 +5814,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785969661000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:1396eb39-3e96-4ac9-a060-7577d4308d5f",
-   "company": "RBI",
-   "title": "Data Engineer 1",
-   "url": "https://rbi.wd3.myworkdayjobs.com/RBI_External_Career_Site/job/Corp---Miami-Corporate-Office/Data-Engineer-I--Burger-King_R3622",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785969601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:77364b03-2ced-4e13-8c3f-a7b5072d6461",
-   "company": "General Dynamics",
-   "title": "Software Engineer",
-   "url": "https://careers-gdeb.icims.com/jobs/20005/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Middletown, RI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968824000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
