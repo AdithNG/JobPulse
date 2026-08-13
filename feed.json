@@ -1,6 +1,202 @@
 {
- "updatedAt": "2026-08-13T23:01:54.537Z",
+ "updatedAt": "2026-08-13T23:53:26.059Z",
  "jobs": [
+  {
+   "key": "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
+   "company": "Crowe",
+   "title": "AI Engineering Intern",
+   "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786660201000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:eaa09253-ead5-4d61-9b1c-6aaeeb8e0187",
+   "company": "Andrew Morgan",
+   "title": "OneStream Developer",
+   "url": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786661891000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:5916d7bf-9c77-4f4e-bd21-1e3a123074e5",
+   "company": "State of Nebraska",
+   "title": "IT Applications Developer - Public Health",
+   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/IT-Applications-Developer---Public-Health_JR2026-00028657",
+   "locations": [
+    "Lincoln, NE"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786661461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:5626cf23-a738-4254-a817-c09de4ad69af",
+   "company": "Leidos",
+   "title": "Software Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564",
+   "locations": [
+    "Bowie, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786661327000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:7c36c172-1a8d-4c06-b6ca-6ee12e3ef829",
+   "company": "Cigna Group",
+   "title": "Technology Development Program - Software Engineering Track",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523",
+   "locations": [
+    "Bloomington, MN",
+    "Austin, TX",
+    "Morris Plains, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786660921000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:272a8a12-a059-4b95-8352-e8d3fa58f498",
+   "company": "Cigna Group",
+   "title": "Technology Development Program New Grad - Data & Analytics Engineering Track",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1",
+   "locations": [
+    "Morris Plains, NJ",
+    "St. Louis, MO",
+    "Bloomfield, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786661004000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:52313b30-cb01-42d0-9c7e-e101d5417aa5",
+   "company": "Microsoft",
+   "title": "Software Engineer",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786661000000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:3ff68a8b-40ab-45bd-b4df-3de7fc5eab51",
+   "company": "BlackRock",
+   "title": "Application Engineer - Service Management Operations Group",
+   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst--Application-Engineer_R266106",
+   "locations": [
+    "Wilmington, DE"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786660539000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:e64b78a2-03ae-46f1-9dc7-98677237e137",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer/Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648",
+   "locations": [
+    "Redondo Beach, CA",
+    "Palmdale, CA",
+    "Oklahoma City, OK"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786660485000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
+  {
+   "key": "simplify:a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
+   "company": "Dexcom",
+   "title": "Software Development Engineer 1",
+   "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786660201000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786665204768
+  },
   {
    "key": "simplify:d05b18bf-6196-4443-8b9a-4bd3ee417cae",
    "company": "Interco",
@@ -5623,200 +5819,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:af52521c-5483-4db1-958c-7dd4c6f19cd8",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Live",
-   "url": "https://lifeattiktok.com/search/7670285949553707317",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785981421000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:7900a04f-2150-4095-83c3-4fbe4b625765",
-   "company": "Global Payments",
-   "title": "Software Development Engineer in Test Analyst 1",
-   "url": "https://tsys.wd1.myworkdayjobs.com/tsys/job/COLUMBIA-SOUTH-CAROLINA/SDET-Analyst-I_R0071930",
-   "locations": [
-    "Columbia, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968108000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "payment"
-   ],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:2cf938ce-2c95-464b-b16f-7aaf36b43fbe",
-   "company": "Vertiv",
-   "title": "Thermal Application Engineer Intern - Summer 2027",
-   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512",
-   "locations": [
-    "Westerville, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785968794000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:f89dbf35-2e68-4087-a28a-1092da1e72d4",
-   "company": "Roblox",
-   "title": "Software Engineer Intern",
-   "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785970132000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:11033c28-f47a-4136-b04c-1449edaa13f8",
-   "company": "Gulf Management",
-   "title": "Software Engineer & Business Systems Intern",
-   "url": "https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern",
-   "locations": [
-    "Covington, LA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968824000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:26953dbf-a5ab-4b1f-bcbf-382117732097",
-   "company": "WGU",
-   "title": "Data Support Engineer Intern",
-   "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Support-Engineer-Intern_JR-025859",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968824000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:9dc9b18a-d84c-47ee-889e-0a73856a35d4",
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1785969306000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:7dc87929-97a6-4a1e-99fe-5d868af0b0cf",
-   "company": "Mizuho Securities USA",
-   "title": "Data Engineer",
-   "url": "https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/MetroPark/Data-Engineer_R7257-1",
-   "locations": [
-    "Grand Rapids, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968103000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:2d577c12-94df-4e2a-bc76-56cbcdcf573a",
-   "company": "Edgewater IT",
-   "title": "Application Developer 1",
-   "url": "https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Loveland, CO",
-    "Lakewood, CO",
-    "Folsom, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968730000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:3f94586c-7465-4690-b2fc-6e57482fdcc0",
-   "company": "Microsoft",
-   "title": "Software Development Consultant - Technology Consulting",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556857973",
-   "locations": [
-    "Springfield, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785968333000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
   }
  ]
 }
