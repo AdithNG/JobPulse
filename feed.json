@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-13T15:10:34.865Z",
+ "updatedAt": "2026-08-13T16:10:47.865Z",
  "jobs": [
+  {
+   "key": "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
+   "company": "RTX",
+   "title": "Methods Intern - Hot Section Engineering",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520",
+   "locations": [
+    "East Hartford, CT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786633641000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786637447098
+  },
   {
    "key": "simplify:1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
    "company": "Renesas Electronics",
@@ -5793,27 +5812,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785970050000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:6860bd81-1517-46fc-b7d3-d7d848b16dba",
-   "company": "Torc Robotics",
-   "title": "Software Engineer 1 - Metrics for Release",
-   "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8676173002",
-   "locations": [
-    "Blacksburg, VA",
-    "Ann Arbor, MI",
-    "Fort Worth, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785969940000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
