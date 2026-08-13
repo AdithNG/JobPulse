@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-13T14:01:31.693Z",
+ "updatedAt": "2026-08-13T15:10:34.865Z",
  "jobs": [
+  {
+   "key": "simplify:1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
+   "company": "Renesas Electronics",
+   "title": "AI Compiler Engineer",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786630044000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786633834200
+  },
   {
    "key": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
    "company": "TikTok",
@@ -5795,25 +5814,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785969940000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:279e377c-2072-4fa1-a807-724ccf72f78f",
-   "company": "Qualcomm",
-   "title": "Software Test Engineer - On-Device AI / Generative AI - Software Engineering",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446720269272",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785969661000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
