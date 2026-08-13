@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-13T21:03:21.922Z",
+ "updatedAt": "2026-08-13T22:02:24.558Z",
  "jobs": [
+  {
+   "key": "simplify:8e8f913d-4263-4281-9cf3-3e083858cf58",
+   "company": "Pennsylvania State University",
+   "title": "Software Research and Development Engineer - Applied Research Laboratory",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000080402-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786652300000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786658543599
+  },
   {
    "key": "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
    "company": "RTX",
@@ -5793,25 +5812,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785970148000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785971461459
-  },
-  {
-   "key": "simplify:d523c393-77a2-41e6-94e5-ef318aaff504",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer/Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10244101",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785970050000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
