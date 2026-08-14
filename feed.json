@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-08-14T02:35:05.029Z",
+ "updatedAt": "2026-08-14T04:28:06.409Z",
  "jobs": [
+  {
+   "key": "simplify:b3254ba9-4ac8-4f93-8a5a-67c31517f742",
+   "company": "Teledyne",
+   "title": "Software Engineer Intern - NHRC",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786679261000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786681685547
+  },
+  {
+   "key": "simplify:ea670782-222f-4f9d-8ca8-8d6120478821",
+   "company": "Honeywell",
+   "title": "Software Engineer 1",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551",
+   "locations": [
+    "Richmond, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786679279000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786681685547
+  },
+  {
+   "key": "simplify:539ddb97-a187-4681-9626-955ac26196f8",
+   "company": "Broadcom Limited",
+   "title": "Support Engineer - Mainframe",
+   "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026779",
+   "locations": [
+    "Lisle, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786679101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786681685547
+  },
+  {
+   "key": "simplify:c905beb6-9fb3-4fd0-9598-23f0425a783c",
+   "company": "Moffitt Cancer Center",
+   "title": "Data Engineer 1",
+   "url": "https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Moffitt-Business-Center/DATA-ENGINEER-I_R-2977",
+   "locations": [
+    "Tampa, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786679119000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786681685547
+  },
+  {
+   "key": "simplify:24791851-7303-48e1-abb0-af0ef1452299",
+   "company": "Kyndryl",
+   "title": "Associate AI Engineer",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739-2",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786678507000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786681685547
+  },
+  {
+   "key": "simplify:7894345d-6677-46a0-b561-523670a2aa56",
+   "company": "Kyndryl",
+   "title": "Associate AI Engineer - Early Career Consult Program",
+   "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786678404000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786681685547
+  },
   {
    "key": "simplify:5fde436c-570a-464b-9d9c-3a3e457151d0",
    "company": "Amazon",
@@ -5700,122 +5814,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785979261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:ea160ce8-8221-40f5-a5bb-ca66c1ca3e01",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Global E-commerce-Search - 2027 Start",
-   "url": "https://lifeattiktok.com/search/7670558992960358661",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785979261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:fa32f7e9-199a-4ce4-999a-6b08b2e3b8fb",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Data Arch - E-commerce",
-   "url": "https://lifeattiktok.com/search/7668582542044072245",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785979261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:ab6271d3-69f2-4193-a73d-f54d3c10b611",
-   "company": "Saalex",
-   "title": "Automation Developer",
-   "url": "https://apply.workable.com/saalex/j/B9CC90B5BA/apply",
-   "locations": [
-    "Remote in USA",
-    "Lexington Park, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785979082000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:bfd1c427-89d3-4f8c-bbf9-9989c11db135",
-   "company": "TikTok",
-   "title": "Graduate Software Engineer - Global CRM",
-   "url": "https://lifeattiktok.com/search/7668554579301124357",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785979263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:876763a8-d126-487c-a934-12d38e4ef19a",
-   "company": "ByteDance",
-   "title": "Operating System Engineer Graduate - Operating System-System Technologies and Engineering",
-   "url": "https://jobs.bytedance.com/en/position/7668461589331642677/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785979165000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:98a4a0b5-63ae-4794-a5ca-2c7e290d1bce",
-   "company": "The Boeing Company",
-   "title": "Entry-Level Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516694-1",
-   "locations": [
-    "Maryland Heights, MO",
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785978724000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
