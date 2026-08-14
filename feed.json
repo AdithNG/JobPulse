@@ -1,6 +1,107 @@
 {
- "updatedAt": "2026-08-14T06:01:48.961Z",
+ "updatedAt": "2026-08-14T07:46:22.905Z",
  "jobs": [
+  {
+   "key": "simplify:4b22d036-3d08-41c6-8c11-48f020f7c545",
+   "company": "Berkshire Hathaway GUARD Insurance Companies",
+   "title": "Full Stack Developer",
+   "url": "https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Alpharetta, GA",
+    "Scottsdale, AZ",
+    "Parsippany-Troy Hills, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786690081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1786693582296
+  },
+  {
+   "key": "simplify:3cef95cf-9ef2-4c94-9300-e032d2b20baa",
+   "company": "MPR Associates",
+   "title": "Engineer Co-op - Multiple Teams",
+   "url": "https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Salt Lake City, UT",
+    "Alexandria, VA",
+    "Burlington, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786687163000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786693582296
+  },
+  {
+   "key": "simplify:8a7b2d5f-aeee-4b70-a908-f66aa938f067",
+   "company": "Urban Science",
+   "title": "Associate Software Engineer - Serviceview",
+   "url": "https://careers-urbanscience.icims.com/jobs/5181/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Detroit, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786687021000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786693582296
+  },
+  {
+   "key": "simplify:94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
+   "company": "M.C. Dean",
+   "title": "Engineer 1 New Grad - Cis",
+   "url": "https://careers.mcdean.com/jobs/32119?icims=1",
+   "locations": [
+    "Richmond, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786687295000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786693582296
+  },
+  {
+   "key": "simplify:d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
+   "company": "M.C. Dean",
+   "title": "Engineer 1 - New College Graduate",
+   "url": "https://careers.mcdean.com/jobs/32350?icims=1",
+   "locations": [
+    "Tysons, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786687281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786693582296
+  },
   {
    "key": "simplify:8b34936c-e41c-4125-be15-b324d6d312c5",
    "company": "VTG",
@@ -5711,101 +5812,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:a685622a-4b63-48aa-ada0-461b37b4d1ad",
-   "company": "Solace Health",
-   "title": "Associate Product Engineer",
-   "url": "https://jobs.ashbyhq.com/solace/db008474-d93e-41a7-939e-8d5825eb0d0f/application?embed=true",
-   "locations": [
-    "Redwood City, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786055850000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:ab71d070-1a5b-40d5-a65e-a1b8fbf30f38",
-   "company": "Litera",
-   "title": "Associate Software Engineer",
-   "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Associate-Software-Engineer_R-501347",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786055222000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:9d7c3bb8-199b-4cd3-bd7d-e65db8c1251c",
-   "company": "General Dynamics Information Technology",
-   "title": "Junior Software Engineer",
-   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225644",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786055222000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:3dc95cd5-e52a-45dc-a468-bcd190948f74",
-   "company": "Intuitive Research and Technology Corporation",
-   "title": "Software Engineer - Web Application Team",
-   "url": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Software-Engineer_2627-054",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786055603000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:ac18c1f0-07af-4081-accf-59aebb2b6fd0",
-   "company": "RTX",
-   "title": "Digital Product Configuration Management Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Digital-Product-Configuration-Management-Engineer-I--Onsite-_01864368",
-   "locations": [
-    "Woburn, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786017503000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786022367982
   }
  ]
 }
