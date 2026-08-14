@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-14T16:32:27.670Z",
+ "updatedAt": "2026-08-14T17:38:17.325Z",
  "jobs": [
+  {
+   "key": "simplify:5a476d63-cb12-4e98-8fd7-35895108a039",
+   "company": "CVS Health",
+   "title": "Associate Software Engineer",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
+   "locations": [
+    "Farmers Branch, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786728519000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786729096596
+  },
+  {
+   "key": "simplify:883f115b-b0ad-4eae-8a80-2bbf523964d4",
+   "company": "Micron Technology",
+   "title": "AI Innovation Research Engineer New Grad",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786728158000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786729096596
+  },
   {
    "key": "simplify:4326baaa-75b2-4470-b205-61aed39b27b9",
    "company": "NVIDIA",
@@ -5768,44 +5806,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786055071000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
-   "company": "Veeva Systems",
-   "title": "Associate Software Engineer - Engineering Development Program",
-   "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786054755000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
-   "company": "Veeva Systems",
-   "title": "Associate Software Engineer",
-   "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
-   "locations": [
-    "Pleasanton, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786054357000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
