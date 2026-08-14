@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-08-13T23:53:26.059Z",
+ "updatedAt": "2026-08-14T02:35:05.029Z",
  "jobs": [
+  {
+   "key": "simplify:5fde436c-570a-464b-9d9c-3a3e457151d0",
+   "company": "Amazon",
+   "title": "Software Development Engineer - Amazon Leo",
+   "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
+   "locations": [
+    "Redmond, WA",
+    "Northridge, LA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786619341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786674904336
+  },
   {
    "key": "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
    "company": "Crowe",
@@ -5795,25 +5816,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1785978724000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1785987761098
-  },
-  {
-   "key": "simplify:ef652a5e-7a67-4ca7-befb-a5d65d0df79d",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance",
-   "url": "https://lifeattiktok.com/search/7669908897587824949",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1785981421000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
