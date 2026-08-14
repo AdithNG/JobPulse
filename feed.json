@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-14T08:52:38.586Z",
+ "updatedAt": "2026-08-14T10:12:38.663Z",
  "jobs": [
+  {
+   "key": "simplify:a5d3459d-3d46-44dd-8e4e-693ca7320203",
+   "company": "TikTok",
+   "title": "Mobile Software Engineer Intern - Global E-Commerce",
+   "url": "https://lifeattiktok.com/search/7673663349758675205",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786698722000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786702357945
+  },
+  {
+   "key": "simplify:47a11f8e-c096-4cad-ba59-7807a675d2c7",
+   "company": "TikTok",
+   "title": "Software Engineer Graduate - Media Engine",
+   "url": "https://lifeattiktok.com/search/7673667938889009461",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786698722000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786702357945
+  },
   {
    "key": "simplify:4b22d036-3d08-41c6-8c11-48f020f7c545",
    "company": "Berkshire Hathaway GUARD Insurance Companies",
@@ -5768,45 +5806,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786056330000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:1169bc21-fa23-40ca-a33d-bc5c23912da9",
-   "company": "IXL Learning",
-   "title": "Software Engineer New Grad",
-   "url": "https://www.ixl.com/company/jobs?gh_jid=8662881002",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786056147000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:435e0215-a8e0-4e2c-957e-de0c0e4be7ec",
-   "company": "Pennsylvania State University",
-   "title": "Artificial Intelligence / Machine Learning Verification and Validation Engineer - Multiple Teams",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000079310-2",
-   "locations": [
-    "State College, PA",
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786056045000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
