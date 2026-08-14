@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-14T14:38:47.211Z",
+ "updatedAt": "2026-08-14T15:33:31.878Z",
  "jobs": [
+  {
+   "key": "simplify:4326baaa-75b2-4470-b205-61aed39b27b9",
+   "company": "NVIDIA",
+   "title": "Software Engineer New Grad - Deep Learning Libraries",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786718135000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786721610514
+  },
   {
    "key": "simplify:a5d3459d-3d46-44dd-8e4e-693ca7320203",
    "company": "TikTok",
@@ -5787,25 +5806,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786054357000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786062879297
-  },
-  {
-   "key": "simplify:ddc01ed7-cfd1-4e3a-916f-9cf150b54963",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer - Software Engineering",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer_R10244219",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786056330000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
