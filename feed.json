@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-15T04:46:19.394Z",
+ "updatedAt": "2026-08-15T05:12:30.567Z",
  "jobs": [
+  {
+   "key": "simplify:6dda02da-3ec3-49ed-a963-fa6db627f830",
+   "company": "LiteLLM",
+   "title": "Forward Deployed Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786768435000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786770749656
+  },
+  {
+   "key": "simplify:5e2b041d-3b5b-414f-8491-242be06bf425",
+   "company": "Applied Intuition",
+   "title": "Scenario Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786768264000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786770749656
+  },
   {
    "key": "simplify:43a5374e-0e70-4dc9-82b0-687b54e8c5da",
    "company": "Goldman Sachs",
@@ -5767,44 +5805,6 @@
    "sponsorship": "unknown",
    "posted": 1786141477000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:b85eddaf-16be-4f29-9179-6de363f4299b",
-   "company": "Varda Space",
-   "title": "Applications Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824822003",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786140875000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:199e7d94-1625-41cc-861d-a587e1f7b52e",
-   "company": "Ensemble Health Partners",
-   "title": "Associate BI Engineer",
-   "url": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Associate-BI-Engineer_R048864",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786140901000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
