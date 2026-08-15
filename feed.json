@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-15T22:43:08.632Z",
+ "updatedAt": "2026-08-15T23:07:43.346Z",
  "jobs": [
+  {
+   "key": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
+   "company": "Replit",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786833603000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786835262107
+  },
   {
    "key": "simplify:6dda02da-3ec3-49ed-a963-fa6db627f830",
    "company": "LiteLLM",
@@ -5785,25 +5804,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786141526000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:1aeed220-bf37-4565-a0cb-fa72dae2456d",
-   "company": "Amcor",
-   "title": "Product Development Engineer Intern",
-   "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Intern_REQ_94654",
-   "locations": [
-    "Evansville, IN"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141477000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
