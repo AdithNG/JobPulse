@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-15T04:05:54.964Z",
+ "updatedAt": "2026-08-15T04:46:19.394Z",
  "jobs": [
+  {
+   "key": "simplify:43a5374e-0e70-4dc9-82b0-687b54e8c5da",
+   "company": "Goldman Sachs",
+   "title": "Engineering New Analyst - Engineering",
+   "url": "https://higher.gs.com/roles/171570?type=students",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786768201000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786769178384
+  },
+  {
+   "key": "simplify:a84b5ca0-5e89-4893-97cb-4be5aead281c",
+   "company": "Goldman Sachs",
+   "title": "Engineering New Analyst",
+   "url": "https://higher.gs.com/roles/171568?type=students",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786768199000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786769178384
+  },
   {
    "key": "simplify:f271bfa3-e723-416b-aad4-0a6cf6f4f19e",
    "company": "ByteDance",
@@ -5766,44 +5804,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786140901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:4915b29d-de2c-4adf-8f91-a6dd8ecb25ac",
-   "company": "Intercontinental Exchange",
-   "title": "Engineer 1",
-   "url": "https://careers-ice.icims.com/jobs/13435/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141629000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:952bbac0-18af-4767-b6a2-6d9e3639a5af",
-   "company": "Charles Schwab",
-   "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
-   "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141448000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
