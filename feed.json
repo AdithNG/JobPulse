@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-16T22:11:30.196Z",
+ "updatedAt": "2026-08-16T22:39:34.459Z",
  "jobs": [
+  {
+   "key": "simplify:2ab3ea47-41c1-46b3-8932-fedbbb55e1cd",
+   "company": "General Dynamics Mission Systems",
+   "title": "Software Engineer - Entry Level",
+   "url": "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Scottsdale, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786918370000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786919973726
+  },
   {
    "key": "simplify:2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
    "company": "Parsons",
@@ -5786,27 +5805,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:fc66b12e-8d7f-4a0e-b4f6-8f54189941d9",
-   "company": "Belvedere Trading",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786140725000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1786142897114
   }
  ]
 }
