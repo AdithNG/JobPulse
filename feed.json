@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-16T20:07:17.198Z",
+ "updatedAt": "2026-08-16T20:36:47.828Z",
  "jobs": [
+  {
+   "key": "simplify:2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
+   "company": "Parsons",
+   "title": "Software Engineer TS",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
+   "locations": [
+    "Centreville, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1784608383000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786912607127
+  },
   {
    "key": "simplify:3a2e2c86-3612-46c8-891d-50a65e292f46",
    "company": "Photon",
@@ -5782,27 +5801,6 @@
    "sponsorship": "unknown",
    "posted": 1786140725000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:f4b05847-d015-43a2-b07f-482144c9580f",
-   "company": "Belvedere Trading",
-   "title": "Software Engineer",
-   "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141060000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 14,
    "matchedWords": [
