@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-16T23:29:28.740Z",
+ "updatedAt": "2026-08-16T23:51:03.837Z",
  "jobs": [
+  {
+   "key": "simplify:632238a5-1d61-4694-a8d0-c8d596b89c37",
+   "company": "Boom Supersonic",
+   "title": "Software Engineer - Exceptional Talent",
+   "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc",
+   "locations": [
+    "Centennial, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786922529000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786924263043
+  },
   {
    "key": "simplify:2ab3ea47-41c1-46b3-8932-fedbbb55e1cd",
    "company": "General Dynamics Mission Systems",
@@ -5781,25 +5800,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786141261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:8035433a-5a4c-497b-92a1-2440c1b386d6",
-   "company": "xAI",
-   "title": "Software Engineer - Evals",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142341000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
