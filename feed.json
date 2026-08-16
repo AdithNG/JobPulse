@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-15T23:56:31.141Z",
+ "updatedAt": "2026-08-16T01:51:53.931Z",
  "jobs": [
+  {
+   "key": "simplify:3a2e2c86-3612-46c8-891d-50a65e292f46",
+   "company": "Photon",
+   "title": "Software Engineering Intern - AI",
+   "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786843304000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786845112510
+  },
   {
    "key": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
    "company": "Replit",
@@ -5789,25 +5808,6 @@
    "matchedWords": [
     "trading"
    ],
-   "firstSeen": 1786142897114
-  },
-  {
-   "key": "simplify:ea2731af-2fbc-4e8e-834a-a0db3c17ab9c",
-   "company": "RTX",
-   "title": "Systems Engineer 1 Intern - Intern Conversion",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863190",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141526000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1786142897114
   }
  ]
