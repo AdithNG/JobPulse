@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-17T13:11:42.372Z",
+ "updatedAt": "2026-08-17T13:55:21.820Z",
  "jobs": [
+  {
+   "key": "simplify:a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
+   "company": "ASSYST",
+   "title": "Junior .NET Developer",
+   "url": "https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786972861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786974920663
+  },
+  {
+   "key": "simplify:4a623f52-ac3e-4809-bbff-79d93ef3ec63",
+   "company": "L3Harris Technologies",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200/?ats=successfactors",
+   "locations": [
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786972742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786974920663
+  },
   {
    "key": "simplify:632238a5-1d61-4694-a8d0-c8d596b89c37",
    "company": "Boom Supersonic",
@@ -5762,44 +5800,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786142539000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:b62812e2-241d-4fc7-810e-2726318274e3",
-   "company": "Curtiss-Wright Corporation",
-   "title": "Graduate Engineer",
-   "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134",
-   "locations": [
-    "Frederick, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:983f8874-b9ed-43ca-9910-718e20bcac70",
-   "company": "ByteDance",
-   "title": "Software Development Engineer Graduate - Intent-Based Networking",
-   "url": "https://jobs.bytedance.com/en/position/7671145911004842245/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786141261000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
