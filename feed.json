@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-17T15:01:15.421Z",
+ "updatedAt": "2026-08-17T15:35:21.803Z",
  "jobs": [
+  {
+   "key": "simplify:47fe2157-ddd3-4233-87d7-cf96058a286d",
+   "company": "Datadog",
+   "title": "Software Engineer Intern - Observability and Security Platform",
+   "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786977431000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786980920947
+  },
   {
    "key": "simplify:367919b2-9f9f-4104-a7e7-811ae0b98c01",
    "company": "W.W. Grainger",
@@ -5778,25 +5797,6 @@
    "sponsorship": "unknown",
    "posted": 1786141261000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:44d659f8-4edf-405b-b579-79593f6180a1",
-   "company": "Cortica",
-   "title": "Junior AI Data Engineer",
-   "url": "https://job-boards.greenhouse.io/allcareers/jobs/8692383002",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142881000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
