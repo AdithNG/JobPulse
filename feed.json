@@ -1,6 +1,164 @@
 {
- "updatedAt": "2026-08-17T22:09:24.678Z",
+ "updatedAt": "2026-08-17T22:42:50.955Z",
  "jobs": [
+  {
+   "key": "simplify:9d9a6729-76a5-4fb4-b71f-ea04e053c877",
+   "company": "ByteDance",
+   "title": "Software Engineer Intern - Global Payment",
+   "url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787004722000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "payment"
+   ],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:63a29ab9-6ce2-4acf-982b-ed23f2035ab4",
+   "company": "American Express",
+   "title": "AI Engineer Intern - Enterprise Technology Services",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787005198000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:f585bde5-311b-4e38-b814-787eb3d19819",
+   "company": "Hilton Worldwide",
+   "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
+   "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
+   "locations": [
+    "Dallas, TX",
+    "McLean, VA",
+    "Memphis, TN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787004922000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:6f000f35-4e43-4364-980a-4ac4b0c04d52",
+   "company": "PNC Financial Services",
+   "title": "Software Engineer Associate - Business Intelligence Enablement",
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Software-Engineer-Associate---Business-Intelligence-Enablement_R232352-1",
+   "locations": [
+    "Pittsburgh, PA",
+    "Strongsville, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787005749000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:e9b531d5-7ba1-4cb4-9503-7b13a773f87d",
+   "company": "Auto-Owners Insurance",
+   "title": "Business Intelligence Developer",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13426-1",
+   "locations": [
+    "Lansing, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787005083000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:928375ff-0f40-4367-9048-64370c630dbf",
+   "company": "X Development",
+   "title": "Machine Learning Engineer - Tapestry",
+   "url": "https://x.company/careers/8722582002?gh_jid=8722582002",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787004902000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:8c7fce06-656d-49d9-bf64-703e487b5cac",
+   "company": "LMI",
+   "title": "Junior Android Engineer - RFID",
+   "url": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787005096000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
+  {
+   "key": "simplify:f43a357d-9678-4c33-9100-fa8921cd3682",
+   "company": "Pennsylvania State University",
+   "title": "Artificial Intelligence / Machine Learning Verification and Validation Engineer - Information Science Division - All-Domain Analytics and Signatures Office",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000080734-1",
+   "locations": [
+    "State College, PA",
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787005110000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787006569653
+  },
   {
    "key": "simplify:47fe2157-ddd3-4233-87d7-cf96058a286d",
    "company": "Datadog",
@@ -5643,159 +5801,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1786143233000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:2751af83-9f4f-48b8-8aba-6f534e9681e7",
-   "company": "Atoms",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
-   "locations": [
-    "Seattle, WA",
-    "Mountain View, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786143220000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:cca92450-5ead-4d71-8d7f-084c27b9d1f9",
-   "company": "The Nuclear Company",
-   "title": "AI/ML Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786142954000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:b57a206e-05f4-4b02-9ccd-b54ba30848e2",
-   "company": "The Nuclear Company",
-   "title": "Software Engineering Intern - Product - Platform",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786142950000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:40ea3092-e7fc-4bc8-9e63-abe6f047adf4",
-   "company": "The Nuclear Company",
-   "title": "AI/ML Engineer Intern - Platform Integration & AI/Data",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142956000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:51b99bce-c9cc-4f6f-9a52-d602f8e9e826",
-   "company": "Johnson & Johnson",
-   "title": "Software Engineer Co-op",
-   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142895000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:50faea58-028e-467f-b373-f0c40e657222",
-   "company": "The Nuclear Company",
-   "title": "Software Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142936000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:44950f93-2f35-41ce-9bbc-d82279022aa6",
-   "company": "The Nuclear Company",
-   "title": "AI Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142941000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968",
-   "company": "TikTok",
-   "title": "Frontend Engineer Intern - Ads Interface",
-   "url": "https://lifeattiktok.com/search/7671211313289398581",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786141261000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
