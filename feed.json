@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-08-17T13:55:21.820Z",
+ "updatedAt": "2026-08-17T14:36:55.527Z",
  "jobs": [
+  {
+   "key": "simplify:367919b2-9f9f-4104-a7e7-811ae0b98c01",
+   "company": "W.W. Grainger",
+   "title": "Software Engineer Intern - Grainger Technology Group",
+   "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786973453000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786977414605
+  },
+  {
+   "key": "simplify:154ae79b-60c6-40a6-9be2-a48637bb96ff",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Governance",
+   "url": "https://lifeattiktok.com/search/7674029136531015941",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786973042000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786977414605
+  },
+  {
+   "key": "simplify:e95cee0e-a2ed-44d1-9017-9befd82e1561",
+   "company": "TikTok",
+   "title": "Data Engineer Intern - Data Platform Global Live",
+   "url": "https://lifeattiktok.com/search/7674032146438162693",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786973042000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786977414605
+  },
+  {
+   "key": "simplify:9831795d-d949-4a7a-87dd-f11aad5dc0c8",
+   "company": "American Express",
+   "title": "Software Engineer Intern - Enterprise Technology Services",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1786972386000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786977414605
+  },
+  {
+   "key": "simplify:333d668e-a703-465a-adfe-71773ba80e9b",
+   "company": "General Dynamics Information Technology",
+   "title": "Data Quality Monitoring Engineer",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2",
+   "locations": [
+    "Offutt AFB, NE"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1786974841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1786977414605
+  },
   {
    "key": "simplify:a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
    "company": "ASSYST",
@@ -5701,105 +5796,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786142881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:f0d91c80-6a29-46d4-bfb7-ad3fb4918547",
-   "company": "Torch Technologies",
-   "title": "Software Engineer 1",
-   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142859000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:219eb184-29fc-49a1-821e-93c62b472925",
-   "company": "Auto-Owners Insurance",
-   "title": "Business Intelligence Developer",
-   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13789-1",
-   "locations": [
-    "Lansing, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:dbc8423a-e279-4fee-97ce-cc3f8a124aa5",
-   "company": "Netsmart",
-   "title": "Software Engineer - EVV",
-   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--Java-Experience-Onsite--Overland-Park--KS-_R015567",
-   "locations": [
-    "Overland Park, KS"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142626000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:37a1894e-f216-436f-8f54-98b6d75622b0",
-   "company": "Booz Allen",
-   "title": "Software Engineer - University",
-   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246656",
-   "locations": [
-    "Honolulu, HI",
-    "Annapolis Junction, MD",
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142568000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786144935648
-  },
-  {
-   "key": "simplify:00912e53-abce-46c1-84a0-f14dc8684f13",
-   "company": "Booz Allen",
-   "title": "Software Engineer",
-   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246663",
-   "locations": [
-    "Honolulu, HI",
-    "Annapolis Junction, MD",
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786142539000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
