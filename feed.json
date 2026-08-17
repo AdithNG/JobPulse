@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-17T23:08:52.731Z",
+ "updatedAt": "2026-08-17T23:37:17.472Z",
  "jobs": [
+  {
+   "key": "simplify:7c428946-1d38-4dd8-bfec-13b465441e8d",
+   "company": "Voyager Technologies",
+   "title": "Machine Learning Engineer - Associate",
+   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4356977009",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787007630000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787009836541
+  },
   {
    "key": "simplify:8d49244e-af9c-4cbb-bb68-827c8671b75d",
    "company": "Dee Zee",
@@ -5783,25 +5802,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786373000972
-  },
-  {
-   "key": "simplify:b7d2b969-6593-4660-bd91-dc2baae3f910",
-   "company": "Cummins",
-   "title": "Product Engineer",
-   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797",
-   "locations": [
-    "Columbus, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786342681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786349009429
   }
  ]
 }
