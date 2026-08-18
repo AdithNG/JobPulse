@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-08-18T14:52:44.387Z",
+ "updatedAt": "2026-08-18T15:39:27.999Z",
  "jobs": [
+  {
+   "key": "simplify:27485535-2932-4f11-b804-2a27ab5ad3e1",
+   "company": "Draper",
+   "title": "Full Stack Web Development Co-op - Spring 2027",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787063798000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1787067567075
+  },
+  {
+   "key": "simplify:ad91f84d-90ea-4295-ad64-7fc45756c54f",
+   "company": "Sherwin-Williams",
+   "title": "IT Database Engineer Co-op",
+   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017",
+   "locations": [
+    "Cleveland, OH"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787065290000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787067567075
+  },
+  {
+   "key": "simplify:ef8b36d6-9967-4457-8ad8-2f8b9a8c9c91",
+   "company": "L3Harris Technologies",
+   "title": "Application Developer Associate",
+   "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787063614000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787067567075
+  },
   {
    "key": "simplify:94cdc052-b0dd-4f83-bd97-334ea75abc20",
    "company": "Johnson Controls",
@@ -5734,63 +5793,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786400641000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:f0b8e23b-2ade-4c11-b110-06b6d18f1043",
-   "company": "Mastercard",
-   "title": "Software Engineer 1 - AI and Decision Product Enablement",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783",
-   "locations": [
-    "O'Fallon, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786400755000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:6ecd2227-64fc-4d77-99bb-158081023302",
-   "company": "Apple",
-   "title": "Frontend Engineer",
-   "url": "https://jobs.apple.com/en-us/details/200676168",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786400727000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:96822135-f7cd-43a6-9b4f-7089def81ef5",
-   "company": "Knowledge Services",
-   "title": "Junior Data Engineer",
-   "url": "https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786400461000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
