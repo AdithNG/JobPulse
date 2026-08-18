@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-18T14:08:35.242Z",
+ "updatedAt": "2026-08-18T14:52:44.387Z",
  "jobs": [
+  {
+   "key": "simplify:94cdc052-b0dd-4f83-bd97-334ea75abc20",
+   "company": "Johnson Controls",
+   "title": "Software Engineer 1 - Data Center Engineering",
+   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201",
+   "locations": [
+    "Glendale, WI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787063247000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787064763675
+  },
   {
    "key": "simplify:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
    "company": "TikTok",
@@ -5772,25 +5791,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786400461000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:527124c6-94ed-4350-b517-dcb8a25d41e8",
-   "company": "Captivation",
-   "title": "Software Engineer 0 - Multiple Teams",
-   "url": "https://job-boards.greenhouse.io/captivation/jobs/5384983008",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786400282000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
