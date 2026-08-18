@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-08-18T22:59:30.110Z",
+ "updatedAt": "2026-08-18T23:31:47.422Z",
  "jobs": [
+  {
+   "key": "simplify:5370153e-8623-4e1d-b4f6-986a7ab410a1",
+   "company": "PIMCO",
+   "title": "Software Engineering Intern - Technology Analyst",
+   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787092237000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
+  {
+   "key": "simplify:ae9efb80-c34c-4b8e-bf04-7c5bfb7f3355",
+   "company": "Northrop Grumman",
+   "title": "Associate Systems Modeling & Simulation Engineer/Systems Modeling & Simulation Engineer - Test & Evaluation",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Modeling---Simulation-Engineer-Systems-Modeling---Simulation-Engineer_R10246372",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787093310000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
+  {
+   "key": "simplify:b2c6199d-57c1-4fbb-9de4-1dbb413f3c65",
+   "company": "Relativity Space",
+   "title": "AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering",
+   "url": "https://boards.greenhouse.io/relativity/jobs/8726261002",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787092741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
+  {
+   "key": "simplify:7162223f-d901-4fff-b611-efabc6e5abce",
+   "company": "Dark Wolf Solutions",
+   "title": "Junior AI Software Engineer",
+   "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886153003",
+   "locations": [
+    "Chantilly, VA",
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787092561000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
+  {
+   "key": "simplify:de930e2a-dc89-4d37-9ba8-a81206dce5c6",
+   "company": "Dark Wolf Solutions",
+   "title": "Junior Data Engineer",
+   "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
+   "locations": [
+    "Chantilly, VA",
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787092561000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
+  {
+   "key": "simplify:c18c5b18-30ae-4200-998b-302316f70edb",
+   "company": "General Dynamics Information Technology",
+   "title": "AI Engineer Associate",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787092262000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
+  {
+   "key": "simplify:29ca8d13-f107-45a4-8300-32983b3cf01e",
+   "company": "impact.com",
+   "title": "Integration Engineer",
+   "url": "https://job-boards.greenhouse.io/impact/jobs/8465082002",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787092381000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787095906708
+  },
   {
    "key": "simplify:ffbf2ca8-9b8e-4aa7-8227-9a11f77abc90",
    "company": "Foundation Finance",
@@ -5656,150 +5791,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786459110215
-  },
-  {
-   "key": "simplify:be884771-8768-4d4e-8fe8-545efc9a2cb0",
-   "company": "Meyer Distributing",
-   "title": "Junior Full Stack Developer",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786429081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1786430332726
-  },
-  {
-   "key": "simplify:a793a502-be13-4c61-a978-d990f3122ad0",
-   "company": "CWILL",
-   "title": "R&D Trainee - Full-Stack Engineer - Backend",
-   "url": "https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply",
-   "locations": [
-    "Remote in USA",
-    "Cary, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786412125000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1786416818360
-  },
-  {
-   "key": "simplify:60d005ff-fe23-4fdd-9573-6188bca2a95f",
-   "company": "The Anywhere",
-   "title": "Full Stack Developer",
-   "url": "https://apply.workable.com/the-anywhere-company/j/523D858ED1/apply",
-   "locations": [
-    "Hilton Head Island, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786411981000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1786416818360
-  },
-  {
-   "key": "simplify:6538dcdb-7ff2-4214-ba47-f53b40274027",
-   "company": "LPL Financial Holdings",
-   "title": "Software Engineer Intern",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921",
-   "locations": [
-    "Austin, TX",
-    "Fort Mill, SC",
-    "Charlotte, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786412259000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786416818360
-  },
-  {
-   "key": "simplify:14051ce6-a050-4a8e-851b-555583f7ba2c",
-   "company": "LPL Financial Holdings",
-   "title": "Data Engineer Intern - Data",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
-   "locations": [
-    "Austin, TX",
-    "Fort Mill, SC",
-    "Charlotte, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786412255000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786416818360
-  },
-  {
-   "key": "simplify:12ce52b4-da60-4458-9f42-1581e549d94c",
-   "company": "Caddi Workflow Automation",
-   "title": "Software Engineer Intern",
-   "url": "https://apply.workable.com/trycaddi/j/9D1291C697/apply",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786411981000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786416818360
-  },
-  {
-   "key": "simplify:88f8ac40-cff8-45a1-97c8-5f968f94bfed",
-   "company": "KLA",
-   "title": "Applications Development Engineer - Broadband Plasma Division",
-   "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355-1",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786410721000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786416818360
   }
  ]
 }
