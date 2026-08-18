@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-08-18T07:00:13.744Z",
+ "updatedAt": "2026-08-18T07:48:23.321Z",
  "jobs": [
+  {
+   "key": "simplify:a96278c1-ade0-425c-83f0-3a2b804be61d",
+   "company": "Apple",
+   "title": "Software Engineer - IS&T Early Career Opportunities",
+   "url": "https://jobs.apple.com/en-us/details/200678510",
+   "locations": [
+    "Cupertino, CA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034844000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787039301489
+  },
+  {
+   "key": "simplify:8121dc2e-ce22-45e4-a3d0-1e4b4abc83ee",
+   "company": "The Walt Disney Company",
+   "title": "Software Engineer 1 - Observability & Insights",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423",
+   "locations": [
+    "Glendale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034836000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787039301489
+  },
+  {
+   "key": "simplify:f296a9f4-0dae-41f4-b15d-ae910f8c8f16",
+   "company": "Vanguard",
+   "title": "Application Engineer - 2027 Start Date",
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034833000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787039301489
+  },
+  {
+   "key": "simplify:034062ca-af46-4066-a960-533d027a734f",
+   "company": "Vanguard",
+   "title": "Entry Level Application Engineer",
+   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1",
+   "locations": [
+    "Malvern, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034781000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787039301489
+  },
   {
    "key": "simplify:a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
    "company": "RTX",
@@ -5721,86 +5798,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:f57a89f7-f1c7-44ac-826b-23f1d9a409cf",
-   "company": "ByteDance",
-   "title": "Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-   "url": "https://jobs.bytedance.com/en/position/7671109787509213445/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786388717000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:2edede57-7aef-4b3c-bf5a-75457e023318",
-   "company": "ByteDance",
-   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-   "url": "https://jobs.bytedance.com/en/position/7671107540954777861/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786388402000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:739b6998-abbe-4971-ac78-5de770dd33b3",
-   "company": "Booz Allen",
-   "title": "AI RAN Telecommunications Engineer Intern",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786388589000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:10aab0a0-09f3-44a8-990e-a5b8db3c8da8",
-   "company": "ByteDance",
-   "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
-   "url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786388402000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
   }
  ]
 }
