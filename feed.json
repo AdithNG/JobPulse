@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-18T08:19:51.127Z",
+ "updatedAt": "2026-08-18T09:01:25.286Z",
  "jobs": [
+  {
+   "key": "simplify:ec674790-bb38-423e-bf36-84796ef90847",
+   "company": "WOOD Consulting Services",
+   "title": "Software Engineer 0 - Entry-Level Software Engineering",
+   "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787040442000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787043684426
+  },
+  {
+   "key": "simplify:30600f27-6e64-4519-9d2a-ea875352b5eb",
+   "company": "WOOD Consulting Services",
+   "title": "Software Engineer",
+   "url": "https://jobs-woodcons.icims.com/jobs/14803/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787040044000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787043684426
+  },
   {
    "key": "simplify:9b28f741-a7e8-4acb-8697-fb44335ee538",
    "company": "Repligen",
@@ -5753,44 +5791,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786399921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:81f6102b-b17c-4792-8d73-f5f5b8783ac2",
-   "company": "PAM Health",
-   "title": "AI Engineer",
-   "url": "https://careers-pamhealth.icims.com/jobs/91855/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786399741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:97d2fcce-ce62-4964-b105-dbef913bdce6",
-   "company": "Microsoft",
-   "title": "Software Engineer 1/2 - Identity and Network Access",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556953615",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786399913000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
