@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-18T07:48:23.321Z",
+ "updatedAt": "2026-08-18T08:19:51.127Z",
  "jobs": [
+  {
+   "key": "simplify:9b28f741-a7e8-4acb-8697-fb44335ee538",
+   "company": "Repligen",
+   "title": "Software Developer 1",
+   "url": "https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Bridgewater-NJ/Software-Developer-I_R-583",
+   "locations": [
+    "Bridgewater, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787039687000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787041190408
+  },
   {
    "key": "simplify:a96278c1-ade0-425c-83f0-3a2b804be61d",
    "company": "Apple",
@@ -5772,27 +5791,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786399913000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:aa8f8c78-313a-41e4-b996-661755cc45df",
-   "company": "Guidehouse",
-   "title": "Data Engineer 1",
-   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Data-Engineer_42995",
-   "locations": [
-    "Houston, TX",
-    "Charlotte, NC",
-    "San Antonio, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786399698000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
