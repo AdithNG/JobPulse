@@ -1,6 +1,139 @@
 {
- "updatedAt": "2026-08-18T06:01:54.714Z",
+ "updatedAt": "2026-08-18T07:00:13.744Z",
  "jobs": [
+  {
+   "key": "simplify:a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
+   "company": "RTX",
+   "title": "Conversion Systems Engineer 1 Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034165000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
+  {
+   "key": "simplify:2a67cef3-5836-4452-832c-ec5b39cff69b",
+   "company": "RTX",
+   "title": "Software Engineer Intern - Intelligent Software & Systems",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787034102000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
+  {
+   "key": "simplify:f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
+   "company": "RTX",
+   "title": "Software Engineering Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787034102000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
+  {
+   "key": "simplify:df3b11d6-07b6-49f9-a445-97f32c89967e",
+   "company": "RTX",
+   "title": "Software Engineer Intern - Spring 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787034111000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
+  {
+   "key": "simplify:1607a4ba-3b77-40cc-aa04-244640bdc0f7",
+   "company": "RTX",
+   "title": "Systems Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Systems-Engineer-I--Onsite-_01867720",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034103000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
+  {
+   "key": "simplify:0ac59efb-a60a-487e-ae88-72d4b34fac13",
+   "company": "Cook Systems",
+   "title": "Entry-Level Software Developer",
+   "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008",
+   "locations": [
+    "Nashville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787034061000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
+  {
+   "key": "simplify:4a0ac2bd-9aed-42eb-88de-3663340e79b5",
+   "company": "Nexthop.ai",
+   "title": "Software Engineer New Grad",
+   "url": "https://nexthopai.bamboohr.com/careers/24/",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787033897000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787036412746
+  },
   {
    "key": "simplify:1684b5f7-9d7b-4b05-a2f1-4335f8426ec4",
    "company": "Zoro",
@@ -5664,143 +5797,6 @@
    "sponsorship": "unknown",
    "posted": 1786388402000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:343e0c01-b847-4c69-97bb-7015f723432d",
-   "company": "ByteDance",
-   "title": "Machine Learning Engineer Intern",
-   "url": "https://jobs.bytedance.com/en/position/7671291260529821957/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786388402000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:e24c2017-99ff-4c15-9636-3246335193a8",
-   "company": "ByteDance",
-   "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
-   "url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786388402000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:def431d1-9130-4304-b4ad-37f66f6af0cd",
-   "company": "Montenson",
-   "title": "Sustainability Engineer Intern",
-   "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23367",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786388569000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:6a24eac0-34c2-46a9-816e-f6a3e716a259",
-   "company": "Teledyne",
-   "title": "Junior Software Engineer",
-   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786388327000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:8e8f7392-2530-41cd-b2fe-8ba9e55a6f68",
-   "company": "LPL Financial Holdings",
-   "title": "Software Engineering New Grad",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad-2027---Software-Engineering_R-052475",
-   "locations": [
-    "Austin, TX",
-    "Fort Mill, SC",
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786389103000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:6e1de79a-7eda-4b86-ae66-4edba96f4c12",
-   "company": "LPL Financial Holdings",
-   "title": "Data Engineering New Grad",
-   "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/New-Grad---2027---Data-Engineering_R-052493-1",
-   "locations": [
-    "Austin, TX",
-    "Fort Mill, SC",
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786389124000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786390897817
-  },
-  {
-   "key": "simplify:6ae10384-f163-4945-850b-2047b484ea0f",
-   "company": "Cox Automotive",
-   "title": "Entry Level Software Engineer",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859",
-   "locations": [
-    "Carmel, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786389016000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
