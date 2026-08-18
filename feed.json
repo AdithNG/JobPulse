@@ -1,6 +1,104 @@
 {
- "updatedAt": "2026-08-18T23:31:47.422Z",
+ "updatedAt": "2026-08-18T23:54:26.078Z",
  "jobs": [
+  {
+   "key": "simplify:1366c200-21e0-464f-ade7-0f3ea4e05672",
+   "company": "Quantcast",
+   "title": "Software Engineer - Cloud Infrastructure",
+   "url": "https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf/application?embed=true",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787094031000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 23,
+   "matchedWords": [
+    "cloud",
+    "infrastructure"
+   ],
+   "firstSeen": 1787097265376
+  },
+  {
+   "key": "simplify:9d9eb552-2b86-429d-875e-4c930c609200",
+   "company": "Astrion",
+   "title": "Junior Software Developer - Datalinks Test Flight",
+   "url": "https://careers.astrion.us/jobs/24705?icims=1",
+   "locations": [
+    "Eglin AFB, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787094270000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787097265376
+  },
+  {
+   "key": "simplify:1e098824-6a50-4571-a1b8-3d3c30c1ae57",
+   "company": "Cisco",
+   "title": "Data Science Engineer 2 - Full Time",
+   "url": "https://careers.cisco.com/global/en/job/2023062",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787094265000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787097265376
+  },
+  {
+   "key": "simplify:0933be4c-1f04-4b8f-a07d-b6b97beede8d",
+   "company": "Cisco",
+   "title": "Data Science Engineer 2",
+   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Engineer-II---Full-Time----United-States_2023062",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787094310000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787097265376
+  },
+  {
+   "key": "simplify:1421431b-ee3b-4b28-b0be-5939c60ce29b",
+   "company": "Boston Scientific",
+   "title": "Software Development Engineer 2 - Engineering",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191",
+   "locations": [
+    "Maple Grove, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787094135000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787097265376
+  },
   {
    "key": "simplify:5370153e-8623-4e1d-b4f6-986a7ab410a1",
    "company": "PIMCO",
@@ -5696,101 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:22f7250b-258e-431c-af1b-a4fec83d9665",
-   "company": "ByteDance",
-   "title": "Software Engineer Graduate - AML-Engine-Orchestration",
-   "url": "https://jobs.bytedance.com/en/position/7672389697767377205/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786468863000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:1bf4a67e-16ac-4465-bb86-b325834f6ac1",
-   "company": "ByteDance",
-   "title": "Agent Evaluation and Evolution Machine Learning Engineer Graduate - Applied Machine Learning Ark",
-   "url": "https://jobs.bytedance.com/en/position/7672391016194066693/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469091000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:d5772952-0a23-4d22-8064-4a62a28bedf6",
-   "company": "L3Harris Technologies",
-   "title": "Associate Systems Engineer - Integrated Communication System",
-   "url": "https://jobs.l3harris.com/job/Camden-Associate,-Systems-Engineering-NJ-08103/1418083600/?ats=successfactors",
-   "locations": [
-    "Camden, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786458831000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786462804078
-  },
-  {
-   "key": "simplify:aa9feb49-b586-4dba-80ab-d35720db8230",
-   "company": "Gulfstream",
-   "title": "IT Applications Developer",
-   "url": "https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors",
-   "locations": [
-    "Savannah, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786457600000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786459110215
-  },
-  {
-   "key": "simplify:a7ad89c3-bfca-4132-bafe-f790f3d25000",
-   "company": "Western Digital",
-   "title": "Software Engineer - Apps",
-   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786457521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786459110215
   }
  ]
 }
