@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-18T09:01:25.286Z",
+ "updatedAt": "2026-08-18T09:45:10.021Z",
  "jobs": [
+  {
+   "key": "simplify:b639bba8-cb2b-4262-9125-9b56aeefa4cb",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - TikTok Search Data Infra",
+   "url": "https://lifeattiktok.com/search/7675128776856029445",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787045041000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787046309098
+  },
+  {
+   "key": "simplify:11738554-4081-4656-8eae-5e79d6ce2668",
+   "company": "Oakland County, Michigan",
+   "title": "Engineering Aide",
+   "url": "https://oakgov.wd5.myworkdayjobs.com/careers/job/Waterford-Michigan-United-States/Engineering-Aide--WRC_JR-0000739",
+   "locations": [
+    "Waterford Twp, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787042199000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787046309098
+  },
   {
    "key": "simplify:ec674790-bb38-423e-bf36-84796ef90847",
    "company": "WOOD Consulting Services",
@@ -5753,44 +5791,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786400282000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:22f4cbf0-ea63-4e72-9fba-4319ef8415c3",
-   "company": "Blue Origin",
-   "title": "Software Development Engineer 1 - Early Career",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786400318000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786402541879
-  },
-  {
-   "key": "simplify:8c4d7dd9-6687-4b16-be26-325556c16534",
-   "company": "Commvault",
-   "title": "Software Engineer - AI/ML",
-   "url": "https://job-boards.greenhouse.io/commvault/jobs/5233623008",
-   "locations": [
-    "Tinton Falls, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786399921000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
