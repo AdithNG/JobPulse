@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-19T09:56:35.217Z",
+ "updatedAt": "2026-08-19T10:37:16.216Z",
  "jobs": [
+  {
+   "key": "simplify:ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
+   "company": "NVIDIA",
+   "title": "Systems Software Engineering Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787132055000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787135834974
+  },
+  {
+   "key": "simplify:be628885-fde3-4b73-bb0a-58e11856e97b",
+   "company": "NVIDIA",
+   "title": "Software Engineering Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787132048000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787135834974
+  },
   {
    "key": "simplify:b5b15050-2287-4ebf-8a26-f0745c794fd3",
    "company": "Microsoft",
@@ -5756,44 +5794,6 @@
    "matchedWords": [
     "infrastructure"
    ],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:b6f0ed37-c65c-493a-b002-0e540bc09413",
-   "company": "Kimley-Horn",
-   "title": "Software Developer Intern",
-   "url": "https://careers-kimley-horn.icims.com/jobs/25761/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Cary, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786469042000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:f8ec7bff-3025-47ad-8fc9-aeb60501ffcf",
-   "company": "RTX",
-   "title": "Software Development Intern - Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01865635",
-   "locations": [
-    "Tewksbury, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786469282000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1786470112177
   }
  ]
