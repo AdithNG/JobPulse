@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-19T06:16:55.007Z",
+ "updatedAt": "2026-08-19T07:11:05.573Z",
  "jobs": [
+  {
+   "key": "simplify:c0ff0ed8-d99a-4394-b967-956c4d6fa4ae",
+   "company": "Adobe",
+   "title": "Software Development Engineer",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
+   "locations": [
+    "Lehi, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787119917000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787123464535
+  },
   {
    "key": "simplify:b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
    "company": "Anduril",
@@ -5762,26 +5781,6 @@
    "company": "Analytic Partners",
    "title": "Software Engineer Co-op - Georgia Tech",
    "url": "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650/apply",
-   "locations": [
-    "Miami, FL",
-    "United States"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469221000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:08dcec1c-e97a-4c39-978e-cd2dede8bb31",
-   "company": "Analytic Partners",
-   "title": "Software Engineer Co-op - Northeastern University",
-   "url": "https://jobs.lever.co/analyticpartners/eb778fc4-088f-4c5f-b650-e3042ab1b688/apply",
    "locations": [
     "Miami, FL",
     "United States"
