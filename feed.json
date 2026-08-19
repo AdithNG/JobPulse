@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-08-19T01:46:26.490Z",
+ "updatedAt": "2026-08-19T02:45:54.345Z",
  "jobs": [
+  {
+   "key": "simplify:b59fa048-6dd0-4a50-af24-e4c0fdd2693c",
+   "company": "Anduril",
+   "title": "Software Engineer - Battlespace Awareness",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007",
+   "locations": [
+    "Fort Collins, CO",
+    "Broomfield, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787103181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787107553324
+  },
+  {
+   "key": "simplify:62751ae8-bd05-4fa8-8629-d50f034fcc04",
+   "company": "Anduril",
+   "title": "Software Engineer - Tracking",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007",
+   "locations": [
+    "Fort Collins, CO",
+    "Broomfield, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787103181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787107553324
+  },
+  {
+   "key": "simplify:dc6daafb-5abf-4b74-97ca-4d7e2db2a9f6",
+   "company": "ByteDance",
+   "title": "Machine Learning Engineer Graduate - E-Commerce Risk Control",
+   "url": "https://jobs.bytedance.com/en/position/7675477660855781637/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787104981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787107553324
+  },
+  {
+   "key": "simplify:2ff524c5-b4b5-442e-9bf1-f96ce0366ce5",
+   "company": "OKX",
+   "title": "AI-Native Mobile Engineer New Grad",
+   "url": "https://job-boards.greenhouse.io/okx/jobs/7897680003",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787105101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787107553324
+  },
+  {
+   "key": "simplify:048a4ff3-3e1e-4263-befe-a0355b1afce4",
+   "company": "Seeq",
+   "title": "AI Customer Insights Engineer",
+   "url": "https://apply.workable.com/seeq/j/6F40FF632B/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787104981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787107553324
+  },
   {
    "key": "simplify:20a58aca-229f-4e97-b6ae-6ffb0759e594",
    "company": "TikTok",
@@ -5695,101 +5792,6 @@
    "sponsorship": "unknown",
    "posted": 1786469221000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:7b75fe14-a899-4b20-9785-85fc95da69b3",
-   "company": "ByteDance",
-   "title": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
-   "url": "https://jobs.bytedance.com/en/position/7672382828525832501/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786468863000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:48614093-9c24-4b18-92b5-a3b6f4e55c36",
-   "company": "Analytic Partners",
-   "title": "Software Engineer Co-op - University of Waterloo",
-   "url": "https://jobs.lever.co/analyticpartners/6303782e-636f-4bac-90cd-051411558b8b/apply",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469057000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:6162ec1b-8a67-4399-9131-ab748f523281",
-   "company": "Analytic Partners",
-   "title": "Software Engineer Co-op - University of Toronto",
-   "url": "https://jobs.lever.co/analyticpartners/485ae801-3fae-4dc1-950d-445ba990f6c9/apply",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469058000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:1c48a615-424d-40fa-89b5-62e31990980c",
-   "company": "Insitu",
-   "title": "Software Engineer - Simulation",
-   "url": "https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1",
-   "locations": [
-    "Bingen, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469042000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:407e1e4c-8d82-4e4c-b3ff-9482dc645fb7",
-   "company": "State Street",
-   "title": "Software Engineer New Grad",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-795953",
-   "locations": [
-    "Burlington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469130000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
