@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-19T18:48:11.261Z",
+ "updatedAt": "2026-08-19T19:15:42.459Z",
  "jobs": [
+  {
+   "key": "simplify:a4aabf38-92c7-4e05-b84e-51c4d41178a4",
+   "company": "L3Harris Technologies",
+   "title": "Application Developer Associate - Enterprise Data and AI",
+   "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787164614000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787166941516
+  },
   {
    "key": "simplify:f79b166b-afea-4a0b-9644-b397a4fc143e",
    "company": "Honeywell",
@@ -5772,27 +5791,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786473523182
-  },
-  {
-   "key": "simplify:d0e6095d-b7d9-4b98-9b30-5bc4f60fed04",
-   "company": "ByteDance",
-   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-   "url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786468863000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786470112177
   }
  ]
 }
