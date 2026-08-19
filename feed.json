@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-08-19T07:55:49.940Z",
+ "updatedAt": "2026-08-19T08:48:22.544Z",
  "jobs": [
+  {
+   "key": "simplify:b5b15050-2287-4ebf-8a26-f0745c794fd3",
+   "company": "Microsoft",
+   "title": "AI Software Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+   "locations": [
+    "Redmond, WA",
+    "Mountain View, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787128144000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787129301731
+  },
+  {
+   "key": "simplify:c5c96698-e25e-4209-8af4-5886495e5a80",
+   "company": "Deeter Analytics",
+   "title": "Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787128021000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787129301731
+  },
   {
    "key": "simplify:c0ff0ed8-d99a-4394-b967-956c4d6fa4ae",
    "company": "Adobe",
@@ -5751,45 +5790,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1786469282000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:d94fdfc5-eb6a-4d86-9548-af67b0732bd1",
-   "company": "Analytic Partners",
-   "title": "Software Engineer Co-op - Mcgill University",
-   "url": "https://jobs.lever.co/analyticpartners/f4d7b848-878f-4761-be25-3d6e4f4d1a54/apply",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469057000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:593ee6f1-3e6c-4136-8182-829091448ed2",
-   "company": "Analytic Partners",
-   "title": "Software Engineer Co-op - Georgia Tech",
-   "url": "https://jobs.lever.co/analyticpartners/5452f2a3-77ba-4cce-afdd-000351105650/apply",
-   "locations": [
-    "Miami, FL",
-    "United States"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469221000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
