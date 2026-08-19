@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-19T22:44:05.728Z",
+ "updatedAt": "2026-08-19T23:10:35.394Z",
  "jobs": [
+  {
+   "key": "simplify:fa9b8b4c-326b-46f7-8979-43e65256db21",
+   "company": "TMEIC Corporation Americas",
+   "title": "Engineer Intern - Spring 2027",
+   "url": "https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply",
+   "locations": [
+    "Roanoke, VA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787178996000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787181034719
+  },
+  {
+   "key": "simplify:01f94977-fc40-414b-bd6d-f44693eacceb",
+   "company": "Specialisterne",
+   "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
+   "url": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787178781000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787181034719
+  },
+  {
+   "key": "simplify:54c4c395-7b69-498c-9917-759b96d7b1c5",
+   "company": "Truveta",
+   "title": "Software Engineer - Commerce",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6147526004",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787178659000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787181034719
+  },
   {
    "key": "simplify:989986f5-744c-44d9-8783-a3495ddadb27",
    "company": "T-Mobile",
@@ -5734,64 +5791,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:d97157b9-8f0c-4cfb-be47-a801be8548ae",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Foundation",
-   "url": "https://lifeattiktok.com/search/7672882500030138629",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786498381000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:b62dcf53-f9ca-48c0-aeea-39de27c89b8f",
-   "company": "Adobe",
-   "title": "Photoshop Developer - GPU/Imaging",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014",
-   "locations": [
-    "Seattle, WA",
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786498222000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:7fcb2e8c-cda4-468f-b6ff-2d05f6b0b2c6",
-   "company": "Foxconn Industrial Internet",
-   "title": "Software Engineer Intern - Engineering and Operations",
-   "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786487371000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786489846328
   }
  ]
 }
