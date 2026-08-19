@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-18T23:54:26.078Z",
+ "updatedAt": "2026-08-19T01:46:26.490Z",
  "jobs": [
+  {
+   "key": "simplify:20a58aca-229f-4e97-b6ae-6ffb0759e594",
+   "company": "TikTok",
+   "title": "Data Engineer Graduate - Data Platform - Global Live",
+   "url": "https://lifeattiktok.com/search/7675484418022181173",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787102102000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787103985436
+  },
+  {
+   "key": "simplify:641fdd40-6b14-4a5b-9037-8b6a4ac41c35",
+   "company": "PNC Financial Services",
+   "title": "Software Engineer Associate - Tempus",
+   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787101735000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787103985436
+  },
   {
    "key": "simplify:1366c200-21e0-464f-ade7-0f3ea4e05672",
    "company": "Quantcast",
@@ -5751,44 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786469130000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:73cef19e-ced7-497b-bf62-388cb64b1801",
-   "company": "ByteDance",
-   "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate",
-   "url": "https://jobs.bytedance.com/en/position/7672392998189959429/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786468863000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:7f2aef69-8f56-49be-8f29-f9b37419bd0e",
-   "company": "ByteDance",
-   "title": "Research Engineer",
-   "url": "https://jobs.bytedance.com/en/position/7672398686110910773/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786469095000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
