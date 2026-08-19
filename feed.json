@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-19T12:00:20.218Z",
+ "updatedAt": "2026-08-19T13:04:40.863Z",
  "jobs": [
+  {
+   "key": "simplify:f79b166b-afea-4a0b-9644-b397a4fc143e",
+   "company": "Honeywell",
+   "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237",
+   "locations": [
+    "Northford, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787141038000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787144679753
+  },
   {
    "key": "simplify:ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
    "company": "NVIDIA",
@@ -5768,27 +5787,6 @@
    "sponsorship": "unknown",
    "posted": 1786468863000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786470112177
-  },
-  {
-   "key": "simplify:3d753fc3-2bd4-4933-88e0-f2500926ed8b",
-   "company": "ByteDance",
-   "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - AML-ARK",
-   "url": "https://jobs.bytedance.com/en/position/7672395094280063285/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786468863000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 17,
    "matchedWords": [
