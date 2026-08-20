@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-20T22:50:18.324Z",
+ "updatedAt": "2026-08-20T23:18:46.101Z",
  "jobs": [
+  {
+   "key": "simplify:ad0e540c-aa30-4559-a884-7ad92a21b24c",
+   "company": "SoFi",
+   "title": "Associate AI Engineer - Finance Transformation",
+   "url": "https://sofi.com/careers/job/7871448003?gh_jid=7871448003",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787265361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787267925297
+  },
   {
    "key": "simplify:0fa9b5b7-2e6d-4c52-8478-b08cf2443053",
    "company": "Mulligan Funding",
@@ -5770,25 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786572900000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:51d49505-2900-4370-b8a9-df3e597de705",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Governance",
-   "url": "https://lifeattiktok.com/search/7672928557539002629",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572543000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
