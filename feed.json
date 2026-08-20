@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-20T14:56:30.993Z",
+ "updatedAt": "2026-08-20T15:41:18.967Z",
  "jobs": [
+  {
+   "key": "simplify:7d8242ec-06c9-4afb-abfb-ccbd11a5f47b",
+   "company": "Fifth Third Bank",
+   "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787238416000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787240477414
+  },
+  {
+   "key": "simplify:19b37e51-2041-4d10-a23e-d342a6b7f791",
+   "company": "VivSoft Technologies",
+   "title": "Software Engineer",
+   "url": "https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787238613000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787240477414
+  },
   {
    "key": "simplify:013fdd20-3235-4aca-8bd4-f5eb44a09c32",
    "company": "RTX",
@@ -5742,44 +5780,6 @@
    "url": "https://lifeattiktok.com/search/7672518398222387461",
    "locations": [
     "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786545181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786549500862
-  },
-  {
-   "key": "simplify:4ec8e592-f297-479a-ab56-d80abf24fa27",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - TikTok Vertical Recommendation",
-   "url": "https://lifeattiktok.com/search/7672532275557583157",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786545181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786549500862
-  },
-  {
-   "key": "simplify:a09f224d-f684-4fb4-915b-6dbc5f486570",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Mall",
-   "url": "https://lifeattiktok.com/search/7672911151560296709",
-   "locations": [
-    "Seattle, WA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
