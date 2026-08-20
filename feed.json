@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-08-20T12:18:40.789Z",
+ "updatedAt": "2026-08-20T13:24:04.185Z",
  "jobs": [
+  {
+   "key": "simplify:f6f17706-f32e-4624-8175-889945a160e5",
+   "company": "Boston Consulting Group",
+   "title": "Forward Deployed AI Engineer - Campus",
+   "url": "https://careers.bcg.com/global/en/job/59067",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787228718000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787232243429
+  },
   {
    "key": "simplify:a908b011-3049-4c5c-831e-b0a4e17ddebf",
    "company": "TikTok",
@@ -5770,25 +5791,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786529743592
-  },
-  {
-   "key": "simplify:e9c6fbb2-27a0-4da8-bd66-1d4be992ae95",
-   "company": "Felix Magazine",
-   "title": "Web Developer/Programmer Intern",
-   "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786514959000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786520824772
   }
  ]
 }
