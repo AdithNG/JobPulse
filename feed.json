@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-08-20T00:00:14.437Z",
+ "updatedAt": "2026-08-20T01:47:14.318Z",
  "jobs": [
+  {
+   "key": "simplify:4fa1b683-fa30-44b0-a279-ea52a60e6a84",
+   "company": "Copart",
+   "title": "Software Engineer Intern",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787134506000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787190433715
+  },
+  {
+   "key": "simplify:e1f3338c-95a0-4b9f-b987-07fa38a8a4a6",
+   "company": "Ampersand",
+   "title": "Data Engineering Co-op - Open to Northeastern students only",
+   "url": "https://ats.rippling.com/ampersand-biomedicines/jobs/be3f5479-379e-4d48-9bd1-82a69b2dcfd3",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787187448000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787190433715
+  },
+  {
+   "key": "simplify:74b2d4ff-f0ec-41d4-bc51-c06875faa9b7",
+   "company": "AeroVironment",
+   "title": "Computer Network Operations Developer",
+   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358",
+   "locations": [
+    "Jessup, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1785582552000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787190433715
+  },
+  {
+   "key": "simplify:929cfe45-2ac9-4d39-80b3-b3fa750e2ceb",
+   "company": "Crusoe",
+   "title": "Software Engineer 1 - Network",
+   "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787187298000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787190433715
+  },
+  {
+   "key": "simplify:622563d2-e336-4a82-b917-11650b4cbd9d",
+   "company": "GlobalFoundries",
+   "title": "AI/ML Software Engineer New Grad",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832",
+   "locations": [
+    "Austin, TX",
+    "Santa Clara, CA",
+    "Richardson, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787186633000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787190433715
+  },
   {
    "key": "simplify:fa9b8b4c-326b-46f7-8979-43e65256db21",
    "company": "TMEIC Corporation Americas",
@@ -5691,101 +5788,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786497877000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:d77ab18e-96cd-4110-89ca-b38044f2e7d6",
-   "company": "AbbVie",
-   "title": "Associate Software Engineer 1",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564",
-   "locations": [
-    "North Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786497820000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:b93029bb-0502-4da5-9050-4b8933270db8",
-   "company": "ERPA",
-   "title": "Software Developer",
-   "url": "https://jobs.smartrecruiters.com/ERPAnalysts1/743999677352777",
-   "locations": [
-    "Franklin County, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786497328000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:9f3702b3-a0cf-4dc4-b67b-7435571d1648",
-   "company": "9to9 Software Solutions",
-   "title": "Entry Level .NET Developer",
-   "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999674047805",
-   "locations": [
-    "Louisville, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786497164000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:e5b4ea41-d433-47b9-a9c8-0a104086edca",
-   "company": "9to9 Software Solutions",
-   "title": "Software Developer",
-   "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786497153000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786502335004
-  },
-  {
-   "key": "simplify:7c378aeb-7ed5-4825-a428-ffb19f70e2fe",
-   "company": "9to9 Software Solutions",
-   "title": "Entry Level Software Developer",
-   "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473",
-   "locations": [
-    "Copperhill, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786497147000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
