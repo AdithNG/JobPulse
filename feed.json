@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-21T20:33:45.718Z",
+ "updatedAt": "2026-08-21T20:59:54.731Z",
  "jobs": [
+  {
+   "key": "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414",
+   "company": "Fullbay",
+   "title": "Software Engineer Intern",
+   "url": "https://fullbay.bamboohr.com/careers/131/",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787343661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787345993828
+  },
+  {
+   "key": "simplify:9e276b36-0027-450c-b77d-ba9d4664b668",
+   "company": "Avalore",
+   "title": "AI/ML Engineer",
+   "url": "https://apply.workable.com/avalore/j/236521B2C0/apply",
+   "locations": [
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787343301000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787345993828
+  },
   {
    "key": "simplify:91fbe496-c0ad-4be0-8f7d-981a254764b0",
    "company": "Hyve Solutions",
@@ -5757,44 +5795,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786601161000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:1e5ab0ea-1864-4dac-b3a0-480ec705e25b",
-   "company": "Presidency Solutions",
-   "title": "Software Developer",
-   "url": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703",
-   "locations": [
-    "Farmington Hills, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786601221000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:ea47b81d-38b4-4c79-b7a8-d4b98cd222bc",
-   "company": "Selector Software",
-   "title": "Software Engineer",
-   "url": "https://selectorsoftware.bamboohr.com/careers/193/",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786603129000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
