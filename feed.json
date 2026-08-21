@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-21T13:57:56.840Z",
+ "updatedAt": "2026-08-21T14:45:56.102Z",
  "jobs": [
+  {
+   "key": "simplify:2a701480-0cb2-4855-8732-d762f6105134",
+   "company": "PPLSI",
+   "title": "Software Engineer",
+   "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787322112000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787323555084
+  },
   {
    "key": "simplify:6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
    "company": "Crowe",
@@ -5779,25 +5798,6 @@
    "sponsorship": "unknown",
    "posted": 1786584421000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:36649be5-6fcf-46db-86bb-69e8d9c6ce71",
-   "company": "Exelixis",
-   "title": "Associate Engineer - AI and Agentic",
-   "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031",
-   "locations": [
-    "Alameda, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786584421000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
