@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-08-21T10:53:12.809Z",
+ "updatedAt": "2026-08-21T11:33:55.384Z",
  "jobs": [
+  {
+   "key": "simplify:6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
+   "company": "Crowe",
+   "title": "Power Platform Business Solutions Intern - Consulting Practice",
+   "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035",
+   "locations": [
+    "Chicago, IL",
+    "Sacramento, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787308561000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787312034445
+  },
   {
    "key": "simplify:67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c",
    "company": "ByteDance",
@@ -5771,25 +5791,6 @@
    "url": "https://exelixis.wd1.myworkdayjobs.com/exel/job/Alameda-CA/Associate-Engineer---AI-and-Agentic_JR7031",
    "locations": [
     "Alameda, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786584421000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:0f5bb908-9ac8-4a97-b45d-0ad47f7cd13b",
-   "company": "ByteDance",
-   "title": "Research Engineer Graduate - Seed Infra",
-   "url": "https://jobs.bytedance.com/en/position/7673256063231854901/detail",
-   "locations": [
-    "Seattle, WA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
