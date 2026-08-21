@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-08-21T17:51:07.412Z",
+ "updatedAt": "2026-08-21T18:28:55.725Z",
  "jobs": [
+  {
+   "key": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
+   "company": "Susquehanna International Group",
+   "title": "Trading System Engineer New Grad",
+   "url": "https://careers-sig.icims.com/jobs/11349/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Bala Cynwyd, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787333463000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "trading"
+   ],
+   "firstSeen": 1787336934987
+  },
+  {
+   "key": "simplify:cda123ef-2e15-45a0-8ef1-f1983b6bf58b",
+   "company": "GE Vernova",
+   "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787333653000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787336934987
+  },
+  {
+   "key": "simplify:4dcd82b7-38d8-4c45-b11f-1d0b3a75a1d0",
+   "company": "GE Vernova",
+   "title": "Project Engineer Intern - Summer 2027",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787333651000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787336934987
+  },
+  {
+   "key": "simplify:867add8a-591f-4f9c-a4b8-a548a8e7ce89",
+   "company": "Blackstone",
+   "title": "Data Engineer Summer Analyst - Blackstone Technology & Innovations",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Technology-and-Innovations--Data-Engineer-Summer-Analyst_45022",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787333636000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787336934987
+  },
+  {
+   "key": "simplify:230b8412-ca73-4abf-b01d-2013cfc1309b",
+   "company": "Blackstone",
+   "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787333647000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787336934987
+  },
+  {
+   "key": "simplify:5ccced66-9142-4b34-b707-ac2de7ec911c",
+   "company": "General Dynamics Mission Systems",
+   "title": "Systems Engineer",
+   "url": "https://careers-gdms.icims.com/jobs/74470/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Pittsfield, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787334876000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787336934987
+  },
+  {
+   "key": "simplify:819eedb4-b5db-4a0d-8f0d-c91e64fb9eeb",
+   "company": "Amentum",
+   "title": "Software Programmer Entry Level - Conventional Test Facility",
+   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838",
+   "locations": [
+    "Tullahoma, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787333855000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787336934987
+  },
   {
    "key": "simplify:2a701480-0cb2-4855-8732-d762f6105134",
    "company": "PPLSI",
@@ -5665,143 +5800,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:5669b0ee-2c91-48c1-a10f-9014661b589c",
-   "company": "United Smart Tech",
-   "title": "AI Engineer - Agents & Experimentation",
-   "url": "https://unitedsmarttech.bamboohr.com/careers/185/",
-   "locations": [
-    "Carrollton, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602244000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:c28ceb25-26bc-4b87-a21a-1eee0450081b",
-   "company": "ConeTec Group",
-   "title": "Field Engineer/Field Geologist",
-   "url": "https://conetec.bamboohr.com/careers/599/",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602244000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:d08e06ee-dc58-4192-98ea-f189a88a6db2",
-   "company": "ConeTec Group",
-   "title": "Field Geologist/Engineer",
-   "url": "https://conetec.bamboohr.com/careers/309/",
-   "locations": [
-    "Richmond, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602244000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:ae31bcf5-3524-4c9f-8b9e-361d60f9fa17",
-   "company": "TikTok",
-   "title": "Backend Software Engineer New Grad - Creator Strategy",
-   "url": "https://lifeattiktok.com/search/7672976491146004741",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786583453000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:82b0f083-f346-4f10-91bf-8d21a2b88675",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Recommendation Architecture - Feeds Infrastructure",
-   "url": "https://lifeattiktok.com/search/7672530785573980421",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786583341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:acf117a3-c0c1-472f-ad4c-e68012e06ab4",
-   "company": "Schweitzer Engineering Laboratories",
-   "title": "Software Engineer Intern - AI Focus",
-   "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601",
-   "locations": [
-    "Pullman, WA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786584468000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:aa733ff3-312d-4f91-935f-9b74817edc2b",
-   "company": "ByteDance",
-   "title": "Self-Built Engineer Intern - CDN Platform",
-   "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786584421000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786588764383
   }
  ]
 }
