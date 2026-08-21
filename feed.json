@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-21T23:00:04.942Z",
+ "updatedAt": "2026-08-21T23:33:55.450Z",
  "jobs": [
+  {
+   "key": "simplify:214fc73f-c4d9-4c6d-8455-16b74d79ce68",
+   "company": "Solid Power",
+   "title": "Product Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
+   "locations": [
+    "Thornton, CO"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787352341000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787355234450
+  },
+  {
+   "key": "simplify:b364c68b-8fda-447b-b50d-dfa7fcd4039f",
+   "company": "Availity",
+   "title": "Software Engineer Intern - Multiple Teams",
+   "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787353899000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787355234450
+  },
+  {
+   "key": "simplify:3a9d445d-6bcb-43b3-8183-0437d5b6c332",
+   "company": "Weave",
+   "title": "Data Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application?embed=true",
+   "locations": [
+    "Lehi, UT"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787353741000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787355234450
+  },
   {
    "key": "simplify:2878fb2f-f01b-4b99-82a0-1d04fe1d03a2",
    "company": "Garmin",
@@ -5737,65 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786637447098
-  },
-  {
-   "key": "simplify:1f8e4468-cfb9-4773-8eff-5deb0dfd3370",
-   "company": "Renesas Electronics",
-   "title": "AI Compiler Engineer",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786630044000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786633834200
-  },
-  {
-   "key": "simplify:823dc91a-f895-469a-b516-b3be2e1894e7",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Recommendation Infrastructure",
-   "url": "https://lifeattiktok.com/search/7673284715407886597",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786612321000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786617245978
-  },
-  {
-   "key": "simplify:495c218f-20df-48c5-baef-1726f57e1d01",
-   "company": "Applied Materials",
-   "title": "Software Engineer New Grad - DevOps",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
-   "locations": [
-    "Gloucester, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786612676000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786617245978
   }
  ]
 }
