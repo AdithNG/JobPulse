@@ -1,6 +1,142 @@
 {
- "updatedAt": "2026-08-21T00:26:45.744Z",
+ "updatedAt": "2026-08-21T02:09:52.330Z",
  "jobs": [
+  {
+   "key": "simplify:bf2ef6a4-2b5f-4eed-8e5d-57612263f6b6",
+   "company": "Lawrence Livermore National Laboratory (LLNL)",
+   "title": "Computational Engineering Graduate Intern",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014730886",
+   "locations": [
+    "Livermore, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787274631000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
+  {
+   "key": "simplify:872d9c82-5186-439d-be5c-907d58d05b0c",
+   "company": "Qualcomm",
+   "title": "Verification Software Engineer - Software Engineering",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446720426705",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787275262000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
+  {
+   "key": "simplify:d9c06fcc-eca6-4331-896f-ab0f93aa505f",
+   "company": "T-Mobile",
+   "title": "Associate Software Engineer",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer_REQ364465-1",
+   "locations": [
+    "Frisco, TX",
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787275081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
+  {
+   "key": "simplify:7028b7a9-7bd5-4663-88fb-47e1e20a7406",
+   "company": "Analog Devices",
+   "title": "Associate Product Applications Engineer",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Applications-Engineer_R265307",
+   "locations": [
+    "Centennial, CO",
+    "Colorado Springs, CO",
+    "Wilmington, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787274901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
+  {
+   "key": "simplify:44c90e9f-c59c-4e93-b432-02dfb8511e62",
+   "company": "Peraton",
+   "title": "COBOL Software Developer",
+   "url": "https://careers-peraton.icims.com/jobs/169891/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787275029000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
+  {
+   "key": "simplify:13a75239-31df-4027-8781-bd140e9c93e0",
+   "company": "Pennsylvania State University",
+   "title": "Service System Engineering Research Scholar",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/SSE-Part-Time-Engineering-Research-Scholar_REQ_0000081618-1",
+   "locations": [
+    "University Park, State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787275002000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
+  {
+   "key": "simplify:f7be9d72-3649-44b3-8c8a-5a75fe9dbac9",
+   "company": "ServiceNow",
+   "title": "Associate Applications Development Engineer",
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144653619",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787274685000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787278191531
+  },
   {
    "key": "simplify:ad0e540c-aa30-4559-a884-7ad92a21b24c",
    "company": "SoFi",
@@ -5657,139 +5793,6 @@
    "sponsorship": "unknown",
    "posted": 1786572543000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:f34b1f76-8c04-44e3-af69-ab94a7694d4b",
-   "company": "GE Vernova",
-   "title": "Engineering Intern",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2",
-   "locations": [
-    "Niskayuna, NY"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786572364000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:fc4a0ca4-5bba-4b25-abdc-d15091093548",
-   "company": "RTX",
-   "title": "Validation Engineer Intern - Product Safety - Certification & Validation",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-J--400-Main-St--BLDG-J/Intern--Validation-Engineering---Product-Safety--Certification---Validation---Onsite-_01864406",
-   "locations": [
-    "East Hartford, CT"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572518000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:685487cc-2bf1-41f3-9324-4441e3ba0475",
-   "company": "Oracle",
-   "title": "Platform Software Engineer 1 Intern - Full-time Intern Conversion",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342415",
-   "locations": [
-    "United States"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786574921000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:5ded15c1-0e1b-4d50-909a-54019aa120b3",
-   "company": "Fidelity Investments",
-   "title": "Associate Software Engineer - ETF FFIO development",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Software-Engineer_2131717-1",
-   "locations": [
-    "Westlake, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786573169000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:fe0776af-83c2-4cf6-8991-f8436b19be7e",
-   "company": "TikTok",
-   "title": "Graduate Software Engineer - Media Engine",
-   "url": "https://lifeattiktok.com/search/7670367152357673221",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572900000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:ac849011-1197-4917-aa7b-e4870ced33fa",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Foundation Platform",
-   "url": "https://lifeattiktok.com/search/7670276769459456309",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572543000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:b3b345f1-09df-4662-9599-550ea9653c34",
-   "company": "TikTok",
-   "title": "Large Language Model Post-training Engineer Graduate - Research & Product",
-   "url": "https://lifeattiktok.com/search/7670285949976201477",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572900000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
