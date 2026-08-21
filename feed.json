@@ -1,6 +1,128 @@
 {
- "updatedAt": "2026-08-21T06:17:23.797Z",
+ "updatedAt": "2026-08-21T07:13:22.015Z",
  "jobs": [
+  {
+   "key": "simplify:1125c69f-65e1-4147-8a75-a88ddc41e3b2",
+   "company": "Nucleus Biologics",
+   "title": "Full Stack Engineer",
+   "url": "https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787294414000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1787296401239
+  },
+  {
+   "key": "simplify:2057d1a3-289b-49ae-8328-fa3527c533c5",
+   "company": "AMD",
+   "title": "Software Engineer Intern/Co-op - Masters",
+   "url": "https://careers.amd.com/jobs/91176?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787293636000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787296401239
+  },
+  {
+   "key": "simplify:3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d",
+   "company": "AMD",
+   "title": "Software Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/90891?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787293605000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787296401239
+  },
+  {
+   "key": "simplify:b6461f19-ac97-4787-a3e5-e3529e7f1e28",
+   "company": "AMD",
+   "title": "Product Development Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91227?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787293608000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787296401239
+  },
+  {
+   "key": "simplify:1a0df397-2083-456f-9ecb-137eec7603ef",
+   "company": "Databricks",
+   "title": "Software Engineer Intern",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002",
+   "locations": [
+    "Bellevue, WA",
+    "Mountain View, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787294010000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787296401239
+  },
+  {
+   "key": "simplify:9d6edf98-2a6c-44ed-8384-9c264b930e20",
+   "company": "Oracle",
+   "title": "Support Engineer 1",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611",
+   "locations": [
+    "Orlando, FL",
+    "Nashville, TN",
+    "Kansas City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787294521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787296401239
+  },
   {
    "key": "simplify:bf2ef6a4-2b5f-4eed-8e5d-57612263f6b6",
    "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -5679,124 +5801,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:d1775023-8318-4c20-8b84-7725fb52c8a3",
-   "company": "Consumer Direct Care Network",
-   "title": "Software Engineer 1",
-   "url": "https://cdcn.avature.net/careers/JobDetail/8611",
-   "locations": [
-    "Missoula, MT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786584690000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786588764383
-  },
-  {
-   "key": "simplify:2841155f-a6b5-417e-850c-c1fc194c2d3c",
-   "company": "TikTok",
-   "title": "Backend Software Engineer Graduate - Creation Platform",
-   "url": "https://lifeattiktok.com/search/7670292836050422021",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572543000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:5f115c55-1d75-4021-a79c-d638f003106e",
-   "company": "T2 Systems",
-   "title": "Full Stack Developer",
-   "url": "https://www.t2systems.com/jobs?gh_jid=4675527006",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572724000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:fa3d0acb-1673-42d8-a648-f36557989a20",
-   "company": "Navy Federal",
-   "title": "Data Engineering Intern",
-   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29792",
-   "locations": [
-    "Vienna, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786573013000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:5f12771f-a545-4521-ba17-ecb175d4dbcb",
-   "company": "American Fidelity",
-   "title": "Software Development Intern",
-   "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005",
-   "locations": [
-    "Oklahoma City, OK"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572892000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
-  },
-  {
-   "key": "simplify:c249395f-01c2-45e9-bc84-85cb3cc66408",
-   "company": "New Balance",
-   "title": "Sports Research Engineer Intern",
-   "url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
-   "locations": [
-    "Brighton, Boston, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786572543000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786576123831
   }
  ]
 }
