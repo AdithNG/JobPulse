@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-08-21T19:56:40.373Z",
+ "updatedAt": "2026-08-21T20:33:45.718Z",
  "jobs": [
+  {
+   "key": "simplify:91fbe496-c0ad-4be0-8f7d-981a254764b0",
+   "company": "Hyve Solutions",
+   "title": "Software Engineer New Grad",
+   "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
+   "locations": [
+    "Fremont, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787342326000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787344424523
+  },
+  {
+   "key": "simplify:b30acf92-00fa-4d87-ac6e-44032cdc640b",
+   "company": "Integration Innovation (i3)",
+   "title": "Software Engineer",
+   "url": "https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787341754000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787344424523
+  },
+  {
+   "key": "simplify:54eb5520-b9cf-4910-83b4-228b8b7a1a67",
+   "company": "Mercury Insurance",
+   "title": "Software Engineer 1 Test",
+   "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Brea, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787341588000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787344424523
+  },
+  {
+   "key": "simplify:9e675a71-dd54-4b7e-9dad-72b84c93433e",
+   "company": "Mercury Insurance",
+   "title": "Software Engineer 1",
+   "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Brea, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787341581000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787344424523
+  },
   {
    "key": "simplify:eb3814c7-6fd3-4e58-852c-6cc00005cf9a",
    "company": "Susquehanna International Group",
@@ -5719,82 +5795,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786603129000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:ddbc3338-08db-4c93-9c6d-d0a88e19b684",
-   "company": "Adidev Technologies Inc",
-   "title": "iOS Developer",
-   "url": "https://adidev.bamboohr.com/careers/34/",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602944000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:aa257799-08d3-405b-b906-58d61f43af09",
-   "company": "Adidev Technologies Inc",
-   "title": "Mobile Developer - iOS/Android",
-   "url": "https://adidev.bamboohr.com/careers/44/",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602942000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:2bba0fd8-a19f-4bc4-be98-e3237e625a1a",
-   "company": "Adidev Technologies Inc",
-   "title": "Android Developer",
-   "url": "https://adidev.bamboohr.com/careers/27/",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786607534142
-  },
-  {
-   "key": "simplify:7fa184d8-1d6e-474e-afac-7571cf147fe7",
-   "company": "Apollo Mission Critical Engineering",
-   "title": "Software Engineering Associate - Software Development Associate",
-   "url": "https://apollomce.bamboohr.com/careers/96/",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786602781000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
