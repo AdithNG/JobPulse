@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-22T10:33:49.014Z",
+ "updatedAt": "2026-08-22T10:58:40.872Z",
  "jobs": [
+  {
+   "key": "simplify:39cb839f-d71d-445f-8fc1-2f4c28012af9",
+   "company": "Analog Devices",
+   "title": "Algorithm Development Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Algorithm-Development-Engineer-Intern_R265306-1",
+   "locations": [
+    "Wilmington, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787393882000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787396319989
+  },
+  {
+   "key": "simplify:7b812f43-6cd1-4741-8596-1eb209757615",
+   "company": "Hitachi",
+   "title": "Engineering Intern",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787393778000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787396319989
+  },
   {
    "key": "simplify:24751870-3351-4625-9977-345222746d6e",
    "company": "Maven Securities",
@@ -5751,44 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786661004000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:52313b30-cb01-42d0-9c7e-e101d5417aa5",
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786661000000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:3ff68a8b-40ab-45bd-b4df-3de7fc5eab51",
-   "company": "BlackRock",
-   "title": "Application Engineer - Service Management Operations Group",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Analyst--Application-Engineer_R266106",
-   "locations": [
-    "Wilmington, DE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660539000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
