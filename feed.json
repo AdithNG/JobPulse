@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-22T10:58:40.872Z",
+ "updatedAt": "2026-08-22T11:29:48.752Z",
  "jobs": [
+  {
+   "key": "simplify:749be3e8-6a9a-490f-b0d8-24ef83937c14",
+   "company": "BP",
+   "title": "Reservoir Engineer Intern - Summer Internship",
+   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Summer-Intern---Reservoir-Engineer---Houston--TX_RQ114655-2",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787396312000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787398188120
+  },
   {
    "key": "simplify:39cb839f-d71d-445f-8fc1-2f4c28012af9",
    "company": "Analog Devices",
@@ -5768,27 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786660921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:272a8a12-a059-4b95-8352-e8d3fa58f498",
-   "company": "Cigna Group",
-   "title": "Technology Development Program New Grad - Data & Analytics Engineering Track",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Data---Analytics-Engineering-Track_26009518-1",
-   "locations": [
-    "Morris Plains, NJ",
-    "St. Louis, MO",
-    "Bloomfield, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786661004000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
