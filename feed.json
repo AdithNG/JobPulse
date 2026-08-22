@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-08-22T02:43:09.644Z",
+ "updatedAt": "2026-08-22T03:29:53.480Z",
  "jobs": [
+  {
+   "key": "simplify:6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
+   "company": "Microsoft",
+   "title": "AI Software Engineer Intern - Edge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054",
+   "locations": [
+    "Redmond, WA",
+    "Mountain View, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787366400000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787369392607
+  },
+  {
+   "key": "simplify:9d5887c5-a484-493a-a9cd-38e0b51c1ef6",
+   "company": "Elevate Semiconductor",
+   "title": "Product Engineering Intern",
+   "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787366245000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787369392607
+  },
   {
    "key": "simplify:b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
    "company": "TikTok",
@@ -5757,44 +5796,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
-   "company": "Dexcom",
-   "title": "Software Development Engineer 1",
-   "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660201000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:d05b18bf-6196-4443-8b9a-4bd3ee417cae",
-   "company": "Interco",
-   "title": "Software Development Intern - React",
-   "url": "https://jobs.smartrecruiters.com/Interco/744000143346169",
-   "locations": [
-    "St. Louis, MO"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786659250000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786662113655
   }
  ]
 }
