@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-22T14:30:55.676Z",
+ "updatedAt": "2026-08-22T14:54:06.954Z",
  "jobs": [
+  {
+   "key": "simplify:cbb3ab08-f178-4e8a-b8f7-95efd3b9dd22",
+   "company": "Springs Window Fashions",
+   "title": "Application Engineering Intern - Summer 2027",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Long Island City, Queens, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787407925000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787410446045
+  },
+  {
+   "key": "simplify:3b263339-ab18-4363-b881-4222882cc14b",
+   "company": "Springs Window Fashions",
+   "title": "Textile Engineering Intern - Summer 2027",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12881/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Middleton, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787407924000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787410446045
+  },
   {
    "key": "simplify:ac52f5f1-d8be-4c9a-8578-a112098cc67b",
    "company": "Mariana Minerals",
@@ -5747,44 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786661891000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:5916d7bf-9c77-4f4e-bd21-1e3a123074e5",
-   "company": "State of Nebraska",
-   "title": "IT Applications Developer - Public Health",
-   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/IT-Applications-Developer---Public-Health_JR2026-00028657",
-   "locations": [
-    "Lincoln, NE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786661461000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:5626cf23-a738-4254-a817-c09de4ad69af",
-   "company": "Leidos",
-   "title": "Software Engineer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564",
-   "locations": [
-    "Bowie, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786661327000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
