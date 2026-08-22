@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-22T22:31:23.136Z",
+ "updatedAt": "2026-08-22T22:54:21.202Z",
  "jobs": [
+  {
+   "key": "simplify:51356e70-c399-48c1-8ed0-d892ed23c0e8",
+   "company": "GlobalFoundries",
+   "title": "Technology Architecture and Competitiveness Engineer New Grad - Structural Analysis",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Technology-Architecture-and-Competitiveness-Engineer--2027-New-College-Graduate-_JR-2604319",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787436946000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787439260035
+  },
   {
    "key": "simplify:cbb3ab08-f178-4e8a-b8f7-95efd3b9dd22",
    "company": "Springs Window Fashions",
@@ -5767,25 +5786,6 @@
    "sponsorship": "unknown",
    "posted": 1786660201000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:eaa09253-ead5-4d61-9b1c-6aaeeb8e0187",
-   "company": "Andrew Morgan",
-   "title": "OneStream Developer",
-   "url": "https://andrew-morgan.com/current-openings/?gh_jid=5389586008",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786661891000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
