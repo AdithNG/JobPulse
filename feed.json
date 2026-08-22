@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-22T12:54:32.959Z",
+ "updatedAt": "2026-08-22T13:38:10.313Z",
  "jobs": [
+  {
+   "key": "simplify:ac52f5f1-d8be-4c9a-8578-a112098cc67b",
+   "company": "Mariana Minerals",
+   "title": "Analytical Applications Engineer",
+   "url": "https://jobs.ashbyhq.com/marianaminerals/34857c47-bde0-4dce-933b-f07291b5c999/application?embed=true",
+   "locations": [
+    "Moab, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787403062000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787405889362
+  },
   {
    "key": "simplify:749be3e8-6a9a-490f-b0d8-24ef83937c14",
    "company": "BP",
@@ -5766,27 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786661327000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:7c36c172-1a8d-4c06-b6ca-6ee12e3ef829",
-   "company": "Cigna Group",
-   "title": "Technology Development Program - Software Engineering Track",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523",
-   "locations": [
-    "Bloomington, MN",
-    "Austin, TX",
-    "Morris Plains, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660921000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
