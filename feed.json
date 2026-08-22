@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-22T08:54:30.405Z",
+ "updatedAt": "2026-08-22T09:35:06.404Z",
  "jobs": [
+  {
+   "key": "simplify:24751870-3351-4625-9977-345222746d6e",
+   "company": "Maven Securities",
+   "title": "Graduate Developer",
+   "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787388719000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787391305589
+  },
   {
    "key": "simplify:6245b5b1-9a7d-4d30-aabb-19a2cedbde40",
    "company": "Microsoft",
@@ -5770,27 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786660539000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
-  },
-  {
-   "key": "simplify:e64b78a2-03ae-46f1-9dc7-98677237e137",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer/Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10245648",
-   "locations": [
-    "Redondo Beach, CA",
-    "Palmdale, CA",
-    "Oklahoma City, OK"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660485000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
