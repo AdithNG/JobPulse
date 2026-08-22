@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-08-21T23:59:00.542Z",
+ "updatedAt": "2026-08-22T01:45:07.843Z",
  "jobs": [
+  {
+   "key": "simplify:b9776d83-bf68-42d9-88e2-4ebdd4ffda09",
+   "company": "TikTok",
+   "title": "Software Engineer Intern",
+   "url": "https://lifeattiktok.com/search/7676276048527214901",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787361661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787363106905
+  },
+  {
+   "key": "simplify:ddb8f300-267b-4c8d-8fcf-9e075ae95dfb",
+   "company": "Applied Materials",
+   "title": "Software Engineer 1",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859",
+   "locations": [
+    "Kalispell, MT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787361361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787363106905
+  },
+  {
+   "key": "simplify:d96fafe9-2ce5-48db-8750-98e1d30c0c85",
+   "company": "NVIDIA",
+   "title": "Architecture Energy Modeling Engineer - Power Modeling, Methodology and Analysis",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Architecture-Energy-Modeling-Engineer---New-College-Grad-2026_JR2023398",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787361143000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787363106905
+  },
+  {
+   "key": "simplify:7a70a260-965f-4aec-902f-7d5704f201a2",
+   "company": "True Anomaly",
+   "title": "Software Engineer 1 New Grad - QA",
+   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
+   "locations": [
+    "Long Beach, CA",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787361086000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787363106905
+  },
   {
    "key": "simplify:214fc73f-c4d9-4c6d-8455-16b74d79ce68",
    "company": "Solid Power",
@@ -5718,82 +5795,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786662113655
-  },
-  {
-   "key": "simplify:6753f099-9106-4840-b725-97e422c72cb4",
-   "company": "ManTech",
-   "title": "Associate BI Analytics Engineer",
-   "url": "https://mantech.avature.net/en_US/careers/JobDetail/64747",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660046000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786662113655
-  },
-  {
-   "key": "simplify:b82ebee3-b9ea-4a22-b498-9b803e53e092",
-   "company": "AIR Control Concepts",
-   "title": "Application Engineer",
-   "url": "https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer",
-   "locations": [
-    "Elkridge, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786659481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786662113655
-  },
-  {
-   "key": "simplify:8e8f913d-4263-4281-9cf3-3e083858cf58",
-   "company": "Pennsylvania State University",
-   "title": "Software Research and Development Engineer - Applied Research Laboratory",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000080402-2",
-   "locations": [
-    "State College, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786652300000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786658543599
-  },
-  {
-   "key": "simplify:aed64cac-7a3d-4140-a085-279c03698a7b",
-   "company": "RTX",
-   "title": "Methods Intern - Hot Section Engineering",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01864520",
-   "locations": [
-    "East Hartford, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786633641000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786637447098
   }
  ]
 }
