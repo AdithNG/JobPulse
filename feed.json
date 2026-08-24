@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-24T23:02:29.704Z",
+ "updatedAt": "2026-08-24T23:34:41.330Z",
  "jobs": [
+  {
+   "key": "simplify:9a501b59-f29b-4a7d-b8ef-eb5221735c94",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440",
+   "locations": [
+    "Hollywood, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787611764000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787614480652
+  },
+  {
+   "key": "simplify:40ac8f0e-2e41-4c53-9757-6a1ee928093c",
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989",
+   "locations": [
+    "Andover, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787611116000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787614480652
+  },
+  {
+   "key": "simplify:f3afd047-0a89-40c5-ba2f-e21673172f2b",
+   "company": "Wabtec",
+   "title": "Engineer Rotational Program",
+   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787610804000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787614480652
+  },
   {
    "key": "simplify:7194b5a6-5ff2-4d30-8f27-55c669757b74",
    "company": "Brunswick",
@@ -5731,66 +5788,6 @@
    "sponsorship": "unknown",
    "posted": 1786745705000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
-   "company": "Motorola",
-   "title": "Android Platform Software Engineer Intern - Summer 2027",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
-   "locations": [
-    "Schaumburg, IL",
-    "Plantation, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786745718000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:dcaee8da-55dd-4649-9460-913115743ec6",
-   "company": "Fidelity Investments",
-   "title": "Leap Software Engineer",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859",
-   "locations": [
-    "Westlake, TX",
-    "Durham, NC",
-    "Merrimack, NH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786746170000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:59376e30-4b2e-4ba7-8acb-1cf947065c18",
-   "company": "SpaceX",
-   "title": "Software Security New Grad - Starlink",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8696143002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786746165000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
