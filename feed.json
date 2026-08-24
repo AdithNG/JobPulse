@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-24T16:26:35.552Z",
+ "updatedAt": "2026-08-24T17:07:28.052Z",
  "jobs": [
+  {
+   "key": "simplify:ed410248-773f-43a3-a1dd-3157708a9b23",
+   "company": "Raymond James Financial",
+   "title": "Information Technology Accelerated Development Program - Software Developer Track",
+   "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-IT-Accelerated-Development-Program--ADP----Software-Developer-Track---St-Petersburg--FL_R-0012718",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787587571000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787591246755
+  },
   {
    "key": "simplify:40a73eb1-1878-4203-a116-82e2ad5c39c2",
    "company": "Motorola",
@@ -5771,25 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786680269000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:25bcc690-186a-4bee-90ed-45270fef596a",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Software Engineering/ML/Data Scientist Graduate - Intelligence Systems",
-   "url": "https://careers.jhuapl.edu/jobs/57747?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680267000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
