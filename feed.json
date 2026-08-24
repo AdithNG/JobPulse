@@ -1,6 +1,158 @@
 {
- "updatedAt": "2026-08-24T20:53:38.340Z",
+ "updatedAt": "2026-08-24T21:37:29.058Z",
  "jobs": [
+  {
+   "key": "simplify:3d9f6139-bedb-4b94-9e84-1b542b3250ac",
+   "company": "Atoms",
+   "title": "Robotics Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787604144000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:5a92381f-f858-4847-a147-1dc9ffc07f92",
+   "company": "Monolithic Power Systems",
+   "title": "AI Developer Intern",
+   "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787604144000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:cb063395-698b-47f5-9fe1-4b86a1b0dee5",
+   "company": "Springs Window Fashions",
+   "title": "Software Engineering Intern - Summer 2027",
+   "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Long Island City, Queens, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787604320000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:113452f5-8851-4266-8cfa-6e8ba357281e",
+   "company": "The Hartford",
+   "title": "Software Engineer Intern - Tech & Data Program",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603775000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:82866724-4ab4-4955-9baf-42d63ab200e3",
+   "company": "The Hartford",
+   "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603773000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:20879dcb-5369-4c8b-863e-5958207519d6",
+   "company": "The Hartford",
+   "title": "Data Engineer Intern - Tech & Data Program",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603769000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9",
+   "company": "Westinghouse Electric Company",
+   "title": "Computer Engineering / Software Engineering Intern",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors",
+   "locations": [
+    "Cranberry Township, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603674000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
+  {
+   "key": "simplify:dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9",
+   "company": "SteerBridge",
+   "title": "Junior Software Engineer",
+   "url": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply",
+   "locations": [
+    "Vienna, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787603245000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787607447838
+  },
   {
    "key": "simplify:5a24ffd7-21dd-4446-9322-8b43eab99a97",
    "company": "Freddie Mac",
@@ -5641,159 +5793,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:8ba05fef-254e-4641-948a-d574fb09cb09",
-   "company": "RTX",
-   "title": "Software Engineer 2",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-II--Onsite-_01860540",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786745505000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:a4ec4437-993b-4274-81e5-0ced8ce54e02",
-   "company": "Insperity",
-   "title": "Artificial Intelligence Engineer 1",
-   "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Artificial-Intelligence-Engineer-I_JR103100",
-   "locations": [
-    "Kingwood, Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786745405000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:a78650db-2f4a-457e-a704-6dcd67c12122",
-   "company": "Apple",
-   "title": "Applied Data Solutions Program - Software Engineering - Full-Time Opportunities",
-   "url": "https://jobs.apple.com/en-us/details/200677717",
-   "locations": [
-    "Austin, TX",
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786745165000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:e82e6804-4e24-4e45-9518-2d1264d42e0f",
-   "company": "Applied Materials",
-   "title": "Software Engineer 2",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II_R2619362",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786745360000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:d36d5275-80e2-4d06-8237-49fbe21dc096",
-   "company": "Dutch Bros",
-   "title": "Associate Endpoint Engineer",
-   "url": "https://dutchbros.wd1.myworkdayjobs.com/en-US/DBShops/job/1930-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Associate-Endpoint-Engineer_REQ-19765-1",
-   "locations": [
-    "Tempe, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786745165000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:5a476d63-cb12-4e98-8fd7-35895108a039",
-   "company": "CVS Health",
-   "title": "Associate Software Engineer",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749",
-   "locations": [
-    "Farmers Branch, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786728519000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786729096596
-  },
-  {
-   "key": "simplify:883f115b-b0ad-4eae-8a80-2bbf523964d4",
-   "company": "Micron Technology",
-   "title": "AI Innovation Research Engineer New Grad",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786728158000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786729096596
-  },
-  {
-   "key": "simplify:4326baaa-75b2-4470-b205-61aed39b27b9",
-   "company": "NVIDIA",
-   "title": "Software Engineer New Grad - Deep Learning Libraries",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-Libraries---New-College-Graduate-2026_JR2023252",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786718135000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786721610514
   }
  ]
 }
