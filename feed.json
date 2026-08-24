@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-24T15:50:12.747Z",
+ "updatedAt": "2026-08-24T16:26:35.552Z",
  "jobs": [
+  {
+   "key": "simplify:40a73eb1-1878-4203-a116-82e2ad5c39c2",
+   "company": "Motorola",
+   "title": "Android Application Developer Intern - Summer 2027",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787585554000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787588794518
+  },
   {
    "key": "simplify:4c8703e4-e538-4a55-ac8c-5d9b8e0eec12",
    "company": "BNY",
@@ -5771,25 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786680267000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:0316d9b0-4ab8-4162-b4db-6f01a603a369",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Intelligent Systems Development Engineer - Intelligent Combat Platforms Group",
-   "url": "https://careers.jhuapl.edu/jobs/58080?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680001000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
