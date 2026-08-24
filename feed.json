@@ -1,6 +1,239 @@
 {
- "updatedAt": "2026-08-24T20:13:32.428Z",
+ "updatedAt": "2026-08-24T20:53:38.340Z",
  "jobs": [
+  {
+   "key": "simplify:5a24ffd7-21dd-4446-9322-8b43eab99a97",
+   "company": "Freddie Mac",
+   "title": "Software Developer Intern - Single-Family",
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603070000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
+   "company": "Freddie Mac",
+   "title": "Multifamily Software Development Intern - Summer 2027",
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603063000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:b3e5cba2-cc35-4da5-88b4-0dcc462d5536",
+   "company": "Procter & Gamble",
+   "title": "Data & AI Engineering Intern",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787603061000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
+   "company": "Booz Allen",
+   "title": "Software Engineer Intern",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
+   "locations": [
+    "Seattle, WA",
+    "Bremerton, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602885000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:07fb9dda-5acf-40a0-8daa-9a4ef8e9d7a5",
+   "company": "DuCharme, McMillen & Associates",
+   "title": "Software Developer Intern",
+   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636",
+   "locations": [
+    "Indianapolis, IN",
+    "Fort Wayne, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787602864000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:0df59faa-c7e2-47a6-83d7-e8637cc3d960",
+   "company": "DuCharme, McMillen & Associates",
+   "title": "Software Development Intern - Spring 2027",
+   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634",
+   "locations": [
+    "Indianapolis, IN",
+    "Fort Wayne, IN"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602524000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:6886558d-1278-4dad-9f3b-598f5654f1b3",
+   "company": "Micron Technology",
+   "title": "Thin Films Equipment Engineering Intern - EDE",
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EDE-Thin-Films-Equipment-Engineering_JR108977",
+   "locations": [
+    "Boise, ID"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602491000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:b3868b75-e140-4592-ac8e-8055882cf959",
+   "company": "Target",
+   "title": "Associate Technical Developer - Footwear",
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Technical-Developer--Footwear_R0000450178",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:1cfdcea8-0b71-4260-84d5-4bd4ca6ed4e7",
+   "company": "BTI Solutions",
+   "title": "Korean Bilingual AMR Engineer",
+   "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Queen-Creek-AZ/Korean-Bilingual-AMR-Engineer_JR101992-1",
+   "locations": [
+    "Queen Creek, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602524000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:85d7cbe8-ca54-4877-83dd-d0a6cfcc4157",
+   "company": "Booz Allen",
+   "title": "Software Developer",
+   "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713",
+   "locations": [
+    "Honolulu, HI",
+    "Annapolis Junction, MD",
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602430000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:23dbfbf2-af33-49dd-8a47-5fb0ce2b0339",
+   "company": "BP",
+   "title": "Reservoir Engineer Graduate - Subsurface Technology",
+   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Texas---Houston/Graduate---Subsurface-Technology-Reservoir-Engineer---Houston--TX_RQ115139",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787602370000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
+  {
+   "key": "simplify:06551cb1-fb6b-43a8-b11d-24e81407e042",
+   "company": "L3Harris Technologies",
+   "title": "Associate Software Engineer - Ts/Sci",
+   "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-TSSCI-FL-32904/1410637500/?ats=successfactors",
+   "locations": [
+    "Melbourne, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787603245000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787604816803
+  },
   {
    "key": "simplify:ed410248-773f-43a3-a1dd-3157708a9b23",
    "company": "Raymond James Financial",
@@ -5561,240 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786721610514
-  },
-  {
-   "key": "simplify:a5d3459d-3d46-44dd-8e4e-693ca7320203",
-   "company": "TikTok",
-   "title": "Mobile Software Engineer Intern - Global E-Commerce",
-   "url": "https://lifeattiktok.com/search/7673663349758675205",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786698722000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786702357945
-  },
-  {
-   "key": "simplify:47a11f8e-c096-4cad-ba59-7807a675d2c7",
-   "company": "TikTok",
-   "title": "Software Engineer Graduate - Media Engine",
-   "url": "https://lifeattiktok.com/search/7673667938889009461",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786698722000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786702357945
-  },
-  {
-   "key": "simplify:4b22d036-3d08-41c6-8c11-48f020f7c545",
-   "company": "Berkshire Hathaway GUARD Insurance Companies",
-   "title": "Full Stack Developer",
-   "url": "https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Alpharetta, GA",
-    "Scottsdale, AZ",
-    "Parsippany-Troy Hills, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786690081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1786693582296
-  },
-  {
-   "key": "simplify:3cef95cf-9ef2-4c94-9300-e032d2b20baa",
-   "company": "MPR Associates",
-   "title": "Engineer Co-op - Multiple Teams",
-   "url": "https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Salt Lake City, UT",
-    "Alexandria, VA",
-    "Burlington, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786687163000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786693582296
-  },
-  {
-   "key": "simplify:8a7b2d5f-aeee-4b70-a908-f66aa938f067",
-   "company": "Urban Science",
-   "title": "Associate Software Engineer - Serviceview",
-   "url": "https://careers-urbanscience.icims.com/jobs/5181/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Detroit, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786687021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786693582296
-  },
-  {
-   "key": "simplify:94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6",
-   "company": "M.C. Dean",
-   "title": "Engineer 1 New Grad - Cis",
-   "url": "https://careers.mcdean.com/jobs/32119?icims=1",
-   "locations": [
-    "Richmond, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786687295000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786693582296
-  },
-  {
-   "key": "simplify:d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a",
-   "company": "M.C. Dean",
-   "title": "Engineer 1 - New College Graduate",
-   "url": "https://careers.mcdean.com/jobs/32350?icims=1",
-   "locations": [
-    "Tysons, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786687281000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786693582296
-  },
-  {
-   "key": "simplify:8b34936c-e41c-4125-be15-b324d6d312c5",
-   "company": "VTG",
-   "title": "Associate Software Engineer",
-   "url": "https://careers.vtgdefense.com/jobs/9316?icims=1",
-   "locations": [
-    "Manassas, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680721000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:df7ccad4-e94d-42b5-914a-8875029af2a8",
-   "company": "ITA International",
-   "title": "Junior Power Platform Developer",
-   "url": "https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680721000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:a665623e-060f-4a0d-8104-96f48b2dbbec",
-   "company": "CTG",
-   "title": "AI Vibe Coding Engineer",
-   "url": "https://careers.ctg.com/jobs/17347?icims=1",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:d82fea85-cee3-45bf-b464-5034a6e4b576",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Artificial Intelligence Engineer - Intelligent Autonomous Systems",
-   "url": "https://careers.jhuapl.edu/jobs/57438?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680269000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:8be181ac-18b4-4c90-8d3f-95f303749bf2",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Cyber Engineer - Capabilities Development",
-   "url": "https://careers.jhuapl.edu/jobs/57600?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680269000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
   }
  ]
 }
