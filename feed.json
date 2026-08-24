@@ -1,6 +1,179 @@
 {
- "updatedAt": "2026-08-24T14:59:02.352Z",
+ "updatedAt": "2026-08-24T15:50:12.747Z",
  "jobs": [
+  {
+   "key": "simplify:4c8703e4-e538-4a55-ac8c-5d9b8e0eec12",
+   "company": "BNY",
+   "title": "Software Engineer Intern - Engineering - Developer",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81251",
+   "locations": [
+    "Jersey City, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787581910000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:2f4c5900-989e-4b19-afdd-c5d973e9b552",
+   "company": "BNY",
+   "title": "Data Science Intern - Engineering",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238",
+   "locations": [
+    "Jersey City, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787581909000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:b0b20473-ab96-400f-adc1-7e807c7e6e46",
+   "company": "BNY",
+   "title": "Engineering Intern - Engineering - Developer",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787581834000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:a4356d69-cd90-421d-b258-83bd97864862",
+   "company": "Tesla",
+   "title": "Commercial Charging Product Management Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/272322",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787583125000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:7f70a436-4619-458c-818b-33252bb0a7c9",
+   "company": "Audax Group",
+   "title": "Data Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722779005",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787584460000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:2b1cb4ad-439e-499f-95a2-d30ea699fb24",
+   "company": "Audax Group",
+   "title": "AI Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787584460000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:c582d3c2-5152-41c6-b5d9-162452d0eabf",
+   "company": "TraceLink",
+   "title": "Software Engineer 1 - Engineering Services",
+   "url": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007",
+   "locations": [
+    "Wilmington, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787582628000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:b462559b-c917-4db0-a92b-9bd0c90f0f33",
+   "company": "Google",
+   "title": "Software Engineer Early Career - Multiple Teams",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310",
+   "locations": [
+    "Madison, WI",
+    "Seattle, WA",
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787582274000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
+  {
+   "key": "simplify:643187a2-24a5-4866-8cbb-5dd7214a4755",
+   "company": "Pennsylvania State University",
+   "title": "Operations Research Engineer Intern - Undersea Systems",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787581841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787586611936
+  },
   {
    "key": "simplify:660c8cf6-3acf-4729-a74a-18a72115dfa5",
    "company": "BNY",
@@ -5617,177 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786680001000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:8427086c-fb04-4125-a38f-4e9c9fa28dc7",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Systems Engineer/Analyst New Grad - Multi-Mission Planning Development",
-   "url": "https://careers.jhuapl.edu/jobs/58164?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:b7b9f7ca-b945-481f-bfc3-04355ed79955",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "AI/ML Data Scientist/Engineer New Grad - Analytic Capabilities",
-   "url": "https://careers.jhuapl.edu/jobs/57801?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680258000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:8dc89094-3aea-4bac-9d27-dfbd32fba20c",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
-   "url": "https://careers.jhuapl.edu/jobs/58971?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680235000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:588f0052-a7a7-484e-9118-a50d1e50c96a",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Applied Algorithms Engineer New Grad",
-   "url": "https://careers.jhuapl.edu/jobs/59108?icims=1",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680225000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:dd30d3b2-252b-4967-903e-8a1f0f4693e2",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Computer Engineer New Grad - Shipboard Systems Team",
-   "url": "https://careers.jhuapl.edu/jobs/59098?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680215000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
-   "company": "DecisionPoint Corporation",
-   "title": "Entry-level Software Developer",
-   "url": "https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680215000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:ad89813c-5160-4d6c-86e1-6c0180f9d408",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Navigation Systems Analyst/Engineer",
-   "url": "https://careers.jhuapl.edu/jobs/59337?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680196000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:33f03ee2-af54-4e9a-a8c3-1ca957e56cd0",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Engineer Graduate - Multi-Mission Planning Development",
-   "url": "https://careers.jhuapl.edu/jobs/58163?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680190000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786687307977
-  },
-  {
-   "key": "simplify:6d081b1c-739e-4f18-b112-ddf3c2381662",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Systems Engineer Graduate - Systems Engineer - Analyst",
-   "url": "https://careers.jhuapl.edu/jobs/59497?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786680185000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
