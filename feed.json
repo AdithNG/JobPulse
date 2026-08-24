@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-24T22:39:13.182Z",
+ "updatedAt": "2026-08-24T23:02:29.704Z",
  "jobs": [
+  {
+   "key": "simplify:7194b5a6-5ff2-4d30-8f27-55c669757b74",
+   "company": "Brunswick",
+   "title": "Computer Graphics Engineer Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325",
+   "locations": [
+    "Champaign, IL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787612305000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787612548744
+  },
+  {
+   "key": "simplify:23283fde-40f1-42d9-bf10-9b7362a6c553",
+   "company": "Brunswick",
+   "title": "Software Engineer Intern - Boating Intelligence Design Lab",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316",
+   "locations": [
+    "Champaign, IL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787612295000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787612548744
+  },
   {
    "key": "simplify:4b148d65-e3d6-491e-90e0-319f246cb786",
    "company": "Northrop Grumman",
@@ -5752,46 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786746165000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:0cdf7557-d561-4d9a-ae10-243323bde8c4",
-   "company": "Fidelity Investments",
-   "title": "Software Engineer - Leap Program",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870",
-   "locations": [
-    "Westlake, TX",
-    "Durham, NC",
-    "Merrimack, NH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786746164000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:1f50cd90-b872-416f-8df0-0c482c23b642",
-   "company": "SpaceX",
-   "title": "Software Security New Grad - Software Security",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8696156002",
-   "locations": [
-    "Bastrop, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786746164000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
