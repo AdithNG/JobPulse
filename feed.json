@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-08-24T13:09:03.939Z",
+ "updatedAt": "2026-08-24T14:03:17.088Z",
  "jobs": [
+  {
+   "key": "simplify:b798780f-4009-488b-ab0c-948146a7a0ca",
+   "company": "Crowdstrike",
+   "title": "Software Engineer - Sensor - SAO",
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874",
+   "locations": [
+    "Redmond, WA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787577686000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787580196053
+  },
   {
    "key": "simplify:0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
    "company": "Celonis",
@@ -5764,25 +5784,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786678507000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786681685547
-  },
-  {
-   "key": "simplify:7894345d-6677-46a0-b561-523670a2aa56",
-   "company": "Kyndryl",
-   "title": "Associate AI Engineer - Early Career Consult Program",
-   "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786678404000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
