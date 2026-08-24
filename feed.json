@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-23T23:56:43.185Z",
+ "updatedAt": "2026-08-24T01:51:08.889Z",
  "jobs": [
+  {
+   "key": "simplify:9144eb86-7f92-4d1f-8b3a-4bb8389b35d9",
+   "company": "REI Systems",
+   "title": "Associate Software Engineer - Salesforce",
+   "url": "https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787534730000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787536267577
+  },
   {
    "key": "simplify:51356e70-c399-48c1-8ed0-d892ed23c0e8",
    "company": "GlobalFoundries",
@@ -5771,25 +5790,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786674904336
-  },
-  {
-   "key": "simplify:8876789e-be2c-4a8f-9478-572e3f0085cb",
-   "company": "Crowe",
-   "title": "AI Engineering Intern",
-   "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660201000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786665204768
   }
  ]
 }
