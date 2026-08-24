@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-24T08:29:15.920Z",
+ "updatedAt": "2026-08-24T09:26:51.116Z",
  "jobs": [
+  {
+   "key": "simplify:0edcb9dd-c78a-48c2-aa24-8f3baabe6737",
+   "company": "Celonis",
+   "title": "Associate Value Engineer - AI-Driven Data Science & Analytics - Orbit Program",
+   "url": "https://job-boards.greenhouse.io/celonis/jobs/7781716003?gh_jid=7781716003",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787560585000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787563610303
+  },
   {
    "key": "simplify:9144eb86-7f92-4d1f-8b3a-4bb8389b35d9",
    "company": "REI Systems",
@@ -5769,27 +5788,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786681685547
-  },
-  {
-   "key": "simplify:5fde436c-570a-464b-9d9c-3a3e457151d0",
-   "company": "Amazon",
-   "title": "Software Development Engineer - Amazon Leo",
-   "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
-   "locations": [
-    "Redmond, WA",
-    "Northridge, LA",
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786619341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786674904336
   }
  ]
 }
