@@ -1,6 +1,181 @@
 {
- "updatedAt": "2026-08-25T21:09:29.916Z",
+ "updatedAt": "2026-08-25T21:44:52.732Z",
  "jobs": [
+  {
+   "key": "simplify:a767329d-41e2-4902-a15c-d28cb21ad5e1",
+   "company": "The Voleon Group",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6/application?embed=true",
+   "locations": [
+    "Berkeley, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787693041000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:a19e6481-79f8-4c12-b497-9d6b4566b45d",
+   "company": "Compeer Financial",
+   "title": "Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/compeerfinancial/jobs/5404850008",
+   "locations": [
+    "Sun Prairie, WI",
+    "Mankato, MN",
+    "Bloomington, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787692551000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:f8139c71-b2b0-4405-8d3c-7468022996e2",
+   "company": "Empirical Foods",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://careers-empiricalfoods.icims.com/jobs/4161/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Dakota Dunes, SD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787692141000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:a1ed0eeb-abf6-4f36-b1e0-18fd23fe6bee",
+   "company": "CSL",
+   "title": "Data Engineering Co-op",
+   "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Data-Engineering-Co-op_R-276316",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787692141000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:f68967a4-f885-4449-89e6-b22c60cedbf9",
+   "company": "Honeywell",
+   "title": "Information Systems Intern - IT - Cyber Engineer & Data Science",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
+   "locations": [
+    "United States"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787692120000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:22286d2e-ab8f-421b-9e32-02038a5bffa4",
+   "company": "The Voleon Group",
+   "title": "Software Engineer - University Hire 2027",
+   "url": "https://jobs.ashbyhq.com/voleon/d732fd5a-ac98-4985-9e60-d1d59f02a66c/application?embed=true",
+   "locations": [
+    "Berkeley, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787693041000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:c4e96033-c49b-49e3-88cd-fa2f2f99ade1",
+   "company": "True Anomaly",
+   "title": "Software Engineer 1 New Grad - Spacecraft Simulation",
+   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007",
+   "locations": [
+    "Long Beach, CA",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787692556000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:2b100e48-0d13-4ce4-84ba-7549d0d15f9b",
+   "company": "True Anomaly",
+   "title": "Data Science Software Engineer 1 New Grad - Data Science",
+   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007",
+   "locations": [
+    "Long Beach, CA",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787692550000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
+  {
+   "key": "simplify:a3fa760c-c8ec-4d27-8090-1ff8948cd4d0",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Software Engineering/ML/Data Scientist New Grad - Intelligence Systems",
+   "url": "https://careers.jhuapl.edu/jobs/59654?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787692395000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787694291862
+  },
   {
    "key": "simplify:45a90628-8af8-4195-9f94-89cb5bbfe029",
    "company": "Brunswick",
@@ -5632,182 +5807,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:c3f31a63-83b6-43df-8dbc-d32877c642f2",
-   "company": "Roblox",
-   "title": "Software Engineer - Foundation AI",
-   "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787006356000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:8887ad16-4066-4575-b625-4ceb47a7ccc1",
-   "company": "Talroo",
-   "title": "Associate Software Engineer",
-   "url": "https://www.talroo.com/careers/apply/?gh_jid=1003689",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005981000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:3ea7a95a-ef27-43ae-b461-3d70499a4f58",
-   "company": "MSA Safety",
-   "title": "AI Engineer",
-   "url": "https://careers.msasafety.com/jobs/9830?icims=1",
-   "locations": [
-    "Cranberry Township, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005802000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:408e1b6b-fbb4-4a54-8506-e4ea50788770",
-   "company": "CTG",
-   "title": "Vibe Coding Engineer - Generative AI",
-   "url": "https://careers.ctg.com/jobs/17373?icims=1",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005937000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:c76e85e5-07db-4749-9320-811faa5f5f5f",
-   "company": "Daikin Applied",
-   "title": "Application Software Developer 1",
-   "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698",
-   "locations": [
-    "Plymouth, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005981000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:9d9a6729-76a5-4fb4-b71f-ea04e053c877",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - Global Payment",
-   "url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787004722000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "payment"
-   ],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:63a29ab9-6ce2-4acf-982b-ed23f2035ab4",
-   "company": "American Express",
-   "title": "AI Engineer Intern - Enterprise Technology Services",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787005198000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:f585bde5-311b-4e38-b814-787eb3d19819",
-   "company": "Hilton Worldwide",
-   "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
-   "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
-   "locations": [
-    "Dallas, TX",
-    "McLean, VA",
-    "Memphis, TN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787004922000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:6f000f35-4e43-4364-980a-4ac4b0c04d52",
-   "company": "PNC Financial Services",
-   "title": "Software Engineer Associate - Business Intelligence Enablement",
-   "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Software-Engineer-Associate---Business-Intelligence-Enablement_R232352-1",
-   "locations": [
-    "Pittsburgh, PA",
-    "Strongsville, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005749000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
   }
  ]
 }
