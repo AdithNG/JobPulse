@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-08-25T15:59:19.747Z",
+ "updatedAt": "2026-08-25T16:49:45.482Z",
  "jobs": [
+  {
+   "key": "simplify:21a87bd3-3069-4bbe-9641-a5c2f04cdadb",
+   "company": "Foundation Health",
+   "title": "Software Engineer",
+   "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true",
+   "locations": [
+    "Orlando, FL",
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787673601000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787676584794
+  },
   {
    "key": "simplify:501a5d9d-54bb-4a8b-a3a5-2c6efd18d963",
    "company": "Fidelity Investments",
@@ -5779,25 +5799,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786924263043
-  },
-  {
-   "key": "simplify:2ab3ea47-41c1-46b3-8932-fedbbb55e1cd",
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer - Entry Level",
-   "url": "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Scottsdale, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786918370000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786919973726
   }
  ]
 }
