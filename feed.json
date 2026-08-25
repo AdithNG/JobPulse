@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-08-25T02:46:57.262Z",
+ "updatedAt": "2026-08-25T03:36:24.271Z",
  "jobs": [
+  {
+   "key": "simplify:7d27dfe1-c616-4155-8112-ca1cce62b768",
+   "company": "BP",
+   "title": "Corporate Asset Development Engineer Intern",
+   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787627045000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787628983442
+  },
+  {
+   "key": "simplify:2029943e-bdea-40e0-af4d-e7e07e36b06a",
+   "company": "KLA",
+   "title": "AI Engineer - Computer Vision/Signal Processing",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
+   "locations": [
+    "Milpitas, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787627543000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787628983442
+  },
+  {
+   "key": "simplify:e5377e60-d28f-4c0d-bc33-43bac13623e1",
+   "company": "Emory Healthcare",
+   "title": "Associate AI Engineer",
+   "url": "https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787627357000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787628983442
+  },
+  {
+   "key": "simplify:5cf6bc0c-fa07-4cc0-8813-73901c4c566b",
+   "company": "Caris",
+   "title": "Associate Software Engineer - Clinical Software Products",
+   "url": "https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Associate-Software-Engineer_JR105464",
+   "locations": [
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787626833000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787628983442
+  },
   {
    "key": "simplify:39309c17-e806-4ea4-ba0d-0d69cfaca27f",
    "company": "Rivet Industries",
@@ -5708,83 +5784,6 @@
    "sponsorship": "unknown",
    "posted": 1786754703000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:ee8a3af2-214e-482e-9a90-3dd327c6bdf1",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - Global Traffic Architecture",
-   "url": "https://jobs.bytedance.com/en/position/7672557061679483189/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786754682000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:c03d8dac-ac38-4a3b-a18e-a3d69d6b8232",
-   "company": "Crowe",
-   "title": "Data Analytics Developer Intern - Consulting Practice",
-   "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754521000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:51b1f750-bdc8-4369-865b-5edb226a9d44",
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952",
-   "locations": [
-    "West Valley City, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786757221000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:8c04a4bb-6783-42f9-a0bb-84bb48bd65c4",
-   "company": "Lennar",
-   "title": "Software Engineer 1",
-   "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608",
-   "locations": [
-    "Miami, FL",
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786660873000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
