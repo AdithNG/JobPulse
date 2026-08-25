@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-25T16:49:45.482Z",
+ "updatedAt": "2026-08-25T17:23:13.521Z",
  "jobs": [
+  {
+   "key": "simplify:6642fd98-f102-48bc-b226-3acb5b8c3988",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787675637000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787678592404
+  },
   {
    "key": "simplify:21a87bd3-3069-4bbe-9641-a5c2f04cdadb",
    "company": "Foundation Health",
@@ -5780,25 +5799,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786974920663
-  },
-  {
-   "key": "simplify:632238a5-1d61-4694-a8d0-c8d596b89c37",
-   "company": "Boom Supersonic",
-   "title": "Software Engineer - Exceptional Talent",
-   "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc",
-   "locations": [
-    "Centennial, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786922529000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786924263043
   }
  ]
 }
