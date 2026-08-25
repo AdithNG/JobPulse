@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-25T18:52:37.195Z",
+ "updatedAt": "2026-08-25T19:38:51.295Z",
  "jobs": [
+  {
+   "key": "simplify:45a90628-8af8-4195-9f94-89cb5bbfe029",
+   "company": "Brunswick",
+   "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+   "locations": [
+    "Fond du Lac, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787683378000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787686730384
+  },
+  {
+   "key": "simplify:99671fe3-39c9-49be-8363-def166f2b883",
+   "company": "Nokia",
+   "title": "Software Engineer Co-op - Deepfield",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787682637000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787686730384
+  },
   {
    "key": "simplify:27ec0955-4e9f-417f-b354-3581a4623c59",
    "company": "Verkada",
@@ -5765,44 +5803,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1787005749000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:e9b531d5-7ba1-4cb4-9503-7b13a773f87d",
-   "company": "Auto-Owners Insurance",
-   "title": "Business Intelligence Developer",
-   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_13426-1",
-   "locations": [
-    "Lansing, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005083000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:928375ff-0f40-4367-9048-64370c630dbf",
-   "company": "X Development",
-   "title": "Machine Learning Engineer - Tapestry",
-   "url": "https://x.company/careers/8722582002?gh_jid=8722582002",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787004902000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
