@@ -1,6 +1,134 @@
 {
- "updatedAt": "2026-08-25T06:20:45.215Z",
+ "updatedAt": "2026-08-25T07:23:31.889Z",
  "jobs": [
+  {
+   "key": "simplify:c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
+   "company": "Meridian Partners",
+   "title": "Cloud Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787638888000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1787642611095
+  },
+  {
+   "key": "simplify:7a0e26e4-7787-42a2-8128-e496212ae724",
+   "company": "Meridian Partners",
+   "title": "Full Stack Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003",
+   "locations": [
+    "Cambridge, MA",
+    "Seattle, WA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787638888000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1787642611095
+  },
+  {
+   "key": "simplify:eeda0ac4-569c-4d27-927d-56e668f95ffa",
+   "company": "Meridian Partners",
+   "title": "Python Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003",
+   "locations": [
+    "Cambridge, MA",
+    "Seattle, WA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787638888000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "python"
+   ],
+   "firstSeen": 1787642611095
+  },
+  {
+   "key": "simplify:d7b507c0-bb45-40b2-97e2-575198d7b5c7",
+   "company": "Meridian Partners",
+   "title": "Front End Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787638972000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787642611095
+  },
+  {
+   "key": "simplify:bc77c289-ab13-4062-adf6-da8e0aa72034",
+   "company": "Meridian Partners",
+   "title": "Machine Learning Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
+   "locations": [
+    "Cambridge, MA",
+    "Seattle, WA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787638888000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787642611095
+  },
+  {
+   "key": "simplify:90639373-d769-48b3-8ac2-94d63829c638",
+   "company": "Wex",
+   "title": "Artificial Intelligence Intern - AI/ML/NLP Engineer",
+   "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Dallas, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787640076000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787642611095
+  },
   {
    "key": "simplify:7d27dfe1-c616-4155-8112-ca1cce62b768",
    "company": "BP",
@@ -5667,127 +5795,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786770749656
-  },
-  {
-   "key": "simplify:43a5374e-0e70-4dc9-82b0-687b54e8c5da",
-   "company": "Goldman Sachs",
-   "title": "Engineering New Analyst - Engineering",
-   "url": "https://higher.gs.com/roles/171570?type=students",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786768201000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786769178384
-  },
-  {
-   "key": "simplify:a84b5ca0-5e89-4893-97cb-4be5aead281c",
-   "company": "Goldman Sachs",
-   "title": "Engineering New Analyst",
-   "url": "https://higher.gs.com/roles/171568?type=students",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786768199000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786769178384
-  },
-  {
-   "key": "simplify:f271bfa3-e723-416b-aad4-0a6cf6f4f19e",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - Global Payment Infra and SRE",
-   "url": "https://jobs.bytedance.com/en/position/7668315137242351925/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786754521000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "payment"
-   ],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:80991915-38ed-48d7-b67d-20f3f7a7b84c",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - Traffic Infrastructure",
-   "url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786754521000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:24b848e7-18bc-4eab-b684-9d352141cbdd",
-   "company": "Wolverine Trading",
-   "title": "Entry Level C++ Software Engineer",
-   "url": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754735000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:7d3756e8-9e17-44bb-b29f-751947fabf50",
-   "company": "Interdigital",
-   "title": "Wireless Engineering Intern - 6G Wireless Systems",
-   "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/PhD-Intern--6G-Wireless-Systems---Sept-2026_REQ26-1135-1",
-   "locations": [
-    "Melville, NY",
-    "Conshohocken, PA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754703000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
   }
  ]
 }
