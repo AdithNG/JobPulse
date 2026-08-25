@@ -1,6 +1,206 @@
 {
- "updatedAt": "2026-08-25T17:59:36.777Z",
+ "updatedAt": "2026-08-25T18:52:37.195Z",
  "jobs": [
+  {
+   "key": "simplify:27ec0955-4e9f-417f-b354-3581a4623c59",
+   "company": "Verkada",
+   "title": "Backend Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787681791000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:43726f05-d685-4bcb-bd0f-b3d05ccc91e1",
+   "company": "Apex Fintech Solutions",
+   "title": "Technology Fintern - Software Engineering - Product Management",
+   "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/XMLNAME-2026-AFS-Technology-Internship-Program_JR103660",
+   "locations": [
+    "Austin, TX",
+    "Dallas, TX",
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787681719000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 19,
+   "matchedWords": [
+    "fintech"
+   ],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:9d74aeea-fa25-46c6-af6f-3d20a6065b64",
+   "company": "Apex Fintech Solutions",
+   "title": "Software Engineer 1 - Shark",
+   "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+   "locations": [
+    "Austin, TX",
+    "Dallas, TX",
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787681717000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 19,
+   "matchedWords": [
+    "fintech"
+   ],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:5dc175a4-02e4-4a5c-a8b7-054139db1ef9",
+   "company": "Verkada",
+   "title": "Mobile Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787681795000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:20898b37-1e46-4759-b318-1a51ae4d1200",
+   "company": "Verkada",
+   "title": "Frontend Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787681796000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:d16387c0-00df-452f-95bb-dd8aab25a372",
+   "company": "Verkada",
+   "title": "Security Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787681797000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:a79f265c-746e-46d7-b61c-a46e35dde12a",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Software-Engineering-Intern--Summer-2027-_01868485",
+   "locations": [
+    "Jupiter, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787681785000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:38c27a23-7876-45aa-b3c9-dc90974d6625",
+   "company": "General Dynamics Mission Systems",
+   "title": "Entry Level Software Systems Engineer - Surface Ship Systems Programs",
+   "url": "https://careers-gdms.icims.com/jobs/74521/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Groton, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787682422000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:5ea2c9a9-5fc0-47a9-9ae2-f5f63daa4272",
+   "company": "The Walt Disney Company",
+   "title": "Associate Software Engineer",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Orlando-FL-USA/Associate-Software-Engineer_10157526-1",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787682061000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
+  {
+   "key": "simplify:9148ea6a-f591-495f-9a97-2fd5c7ac2aea",
+   "company": "Zebra Technologies",
+   "title": "Software Engineer 1",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer-I_JR102952",
+   "locations": [
+    "Lincolnshire, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787682114000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787683955938
+  },
   {
    "key": "simplify:6642fd98-f102-48bc-b226-3acb5b8c3988",
    "company": "Northrop Grumman",
@@ -5608,197 +5808,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:8c7fce06-656d-49d9-bf64-703e487b5cac",
-   "company": "LMI",
-   "title": "Junior Android Engineer - RFID",
-   "url": "https://careers-lmi.icims.com/jobs/14418/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005096000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:f43a357d-9678-4c33-9100-fa8921cd3682",
-   "company": "Pennsylvania State University",
-   "title": "Artificial Intelligence / Machine Learning Verification and Validation Engineer - Information Science Division - All-Domain Analytics and Signatures Office",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Artificial-Intelligence---Machine-Learning-Verification-and-Validation-Engineer_REQ_0000080734-1",
-   "locations": [
-    "State College, PA",
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005110000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787006569653
-  },
-  {
-   "key": "simplify:47fe2157-ddd3-4233-87d7-cf96058a286d",
-   "company": "Datadog",
-   "title": "Software Engineer Intern - Observability and Security Platform",
-   "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786977431000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786980920947
-  },
-  {
-   "key": "simplify:367919b2-9f9f-4104-a7e7-811ae0b98c01",
-   "company": "W.W. Grainger",
-   "title": "Software Engineer Intern - Grainger Technology Group",
-   "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786973453000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786977414605
-  },
-  {
-   "key": "simplify:154ae79b-60c6-40a6-9be2-a48637bb96ff",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - E-Commerce Governance",
-   "url": "https://lifeattiktok.com/search/7674029136531015941",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786973042000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786977414605
-  },
-  {
-   "key": "simplify:e95cee0e-a2ed-44d1-9017-9befd82e1561",
-   "company": "TikTok",
-   "title": "Data Engineer Intern - Data Platform Global Live",
-   "url": "https://lifeattiktok.com/search/7674032146438162693",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786973042000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786977414605
-  },
-  {
-   "key": "simplify:9831795d-d949-4a7a-87dd-f11aad5dc0c8",
-   "company": "American Express",
-   "title": "Software Engineer Intern - Enterprise Technology Services",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786972386000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786977414605
-  },
-  {
-   "key": "simplify:333d668e-a703-465a-adfe-71773ba80e9b",
-   "company": "General Dynamics Information Technology",
-   "title": "Data Quality Monitoring Engineer",
-   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Data-Quality-Monitoring-Engineer_RQ226071-2",
-   "locations": [
-    "Offutt AFB, NE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786974841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786977414605
-  },
-  {
-   "key": "simplify:a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6",
-   "company": "ASSYST",
-   "title": "Junior .NET Developer",
-   "url": "https://job-boards.greenhouse.io/assystinc/jobs/4371586009",
-   "locations": [
-    "Sterling, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786972861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786974920663
-  },
-  {
-   "key": "simplify:4a623f52-ac3e-4809-bbff-79d93ef3ec63",
-   "company": "L3Harris Technologies",
-   "title": "Associate Software Engineer",
-   "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200/?ats=successfactors",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786972742000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786974920663
   }
  ]
 }
