@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-25T21:44:52.732Z",
+ "updatedAt": "2026-08-25T22:11:11.632Z",
  "jobs": [
+  {
+   "key": "simplify:896a2ce6-0e75-40f5-9b7e-811079dfe6bb",
+   "company": "PayIt",
+   "title": "Associate Software Engineer",
+   "url": "https://payitgov.com/careers-list?gh_jid=7975853003",
+   "locations": [
+    "Kansas City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787693401000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787695871104
+  },
   {
    "key": "simplify:a767329d-41e2-4902-a15c-d28cb21ad5e1",
    "company": "The Voleon Group",
@@ -5783,25 +5802,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1787006825000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:dd96b598-e670-49ed-8956-56e93563bef3",
-   "company": "Hewlett Packard",
-   "title": "Software Systems Engineer - Advanced Compute Solutions - Desktop Workstations",
-   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Systems-Engineer_3166471",
-   "locations": [
-    "Fort Collins, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787006701000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
