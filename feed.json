@@ -1,6 +1,26 @@
 {
- "updatedAt": "2026-08-25T15:04:50.480Z",
+ "updatedAt": "2026-08-25T15:59:19.747Z",
  "jobs": [
+  {
+   "key": "simplify:501a5d9d-54bb-4a8b-a3a5-2c6efd18d963",
+   "company": "Fidelity Investments",
+   "title": "Software Engineer New Grad - LEAP",
+   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380",
+   "locations": [
+    "Westlake, TX",
+    "Merrimack, NH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787671116000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787673558785
+  },
   {
    "key": "simplify:4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
    "company": "Northrop Grumman",
@@ -5778,25 +5798,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786919973726
-  },
-  {
-   "key": "simplify:2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06",
-   "company": "Parsons",
-   "title": "Software Engineer TS",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1",
-   "locations": [
-    "Centreville, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1784608383000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786912607127
   }
  ]
 }
