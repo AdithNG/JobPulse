@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-25T09:01:49.186Z",
+ "updatedAt": "2026-08-25T09:47:52.618Z",
  "jobs": [
+  {
+   "key": "simplify:f185aabd-bbe9-4554-8a62-fe6dfe0deff2",
+   "company": "NewsBreak",
+   "title": "Applied AI Engineer - Advertising Agents",
+   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4690262006",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787649329000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787651271403
+  },
   {
    "key": "simplify:c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
    "company": "Meridian Partners",
@@ -5771,25 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1786768435000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786770749656
-  },
-  {
-   "key": "simplify:5e2b041d-3b5b-414f-8491-242be06bf425",
-   "company": "Applied Intuition",
-   "title": "Scenario Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/applied/f382de9d-d5e4-4dc8-85a0-0bae7125f8cf/application?embed=true",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786768264000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
