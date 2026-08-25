@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-25T14:06:11.007Z",
+ "updatedAt": "2026-08-25T15:04:50.480Z",
  "jobs": [
+  {
+   "key": "simplify:4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787669346000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787670289552
+  },
   {
    "key": "simplify:a554688a-fa61-4d32-8d02-a22d0e78ac6a",
    "company": "AMD",
@@ -5778,25 +5797,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786912607127
-  },
-  {
-   "key": "simplify:3a2e2c86-3612-46c8-891d-50a65e292f46",
-   "company": "Photon",
-   "title": "Software Engineering Intern - AI",
-   "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786843304000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786845112510
   }
  ]
 }
