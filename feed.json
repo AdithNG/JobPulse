@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-08-24T23:57:52.414Z",
+ "updatedAt": "2026-08-25T01:46:13.348Z",
  "jobs": [
+  {
+   "key": "simplify:39309c17-e806-4ea4-ba0d-0d69cfaca27f",
+   "company": "Rivet Industries",
+   "title": "Software Engineer Intern - XR Team - Fall 2026",
+   "url": "https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787617637000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
+  {
+   "key": "simplify:31f44b7e-6d0d-463a-802d-ce894a00130f",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer - E-Commerce Knowledge Graph",
+   "url": "https://lifeattiktok.com/search/7676647728043280645",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787614794000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
+  {
+   "key": "simplify:4e9fe751-4379-45cd-97bd-7083fd5e58d1",
+   "company": "Infleqtion",
+   "title": "Quantum Software Engineer - Compiler & Control Systems",
+   "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787616918000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
+  {
+   "key": "simplify:eac46790-0057-4518-8e60-be17fee9950f",
+   "company": "Infleqtion",
+   "title": "Quantum Software Engineer - Compiler",
+   "url": "https://apply.workable.com/coldquanta/j/1B97312CA0/apply",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787616918000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
+  {
+   "key": "simplify:9d9c46e1-9387-4d06-841a-4497c4901c06",
+   "company": "Daikin Applied",
+   "title": "IT Applications Developer",
+   "url": "https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/IT-Applications-Developer---Contract_R003852",
+   "locations": [
+    "Plymouth, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787619077000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
+  {
+   "key": "simplify:9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
+   "company": "Amazon",
+   "title": "Software Development Engineer - Amazon Leo",
+   "url": "https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+   "locations": [
+    "Redmond, WA",
+    "Northridge, LA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787617884000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
+  {
+   "key": "simplify:f6ea312c-a27d-4faa-9ea7-e433fa700f5a",
+   "company": "STCU",
+   "title": "Software Developer 1",
+   "url": "https://jobs.smartrecruiters.com/STCU1/744000145379939",
+   "locations": [
+    "Liberty Lake, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787620297000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787622372642
+  },
   {
    "key": "simplify:9a501b59-f29b-4a7d-b8ef-eb5221735c94",
    "company": "Northrop Grumman",
@@ -5655,143 +5789,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:d10e8010-8a1d-4cbb-83a1-5bade54928c6",
-   "company": "Vanasse Hangen Brustlin",
-   "title": "Software Evaluation & Enablement Analyst",
-   "url": "https://careers-vhb.icims.com/jobs/6233/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Augusta, ME",
-    "Watertown, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:ee50e885-5709-43c5-adf1-bd280a6e8786",
-   "company": "Applied Intuition",
-   "title": "Software Engineer New Grad - December 2026",
-   "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true",
-   "locations": [
-    "Ann Arbor, MI",
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754736000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:e5f41de9-f6f5-454c-b80a-c5df9b9e417a",
-   "company": "Applied Intuition",
-   "title": "Research Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39/application?embed=true",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754733000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:2ddddf54-3c3b-4af6-b8c2-5b755d594dc1",
-   "company": "Capital Health",
-   "title": "Product Engineer 1",
-   "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768",
-   "locations": [
-    "Pennington, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:d3b3c1a5-ba51-4da1-a781-74429f195204",
-   "company": "Booz Allen",
-   "title": "Data Engineer",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0245613",
-   "locations": [
-    "Arlington County, Arlington, VA",
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786754521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786758296400
-  },
-  {
-   "key": "simplify:990a1adb-e945-417c-b734-fb15286f993b",
-   "company": "TransMarket Group",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786746436000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
-  },
-  {
-   "key": "simplify:3bbe3661-8a0b-43c9-a4f7-5c1b984cc3f9",
-   "company": "Analytical Mechanics Associates",
-   "title": "Computer Science/Engineering Intern - Computer Vision Applications",
-   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731",
-   "locations": [
-    "Washington, DC",
-    "Hampton, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786745705000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786747263388
   }
  ]
 }
