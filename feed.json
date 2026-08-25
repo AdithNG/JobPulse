@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-08-25T10:55:44.629Z",
+ "updatedAt": "2026-08-25T11:36:07.423Z",
  "jobs": [
+  {
+   "key": "simplify:a554688a-fa61-4d32-8d02-a22d0e78ac6a",
+   "company": "AMD",
+   "title": "Research Engineering Intern/Co-op - AMD Research",
+   "url": "https://careers.amd.com/jobs/90926?icims=1",
+   "locations": [
+    "Secaucus, NJ",
+    "Austin, TX",
+    "Longmont, CO"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787654003000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787657766738
+  },
   {
    "key": "simplify:2fa15c29-968d-4596-a04f-18ae7cf76c55",
    "company": "Cerebras",
@@ -5776,25 +5797,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786845112510
-  },
-  {
-   "key": "simplify:7e21b76f-fae1-4564-9f64-456d019b46b2",
-   "company": "Replit",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true",
-   "locations": [
-    "Foster City, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1786833603000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786835262107
   }
  ]
 }
