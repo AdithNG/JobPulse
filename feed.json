@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-25T10:17:41.701Z",
+ "updatedAt": "2026-08-25T10:55:44.629Z",
  "jobs": [
+  {
+   "key": "simplify:2fa15c29-968d-4596-a04f-18ae7cf76c55",
+   "company": "Cerebras",
+   "title": "Software Integration Engineer - AI Inference Core",
+   "url": "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787653452000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787655343666
+  },
   {
    "key": "simplify:f185aabd-bbe9-4554-8a62-fe6dfe0deff2",
    "company": "NewsBreak",
@@ -5776,25 +5795,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1786835262107
-  },
-  {
-   "key": "simplify:6dda02da-3ec3-49ed-a963-fa6db627f830",
-   "company": "LiteLLM",
-   "title": "Forward Deployed Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1786768435000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1786770749656
   }
  ]
 }
