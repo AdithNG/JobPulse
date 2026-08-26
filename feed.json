@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-08-25T23:43:56.798Z",
+ "updatedAt": "2026-08-26T00:26:11.529Z",
  "jobs": [
+  {
+   "key": "simplify:a1eb1e2b-bd12-4ee2-b019-34e40010a803",
+   "company": "DTCC",
+   "title": "Application Developer Intern",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214459",
+   "locations": [
+    "Tampa, FL",
+    "Dallas, TX",
+    "Jersey City, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787702027000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787703970621
+  },
+  {
+   "key": "simplify:5f5acc02-520f-43a0-ab78-35753db6131a",
+   "company": "The Hartford",
+   "title": "Software Engineer Intern - Technology & Data",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787701488000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787703970621
+  },
+  {
+   "key": "simplify:aa3e56c3-8607-42dc-a43b-9fe91f4b275d",
+   "company": "DTCC",
+   "title": "Application Developer Analyst - 2027 EDGE Program",
+   "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463",
+   "locations": [
+    "Tampa, FL",
+    "Dallas, TX",
+    "Jersey City, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787701865000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787703970621
+  },
+  {
+   "key": "simplify:59a9da96-9441-4bf5-adea-b1f68156600d",
+   "company": "Lawrence Livermore National Laboratory (LLNL)",
+   "title": "Academic Graduate Appointee - Data Acquisition Software Development",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990014839366",
+   "locations": [
+    "Livermore, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787701681000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787703970621
+  },
+  {
+   "key": "simplify:80ebf08c-0c7a-4d4e-972a-91adbc6e5509",
+   "company": "Arcfield",
+   "title": "Model Based Systems Engineer 1",
+   "url": "https://careers.arcfield.com/jobs/8577?icims=1",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787701462000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787703970621
+  },
   {
    "key": "simplify:896a2ce6-0e75-40f5-9b7e-811079dfe6bb",
    "company": "PayIt",
@@ -5708,101 +5807,6 @@
    "sponsorship": "unknown",
    "posted": 1787006572000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:69582230-5dee-4f0d-88be-bcd518c6edd5",
-   "company": "American Fidelity",
-   "title": "Software Mobile Intern",
-   "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Mobile-Intern--OKC-Local-Only-_JR1021",
-   "locations": [
-    "Oklahoma City, OK"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787006356000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
-   "company": "Intel",
-   "title": "Software Development Intern",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Software-Development-Graduate-Intern_JR0285451-1",
-   "locations": [
-    "Folsom, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787005988000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:d1bec560-c941-4d65-aac4-42cacb52b2c9",
-   "company": "Procter & Gamble",
-   "title": "Data Engineer - North America Fabric Care",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Engineer---North-America-Fabric-Care_R000157463",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787006881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:797f1af0-0374-4a70-81d9-01c2f893fae0",
-   "company": "CACI",
-   "title": "C# Software Engineer - Engineering",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Everett-WA-US/C--Software-Engineer_330694",
-   "locations": [
-    "Everett, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787006701000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787008131712
-  },
-  {
-   "key": "simplify:ab36ebe7-5b0f-4e2f-91a1-201b82f21bef",
-   "company": "Watts Water",
-   "title": "Engineering Services Support 1",
-   "url": "https://wattswater.wd5.myworkdayjobs.com/external/job/Franklin-NH/Engineering-Services-Support-I_10017309",
-   "locations": [
-    "Franklin, NH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787006825000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
