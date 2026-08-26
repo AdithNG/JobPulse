@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-26T16:03:08.340Z",
+ "updatedAt": "2026-08-26T16:58:40.226Z",
  "jobs": [
+  {
+   "key": "simplify:ebce0ffb-1748-4999-b952-a7dbc9f36aae",
+   "company": "Viavi Solutions",
+   "title": "Development Engineer Intern - Software Engineering/AI Track",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1",
+   "locations": [
+    "Morrisville, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787759312000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787763519208
+  },
+  {
+   "key": "simplify:bf9c69e7-fff4-453c-ba04-3b0a7f1bc733",
+   "company": "Viavi Solutions",
+   "title": "Development Engineer - Software Engineering/AI Track",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787759314000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787763519208
+  },
   {
    "key": "simplify:ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
    "company": "Keenfinity",
@@ -5770,44 +5808,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1787034844000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787039301489
-  },
-  {
-   "key": "simplify:8121dc2e-ce22-45e4-a3d0-1e4b4abc83ee",
-   "company": "The Walt Disney Company",
-   "title": "Software Engineer 1 - Observability & Insights",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423",
-   "locations": [
-    "Glendale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787034836000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787039301489
-  },
-  {
-   "key": "simplify:f296a9f4-0dae-41f4-b15d-ae910f8c8f16",
-   "company": "Vanguard",
-   "title": "Application Engineer - 2027 Start Date",
-   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787034833000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
