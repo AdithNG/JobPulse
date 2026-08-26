@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-08-26T14:28:31.534Z",
+ "updatedAt": "2026-08-26T16:03:08.340Z",
  "jobs": [
+  {
+   "key": "simplify:ac0fcf1b-7b15-45db-88c7-26e72ddf2047",
+   "company": "Keenfinity",
+   "title": "Associate DevOps Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019",
+   "locations": [
+    "Fairport, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787753603000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787760187363
+  },
+  {
+   "key": "simplify:7eb1feaf-2674-4186-8e2b-9988a4887949",
+   "company": "NewRocket",
+   "title": "AI Engineer Graduate Level",
+   "url": "https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787757682000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787760187363
+  },
+  {
+   "key": "simplify:6a8aa902-c0c5-40aa-9ce5-de89012320d0",
+   "company": "NewRocket",
+   "title": "AI Engineer - Anthropic",
+   "url": "https://www.newrocket.com/careers/job?gh_jid=6163518004&gh_jid=6163518004",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787757689000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787760187363
+  },
   {
    "key": "simplify:c874f359-c317-4bb9-8bf9-f4c699848017",
    "company": "Repsol",
@@ -5756,63 +5813,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787039301489
-  },
-  {
-   "key": "simplify:034062ca-af46-4066-a960-533d027a734f",
-   "company": "Vanguard",
-   "title": "Entry Level Application Engineer",
-   "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1",
-   "locations": [
-    "Malvern, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787034781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787039301489
-  },
-  {
-   "key": "simplify:a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
-   "company": "RTX",
-   "title": "Conversion Systems Engineer 1 Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787034165000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787036412746
-  },
-  {
-   "key": "simplify:2a67cef3-5836-4452-832c-ec5b39cff69b",
-   "company": "RTX",
-   "title": "Software Engineer Intern - Intelligent Software & Systems",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787034102000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787036412746
   }
  ]
 }
