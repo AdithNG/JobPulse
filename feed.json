@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-08-26T13:40:54.067Z",
+ "updatedAt": "2026-08-26T14:28:31.534Z",
  "jobs": [
+  {
+   "key": "simplify:c874f359-c317-4bb9-8bf9-f4c699848017",
+   "company": "Repsol",
+   "title": "Reservoir Engineer Intern",
+   "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Reservoir-Engineer-Intern_83636-1",
+   "locations": [
+    "The Woodlands, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787752261000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787754510184
+  },
+  {
+   "key": "simplify:57715dab-c267-4352-aa7c-5aca9054a182",
+   "company": "Cummins",
+   "title": "Product Engineer - Product Engineering",
+   "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435550",
+   "locations": [
+    "Rocky Mount, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787752081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787754510184
+  },
   {
    "key": "simplify:76570b32-69dc-4557-ad0d-dfd2480f1605",
    "company": "TikTok",
@@ -5770,44 +5808,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1787034102000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787036412746
-  },
-  {
-   "key": "simplify:f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
-   "company": "RTX",
-   "title": "Software Engineering Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787034102000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787036412746
-  },
-  {
-   "key": "simplify:df3b11d6-07b6-49f9-a445-97f32c89967e",
-   "company": "RTX",
-   "title": "Software Engineer Intern - Spring 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787034111000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
