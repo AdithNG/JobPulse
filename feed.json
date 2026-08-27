@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-08-27T03:25:42.809Z",
+ "updatedAt": "2026-08-27T14:33:35.016Z",
  "jobs": [
+  {
+   "key": "simplify:43183c23-0028-4797-b44b-f488c5f84b2b",
+   "company": "Procter & Gamble",
+   "title": "Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Scientist-Engineer-Intern-Summer-2027---Freshmen--Sophomores--and-Juniors_R000157846",
+   "locations": [
+    "St Bernard, OH",
+    "West Chester Township, OH",
+    "Mason, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787836549000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787841213759
+  },
+  {
+   "key": "simplify:22c1325e-0afd-47f3-910f-bf0e15ff82ce",
+   "company": "Navy Federal",
+   "title": "Associate Application Engineer",
+   "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32116",
+   "locations": [
+    "Vienna, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787811661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787841213759
+  },
+  {
+   "key": "simplify:d44c4b34-245b-4951-b4ec-573f93fbe2ac",
+   "company": "Retell AI",
+   "title": "Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application?embed=true",
+   "locations": [
+    "Redwood City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787815081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787841213759
+  },
+  {
+   "key": "simplify:5a57537d-9e34-437b-b912-d582e9641b85",
+   "company": "Tesla",
+   "title": "Data Analytics Engineer Scientist - Thermal - Chassis",
+   "url": "https://www.tesla.com/careers/search/job/262399",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787822315000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787841213759
+  },
+  {
+   "key": "simplify:422ae791-861e-451f-b9b7-55e6c9cc2a2e",
+   "company": "Gentex",
+   "title": "Requirements Engineer 2",
+   "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Requirements-Engineer-II_REQ026542",
+   "locations": [
+    "Zeeland, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787836026000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787841213759
+  },
   {
    "key": "simplify:43fc9d48-8060-4be6-a811-17fa6c4fa615",
    "company": "Ontic",
@@ -5716,102 +5813,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787144679753
-  },
-  {
-   "key": "simplify:ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
-   "company": "NVIDIA",
-   "title": "Systems Software Engineering Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787132055000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787135834974
-  },
-  {
-   "key": "simplify:be628885-fde3-4b73-bb0a-58e11856e97b",
-   "company": "NVIDIA",
-   "title": "Software Engineering Intern",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787132048000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787135834974
-  },
-  {
-   "key": "simplify:b5b15050-2287-4ebf-8a26-f0745c794fd3",
-   "company": "Microsoft",
-   "title": "AI Software Engineer Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
-   "locations": [
-    "Redmond, WA",
-    "Mountain View, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787128144000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787129301731
-  },
-  {
-   "key": "simplify:c5c96698-e25e-4209-8af4-5886495e5a80",
-   "company": "Deeter Analytics",
-   "title": "Machine Learning Engineer",
-   "url": "https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787128021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787129301731
-  },
-  {
-   "key": "simplify:c0ff0ed8-d99a-4394-b967-956c4d6fa4ae",
-   "company": "Adobe",
-   "title": "Software Development Engineer",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer_R170921",
-   "locations": [
-    "Lehi, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787119917000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787123464535
   }
  ]
 }
