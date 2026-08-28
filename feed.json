@@ -1,6 +1,199 @@
 {
- "updatedAt": "2026-08-28T11:16:04.369Z",
+ "updatedAt": "2026-08-28T21:27:21.015Z",
  "jobs": [
+  {
+   "key": "simplify:e2ae47c8-3242-4ff9-87f1-e19745909137",
+   "company": "Emory University",
+   "title": "Student Tester and Developer Intern - GPS Sample",
+   "url": "https://staff-emory.icims.com/jobs/172196/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Decatur, GA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787917215000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:4a0d4bf5-9311-4e02-bc23-e93e7601bcd1",
+   "company": "Analog Devices",
+   "title": "AI/ML Engineer Intern",
+   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579",
+   "locations": [
+    "Wilmington, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787923981000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:180c2b69-a897-4c36-9460-0eac1066b869",
+   "company": "CSX",
+   "title": "Engineering Intern - Positive Train Control - Paid",
+   "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54826",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1787950131000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:9bd1f0ee-ed84-41a2-b228-773d27d10ff2",
+   "company": "Torch Technologies",
+   "title": "Junior Software Engineer - Entry Level",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787925484000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:8a12df4d-a37f-4ad1-a459-206009424b66",
+   "company": "Torch Technologies",
+   "title": "Software Engineer - WPF/MVVM",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer-WPF-MVVM_R1609",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787925483000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:08b99270-74f2-4861-83ed-68f7ac35d850",
+   "company": "Empower AI",
+   "title": "Junior Software Developer - Systems Software",
+   "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787930281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:c2eb777c-07d3-435c-84fa-0952b2f9993a",
+   "company": "Allen Control Systems",
+   "title": "Software Engineer - All Levels",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/ea9cfc80-583c-48a9-a719-a17f572c6486/application?embed=true",
+   "locations": [
+    "Austin, TX",
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787929561000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:240aec7f-4292-4146-b546-08c1b4d6430f",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Software Engineer Graduate",
+   "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624",
+   "locations": [
+    "Andover, MA",
+    "Bloomington, MN",
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787950441000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:fa035ae1-d736-4478-a045-ebfd7514aad5",
+   "company": "Viavi Solutions",
+   "title": "Development Engineer - Rotational Program",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Colorado-Springs-CO-USA/Rotational-Program-Development-Engineer_260004989-1",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787950220000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
+  {
+   "key": "simplify:da7be8d3-3d5a-4ca9-accc-b273d6bdc1d4",
+   "company": "Motorola",
+   "title": "Software Engineer",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Software-Engineer_R67330-1",
+   "locations": [
+    "Lexington, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787950081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787952440009
+  },
   {
    "key": "simplify:8b74bc73-21bb-499c-a67a-d34845246a91",
    "company": "Tesla",
@@ -5626,200 +5819,6 @@
    "sponsorship": "unknown",
    "posted": 1787264801000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:a7c15b5b-5f80-4eef-9a00-30c5aac8f28a",
-   "company": "Excellus BCBS",
-   "title": "College Intern - AI Engineering",
-   "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---AI-Engineering---Fall-2026--Multiple-Openings-_JR103879-2",
-   "locations": [
-    "Rochester, NY",
-    "DeWitt, IA",
-    "Albany, NY"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264109000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:a9acc9fa-190c-4641-b234-8414d7b2b4bd",
-   "company": "Excellus BCBS",
-   "title": "Software Engineering Intern - Multiple Openings",
-   "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2",
-   "locations": [
-    "Rochester, NY",
-    "De Witt, NY",
-    "Albany, NY"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787263995000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:76075e31-0449-4ccd-80a7-1613d0ed6bcb",
-   "company": "Eversource Energy",
-   "title": "Asset Management Technology Engineer Intern - Fall 2026",
-   "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
-   "locations": [
-    "Hartford, CT"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264109000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:d5e5a702-bb67-4401-a6b9-bb2f4cf29ce6",
-   "company": "Framatome",
-   "title": "Computer Science Engineer Intern Co-op - Univ/Co-op Technical",
-   "url": "https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Richland, WA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787263863000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:e0d17094-8af5-4bcc-b9f2-67a92fe0c002",
-   "company": "onsemi",
-   "title": "Oracle Platform Intern",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506391",
-   "locations": [
-    "Scottsdale, AZ"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787263524000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:69ea40b7-ee49-4c0a-bbde-346f1508ba51",
-   "company": "Momentive",
-   "title": "Associate Data Engineer",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Associate-Data-Engineer_R9821",
-   "locations": [
-    "Niskayuna, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264851000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:62362f22-a1ca-41d5-8fb5-e75145b45a40",
-   "company": "Ford Motor Company",
-   "title": "Quality Analytics Engineer",
-   "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68687",
-   "locations": [
-    "Dearborn, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264642000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:f58075d4-27db-4102-bd57-53ec0e1878fb",
-   "company": "Apple",
-   "title": "Darwin Runtime Engineer - Core OS",
-   "url": "https://jobs.apple.com/en-us/details/200662330",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264109000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:f61cd3df-168a-4041-b903-df204e464cd8",
-   "company": "University of Central Florida",
-   "title": "Software Developer 1",
-   "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/RESEARCH-PARK/Software-Developer-I_R113738",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264473000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787266217224
-  },
-  {
-   "key": "simplify:f069fafb-ce10-4a57-ad75-490ec5dd3b38",
-   "company": "Western Alliance",
-   "title": "Engineer 1 - AI Forward Engineer",
-   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Forward-Engineer_R13619",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787264266000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
