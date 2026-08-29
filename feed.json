@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-29T03:18:39.076Z",
+ "updatedAt": "2026-08-29T10:15:13.049Z",
  "jobs": [
+  {
+   "key": "simplify:09c0d678-51ef-4e83-a6cd-30b5148869f4",
+   "company": "NCR Voyix",
+   "title": "Software Engineer",
+   "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1787993101000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1787998512341
+  },
   {
    "key": "simplify:1795d6df-fcca-45dc-836d-41a82dc36894",
    "company": "Intuit",
@@ -5796,25 +5815,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1787341588000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787344424523
-  },
-  {
-   "key": "simplify:9e675a71-dd54-4b7e-9dad-72b84c93433e",
-   "company": "Mercury Insurance",
-   "title": "Software Engineer 1",
-   "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Brea, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787341581000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
