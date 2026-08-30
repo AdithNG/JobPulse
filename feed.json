@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-08-30T19:59:37.450Z",
+ "updatedAt": "2026-08-30T22:41:04.893Z",
  "jobs": [
+  {
+   "key": "simplify:d41432d6-6b63-4728-be3a-095f8d258069",
+   "company": "Applied Materials",
+   "title": "Support Engineer 1 - Global Support",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Global-Support-Support-Engineer-I_R2626705",
+   "locations": [
+    "Boise, ID"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788126568000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788129663650
+  },
   {
    "key": "simplify:09c0d678-51ef-4e83-a6cd-30b5148869f4",
    "company": "NCR Voyix",
@@ -5796,25 +5815,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1787341754000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787344424523
-  },
-  {
-   "key": "simplify:54eb5520-b9cf-4910-83b4-228b8b7a1a67",
-   "company": "Mercury Insurance",
-   "title": "Software Engineer 1 Test",
-   "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Brea, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787341588000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
