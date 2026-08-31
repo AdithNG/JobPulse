@@ -1,6 +1,330 @@
 {
- "updatedAt": "2026-08-31T00:53:27.200Z",
+ "updatedAt": "2026-08-31T06:55:53.511Z",
  "jobs": [
+  {
+   "key": "simplify:3e77a1a2-8628-4836-9e07-b43a12a8468e",
+   "company": "Equifax",
+   "title": "Technology Intern - Software Development - Site Reliability Engineering",
+   "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784",
+   "locations": [
+    "Alpharetta, GA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788152272000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:5e006de2-cad9-4e1d-a296-f0c0823c5b22",
+   "company": "Framatome",
+   "title": "Computer Science Engineer Intern Co-op - University Co-op Technical",
+   "url": "https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Lynchburg, VA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788152164000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:e50cfb4e-c4b2-47dc-b594-f28655f5499c",
+   "company": "Qorvo",
+   "title": "Software Engineer Intern",
+   "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421453600/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:c79182b9-3069-4d62-a2f6-44aa377f3167",
+   "company": "Qorvo",
+   "title": "Test Engineer Intern - RF Load Pull",
+   "url": "https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154092000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:bdb55724-c75a-4851-9cc0-5630913a4d94",
+   "company": "Qorvo",
+   "title": "Software Characterization Engineer Intern",
+   "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Eng-Intern-NC-27409/1420018600/?ats=successfactors",
+   "locations": [
+    "Greensboro, NC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154094000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:b875eded-292c-4e53-b3ed-4fbb1d957ae5",
+   "company": "Qorvo",
+   "title": "Software Engineer Intern - SWR",
+   "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1421982000/?ats=successfactors",
+   "locations": [
+    "Greensboro, NC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154097000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:a1de4424-41e1-4c3d-ba2b-a5c743c8ab47",
+   "company": "Qorvo",
+   "title": "Application Engineer Intern",
+   "url": "https://careers.qorvo.com/job/Apopka-Application-Engineering-Intern-FL-32703/1421984100/?ats=successfactors",
+   "locations": [
+    "Apopka, FL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154092000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:ee9b1ec5-c9e0-4145-b628-45f0ff53c4f3",
+   "company": "Qorvo",
+   "title": "Product Engineering Intern",
+   "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1421976000/?ats=successfactors",
+   "locations": [
+    "Greensboro, NC"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:494e793d-3f7c-4255-a337-58dcd284382e",
+   "company": "Qorvo",
+   "title": "Engineering Intern",
+   "url": "https://careers.qorvo.com/job/Richardson-Engineering-Intern-TX-75081/1424705500/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:3bae1dbd-ee80-4fc7-b484-b609aef7ca84",
+   "company": "Qorvo",
+   "title": "Software Engineer Intern - Information Technology Manufacturing Systems",
+   "url": "https://careers.qorvo.com/job/Bend-Software-Engineer-Intern-OR-97703/1421474800/?ats=successfactors",
+   "locations": [
+    "Bend, OR"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:21878633-4f34-4274-81f7-68ceb6d1ace9",
+   "company": "Qorvo",
+   "title": "Product Management Engineer Intern - High Performance Analog",
+   "url": "https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154091000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:161824d8-3c87-453c-8d11-76c3a054219a",
+   "company": "Qorvo",
+   "title": "Software Engineer Intern - Software R&D",
+   "url": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern,-SWR-FL-32703/1423577900/?ats=successfactors",
+   "locations": [
+    "Apopka, FL"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788154096000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:056e0096-9f6b-4c3a-844f-cd627807e7f6",
+   "company": "Qorvo",
+   "title": "Full-Stack Web Developer Intern",
+   "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788154021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:4b81bd00-4b97-4ec4-954b-892368c48de0",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph",
+   "url": "https://lifeattiktok.com/search/7676652813409552645",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788152941000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:18b29304-73eb-4fb8-9b9a-8089fb12d1a7",
+   "company": "GE Aerospace",
+   "title": "Applied AI Engineer Co-op",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1",
+   "locations": [
+    "Evendale, OH",
+    "Atlanta, GA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788152762000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:8254bef8-0753-4347-9bd2-47e5536eab40",
+   "company": "Stryker",
+   "title": "Software Engineering Intern - Software Engineering",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+   "locations": [
+    "Fort Lauderdale, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788152607000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
+  {
+   "key": "simplify:3c6dc4c7-bd24-4215-a600-0d55a3952673",
+   "company": "Stryker",
+   "title": "Software Engineering Intern - Multiple Teams",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788152612000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788159352028
+  },
   {
    "key": "simplify:d41432d6-6b63-4728-be3a-095f8d258069",
    "company": "Applied Materials",
@@ -5492,334 +5816,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787363106905
-  },
-  {
-   "key": "simplify:7a70a260-965f-4aec-902f-7d5704f201a2",
-   "company": "True Anomaly",
-   "title": "Software Engineer 1 New Grad - QA",
-   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007",
-   "locations": [
-    "Long Beach, CA",
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787361086000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787363106905
-  },
-  {
-   "key": "simplify:214fc73f-c4d9-4c6d-8455-16b74d79ce68",
-   "company": "Solid Power",
-   "title": "Product Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004",
-   "locations": [
-    "Thornton, CO"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787352341000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787355234450
-  },
-  {
-   "key": "simplify:b364c68b-8fda-447b-b50d-dfa7fcd4039f",
-   "company": "Availity",
-   "title": "Software Engineer Intern - Multiple Teams",
-   "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787353899000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787355234450
-  },
-  {
-   "key": "simplify:3a9d445d-6bcb-43b3-8183-0437d5b6c332",
-   "company": "Weave",
-   "title": "Data Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d/application?embed=true",
-   "locations": [
-    "Lehi, UT"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787353741000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787355234450
-  },
-  {
-   "key": "simplify:2878fb2f-f01b-4b99-82a0-1d04fe1d03a2",
-   "company": "Garmin",
-   "title": "Software Engineer 1",
-   "url": "https://careers.garmin.com/jobs/19680?icims=1",
-   "locations": [
-    "Yarmouth, ME"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:7a9df6f7-6085-43b4-ad7e-c3426ad5d305",
-   "company": "Analog Devices",
-   "title": "Product Engineer - Product Development",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Product-Engineer--Product-Development-_R265304",
-   "locations": [
-    "Wilmington, MA",
-    "Durham, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350767000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:d3fb5a6d-95ca-4c74-a448-f3db8b8d1a0a",
-   "company": "H-E-B",
-   "title": "Software Engineer 1 - Multiple Teams",
-   "url": "https://careers.heb.com/jobs/231773?icims=1",
-   "locations": [
-    "San Antonio, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350577000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:b989c0d7-19f2-4acd-8837-402a4c9fbfe0",
-   "company": "Fidelity Investments",
-   "title": "Software Engineer - Leap",
-   "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884",
-   "locations": [
-    "Westlake, TX",
-    "Durham, NC",
-    "Merrimack, NH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350577000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:025d3284-8d03-4fa6-aab3-067596ccb178",
-   "company": "ConstructConnect",
-   "title": "Associate Software Engineer - Product Development",
-   "url": "https://careers-constructconnect.icims.com/jobs/2191/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350530000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:253f4a59-14d2-4bf5-8f29-b05e37695e9a",
-   "company": "NVIDIA",
-   "title": "Research Engineer New Grad - Interactive World Models",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Engineer--Interactive-World-Models---New-College-Grad-2026_JR2023950",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350423000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:567f686f-9093-4a26-b732-e7aa4ee87b29",
-   "company": "Echo Global Logistics",
-   "title": "Associate Software Support Engineer",
-   "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1",
-   "locations": [
-    "Chicago, IL",
-    "Reno, NV"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350143000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:18a9df54-1420-4258-8c24-37817d250f22",
-   "company": "Expedia Group",
-   "title": "Software Development Engineer 1",
-   "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-108739",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350324000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:6f7732bb-d9cd-4dc5-a639-5dc3423db3f2",
-   "company": "Chickasaw Nation Industries",
-   "title": "Research Engineer",
-   "url": "https://cni.wd503.myworkdayjobs.com/CNI/job/Dothan-AL/Research-Engineer_R9407",
-   "locations": [
-    "Dothan, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787350323000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787351695598
-  },
-  {
-   "key": "simplify:e4dd1ece-36bc-4785-88a7-beb7bdfb4414",
-   "company": "Fullbay",
-   "title": "Software Engineer Intern",
-   "url": "https://fullbay.bamboohr.com/careers/131/",
-   "locations": [
-    "Phoenix, AZ"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787343661000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787345993828
-  },
-  {
-   "key": "simplify:9e276b36-0027-450c-b77d-ba9d4664b668",
-   "company": "Avalore",
-   "title": "AI/ML Engineer",
-   "url": "https://apply.workable.com/avalore/j/236521B2C0/apply",
-   "locations": [
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787343301000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787345993828
-  },
-  {
-   "key": "simplify:91fbe496-c0ad-4be0-8f7d-981a254764b0",
-   "company": "Hyve Solutions",
-   "title": "Software Engineer New Grad",
-   "url": "https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Software-Engineer--New-College-Grad-_R55432",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787342326000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787344424523
-  },
-  {
-   "key": "simplify:b30acf92-00fa-4d87-ac6e-44032cdc640b",
-   "company": "Integration Innovation (i3)",
-   "title": "Software Engineer",
-   "url": "https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787341754000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787344424523
   }
  ]
 }
