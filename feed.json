@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-09-01T10:09:36.239Z",
+ "updatedAt": "2026-09-01T14:55:13.579Z",
  "jobs": [
+  {
+   "key": "simplify:d6e09034-f1b8-496a-9b1c-ad916001fc4c",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
+   "url": "https://www.tesla.com/careers/search/job/281462",
+   "locations": [
+    "Fremont, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788257238000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1788274512368
+  },
+  {
+   "key": "simplify:9482cef9-a466-4071-a482-6b9206236e32",
+   "company": "TC Energy",
+   "title": "Engineering Intern - Engineering",
+   "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788257428000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788274512368
+  },
+  {
+   "key": "simplify:4b5cadde-057d-4059-9111-95b7787b9771",
+   "company": "Rio Tinto",
+   "title": "Geologist Graduate - Geoscience Engineering",
+   "url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Salt-Lake-City/Graduate---Geoscience-Engineering_R64014",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788257437000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788274512368
+  },
   {
    "key": "simplify:c6dd05de-594d-4fa3-8da1-c646ae0eca31",
    "company": "Travelers",
@@ -5763,64 +5822,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1787616918000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787622372642
-  },
-  {
-   "key": "simplify:eac46790-0057-4518-8e60-be17fee9950f",
-   "company": "Infleqtion",
-   "title": "Quantum Software Engineer - Compiler",
-   "url": "https://apply.workable.com/coldquanta/j/1B97312CA0/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787616918000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787622372642
-  },
-  {
-   "key": "simplify:9d9c46e1-9387-4d06-841a-4497c4901c06",
-   "company": "Daikin Applied",
-   "title": "IT Applications Developer",
-   "url": "https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/IT-Applications-Developer---Contract_R003852",
-   "locations": [
-    "Plymouth, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787619077000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787622372642
-  },
-  {
-   "key": "simplify:9ecb4578-6a8a-4f73-ac53-0651cbbd7167",
-   "company": "Amazon",
-   "title": "Software Development Engineer - Amazon Leo",
-   "url": "https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
-   "locations": [
-    "Redmond, WA",
-    "Northridge, LA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787617884000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
