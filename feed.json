@@ -1,6 +1,315 @@
 {
- "updatedAt": "2026-09-01T14:55:13.579Z",
+ "updatedAt": "2026-09-01T18:22:07.755Z",
  "jobs": [
+  {
+   "key": "simplify:b281f70c-b819-47ce-8df8-cdbc3d567e98",
+   "company": "Microsoft",
+   "title": "Software Engineer Intern - AI and ML Projects",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788278058000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:66d274be-a1a8-4da4-92a0-2cbe5b7198e5",
+   "company": "Microsoft",
+   "title": "Software Engineer Intern - AI and ML",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788278043000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:cb7963c2-4741-4323-8c70-e26b93cbb1ed",
+   "company": "NiSource",
+   "title": "Engineering Intern",
+   "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Valparaiso-Central-Stores/Intern-Engineering-NIPSCO_R00943339",
+   "locations": [
+    "Valparaiso, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788277573000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:307102b6-7bde-45af-b161-e8eab5117a56",
+   "company": "Stoke Space",
+   "title": "Software Intern",
+   "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004",
+   "locations": [
+    "Kent, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788277549000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:4c8571fd-a704-4542-babd-54c89d6aeff3",
+   "company": "Booz Allen",
+   "title": "Systems Engineer Intern",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788277379000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:53d8eb96-a4a4-4d3d-a59f-1308691c4a1a",
+   "company": "Booz Allen",
+   "title": "Systems Engineer Intern - Summer Games",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370",
+   "locations": [
+    "Honolulu, HI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788277374000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:0e9bb9cd-7dee-4ce0-a479-654d1552f1bc",
+   "company": "Booz Allen",
+   "title": "Systems Engineer Intern - University",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788277294000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:e9f9050a-780c-47dd-b98a-17dda2af0453",
+   "company": "AMD",
+   "title": "Compiler Engineer Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/91864?icims=1",
+   "locations": [
+    "Austin, TX",
+    "Longmont, CO",
+    "Fishkill, NY"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788278810000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:c00cea89-6203-42a3-af35-f98efd65e78a",
+   "company": "AMD",
+   "title": "Compiler Engineer Intern/Co-op - Masters",
+   "url": "https://careers.amd.com/jobs/91867?icims=1",
+   "locations": [
+    "Austin, TX",
+    "Longmont, CO",
+    "Fishkill, NY"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788278811000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:98ba4abf-1726-45e5-a03c-c711dfb81c84",
+   "company": "ByteDance",
+   "title": "Software Engineer Intern - Relational Database",
+   "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788281101000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:1d07b89c-c4c6-4af6-8986-c31a4a7d36c7",
+   "company": "TRUMPF",
+   "title": "Application Engineer Intern/Co-op",
+   "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681",
+   "locations": [
+    "Plymouth, MI"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788280318000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:bc39a0ab-b298-47eb-b248-1348cc006626",
+   "company": "Capco",
+   "title": "Junior AI / Data Engineering Analyst - Technology & Engineering",
+   "url": "https://job-boards.greenhouse.io/capco/jobs/8164958",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788273541000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:856dd1dd-c391-4329-905c-934f7aa59198",
+   "company": "GE Vernova",
+   "title": "Application Engineer Grid Code Compliance and Testing",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947",
+   "locations": [
+    "Remote in USA",
+    "Schenectady, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788277321000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:f2c74423-edee-4802-9ffa-80d160cb0cc2",
+   "company": "Ensign-Bickford Aerospace & Defense Company",
+   "title": "Product Engineer",
+   "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Moorpark-CA/Product-Engineer_REQ107626",
+   "locations": [
+    "Moorpark, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788279481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:4190c721-afa3-4dd7-a89f-42293d2a5a24",
+   "company": "Mimecast",
+   "title": "Software Engineer 1 - Incydr Insider Risk Management",
+   "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6606",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788279518000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
+  {
+   "key": "simplify:39c5c125-bd9b-4181-8a93-ddf41b5a48d4",
+   "company": "Leidos",
+   "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096",
+   "locations": [
+    "Bethesda, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788279373000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788286926700
+  },
   {
    "key": "simplify:d6e09034-f1b8-496a-9b1c-ad916001fc4c",
    "company": "Tesla",
@@ -5507,326 +5816,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787670289552
-  },
-  {
-   "key": "simplify:a554688a-fa61-4d32-8d02-a22d0e78ac6a",
-   "company": "AMD",
-   "title": "Research Engineering Intern/Co-op - AMD Research",
-   "url": "https://careers.amd.com/jobs/90926?icims=1",
-   "locations": [
-    "Secaucus, NJ",
-    "Austin, TX",
-    "Longmont, CO"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787654003000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787657766738
-  },
-  {
-   "key": "simplify:2fa15c29-968d-4596-a04f-18ae7cf76c55",
-   "company": "Cerebras",
-   "title": "Software Integration Engineer - AI Inference Core",
-   "url": "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787653452000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787655343666
-  },
-  {
-   "key": "simplify:f185aabd-bbe9-4554-8a62-fe6dfe0deff2",
-   "company": "NewsBreak",
-   "title": "Applied AI Engineer - Advertising Agents",
-   "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4690262006",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787649329000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787651271403
-  },
-  {
-   "key": "simplify:c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
-   "company": "Meridian Partners",
-   "title": "Cloud Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787638888000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1787642611095
-  },
-  {
-   "key": "simplify:7a0e26e4-7787-42a2-8128-e496212ae724",
-   "company": "Meridian Partners",
-   "title": "Full Stack Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003",
-   "locations": [
-    "Cambridge, MA",
-    "Seattle, WA",
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787638888000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1787642611095
-  },
-  {
-   "key": "simplify:eeda0ac4-569c-4d27-927d-56e668f95ffa",
-   "company": "Meridian Partners",
-   "title": "Python Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003",
-   "locations": [
-    "Cambridge, MA",
-    "Seattle, WA",
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787638888000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "python"
-   ],
-   "firstSeen": 1787642611095
-  },
-  {
-   "key": "simplify:d7b507c0-bb45-40b2-97e2-575198d7b5c7",
-   "company": "Meridian Partners",
-   "title": "Front End Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787638972000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787642611095
-  },
-  {
-   "key": "simplify:bc77c289-ab13-4062-adf6-da8e0aa72034",
-   "company": "Meridian Partners",
-   "title": "Machine Learning Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
-   "locations": [
-    "Cambridge, MA",
-    "Seattle, WA",
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787638888000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787642611095
-  },
-  {
-   "key": "simplify:90639373-d769-48b3-8ac2-94d63829c638",
-   "company": "Wex",
-   "title": "Artificial Intelligence Intern - AI/ML/NLP Engineer",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
-   "locations": [
-    "Boston, MA",
-    "Seattle, WA",
-    "Dallas, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787640076000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787642611095
-  },
-  {
-   "key": "simplify:7d27dfe1-c616-4155-8112-ca1cce62b768",
-   "company": "BP",
-   "title": "Corporate Asset Development Engineer Intern",
-   "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Corporate-Asset-Development-Engineer-Intern_RQ115146",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787627045000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787628983442
-  },
-  {
-   "key": "simplify:2029943e-bdea-40e0-af4d-e7e07e36b06a",
-   "company": "KLA",
-   "title": "AI Engineer - Computer Vision/Signal Processing",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787627543000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787628983442
-  },
-  {
-   "key": "simplify:e5377e60-d28f-4c0d-bc33-43bac13623e1",
-   "company": "Emory Healthcare",
-   "title": "Associate AI Engineer",
-   "url": "https://non-clinical-emory.icims.com/jobs/170743/job?hub=14&mobile=true&needsRedirect=false",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787627357000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787628983442
-  },
-  {
-   "key": "simplify:5cf6bc0c-fa07-4cc0-8813-73901c4c566b",
-   "company": "Caris",
-   "title": "Associate Software Engineer - Clinical Software Products",
-   "url": "https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Associate-Software-Engineer_JR105464",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787626833000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787628983442
-  },
-  {
-   "key": "simplify:39309c17-e806-4ea4-ba0d-0d69cfaca27f",
-   "company": "Rivet Industries",
-   "title": "Software Engineer Intern - XR Team - Fall 2026",
-   "url": "https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787617637000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787622372642
-  },
-  {
-   "key": "simplify:31f44b7e-6d0d-463a-802d-ce894a00130f",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer - E-Commerce Knowledge Graph",
-   "url": "https://lifeattiktok.com/search/7676647728043280645",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787614794000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787622372642
-  },
-  {
-   "key": "simplify:4e9fe751-4379-45cd-97bd-7083fd5e58d1",
-   "company": "Infleqtion",
-   "title": "Quantum Software Engineer - Compiler & Control Systems",
-   "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787616918000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787622372642
   }
  ]
 }
