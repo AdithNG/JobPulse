@@ -1,6 +1,161 @@
 {
- "updatedAt": "2026-09-01T00:08:43.654Z",
+ "updatedAt": "2026-09-01T05:10:08.495Z",
  "jobs": [
+  {
+   "key": "simplify:8cd5b581-53c6-4c6a-88c2-b61b04039976",
+   "company": "Aerotech",
+   "title": "Software Engineering Intern Co-op - Enterprise Development Team - Application Development Team",
+   "url": "https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788223526000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:58e64075-6609-418d-a437-22d5c25dd225",
+   "company": "Cvent",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://careers.cvent.com/jobs/10806?icims=1",
+   "locations": [
+    "Tysons, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788221521000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
+   "company": "Adobe",
+   "title": "Machine Learning Engineer Intern",
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
+   "locations": [
+    "Seattle, WA",
+    "Austin, TX",
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788227016000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:a1207d00-acc5-4c19-81b1-f641537fd9fd",
+   "company": "Booz Allen",
+   "title": "Full-Stack Developer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0248330",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788223523000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:e950fd58-36dd-4bbd-8aa3-314216e6e315",
+   "company": "WhatNot",
+   "title": "Software Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930/application?embed=true",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788226157000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:8adee4fc-765b-4e1a-8de9-ec518bf68f19",
+   "company": "Everlaw",
+   "title": "Software Engineer 1",
+   "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006",
+   "locations": [
+    "Oakland, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788226146000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:bbd8fc41-9404-4e56-bc60-a2cff4f12deb",
+   "company": "Greenheck Group",
+   "title": "Application Engineer 1",
+   "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-Facility-7---RTU/Application-Engineer-I_JR104400",
+   "locations": [
+    "Schofield, WI",
+    "Tulsa, OK"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788227050000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
+  {
+   "key": "simplify:b80a22f6-7d98-43e5-8ad9-70040631b907",
+   "company": "Eaton",
+   "title": "Product Engineer - Engineering",
+   "url": "https://eaton.eightfold.ai/careers/job/687238080082",
+   "locations": [
+    "Asheville, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788226267000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788239407421
+  },
   {
    "key": "simplify:31c8f262-dd88-45f4-b7b3-d0d9c0cf3013",
    "company": "Micron Technology",
@@ -5665,161 +5820,6 @@
    "sponsorship": "unknown",
    "posted": 1787603070000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
-   "company": "Freddie Mac",
-   "title": "Multifamily Software Development Intern - Summer 2027",
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787603063000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:b3e5cba2-cc35-4da5-88b4-0dcc462d5536",
-   "company": "Procter & Gamble",
-   "title": "Data & AI Engineering Intern",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787603061000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6",
-   "company": "Booz Allen",
-   "title": "Software Engineer Intern",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
-   "locations": [
-    "Seattle, WA",
-    "Bremerton, WA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787602885000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:07fb9dda-5acf-40a0-8daa-9a4ef8e9d7a5",
-   "company": "DuCharme, McMillen & Associates",
-   "title": "Software Developer Intern",
-   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636",
-   "locations": [
-    "Indianapolis, IN",
-    "Fort Wayne, IN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787602864000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:0df59faa-c7e2-47a6-83d7-e8637cc3d960",
-   "company": "DuCharme, McMillen & Associates",
-   "title": "Software Development Intern - Spring 2027",
-   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634",
-   "locations": [
-    "Indianapolis, IN",
-    "Fort Wayne, IN"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787602524000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:6886558d-1278-4dad-9f3b-598f5654f1b3",
-   "company": "Micron Technology",
-   "title": "Thin Films Equipment Engineering Intern - EDE",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---EDE-Thin-Films-Equipment-Engineering_JR108977",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787602491000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:b3868b75-e140-4592-ac8e-8055882cf959",
-   "company": "Target",
-   "title": "Associate Technical Developer - Footwear",
-   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Technical-Developer--Footwear_R0000450178",
-   "locations": [
-    "Minneapolis, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787602981000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787604816803
-  },
-  {
-   "key": "simplify:1cfdcea8-0b71-4260-84d5-4bd4ca6ed4e7",
-   "company": "BTI Solutions",
-   "title": "Korean Bilingual AMR Engineer",
-   "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Queen-Creek-AZ/Korean-Bilingual-AMR-Engineer_JR101992-1",
-   "locations": [
-    "Queen Creek, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787602524000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
