@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-09-02T05:52:51.110Z",
+ "updatedAt": "2026-09-02T11:08:27.787Z",
  "jobs": [
+  {
+   "key": "simplify:23d6cc2e-855b-4458-a689-002cda7f4705",
+   "company": "Michelin",
+   "title": "Data Engineering Intern",
+   "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/ARDMORE-OK/Summer-2027-Internship--Data-Engineering---Ardmore--OK-_R-2026030979",
+   "locations": [
+    "Ardmore, OK"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788329932000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788347307010
+  },
+  {
+   "key": "simplify:2a48e05f-f557-488e-876c-eafef0801099",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Mission Systems Engineering Intern",
+   "url": "https://careers.jhuapl.edu/jobs/59883?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788331341000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788347307010
+  },
+  {
+   "key": "simplify:0a1a5e36-8dfc-4746-b8e3-c3db4d69a7b5",
+   "company": "Johnson & Johnson",
+   "title": "Materials Engineer Co-op",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788337622000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788347307010
+  },
+  {
+   "key": "simplify:1f9574c2-c85b-414e-b946-2d7845c6c19f",
+   "company": "RTX",
+   "title": "Software Engineer 2",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-II--Onsite-_01870930",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788334157000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788347307010
+  },
   {
    "key": "simplify:6ab593bb-5119-41d3-b37d-1135be139c79",
    "company": "Northrop Grumman",
@@ -5720,82 +5796,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1787784769000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787801141452
-  },
-  {
-   "key": "simplify:f60d92c6-dd95-443e-8667-325bd2b1e2b6",
-   "company": "Repsol",
-   "title": "Production Allocation Engineering Intern",
-   "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Production-Allocation-Engineering-Intern_83947-1",
-   "locations": [
-    "The Woodlands, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787784301000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787801141452
-  },
-  {
-   "key": "simplify:f57bb086-aa5d-4b27-be0c-45e482f63cc5",
-   "company": "Repsol",
-   "title": "Development Planning Engineer Intern",
-   "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Development-Planning-Engineering-Intern_83951-1",
-   "locations": [
-    "The Woodlands, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787784361000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787801141452
-  },
-  {
-   "key": "simplify:0b926dfc-d03c-4a6d-9ed1-fb53005cb7a4",
-   "company": "Lightcast",
-   "title": "Software Engineer Intern - API Development",
-   "url": "https://jobs.lever.co/economicmodeling/a6d45716-c743-4013-a1d8-310850c115f9/apply",
-   "locations": [
-    "Moscow, ID"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787785381000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787801141452
-  },
-  {
-   "key": "simplify:4b41cc6a-c7ca-4364-bf7c-41f6ca98409e",
-   "company": "Conduent",
-   "title": "Applied AI Engineer Intern - Government Healthcare Solutions",
-   "url": "https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787785381000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
