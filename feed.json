@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-09-02T11:08:27.787Z",
+ "updatedAt": "2026-09-02T15:06:22.730Z",
  "jobs": [
+  {
+   "key": "simplify:d6dec408-afe2-4aaf-9758-f14a058524f6",
+   "company": "Applied Materials",
+   "title": "Materials Engineering Co-op - TCAD Modeling",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788349701000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788361581914
+  },
+  {
+   "key": "simplify:fb0f6a70-7886-4ed4-a59d-12e6a0e79c9d",
+   "company": "Geotab",
+   "title": "DataOps Developer Intern - Months",
+   "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5389379008",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788355130000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788361581914
+  },
+  {
+   "key": "simplify:afb93f48-440f-40ac-ad4c-0c537578cbff",
+   "company": "Steel Dynamics",
+   "title": "Software Development Intern",
+   "url": "https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788356748000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788361581914
+  },
+  {
+   "key": "simplify:af65cbd5-11f8-4a7d-a45a-939597dd3471",
+   "company": "Universal Health Services",
+   "title": "Software Engineer Intern - Data Analytics",
+   "url": "https://jobs.uhsinc.com/jobs/367247?icims=1",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788359941000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788361581914
+  },
+  {
+   "key": "simplify:0a783569-3524-4b42-bced-6d8fa868b454",
+   "company": "Latitude AI",
+   "title": "Triage Associate 1 - Platform Triage",
+   "url": "https://job-boards.greenhouse.io/latitude/jobs/8030930",
+   "locations": [
+    "Palo Alto, CA",
+    "Pittsburgh, PA",
+    "Allen Park, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788356553000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788361581914
+  },
   {
    "key": "simplify:23d6cc2e-855b-4458-a689-002cda7f4705",
    "company": "Michelin",
@@ -5702,105 +5799,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1787841213759
-  },
-  {
-   "key": "simplify:5a57537d-9e34-437b-b912-d582e9641b85",
-   "company": "Tesla",
-   "title": "Data Analytics Engineer Scientist - Thermal - Chassis",
-   "url": "https://www.tesla.com/careers/search/job/262399",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787822315000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787841213759
-  },
-  {
-   "key": "simplify:422ae791-861e-451f-b9b7-55e6c9cc2a2e",
-   "company": "Gentex",
-   "title": "Requirements Engineer 2",
-   "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Requirements-Engineer-II_REQ026542",
-   "locations": [
-    "Zeeland, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787836026000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787841213759
-  },
-  {
-   "key": "simplify:43fc9d48-8060-4be6-a811-17fa6c4fa615",
-   "company": "Ontic",
-   "title": "Associate Software Engineer - Full Stack",
-   "url": "https://jobs.ashbyhq.com/Ontic/d50b6bea-876f-43fc-afb9-716efe9eca02/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787783903000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1787801141452
-  },
-  {
-   "key": "simplify:3c0eb87e-dc03-4ec2-a2f7-754825edf8ce",
-   "company": "Realm",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787782168000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787801141452
-  },
-  {
-   "key": "simplify:cb7d628c-6b58-4cf9-9201-0b7c8c62c914",
-   "company": "Leidos",
-   "title": "Software Engineer Intern - Artificial Intelligence",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
-   "locations": [
-    "Remote in USA",
-    "Shiloh, IL",
-    "Odenton, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787784769000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787801141452
   }
  ]
 }
