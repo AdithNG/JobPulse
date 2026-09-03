@@ -1,6 +1,107 @@
 {
- "updatedAt": "2026-09-03T21:26:00.579Z",
+ "updatedAt": "2026-09-03T23:29:34.775Z",
  "jobs": [
+  {
+   "key": "simplify:20754e5e-e165-40e6-b859-c1dca81f7bdf",
+   "company": "TikTok",
+   "title": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
+   "url": "https://lifeattiktok.com/search/7668881813744191749",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788473001000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1788478172717
+  },
+  {
+   "key": "simplify:f69d2ff9-a810-4d7c-961c-31525cf9139d",
+   "company": "TikTok",
+   "title": "US Commercial Infrastructure Management Graduate - Global Procurement",
+   "url": "https://lifeattiktok.com/search/7668180925700065589",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788471562000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1788478172717
+  },
+  {
+   "key": "simplify:37ec2ae1-5f91-4d92-a3e5-b68b4b00bfd3",
+   "company": "TikTok",
+   "title": "Machine Learning Infrastructure Engineer New Grad - Ads Infra",
+   "url": "https://lifeattiktok.com/search/7668693662561634613",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788471562000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1788478172717
+  },
+  {
+   "key": "simplify:9ed60305-1668-42f5-a1ee-35ecadf6be12",
+   "company": "Solvarus",
+   "title": "Model Based Systems Engineer",
+   "url": "https://solvarus.applytojob.com/apply/xd043E1KL2/Model-Based-System-EngineerJunior-Level",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788471562000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788478172717
+  },
+  {
+   "key": "simplify:c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85",
+   "company": "Systems Planning and Analysis",
+   "title": "Associate Systems Engineer",
+   "url": "https://spa.jibeapply.com/jobs/23161?icims=1",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788473545000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788478172717
+  },
   {
    "key": "simplify:2cd0f1c9-7c43-41d3-850c-4b74451159f6",
    "company": "Amazon",
@@ -5683,106 +5784,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788209782000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:c6bdfac7-c89d-4e90-8fc5-b26e0b45f8ea",
-   "company": "Pennymac",
-   "title": "Digital Technology Organization Rotational Engineer",
-   "url": "https://careers.pennymac.com/jobs/40358?icims=1",
-   "locations": [
-    "Carrollton, TX",
-    "Cary, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788209101000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:97f13f8b-db75-49a5-8714-def7a600da0d",
-   "company": "Noblis",
-   "title": "Software Developer - Full-Stack - Multiple Levels",
-   "url": "https://careers.noblis.org/jobs/27747?icims=1",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788209732000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:3f6abfdc-6831-4453-81ac-c6b9feb47c0c",
-   "company": "FLSmidth",
-   "title": "Technical Product Development Engineer 1",
-   "url": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788209765000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:fa1ba128-0d4c-4ead-9efc-ce304a13ce25",
-   "company": "CapTech Consulting",
-   "title": "Data Engineering Associate Consultant - Multiple Teams",
-   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146448860",
-   "locations": [
-    "Philadelphia, PA",
-    "Richmond, VA",
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788207661000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:57162ec0-910a-4248-8b4a-85d8b7e6f5bb",
-   "company": "CapTech Consulting",
-   "title": "Software Engineering Associate Consultant - Summer 2027",
-   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269",
-   "locations": [
-    "Philadelphia, PA",
-    "Richmond, VA",
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788207661000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
