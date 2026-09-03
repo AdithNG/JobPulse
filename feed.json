@@ -1,6 +1,182 @@
 {
- "updatedAt": "2026-09-03T11:38:48.803Z",
+ "updatedAt": "2026-09-03T15:11:28.850Z",
  "jobs": [
+  {
+   "key": "simplify:c54797bf-2ee6-4b31-a8dd-c4cdbb8e5254",
+   "company": "ByteDance",
+   "title": "Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform",
+   "url": "https://jobs.bytedance.com/en/position/7673632479987992837/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788444390000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:0299ccd7-7dac-48cc-80eb-9e224cc78f08",
+   "company": "Momentive",
+   "title": "Software Development Intern",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+   "locations": [
+    "Niskayuna, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788441079000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:4b982322-5cf7-44e2-bedc-ef603ee2bcd2",
+   "company": "GE Vernova",
+   "title": "GridOS Project Engineer Intern Co-op - GridOS",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2",
+   "locations": [
+    "Bellevue, WA",
+    "Atlanta, GA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788442752000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:7caf712d-6377-4f92-ae37-3a18b2ea14c6",
+   "company": "GE Vernova",
+   "title": "GridOS Project Engineer Co-op/Intern",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1",
+   "locations": [
+    "Bellevue, WA",
+    "Atlanta, GA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788442752000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:5295600e-5e97-4566-af9f-cdaaa9aacf99",
+   "company": "Artera Technologies",
+   "title": "Systems Engineer",
+   "url": "https://arteratechnologies.applytojob.com/apply/qFGNF0cBGB/System-Engineers",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788439501000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:7aaef6e7-9e7d-48e4-8cea-6c06e79af706",
+   "company": "Hewlett Packard",
+   "title": "Software Product Security Engineer",
+   "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer_UNI4745",
+   "locations": [
+    "Spring, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788438962000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:c46fbf03-927d-497c-a436-b9a3bad3aa6f",
+   "company": "CACI",
+   "title": "Software Safety Developer/Analyst",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_330921",
+   "locations": [
+    "Lorton, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788438962000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:9a8dfe52-a8c8-4604-9197-455c8a8630c0",
+   "company": "Crown Innovations",
+   "title": "Systems Engineer 1",
+   "url": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144160949",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788446175000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
+  {
+   "key": "simplify:a6bd1314-ac47-45a9-8a6e-40903768ae2a",
+   "company": "WOOD Consulting Services",
+   "title": "Systems Engineer 0",
+   "url": "https://jobs-woodcons.icims.com/jobs/14783/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788446715000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788448286643
+  },
   {
    "key": "simplify:68f77e24-7325-4a04-9e6f-048e16a551a1",
    "company": "Northrop Grumman",
@@ -5602,183 +5778,6 @@
    "sponsorship": "unknown",
    "posted": 1787952727000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:0cac198d-5b59-411b-8ddf-3138668da722",
-   "company": "Clerkie",
-   "title": "Software Engineer Intern",
-   "url": "http://getfiber.ai/careers?gh_jid=5225258007",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787965002000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:88ee222e-f092-4c2a-ad37-b63eb0445010",
-   "company": "Persona AI",
-   "title": "Robotics Software Intern - Manipulation",
-   "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787963999000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:bcea96d4-d109-4a9e-84e7-1f444b1f2e7b",
-   "company": "Philips",
-   "title": "Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
-   "locations": [
-    "Plymouth, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787963655000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:09239b96-d26a-4691-b9ab-9b8b442caa9f",
-   "company": "Charles Schwab",
-   "title": "Software Engineering Intern - Technology",
-   "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Austin, TX",
-    "Westlake, TX",
-    "Ann Arbor, MI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787963453000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:93f4951e-c280-428f-8f6f-a0611c97b96e",
-   "company": "Charles Schwab",
-   "title": "Data Engineering Intern - Data Engineering",
-   "url": "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Austin, TX",
-    "Westlake, TX",
-    "Southlake, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787963452000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:b887b47d-3ded-45eb-8d5a-268813a2e75d",
-   "company": "Northwood Space",
-   "title": "Software Engineer Intern - Multiple Teams",
-   "url": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true",
-   "locations": [
-    "Torrance, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1787968696000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:7b26ed3e-24a7-430f-9375-3426132ac229",
-   "company": "Barr",
-   "title": "Air Quality Scientist/Engineer - Emissions Monitoring Focus",
-   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Air-Quality-Scientist-Engineer---Emissions-Monitoring-Focus---Entry-Level--Hybrid-_R-102288-1",
-   "locations": [
-    "Edina, MN",
-    "Hibbing, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787951206000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:f771023a-d6d4-4593-8eb4-7d670c671012",
-   "company": "CACI",
-   "title": "Software Engineer - Engineering",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331185-1",
-   "locations": [
-    "Ypsilanti, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787950999000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1787973517485
-  },
-  {
-   "key": "simplify:76b36874-f561-4551-b201-d4ca3ac11673",
-   "company": "Apple",
-   "title": "Software Engineer - Front-end",
-   "url": "https://jobs.apple.com/en-us/details/200680752",
-   "locations": [
-    "Austin, TX",
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1787950999000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
