@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-09-04T15:00:45.191Z",
+ "updatedAt": "2026-09-04T18:20:05.782Z",
  "jobs": [
+  {
+   "key": "simplify:ecb50799-5432-4e4c-94bd-ab79e8a11ebd",
+   "company": "Westinghouse Electric Company",
+   "title": "Enovia PLM Developer Intern - Enovia PLM",
+   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors",
+   "locations": [
+    "Cranberry Township, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788536543000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788546004841
+  },
+  {
+   "key": "simplify:7e8834d8-2571-478a-aaeb-8bb9c3fbb656",
+   "company": "GE Vernova",
+   "title": "Project Engineer Intern - Summer 2027",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788538024000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788546004841
+  },
+  {
+   "key": "simplify:513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
+   "company": "DoorDash",
+   "title": "Software Engineer 1 - Entry-Level",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+   "locations": [
+    "Seattle, WA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788533849000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788546004841
+  },
   {
    "key": "simplify:355a0760-208b-425c-9769-6bd234775cfa",
    "company": "Procter & Gamble",
@@ -5736,65 +5794,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788278810000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788286926700
-  },
-  {
-   "key": "simplify:c00cea89-6203-42a3-af35-f98efd65e78a",
-   "company": "AMD",
-   "title": "Compiler Engineer Intern/Co-op - Masters",
-   "url": "https://careers.amd.com/jobs/91867?icims=1",
-   "locations": [
-    "Austin, TX",
-    "Longmont, CO",
-    "Fishkill, NY"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788278811000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788286926700
-  },
-  {
-   "key": "simplify:98ba4abf-1726-45e5-a03c-c711dfb81c84",
-   "company": "ByteDance",
-   "title": "Software Engineer Intern - Relational Database",
-   "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788281101000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788286926700
-  },
-  {
-   "key": "simplify:1d07b89c-c4c6-4af6-8986-c31a4a7d36c7",
-   "company": "TRUMPF",
-   "title": "Application Engineer Intern/Co-op",
-   "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681",
-   "locations": [
-    "Plymouth, MI"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788280318000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
