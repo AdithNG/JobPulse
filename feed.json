@@ -1,6 +1,71 @@
 {
- "updatedAt": "2026-09-03T23:29:34.775Z",
+ "updatedAt": "2026-09-04T01:18:51.271Z",
  "jobs": [
+  {
+   "key": "simplify:1f65e1dc-4f67-432b-822e-9d4bf09cfc3d",
+   "company": "ByteDance",
+   "title": "Backend Developer Intern - Infrastructure Platform Delivery",
+   "url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788481642000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 27,
+   "matchedWords": [
+    "backend",
+    "infrastructure"
+   ],
+   "firstSeen": 1788484730503
+  },
+  {
+   "key": "simplify:498ba708-40ba-4b01-b748-b468ec53f831",
+   "company": "ByteDance",
+   "title": "Backend Development Engineer Graduate - Infrastructure Platform Delivery",
+   "url": "https://jobs.bytedance.com/en/position/7668484998475663621/detail",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788481642000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 27,
+   "matchedWords": [
+    "backend",
+    "infrastructure"
+   ],
+   "firstSeen": 1788484730503
+  },
+  {
+   "key": "simplify:e6bcc44f-fd6b-462f-a897-a31abbb56be7",
+   "company": "TikTok",
+   "title": "AI Infrastructure Engineer Intern - Algorithm Infrastructure",
+   "url": "https://lifeattiktok.com/search/7670120579999385861",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788474981000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1788484730503
+  },
   {
    "key": "simplify:20754e5e-e165-40e6-b859-c1dca81f7bdf",
    "company": "TikTok",
@@ -5726,65 +5791,6 @@
    "sponsorship": "unknown",
    "posted": 1788214450000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:956086a7-d67a-4072-93ae-47bf3687b548",
-   "company": "Google",
-   "title": "Software Engineer Intern - Multiple Teams",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
-   "locations": [
-    "Palo Alto, CA",
-    "Cambridge, MA",
-    "Madison, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788216140000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:32f14a18-130e-4911-a7f1-80e6010eba5e",
-   "company": "RELX",
-   "title": "Software Engineer New Grad",
-   "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-2",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788209777000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788221322410
-  },
-  {
-   "key": "simplify:e79e66fd-9829-4d64-9b2c-4854cdcfccd1",
-   "company": "RELX",
-   "title": "Software Engineer Graduate - Risk Solutions Technology",
-   "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023",
-   "locations": [
-    "Boca Raton, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788209782000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
