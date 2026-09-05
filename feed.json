@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-05T05:08:49.531Z",
+ "updatedAt": "2026-09-05T09:06:08.667Z",
  "jobs": [
+  {
+   "key": "simplify:6c3fb746-2d33-44e9-b97d-ada170e96ef0",
+   "company": "AiPrise",
+   "title": "Software Engineer 1",
+   "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788590059000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788599167943
+  },
   {
    "key": "simplify:9782344e-0072-4996-ae4d-b36ef27d13db",
    "company": "Tesla",
@@ -5784,25 +5803,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788287941000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:f6cf148f-6b09-4ec3-89f4-9dcda559b492",
-   "company": "Philips",
-   "title": "Design Release Engineer Co-op",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Design-Release-Engineer---Cambridge--MA---Jan---Aug-2027_590093",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788287761000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
