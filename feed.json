@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-05T12:42:25.331Z",
+ "updatedAt": "2026-09-05T15:39:26.772Z",
  "jobs": [
+  {
+   "key": "simplify:bd094d2e-e3dd-4cb1-a4d5-cdd8021d5ea8",
+   "company": "Greenheck Group",
+   "title": "Engineering Co-op",
+   "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348",
+   "locations": [
+    "Tulsa, OK"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788614678000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788622766104
+  },
   {
    "key": "simplify:6c3fb746-2d33-44e9-b97d-ada170e96ef0",
    "company": "AiPrise",
@@ -5782,25 +5801,6 @@
    "term": "Winter 2027",
    "roleType": "co-op",
    "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788287941000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:c067fe94-7764-4b4b-b95a-74df217fe320",
-   "company": "Booz Allen",
-   "title": "Software Developer Intern",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788287941000,
    "source": "SimplifyJobs internships",
