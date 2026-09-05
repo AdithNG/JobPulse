@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-05T00:50:28.614Z",
+ "updatedAt": "2026-09-05T05:08:49.531Z",
  "jobs": [
+  {
+   "key": "simplify:9782344e-0072-4996-ae4d-b36ef27d13db",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
+   "url": "https://www.tesla.com/careers/search/job/282598",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788570797000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788584928632
+  },
+  {
+   "key": "simplify:a35187f2-2b60-4934-a7af-6dde56245e69",
+   "company": "General Dynamics Mission Systems",
+   "title": "Software Engineer",
+   "url": "https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Scottsdale, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788571079000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788584928632
+  },
   {
    "key": "simplify:affc493c-ddc6-42c1-8ae5-58b0dbdc17eb",
    "company": "Rivian",
@@ -5765,44 +5803,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788287761000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:ae81d4a7-3369-45ee-b1b0-74df1c1e83e0",
-   "company": "Philips",
-   "title": "Data Engineering Co-op",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Reedsville-Pennsylvania-United-States/Co-op-Data-Engineering-Reedsville--PA-January-June-2027_587484",
-   "locations": [
-    "Reedsville, PA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788287941000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:8bfe3ea5-d1ef-41a1-ae40-253d70479829",
-   "company": "Philips",
-   "title": "Software Engineering Co-op - APM",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788287941000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
