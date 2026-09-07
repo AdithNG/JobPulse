@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-07T16:06:59.509Z",
+ "updatedAt": "2026-09-07T19:57:18.421Z",
  "jobs": [
+  {
+   "key": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
+   "company": "Dropbox",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://boards.greenhouse.io/embed/job_app?token=8106224",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788799537000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788811037484
+  },
   {
    "key": "simplify:75efacf7-58e1-468e-9621-e23a1444acdf",
    "company": "ICF International",
@@ -5784,25 +5803,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788288757000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:9c5c433f-5094-4a1d-815a-eba5c353c9a5",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Human-Machine Engineering Intern",
-   "url": "https://careers.jhuapl.edu/jobs/59782?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788288759000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
