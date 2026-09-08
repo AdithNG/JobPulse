@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-09-08T00:45:02.289Z",
+ "updatedAt": "2026-09-08T05:22:40.526Z",
  "jobs": [
+  {
+   "key": "simplify:abef7471-b1f8-4533-b996-761a7b7de857",
+   "company": "Caterpillar",
+   "title": "Software Engineer",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873",
+   "locations": [
+    "Peoria, IL",
+    "Chicago, IL",
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788829562000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788844959671
+  },
   {
    "key": "simplify:425aaabf-7af3-4cd6-b041-c9f26fe0e736",
    "company": "Dropbox",
@@ -5784,25 +5805,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788288662000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:e7948754-b13b-4505-93ff-72bf517be9f3",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Engineer/Analyst/Scientist Intern - C2 Resilience Sciences",
-   "url": "https://careers.jhuapl.edu/jobs/59832?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788288757000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
