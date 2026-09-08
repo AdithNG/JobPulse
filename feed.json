@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-08T05:22:40.526Z",
+ "updatedAt": "2026-09-08T10:02:51.943Z",
  "jobs": [
+  {
+   "key": "simplify:cd25d440-052a-4851-9715-cd9f0d4cc849",
+   "company": "Dick's Sporting Goods",
+   "title": "Software Engineer Intern - Corporate Internship",
+   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788847974000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788861771054
+  },
+  {
+   "key": "simplify:2a92c757-3cf3-472c-ae04-1df20bde3598",
+   "company": "Zions Bank",
+   "title": "Process Automation Developer Intern",
+   "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580",
+   "locations": [
+    "United States"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788852123000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788861771054
+  },
   {
    "key": "simplify:abef7471-b1f8-4533-b996-761a7b7de857",
    "company": "Caterpillar",
@@ -5767,44 +5805,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788286141000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:dab6f443-d39a-4bca-acad-451c8b347549",
-   "company": "Atlassian",
-   "title": "Software Engineer Intern",
-   "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788288662000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:750f0552-93b0-4644-b89f-4a151f134224",
-   "company": "Medline",
-   "title": "Software Development Intern - Summer 2027",
-   "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Software-Development-Intern---Summer-2027_R2617613",
-   "locations": [
-    "Northbrook, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788288662000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
