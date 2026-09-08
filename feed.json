@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-08T10:02:51.943Z",
+ "updatedAt": "2026-09-08T14:31:54.932Z",
  "jobs": [
+  {
+   "key": "simplify:61336981-7b78-4ab9-8bab-8b0acf82c912",
+   "company": "RTX",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788860621000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788877914294
+  },
+  {
+   "key": "simplify:e90bb9b3-2e96-47e0-80c1-169bb7a56849",
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01871997",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788860655000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788877914294
+  },
   {
    "key": "simplify:cd25d440-052a-4851-9715-cd9f0d4cc849",
    "company": "Dick's Sporting Goods",
@@ -5760,45 +5798,6 @@
    "locations": [
     "Pella, IA",
     "Urbandale, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788286141000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:f5d4fc37-b9d9-4b0b-95b0-38f06170c861",
-   "company": "Pella",
-   "title": "Data Engineer Intern - Summer 2027",
-   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304",
-   "locations": [
-    "Pella, IA",
-    "Urbandale, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788286141000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:1b6a13bf-b59e-45ff-b421-7861de777dee",
-   "company": "Pella",
-   "title": "Product Engineer Intern - Summer 2027",
-   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253231",
-   "locations": [
-    "Macomb, IL"
    ],
    "term": "Summer 2027",
    "roleType": "internship",
