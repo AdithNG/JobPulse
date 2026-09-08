@@ -1,6 +1,237 @@
 {
- "updatedAt": "2026-09-08T14:31:54.932Z",
+ "updatedAt": "2026-09-08T18:03:48.009Z",
  "jobs": [
+  {
+   "key": "simplify:e6dbbc55-6f12-4929-aae1-6c7b7e14a24b",
+   "company": "United Launch Alliance",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors",
+   "locations": [
+    "Centennial, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788877199000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:911c267d-707d-47ba-a37d-e740550bcd4f",
+   "company": "Motorola",
+   "title": "Software Engineer Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788881165000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:b3bc4c87-0bb5-4127-a2de-463445ff1e29",
+   "company": "Dick's Sporting Goods",
+   "title": "Data Analytics & Engineering Intern",
+   "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Data-Analytics---Engineering---Summer-2027-Internship_202608778-1",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788880058000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:fb049a47-cda8-435c-9a40-8bc357652e68",
+   "company": "Capital One",
+   "title": "AI Engineering Intern",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1",
+   "locations": [
+    "San Jose, CA",
+    "McLean, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788879915000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:4ba115ac-a103-4581-a244-f76fc0921727",
+   "company": "Capital One",
+   "title": "AI Engineer Intern",
+   "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1",
+   "locations": [
+    "San Jose, CA",
+    "McLean, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788879870000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:e6d169c5-4031-467b-a077-10fc12f8df10",
+   "company": "Peraton",
+   "title": "Software Engineer Intern",
+   "url": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Blacksburg, VA",
+    "Herndon, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788883674000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:391c6a07-d7ad-4fb2-acb2-cffeb02a8a12",
+   "company": "C.H. Robinson",
+   "title": "Software Engineer Intern",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+   "locations": [
+    "Eden Prairie, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788883735000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:2339b28c-2c1e-486e-a448-13adc31b9ad2",
+   "company": "Dimensional Fund Advisors",
+   "title": "Software Engineer Intern",
+   "url": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Technology---Software-Engineer_2026-9022",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788883485000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:a9b29fe5-49d0-4198-8037-ebf9c8ef0bd2",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Software Developer / RF Systems Engineer",
+   "url": "https://careers.jhuapl.edu/jobs/59975?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788877173000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:73a3a212-1ee7-41f6-808a-7d8149ed3ee2",
+   "company": "Leidos",
+   "title": "Radar Sustainment Engineer - System Model Development",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Sustainment-Engineer---System-Model-Development_R-00191333",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788879539000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:5cec425a-d9fb-468b-97d1-d5006c0f5694",
+   "company": "Accenture",
+   "title": "Product & Platform Engineering Analyst",
+   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711191006",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788877623000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
+  {
+   "key": "simplify:5d894a80-4336-46b3-a9a2-280fef8f7bbd",
+   "company": "Aptean",
+   "title": "Associate Product Engineer",
+   "url": "https://careers.aptean.com/jobs/7054?icims=1",
+   "locations": [
+    "Alpharetta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788884283000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788890626641
+  },
   {
    "key": "simplify:61336981-7b78-4ab9-8bab-8b0acf82c912",
    "company": "RTX",
@@ -5579,236 +5810,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:0c808f39-f82e-4f40-9bf5-05a6bf0e9704",
-   "company": "POET",
-   "title": "Process Engineering Intern",
-   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Process-Engineering-Intern---Summer-2027_R101679",
-   "locations": [
-    "Sioux Falls, SD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788302241000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:328e0c60-a7b7-4d0e-b8d1-c2ce66574592",
-   "company": "Berkshire Grey",
-   "title": "Software Co-op",
-   "url": "https://berkshiregrey.bamboohr.com/careers/763/",
-   "locations": [
-    "Bedford, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788301765000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:bd129aa6-b03d-4d43-a933-5b02e8d6cc61",
-   "company": "Toast",
-   "title": "Engineer Intern",
-   "url": "https://boards.greenhouse.io/embed/job_app?token=8171800",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788301754000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:9a334ffd-3252-4f69-a5fc-d3e16083784e",
-   "company": "Accenture",
-   "title": "Associate Software Engineer - Pega",
-   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788298421000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:8dc13916-c56a-400b-969b-302ccc73e591",
-   "company": "KLA",
-   "title": "Software Engineer",
-   "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788301643000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:3b1350b0-c797-4b04-aec8-96cf5449a24f",
-   "company": "Enercon Services",
-   "title": "Probabilistic Risk Assessment Engineer New Grad - PRA - Nuclear Services Team",
-   "url": "https://explore.enercon.com/jobs/4221?icims=1",
-   "locations": [
-    "Fort Worth, TX",
-    "Kennesaw, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788302952000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:c1d4dc63-07f0-4311-aa1c-e9e89586839f",
-   "company": "Enercon Services",
-   "title": "Safety Analysis Engineer - Early Career",
-   "url": "https://explore.enercon.com/jobs/4283?icims=1",
-   "locations": [
-    "Kennesaw, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788302942000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:67cb7477-5a0e-4d1b-bf05-1a12423d92b9",
-   "company": "Micron Technology",
-   "title": "Engineer New Grad - DPG Compute PE Y/Q",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Engineer--DPG-Compute-PE-Y-Q_JR106445",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788302937000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788304868578
-  },
-  {
-   "key": "simplify:5af13882-4022-4a51-8828-29a2ff89a39c",
-   "company": "Teledyne",
-   "title": "Software Engineer Intern",
-   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788287103000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:de6ca294-1126-4454-898d-b2b85359b595",
-   "company": "Dev Technology Group",
-   "title": "React/Node Developer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726212002",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788286861000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:f33a9b6b-aaf2-4d1c-b524-ceb79605cae0",
-   "company": "Dev Technology Group",
-   "title": "Microsoft Power Platform & AI Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726259002",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788286861000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
-  },
-  {
-   "key": "simplify:1b0bb488-c97a-4a6a-acd2-88b042ebf992",
-   "company": "Pella",
-   "title": "Software Intern",
-   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299",
-   "locations": [
-    "Pella, IA",
-    "Urbandale, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788286141000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788297130773
   }
  ]
 }
