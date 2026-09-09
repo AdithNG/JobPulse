@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-09-09T01:27:37.794Z",
+ "updatedAt": "2026-09-09T06:35:55.450Z",
  "jobs": [
+  {
+   "key": "simplify:35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
+   "company": "Gallup",
+   "title": "Data Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788918861000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788935754650
+  },
+  {
+   "key": "simplify:a5ff80d4-465e-4791-95fa-4e3daa029541",
+   "company": "Allen Control Systems",
+   "title": "Systems Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/9945f76d-6d03-45f0-b431-fc69d31f5476/application?embed=true",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1788917601000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788935754650
+  },
+  {
+   "key": "simplify:4cf87ab1-05e7-4025-8b98-5e7c93f08ad6",
+   "company": "Cintal",
+   "title": "Software Engineer - FORTRAN to C++ Migration",
+   "url": "https://ats.rippling.com/cintal/jobs/17acea2c-d8e7-48c0-ab90-c5458fb0c3ef",
+   "locations": [
+    "Morton, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788917317000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788935754650
+  },
+  {
+   "key": "simplify:2b12a7c8-2a88-48d5-90f7-d34a56473bc2",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Synthetic Aperture Radar Machine Learning Engineer - Imaging Systems",
+   "url": "https://careers.jhuapl.edu/jobs/59994?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788916533000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788935754650
+  },
+  {
+   "key": "simplify:ae44ea5a-496c-4667-9de2-6578c285889c",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Graduate Software Engineer - Multiple Teams",
+   "url": "https://careers.jhuapl.edu/jobs/59653?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788916394000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788935754650
+  },
   {
    "key": "gh:coinbase:8175471",
    "company": "Coinbase",
@@ -5704,103 +5799,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788411786000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:04af52ae-d053-4a93-8927-e281a49801e6",
-   "company": "Newrez",
-   "title": "Data Product Engineering Operations Specialist - Multiple Teams",
-   "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Data-Product-Engineering_R10364",
-   "locations": [
-    "Coppell, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788413127000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:ec0efca9-ba6b-47eb-9826-7864eb3520bc",
-   "company": "Amentum",
-   "title": "Component Lab Computer Engineer",
-   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Component-Lab-Computer-Engineer_R0169438",
-   "locations": [
-    "Crane, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788410704000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:fe6bef22-123f-4be3-bc91-d205cf1b4c6e",
-   "company": "Peraton",
-   "title": "Entry-Level Systems Engineer",
-   "url": "https://careers-peraton.icims.com/jobs/170126/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788411786000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:a015ef37-b241-4971-89e0-e4b6561afbbb",
-   "company": "Leidos",
-   "title": "Associate Software Developer - Air Traffic Business Area",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290",
-   "locations": [
-    "Eagan, MN",
-    "Gaithersburg, MD",
-    "Egg Harbor Township, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788414104000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:d7464a56-df34-4389-8516-7a3d68551e07",
-   "company": "Bestgate Engineering",
-   "title": "Systems Engineer",
-   "url": "https://bestgateengineering.applytojob.com/apply/pcGGXYfWYA/Cleared-System-Engineer-Entry-Level",
-   "locations": [
-    "Hanover, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788413227000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
