@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-09T06:35:55.450Z",
+ "updatedAt": "2026-09-09T11:52:09.778Z",
  "jobs": [
+  {
+   "key": "simplify:61ec7d70-4c67-42e3-b8ec-b7d24c4048e2",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Service Engineering",
+   "url": "https://www.tesla.com/careers/search/job/282233",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788935294000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788954728808
+  },
+  {
+   "key": "simplify:52c353b2-9e1b-4622-a0f1-f610019d21b7",
+   "company": "Framatome",
+   "title": "Computer Science Engineer 1 - Richland",
+   "url": "https://careers-framatome.icims.com/jobs/3321/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Richland, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788945988000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1788954728808
+  },
   {
    "key": "simplify:35f89fc9-30ca-497a-a6a0-ed005cf0e2af",
    "company": "Gallup",
@@ -5761,44 +5799,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788413339000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:7f9bed81-910c-451c-afca-90b42ff6ac4e",
-   "company": "General Dynamics Mission Systems",
-   "title": "Engineering Leadership Program Engineer - Class of 2027",
-   "url": "https://careers-gdms.icims.com/jobs/74727/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788411786000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788416672088
-  },
-  {
-   "key": "simplify:008db5e5-ebd4-4f30-b485-da1b91e6a917",
-   "company": "Keysight Technologies",
-   "title": "Software Engineer - Measurement Applications",
-   "url": "https://jobs.keysight.com/jobs/54139?icims=1",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788411786000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
