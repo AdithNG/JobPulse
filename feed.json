@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-10T06:35:56.632Z",
+ "updatedAt": "2026-09-10T11:50:01.397Z",
  "jobs": [
+  {
+   "key": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
+   "company": "Apple",
+   "title": "Software Engineer - Apple Ads",
+   "url": "https://jobs.apple.com/en-us/details/200682706",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789035661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789041000322
+  },
   {
    "key": "simplify:26b76573-439e-42cf-b4a5-f38f8408610c",
    "company": "Epic Games",
@@ -5784,26 +5803,6 @@
    "company": "GE Vernova",
    "title": "GridOS Project Engineer Intern Co-op - GridOS",
    "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2",
-   "locations": [
-    "Bellevue, WA",
-    "Atlanta, GA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788442752000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788448286643
-  },
-  {
-   "key": "simplify:7caf712d-6377-4f92-ae37-3a18b2ea14c6",
-   "company": "GE Vernova",
-   "title": "GridOS Project Engineer Co-op/Intern",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1",
    "locations": [
     "Bellevue, WA",
     "Atlanta, GA"
