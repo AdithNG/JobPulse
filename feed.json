@@ -1,6 +1,177 @@
 {
- "updatedAt": "2026-09-10T11:50:01.397Z",
+ "updatedAt": "2026-09-10T15:33:51.478Z",
  "jobs": [
+  {
+   "key": "simplify:a3b700b5-11b3-48ae-92cf-a4cd8017c1f6",
+   "company": "Entegris",
+   "title": "Lab Automation & AI Engineering Co-op",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1",
+   "locations": [
+    "Billerica, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789050087000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:c854434a-b324-4bf9-844f-e98d319bef95",
+   "company": "CACI",
+   "title": "Configuration Control/Data Management Co-op - Engineering Department",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440",
+   "locations": [
+    "Danbury, CT"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789049706000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:3e0882ef-3682-46f4-b5a5-bf8dadcf4a08",
+   "company": "Planview",
+   "title": "Software Engineer Intern",
+   "url": "https://careers.planview.com/jobs/5128?icims=1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789050188000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:d4423af2-8d19-4617-b72f-304bdf2c0d71",
+   "company": "Stryker",
+   "title": "Quality Engineer - Master Data",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Quality-Engineer--Master-Data--Hybrid-_R572285",
+   "locations": [
+    "Fremont, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789047181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:962f1bfd-70ba-4217-a32b-3e4ff0200101",
+   "company": "GE Vernova",
+   "title": "AI Engineer",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
+   "locations": [
+    "Greenville, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789049341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:f8b85cfe-7220-4177-a4a4-cd59e00ecd8b",
+   "company": "Noblis",
+   "title": "Artificial Intelligence Engineer",
+   "url": "https://careers.noblis.org/jobs/27812?icims=1",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789051501000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:face0c83-397d-4322-8e32-868a23dca209",
+   "company": "Pennsylvania State University",
+   "title": "Applied AI Engineer - Radiology AI Lab",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Applied-AI-Engineer---Radiology-AI-Lab_REQ_0000073876-2",
+   "locations": [
+    "Hershey, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789050800000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:4115edde-4ae5-4920-b782-86b84818fcc2",
+   "company": "Pennsylvania State University",
+   "title": "Software Engineer - Multiple Teams",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/R-D-Engineer--Software-Engineer_REQ_0000081569-2",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789050816000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
+  {
+   "key": "simplify:2dcb71be-979e-47c0-b8a8-0f9a1e116f46",
+   "company": "Pennsylvania State University",
+   "title": "Software Engineer - Strategic Systems Operation Division",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer--Software-Engineer_REQ_0000081602-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789050817000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789054430284
+  },
   {
    "key": "simplify:ccea935e-1055-419a-834c-8b52c01b71bc",
    "company": "Apple",
@@ -5643,180 +5814,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:203a0bff-f81f-425c-8800-ddf0ffe903c7",
-   "company": "Infojini",
-   "title": "Web Developer",
-   "url": "https://jobs.smartrecruiters.com/InfojiniInc1/89285304",
-   "locations": [
-    "Suitland-Silver Hill, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788457523000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:c6fabb1c-ea49-4a57-b51c-f8fa6db5e0de",
-   "company": "Direct Staffing",
-   "title": "Product Engineer",
-   "url": "https://jobs.smartrecruiters.com/dstaff/82133512",
-   "locations": [
-    "Orion Township, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788457523000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:fd9ff0ca-e3ee-47bf-82df-14b05f61f61c",
-   "company": "Atria Group",
-   "title": "Web/UI Developer - Replacement Position",
-   "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/77136535",
-   "locations": [
-    "Farmington Hills, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788457523000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:6780c9f1-005f-48a6-9fcd-0c5758b8465d",
-   "company": "Atria Group",
-   "title": "Cognos Developer",
-   "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87671152",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788457798000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:169a7d34-a297-4b63-8727-c52578f98efe",
-   "company": "Matic",
-   "title": "UX Engineer / Design Engineer",
-   "url": "https://jobs.ashbyhq.com/MaticRobots/2d90711b-10e4-4caa-ac31-78cd66657412/application?embed=true",
-   "locations": [
-    "Menlo Park, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788459329000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:40528ffd-a9d4-4749-8527-e9282a352120",
-   "company": "Testing Xperts",
-   "title": "Manhattan WMOS Developer",
-   "url": "https://jobs.smartrecruiters.com/TestingXperts/110249930",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788458348000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788460952804
-  },
-  {
-   "key": "simplify:c54797bf-2ee6-4b31-a8dd-c4cdbb8e5254",
-   "company": "ByteDance",
-   "title": "Multi-Cloud CDN Data Platform Engineer Graduate - CDN Platform",
-   "url": "https://jobs.bytedance.com/en/position/7673632479987992837/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788444390000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1788448286643
-  },
-  {
-   "key": "simplify:0299ccd7-7dac-48cc-80eb-9e224cc78f08",
-   "company": "Momentive",
-   "title": "Software Development Intern",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
-   "locations": [
-    "Niskayuna, NY"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788441079000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788448286643
-  },
-  {
-   "key": "simplify:4b982322-5cf7-44e2-bedc-ef603ee2bcd2",
-   "company": "GE Vernova",
-   "title": "GridOS Project Engineer Intern Co-op - GridOS",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2",
-   "locations": [
-    "Bellevue, WA",
-    "Atlanta, GA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788442752000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788448286643
   }
  ]
 }
