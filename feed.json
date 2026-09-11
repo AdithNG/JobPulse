@@ -1,6 +1,166 @@
 {
- "updatedAt": "2026-09-11T11:21:29.492Z",
+ "updatedAt": "2026-09-11T15:08:09.126Z",
  "jobs": [
+  {
+   "key": "simplify:df13ab5f-9eb4-4357-86df-afc457026297",
+   "company": "Citizens Financial Group",
+   "title": "Software Engineer Intern",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
+   "locations": [
+    "Plano, TX",
+    "Johnston, RI",
+    "Phoenix, AZ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789136876000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:b3c2da34-6510-4c41-aa40-26d5b8e94c8a",
+   "company": "The Toro Company",
+   "title": "Robotics Engineer Intern",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
+   "locations": [
+    "Bloomington, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789136785000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
+   "company": "Citizens Financial Group",
+   "title": "Data Engineer Intern - Enterprise Technology & Security",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
+   "locations": [
+    "Plano, TX",
+    "Johnston, RI",
+    "Phoenix, AZ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789136608000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Data Platforms",
+   "url": "https://www.tesla.com/careers/search/job/283117",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789137439000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:43f7ea35-f35d-4add-a344-e6dc42c8dbaa",
+   "company": "Tesla",
+   "title": "Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus",
+   "url": "https://www.tesla.com/careers/search/job/283128",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789137734000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:db198792-f1a9-4eb5-88da-5c5547ebe0fa",
+   "company": "Citizens Financial Group",
+   "title": "Data Engineer",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
+   "locations": [
+    "Plano, TX",
+    "Johnston, RI",
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789136462000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:9c4220ab-f3bd-423f-94ac-5cdcd9d06c63",
+   "company": "Citizens Financial Group",
+   "title": "Software Engineer",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
+   "locations": [
+    "Plano, TX",
+    "Johnston, RI",
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789136462000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
+  {
+   "key": "simplify:0d140cac-82da-463a-bbfd-a2789c5ce07b",
+   "company": "Wavestone",
+   "title": "Junior AI Engineer - AI & Data Team",
+   "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789135741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789139288282
+  },
   {
    "key": "simplify:85246fff-7e47-4644-a0e6-36d4ef176665",
    "company": "TD Bank",
@@ -5633,162 +5793,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:cca91aa9-bfb8-4738-8e08-5d0471286dd5",
-   "company": "Oracle",
-   "title": "Software Developer 1",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344446",
-   "locations": [
-    "Nashville, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788489741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:6d6a3ee8-39c1-4c9d-b0bb-4bc6bb8953c5",
-   "company": "Intel",
-   "title": "CAD/EDA Tools Automation Engineer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286595",
-   "locations": [
-    "Hillsboro, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491502000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:2e825bd1-77e4-4d76-a7b2-97d075d4e53a",
-   "company": "Microchip Technology",
-   "title": "Engineer 1 - Software Development",
-   "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--CAD--Software-Development-_R3637-26",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491492000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:744bd093-3680-4a50-a5b9-ded493ae37f6",
-   "company": "Cadence Design Systems",
-   "title": "Software Engineer New Grad",
-   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491482000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:13b5ab5d-af13-492a-91d4-03bf7316898e",
-   "company": "Cadence Design Systems",
-   "title": "Software Engineer",
-   "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:4191dcb2-b0bc-4368-9675-d2e2b16a16b8",
-   "company": "Caterpillar",
-   "title": "Autonomy and Robotics Engineer",
-   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Autonomy-and-Robotics-Engineer_R0000392427",
-   "locations": [
-    "Mossville, IL",
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788490835000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:12729453-987e-41d4-8d5e-86bc51fb6af7",
-   "company": "Applied Materials",
-   "title": "Software Engineer - New College Grad-Master's",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/ChandlerAZ/Software-Engineer--New-College-Grad--Master-s--Chandler--AZ-_R2627911",
-   "locations": [
-    "Chandler, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788490284000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:1f65e1dc-4f67-432b-822e-9d4bf09cfc3d",
-   "company": "ByteDance",
-   "title": "Backend Developer Intern - Infrastructure Platform Delivery",
-   "url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788481642000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 27,
-   "matchedWords": [
-    "backend",
-    "infrastructure"
-   ],
-   "firstSeen": 1788484730503
   }
  ]
 }
