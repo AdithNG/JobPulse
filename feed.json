@@ -1,6 +1,104 @@
 {
- "updatedAt": "2026-09-11T01:13:24.767Z",
+ "updatedAt": "2026-09-11T06:08:06.706Z",
  "jobs": [
+  {
+   "key": "simplify:89ec8845-ea94-482e-9c4f-909bc1a1c017",
+   "company": "GrayMatter Robotics",
+   "title": "Robotics Engineering Intern - Systems & Applications",
+   "url": "https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true",
+   "locations": [
+    "Carson, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789090118000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789106885678
+  },
+  {
+   "key": "simplify:48fe73cf-84c7-4a22-bfd9-952a666e8607",
+   "company": "Vertiv",
+   "title": "Innovation Lab Engineering Intern 2",
+   "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129",
+   "locations": [
+    "Delaware, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789089793000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789106885678
+  },
+  {
+   "key": "simplify:fce07d58-8d51-46a0-9ac2-6f8f9be4da7f",
+   "company": "Emerson Electric",
+   "title": "Software Engineer Co-op",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738",
+   "locations": [
+    "Eden Prairie, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789089345000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789106885678
+  },
+  {
+   "key": "simplify:f00e8399-0777-4e56-b2cb-0fd0631a0655",
+   "company": "Walmart",
+   "title": "Software Engineer 2 Intern",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
+   "locations": [
+    "Bentonville, AR",
+    "Bellevue, WA",
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789089180000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789106885678
+  },
+  {
+   "key": "simplify:9cd21651-921e-42a7-a95f-01b1f4bea964",
+   "company": "Tanium",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+   "locations": [
+    "Emeryville, CA",
+    "Durham, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789090772000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789106885678
+  },
   {
    "key": "simplify:36c9b7b4-9e96-49e9-adda-25c5ec121022",
    "company": "General Dynamics Information Technology",
@@ -5703,101 +5801,6 @@
    "matchedWords": [
     "aws"
    ],
-   "firstSeen": 1788470759653
-  },
-  {
-   "key": "simplify:b1a481a6-be62-46c4-a6c8-7c8b894bf94e",
-   "company": "Lila Sciences",
-   "title": "Software Product Management Co-op",
-   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788461659000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788470759653
-  },
-  {
-   "key": "simplify:497d74b1-baa5-412b-ba3d-76ffc87e197d",
-   "company": "TikTok",
-   "title": "Global Product Strategy & Operation Project Intern - Ads Interface and Platform Product",
-   "url": "https://lifeattiktok.com/search/7663478489194612997",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788465800000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788470759653
-  },
-  {
-   "key": "simplify:8956fcef-9bc0-4e93-bbc2-2f9165ddc136",
-   "company": "TikTok",
-   "title": "Product Solutions and Operations Project Intern - Ads Interface and Platform Product",
-   "url": "https://lifeattiktok.com/search/7665080709191108917",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788465800000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788470759653
-  },
-  {
-   "key": "simplify:3fa13a7e-c5ff-44e8-982b-19a4d1129b16",
-   "company": "TSC",
-   "title": "Systems Engineer 1",
-   "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Systems-Engineer-I_JR2566",
-   "locations": [
-    "Silver Spring, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788460041000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788470759653
-  },
-  {
-   "key": "simplify:e9f3f29c-ac00-436e-9452-9db6fa5464be",
-   "company": "Northrop Grumman",
-   "title": "Engineer Systems",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Systems_R10236711",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788461659000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1788470759653
   }
  ]
