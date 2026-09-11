@@ -1,6 +1,158 @@
 {
- "updatedAt": "2026-09-11T06:08:06.706Z",
+ "updatedAt": "2026-09-11T11:21:29.492Z",
  "jobs": [
+  {
+   "key": "simplify:85246fff-7e47-4644-a0e6-36d4ef176665",
+   "company": "TD Bank",
+   "title": "Data Engineer Co-op - Global Technology & Solutions",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
+   "locations": [
+    "Mt Laurel Township, NJ"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789107110000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:194a2192-6413-4ed0-9957-dfe5dc3f3f0c",
+   "company": "TD Bank",
+   "title": "Software Engineer Co-op - Global Technology & Solutions",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
+   "locations": [
+    "Mt Laurel Township, NJ"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789107114000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:127d20c7-244f-4630-9b44-e23957ff0d16",
+   "company": "Wellmark",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793",
+   "locations": [
+    "Des Moines, IA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789106936000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
+   "company": "Microsoft",
+   "title": "Software Engineer - CoreAI",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789109909000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:0bde796d-8c15-4ed2-aa8b-9c27e200e67c",
+   "company": "Eurofins",
+   "title": "Application Engineer",
+   "url": "https://jobs.smartrecruiters.com/Eurofins/744000148856049",
+   "locations": [
+    "Lancaster, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789115530000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:f5b391e6-764a-4995-96ae-c6e50664aef5",
+   "company": "Zoom",
+   "title": "Software Engineer - Workforce Engagement Management",
+   "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R19646-1",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789119721000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:6765f939-ce0a-421f-9d29-884dc3fe84a0",
+   "company": "Scientific Research Corporation",
+   "title": "Software Developer 1",
+   "url": "https://careers-scires.icims.com/jobs/11507/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "North Charleston, SC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789119616000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
+  {
+   "key": "simplify:7dbe9685-0792-4856-ab07-9f72967defd3",
+   "company": "Garmin",
+   "title": "Software Engineer 1 - Android",
+   "url": "https://careers.garmin.com/jobs/16587?icims=1",
+   "locations": [
+    "Yarmouth, ME"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789120878000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789125688283
+  },
   {
    "key": "simplify:89ec8845-ea94-482e-9c4f-909bc1a1c017",
    "company": "GrayMatter Robotics",
@@ -5637,171 +5789,6 @@
     "infrastructure"
    ],
    "firstSeen": 1788484730503
-  },
-  {
-   "key": "simplify:498ba708-40ba-4b01-b748-b468ec53f831",
-   "company": "ByteDance",
-   "title": "Backend Development Engineer Graduate - Infrastructure Platform Delivery",
-   "url": "https://jobs.bytedance.com/en/position/7668484998475663621/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788481642000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 27,
-   "matchedWords": [
-    "backend",
-    "infrastructure"
-   ],
-   "firstSeen": 1788484730503
-  },
-  {
-   "key": "simplify:e6bcc44f-fd6b-462f-a897-a31abbb56be7",
-   "company": "TikTok",
-   "title": "AI Infrastructure Engineer Intern - Algorithm Infrastructure",
-   "url": "https://lifeattiktok.com/search/7670120579999385861",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788474981000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788484730503
-  },
-  {
-   "key": "simplify:20754e5e-e165-40e6-b859-c1dca81f7bdf",
-   "company": "TikTok",
-   "title": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
-   "url": "https://lifeattiktok.com/search/7668881813744191749",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788473001000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788478172717
-  },
-  {
-   "key": "simplify:f69d2ff9-a810-4d7c-961c-31525cf9139d",
-   "company": "TikTok",
-   "title": "US Commercial Infrastructure Management Graduate - Global Procurement",
-   "url": "https://lifeattiktok.com/search/7668180925700065589",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788471562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788478172717
-  },
-  {
-   "key": "simplify:37ec2ae1-5f91-4d92-a3e5-b68b4b00bfd3",
-   "company": "TikTok",
-   "title": "Machine Learning Infrastructure Engineer New Grad - Ads Infra",
-   "url": "https://lifeattiktok.com/search/7668693662561634613",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788471562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788478172717
-  },
-  {
-   "key": "simplify:9ed60305-1668-42f5-a1ee-35ecadf6be12",
-   "company": "Solvarus",
-   "title": "Model Based Systems Engineer",
-   "url": "https://solvarus.applytojob.com/apply/xd043E1KL2/Model-Based-System-EngineerJunior-Level",
-   "locations": [
-    "Chantilly, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788471562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788478172717
-  },
-  {
-   "key": "simplify:c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85",
-   "company": "Systems Planning and Analysis",
-   "title": "Associate Systems Engineer",
-   "url": "https://spa.jibeapply.com/jobs/23161?icims=1",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788473545000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788478172717
-  },
-  {
-   "key": "simplify:2cd0f1c9-7c43-41d3-850c-4b74451159f6",
-   "company": "Amazon",
-   "title": "Software Development Engineer - AWS Glue",
-   "url": "https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788462022000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "aws"
-   ],
-   "firstSeen": 1788470759653
   }
  ]
 }
