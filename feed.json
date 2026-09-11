@@ -1,6 +1,567 @@
 {
- "updatedAt": "2026-09-11T21:18:25.477Z",
+ "updatedAt": "2026-09-11T23:23:23.901Z",
  "jobs": [
+  {
+   "key": "simplify:33b49b9d-1aed-41bb-ba49-d0567c7f2f94",
+   "company": "REI Systems",
+   "title": "Associate Software Engineer - Java",
+   "url": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789164540000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b",
+   "company": "OneImaging",
+   "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
+   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789166161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:8dff8685-3a17-4f9c-b1d4-6d01c0258242",
+   "company": "RTX",
+   "title": "Software Engineer Co-op - Spring/Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789165716000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:77dcf2a7-167d-441e-87cb-ad11e7f55bba",
+   "company": "AES",
+   "title": "Performance and Reliability Engineering Intern - Summer 2027",
+   "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841",
+   "locations": [
+    "Dayton, OH",
+    "Indianapolis, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165703000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:93d5d930-8ab2-4a53-aa31-d238b45b41d5",
+   "company": "Corteva",
+   "title": "AI Engineer Intern",
+   "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165645000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:e3c16702-69b1-496c-b4a7-13ea33504cfc",
+   "company": "Oshkosh",
+   "title": "Autonomy & Active Safety Engineer Intern",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266",
+   "locations": [
+    "Oshkosh, WI",
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789166194000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:be741c04-69a7-41b2-8fb3-8d280bacbe8c",
+   "company": "Oshkosh",
+   "title": "AI Engineer Intern",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
+   "locations": [
+    "Oshkosh, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789166205000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:cab02356-db9f-43a1-a400-e5fa53352e0b",
+   "company": "Veeam Software",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165990000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:da6c09b8-173d-4c72-bf85-472ace81bd4b",
+   "company": "Tesla",
+   "title": "Content Integration Engineer Intern - Vehicle Firmware",
+   "url": "https://www.tesla.com/careers/search/job/283220",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789166024000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:63c54762-f415-4c3b-98b4-73e036029e35",
+   "company": "Tesla",
+   "title": "Commercial Charging Product Management Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/283156",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789167246000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:12b58efe-8607-4280-a3c0-fb40a2a2232a",
+   "company": "Veeam Software",
+   "title": "Security & AI Engineer Intern",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165998000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:92fe6d6b-6590-49b9-aa41-bb0f877535d9",
+   "company": "Tesla",
+   "title": "Data Engineer Intern - Fleet Analytics",
+   "url": "https://www.tesla.com/careers/search/job/283138",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789166044000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:2e3471cf-662d-486a-853c-85c6a9936243",
+   "company": "Veeam Software",
+   "title": "Policy Engineering Intern",
+   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165987000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:2649b240-bda5-4d10-bbcc-5ddb74bb2202",
+   "company": "Perpay",
+   "title": "Data Engineering Intern",
+   "url": "https://job-boards.greenhouse.io/perpay/jobs/4076965007",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165944000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:97071ed7-a906-402b-b755-8a9a9f9968c7",
+   "company": "Amgen",
+   "title": "Machine Learning Engineer Intern",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165895000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:dc2aebf1-8c3c-4139-937e-f31dfd69950e",
+   "company": "Amgen",
+   "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165890000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:daf764cc-9f18-4c08-8bf4-fd6a95cb1638",
+   "company": "AMD",
+   "title": "Machine Learning System Engineering Intern/Co-op",
+   "url": "https://careers.amd.com/jobs/92342?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789165879000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:6c92723f-00d1-47ec-952c-a90c737de3a0",
+   "company": "Amgen",
+   "title": "Data Engineer Intern - Technology & Medical Organizations",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165890000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:079b70ee-8105-46b4-9163-319c8610f157",
+   "company": "Amgen",
+   "title": "Software Engineer Intern - Technology & Medical Organizations",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165890000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:69f5edde-2904-4610-a7eb-8132ce17ead9",
+   "company": "Booz Allen",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
+   "locations": [
+    "Fayetteville, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165903000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:698feec2-81e2-41f9-854b-5a57cc104ace",
+   "company": "Amgen",
+   "title": "Data Engineer Intern",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165887000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:5012230e-2a8b-4047-80ec-4b7c9ecbf427",
+   "company": "Amgen",
+   "title": "Software Engineer Intern - Amgen’s Technology & Medical Organizations",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165886000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:fd459609-149f-4f12-8894-a6124c4b7163",
+   "company": "AMD",
+   "title": "AI Systems & GPU Performance Engineer Intern",
+   "url": "https://careers.amd.com/jobs/92354?icims=1",
+   "locations": [
+    "San Jose, CA",
+    "Santa Clara, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789165864000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:b399880a-a936-4d77-ba1c-e108a00e5e51",
+   "company": "Xcimer Energy",
+   "title": "Computational and Software Engineering Intern",
+   "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789165836000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:6c48d7cb-d59c-4c94-99b5-5a897366072a",
+   "company": "Motorola",
+   "title": "Android Software Engineer",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
+   "locations": [
+    "Plantation, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789165441000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:fd11a598-750e-41c2-a06d-7ff0ae10fe31",
+   "company": "Fidelity National Information Services",
+   "title": "Software Engineer - FIS University Program",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486",
+   "locations": [
+    "Milwaukee, WI",
+    "Jacksonville, FL",
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789165287000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:3cf2989b-3ddf-42e1-9cab-51ba4f0c682a",
+   "company": "Mirantis",
+   "title": "Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/Mirantis/744000149065869",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789164361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:3f2de24b-8f96-4412-93d4-eedb22a6d3f5",
+   "company": "Achieve",
+   "title": "Associate AI Solutions Engineer",
+   "url": "https://jobs.smartrecruiters.com/Achieve1/3743990015218506",
+   "locations": [
+    "Tempe, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789164361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
+  {
+   "key": "simplify:d35dd23b-846b-4263-be1b-ff94fdfab2e5",
+   "company": "OneImaging",
+   "title": "Associate Software Engineer - UF Only",
+   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009",
+   "locations": [
+    "Miami, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789166181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789169002934
+  },
   {
    "key": "simplify:e97a377e-d1c0-4278-86c7-389bacdaa737",
    "company": "Johns Hopkins Applied Physics Laboratory",
@@ -5223,576 +5784,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788520612373
-  },
-  {
-   "key": "simplify:8537fef1-0a19-4a76-a781-bbcd5baf1995",
-   "company": "AQR Capital Management",
-   "title": "Research and Portfolio Management Engineering Summer Analyst Intern",
-   "url": "https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728",
-   "locations": [
-    "Greenwich, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788508981000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788520612373
-  },
-  {
-   "key": "simplify:33d87281-2914-4356-ad13-441114284934",
-   "company": "AQR Capital Management",
-   "title": "Engineering Summer Analyst Intern",
-   "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647",
-   "locations": [
-    "Greenwich, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788508261000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788520612373
-  },
-  {
-   "key": "simplify:6960822e-4578-44ab-a953-a8185d77fad5",
-   "company": "Corning",
-   "title": "Digital & IT Intern - Analyst - Data & AI Platform Engineering",
-   "url": "https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Data-&-AI-Platform-Engineering-Summer-2027-NC-28216/1425716600/?ats=successfactors",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788515641000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788520612373
-  },
-  {
-   "key": "simplify:e78d8db1-0336-4670-aa71-5b51a2f8ad60",
-   "company": "Amazon",
-   "title": "Software Development Engineer - AWS Data Services",
-   "url": "https://amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788499081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "aws"
-   ],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:d18679b9-d87f-4ffd-a1c2-72c408274aba",
-   "company": "TikTok",
-   "title": "AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live",
-   "url": "https://lifeattiktok.com/search/7670876223732762933",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788483801000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:9d136976-01e5-4307-a617-04d2b97abacb",
-   "company": "GE Vernova",
-   "title": "Software Engineer Co-op - Critical Infrastructure Communication",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1",
-   "locations": [
-    "Rochester, NY"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491288000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:90873fc6-265d-4b32-9cdf-b4ce1e206cca",
-   "company": "GE Vernova",
-   "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1",
-   "locations": [
-    "Rochester, NY"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491288000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:d2423d18-b85e-42bc-91ad-3e14d9570554",
-   "company": "TikTok",
-   "title": "Recommendation Architecture AI/ML Infrastructure Engineer Graduate - Data-Arch-Tiktok Live",
-   "url": "https://lifeattiktok.com/search/7670876337129425205",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788483801000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:6477c48f-f236-4372-b752-4dc347dd417a",
-   "company": "Sherwin-Williams",
-   "title": "Associate Full Stack Application Developer - Industrial Automation",
-   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642",
-   "locations": [
-    "Cleveland, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788489741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:0326fee7-b91f-444e-8aab-b0b621d7b02a",
-   "company": "Motorola",
-   "title": "Supply Chain Applied AI Engineering Intern",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Applied-AI-Engineering-Intern_R67461",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788483801000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:f6b5ff0d-148d-4780-a5c2-ce8d5f7bcec1",
-   "company": "skillz",
-   "title": "Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/skillzinc/jobs/8168006",
-   "locations": [
-    "Las Vegas, NV"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788490570000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:100aa374-4fc4-4766-87fe-7cdd6b8a5ecc",
-   "company": "Motorola",
-   "title": "Android Platform Software Engineer Intern - Summer 2027",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
-   "locations": [
-    "Schaumburg, IL",
-    "Plantation, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788490420000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:c4b04101-1a96-40a4-ab89-9a4100b785eb",
-   "company": "Saab",
-   "title": "Software Engineer Co-op",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
-   "locations": [
-    "East Syracuse, NY"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788490335000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:a9900edf-029b-4f1e-98cb-a9a1c96f11b3",
-   "company": "Adobe",
-   "title": "Software Engineer Intern",
-   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-   "locations": [
-    "Seattle, WA",
-    "Austin, TX",
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788490262000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:a62e77a9-988b-42c6-abf2-5885839a948c",
-   "company": "Caterpillar",
-   "title": "Corporate Intern - Autonomy & Intelligent Systems Engineering",
-   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Autonomy---Intelligent-Systems-Engineering_R0000392394",
-   "locations": [
-    "Peoria, IL",
-    "Pittsburgh, PA",
-    "Mossville, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788490204000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:1ea4c927-ae9b-4c03-a0ae-cb2af5e5a8cb",
-   "company": "Skyward",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/Skyward1/744000147320799",
-   "locations": [
-    "Stevens Point, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788490161000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:5bdec003-2a02-42a4-a602-467541840552",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Americas - Engineering",
-   "url": "https://higher.gs.com/roles/171565?type=students",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788489731000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:1949c912-65b2-42ac-9836-c110baed0ef6",
-   "company": "Goldman Sachs",
-   "title": "Summer Analyst Intern - Engineering",
-   "url": "https://higher.gs.com/roles/177808?type=students",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788489727000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:d3f54d58-9f89-4689-b91d-f9e03013c3ca",
-   "company": "Skydio",
-   "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
-   "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788490835000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:d0242b0d-eda0-4a81-b130-d0719520e546",
-   "company": "Innovative Systems",
-   "title": "Software Engineer Intern/Co-op",
-   "url": "http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788491374000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:ea127849-c2ce-48a3-8ef5-8024831dc02e",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern - Robotics",
-   "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
-   "locations": [
-    "Seattle, WA",
-    "Nashville, TN",
-    "Austin, TX"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788490835000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:2583c13c-1003-4d90-a33c-cb634ef5ba6e",
-   "company": "Innovative Systems",
-   "title": "Software Engineering Intern/Co-op",
-   "url": "http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491385000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:adc00b6f-fe39-46b8-a7d1-0f4ea72504eb",
-   "company": "GE Vernova",
-   "title": "CIC Systems Engineer Co-op",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1",
-   "locations": [
-    "Rochester, NY"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788491291000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:f455fc61-2abc-42c1-96e2-b19e6f175508",
-   "company": "Sierra Nevada Corporation",
-   "title": "Software Engineer Intern",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
-   "locations": [
-    "Folsom, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788491127000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:ee38a5ce-789c-4457-92fc-8400e8b038bc",
-   "company": "Sierra Nevada Corporation",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757",
-   "locations": [
-    "Lone Tree, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788491128000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:db1e4fb4-a7e7-4c57-ae1c-7ffdab053208",
-   "company": "DriveTime",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
-   "locations": [
-    "Tempe, AZ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788491059000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:b7c2c963-6116-45d7-aa64-15930ea624ae",
-   "company": "DriveTime",
-   "title": "Database Engineer Intern",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300",
-   "locations": [
-    "Tempe, AZ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788491053000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:48bf49f5-eda3-401d-a7ae-961d66c48e77",
-   "company": "Self Financial",
-   "title": "Associate Software Engineer - UI",
-   "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6181750004",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788490284000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
-  },
-  {
-   "key": "simplify:de92ac79-32b3-4853-9ab6-09f5961ee7cb",
-   "company": "Emerus Holdings",
-   "title": "Junior Business Intelligence Developer",
-   "url": "https://careers-emerus.icims.com/jobs/23145/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "The Woodlands, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788489741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788501979199
   }
  ]
 }
