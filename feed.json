@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-10T23:15:20.754Z",
+ "updatedAt": "2026-09-11T01:13:24.767Z",
  "jobs": [
+  {
+   "key": "simplify:36c9b7b4-9e96-49e9-adda-25c5ec121022",
+   "company": "General Dynamics Information Technology",
+   "title": "Junior Software Developer - Active TS/SCI with Poly Required",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788456622000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789089203886
+  },
   {
    "key": "simplify:8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
    "company": "Target",
@@ -5769,27 +5788,6 @@
    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Systems_R10236711",
    "locations": [
     "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788461659000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788470759653
-  },
-  {
-   "key": "simplify:d931bc42-b07d-4012-9ff8-d315e5e25dc7",
-   "company": "Amazon",
-   "title": "Robotics – Software Development Engineer",
-   "url": "https://amazon.jobs/en/jobs/10452115/robotics-software-development-engineer",
-   "locations": [
-    "Seattle, WA",
-    "Austin, TX",
-    "Arlington, VA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
