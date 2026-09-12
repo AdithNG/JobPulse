@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-09-12T06:25:10.915Z",
+ "updatedAt": "2026-09-12T11:11:40.383Z",
  "jobs": [
+  {
+   "key": "simplify:6f0ac1d2-020c-4403-bbe7-85b5e31d912d",
+   "company": "Constellation Energy",
+   "title": "Information Technology Software Development Intern",
+   "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
+   "locations": [
+    "Baltimore, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789193932000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789211499585
+  },
+  {
+   "key": "simplify:716fd175-ba44-46d7-a0b6-0d77bf93b7c4",
+   "company": "Constellation Energy",
+   "title": "IT Data Engineering Intern",
+   "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1",
+   "locations": [
+    "Baltimore, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789193936000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789211499585
+  },
+  {
+   "key": "simplify:c980e3e0-5eb6-443f-bc62-cd9de0ab4ae2",
+   "company": "Acuity",
+   "title": "Software Engineering Specialist - BUILD Leadership Program",
+   "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors",
+   "locations": [
+    "Conyers, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789193439000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789211499585
+  },
+  {
+   "key": "simplify:c922e8d4-2a85-4851-868c-771e8523bb0e",
+   "company": "Retell AI",
+   "title": "Forward Deployed Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
+   "locations": [
+    "Redwood City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789195521000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789211499585
+  },
   {
    "key": "simplify:225e2ae1-b489-4254-a690-889ce1a7578b",
    "company": "Aptiv",
@@ -5706,82 +5782,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788546004841
-  },
-  {
-   "key": "simplify:355a0760-208b-425c-9769-6bd234775cfa",
-   "company": "Procter & Gamble",
-   "title": "IT Engineering Internship - Software, Platform, Network",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788525901000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:3688df39-97f0-4d58-9056-670579590679",
-   "company": "The Walt Disney Company",
-   "title": "Industrial Engineer Intern - Workforce Management",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144-1",
-   "locations": [
-    "Lake Buena Vista, FL"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788525901000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:2440120c-cae1-4ca3-8e9b-73e8ca4bfac9",
-   "company": "Deloitte",
-   "title": "Data & AI Solutions Engineering Summer Scholar Intern",
-   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788524462000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:cbad6c98-1423-47aa-86c6-25d238ec0bb8",
-   "company": "Dev Technology Group",
-   "title": "AI/Agentic Solution Engineer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788527521000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
   }
  ]
 }
