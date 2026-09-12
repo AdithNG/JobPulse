@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-12T14:11:37.576Z",
+ "updatedAt": "2026-09-12T17:14:17.417Z",
  "jobs": [
+  {
+   "key": "simplify:62062c60-b51b-42e1-ad42-76f03297fcb6",
+   "company": "Virtual Technologies Group",
+   "title": "Web Developer - Front End",
+   "url": "https://virtualtechnologygroupllc.applytojob.com/apply/7eGy8jc0JK/Web-Developer",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789224481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789233256345
+  },
+  {
+   "key": "simplify:5f62b02a-d87f-4a82-9762-6fdf7588a8f1",
+   "company": "Nerdio",
+   "title": "Solutions Engineer - Early Career",
+   "url": "https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789224338000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789233256345
+  },
   {
    "key": "simplify:6f0ac1d2-020c-4403-bbe7-85b5e31d912d",
    "company": "Constellation Energy",
@@ -5739,45 +5777,6 @@
    "sponsorship": "unknown",
    "posted": 1788536543000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788546004841
-  },
-  {
-   "key": "simplify:7e8834d8-2571-478a-aaeb-8bb9c3fbb656",
-   "company": "GE Vernova",
-   "title": "Project Engineer Intern - Summer 2027",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788538024000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788546004841
-  },
-  {
-   "key": "simplify:513e6d2f-18b8-4296-b39d-cd4c8b148b9b",
-   "company": "DoorDash",
-   "title": "Software Engineer 1 - Entry-Level",
-   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
-   "locations": [
-    "Seattle, WA",
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788533849000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
