@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-12T17:14:17.417Z",
+ "updatedAt": "2026-09-12T19:28:26.643Z",
  "jobs": [
+  {
+   "key": "simplify:90073809-4e42-4a91-9c65-c5750c320aba",
+   "company": "Klaviyo",
+   "title": "Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789234741000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789241305945
+  },
+  {
+   "key": "simplify:155087e9-02c4-4e9c-af43-3d7e5a3a6091",
+   "company": "Klaviyo",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789234741000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789241305945
+  },
+  {
+   "key": "simplify:5077be7d-bf97-4e0b-8fad-8674bf28d206",
+   "company": "Klaviyo",
+   "title": "Software Engineer 1",
+   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789234787000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789241305945
+  },
   {
    "key": "simplify:62062c60-b51b-42e1-ad42-76f03297fcb6",
    "company": "Virtual Technologies Group",
@@ -5724,63 +5781,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:5692a35b-a407-498c-9c37-aef39ac5511e",
-   "company": "Constellation Energy",
-   "title": "Associate Software Engineer - AI",
-   "url": "https://jobs.constellationenergy.com/jobs/138781?icims=1",
-   "locations": [
-    "Baltimore, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561644000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:271f04b2-4017-4e86-b67f-387e7a47b5fe",
-   "company": "ID.me",
-   "title": "Software Development Engineer New Grad",
-   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980382003",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561054000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:ecb50799-5432-4e4c-94bd-ab79e8a11ebd",
-   "company": "Westinghouse Electric Company",
-   "title": "Enovia PLM Developer Intern - Enovia PLM",
-   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors",
-   "locations": [
-    "Cranberry Township, PA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788536543000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788546004841
   }
  ]
 }
