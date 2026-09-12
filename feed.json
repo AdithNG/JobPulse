@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-09-12T01:28:30.867Z",
+ "updatedAt": "2026-09-12T06:25:10.915Z",
  "jobs": [
+  {
+   "key": "simplify:225e2ae1-b489-4254-a690-889ce1a7578b",
+   "company": "Aptiv",
+   "title": "RTOS Development Engineer",
+   "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineer---RTOS-US_J000700368",
+   "locations": [
+    "Walnut Creek, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789175889000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789194310114
+  },
+  {
+   "key": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
+   "company": "Amazon",
+   "title": "Software Privacy Engineer - Multiple Teams",
+   "url": "https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789175881000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789194310114
+  },
+  {
+   "key": "simplify:66055d03-6077-4b6b-a0dc-455d2dd18a88",
+   "company": "Acuity",
+   "title": "Software Engineering Specialist - Growth & Transformation - BUILD Leadership Program",
+   "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Leadership-Program-GA-30309/1429282700/?ats=successfactors",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789175620000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789194310114
+  },
+  {
+   "key": "simplify:204591ee-8f2b-4fc5-b19b-ba0122240474",
+   "company": "DiDi Global",
+   "title": "Software Engineer - Planning Selection Autonomy",
+   "url": "https://job-boards.greenhouse.io/didi/jobs/8198298",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789177021000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789194310114
+  },
   {
    "key": "simplify:27deb3b5-50a4-4bab-9656-57bb2dd34ead",
    "company": "MegazoneCloud",
@@ -5701,82 +5777,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788527521000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:e83c500f-6896-4414-b9b7-bc22069038ed",
-   "company": "GlobalFoundries",
-   "title": "RF Technology Development Automation Engineer Intern - Summer 2027",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272",
-   "locations": [
-    "Malta, NY"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788527881000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:bdc2e5e0-9ec7-4480-af9b-d02e6fb8dbfd",
-   "company": "Tesla",
-   "title": "Fleet Management Algorithms Intern - Vehicle Software",
-   "url": "https://www.tesla.com/careers/search/job/282483",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788531547000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:8c58bc92-e90a-4ee3-9ef4-9d72c536abde",
-   "company": "Tesla",
-   "title": "Audio & Sensor Software Engineer Intern - Vehicle Engineering",
-   "url": "https://www.tesla.com/careers/search/job/282301",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788531710000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
-   "company": "Principal Financial Group",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://careers.principal.com/jobs/52513?icims=1",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788531169000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
