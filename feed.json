@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-09-11T23:23:23.901Z",
+ "updatedAt": "2026-09-12T01:28:30.867Z",
  "jobs": [
+  {
+   "key": "simplify:27deb3b5-50a4-4bab-9656-57bb2dd34ead",
+   "company": "MegazoneCloud",
+   "title": "Software Engineer Co-op",
+   "url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true",
+   "locations": [
+    "Rochester, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789171126000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:6a833744-e49d-4159-a168-e07ab82f981b",
+   "company": "Commure",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789171068000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:eb4588fd-1b28-4f95-b27c-2742b4ca906e",
+   "company": "ibotta",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789170661000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:8262d1b0-a155-42eb-b4f5-a14a377ffb1b",
+   "company": "Avis Budget Group",
+   "title": "Transformation Engineer Intern - Accelerate",
+   "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388",
+   "locations": [
+    "Parsippany-Troy Hills, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789170927000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:56643b28-dde5-4741-8c6d-159dac2237f7",
+   "company": "Deepgram",
+   "title": "People AI & Automation Engineer",
+   "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789170841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:b9e498c9-b575-4a49-8288-ac332424e40d",
+   "company": "Selector Software",
+   "title": "Software Engineer",
+   "url": "https://selectorsoftware.bamboohr.com/careers/198/",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789170841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0",
+   "company": "Commure",
+   "title": "Software Engineer - Early Career",
+   "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789171079000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
+  {
+   "key": "simplify:3ee60348-39b1-4a67-b417-dfaf6fd38d00",
+   "company": "AssetMark",
+   "title": "Associate Engineer",
+   "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Engineer_Req-003966",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789170481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789176509770
+  },
   {
    "key": "simplify:33b49b9d-1aed-41bb-ba49-d0567c7f2f94",
    "company": "REI Systems",
@@ -5628,162 +5782,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:915951dd-70ca-48b8-9767-8d9541dbca43",
-   "company": "SpaceX",
-   "title": "Software Engineer New Grad - Software",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8729121002",
-   "locations": [
-    "Brownsville, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788524462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:5240fbc9-301c-4951-a8de-f0749bf722f0",
-   "company": "Procter & Gamble",
-   "title": "IT Engineering New Grad - Software, Platform, & Network",
-   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788525901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:efd41d1c-1686-4f0b-9fed-8c342653f9d8",
-   "company": "West Bend Insurance",
-   "title": "Assistant Data Solutions Engineer",
-   "url": "https://careers-thesilverlining.icims.com/jobs/3722/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Madison, WI",
-    "Appleton, WI",
-    "West Bend, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788525901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:a98c0a06-306e-4812-a351-9c4c42220854",
-   "company": "BlackRock",
-   "title": "Associate Database Platform Developer - Database Platform Development",
-   "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate-Database-Platform-Developer_R266105",
-   "locations": [
-    "Wilmington, DE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788529549000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:f83551b7-e3ed-4c68-9df6-9356b06f2e76",
-   "company": "Cooper University Health Care",
-   "title": "Reporting and Analytics Developer",
-   "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Camden, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788531481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:5db5a57d-ee6b-4048-96ad-55f2afa5c546",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Systems Engineer/Analyst - Multi-Mission Planning Development",
-   "url": "https://careers.jhuapl.edu/jobs/59909?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788531308000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788534043889
-  },
-  {
-   "key": "simplify:a93b5d0b-3988-4995-9ba0-da6e6621b640",
-   "company": "AppLovin",
-   "title": "ML Infrastructure Engineer",
-   "url": "https://boards.greenhouse.io/applovin/jobs/4655740006",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788506642000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1788520612373
-  },
-  {
-   "key": "simplify:66d624a4-bf98-4f02-b127-38342b345cff",
-   "company": "ByteDance",
-   "title": "Data Platform Engineer Intern - Global Engineering CDN",
-   "url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788505021000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788520612373
   }
  ]
 }
