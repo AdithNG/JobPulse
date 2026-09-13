@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-13T01:21:57.531Z",
+ "updatedAt": "2026-09-13T06:31:21.419Z",
  "jobs": [
+  {
+   "key": "simplify:89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
+   "company": "TikTok",
+   "title": "Frontend Engineer Project Intern - Tiktok Multimedia Arch - 2026 - BS/MS",
+   "url": "https://lifeattiktok.com/search/7595733632086591797",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788505932000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789281080494
+  },
+  {
+   "key": "simplify:8a02cc33-4d2c-40f2-bf82-81861d00b429",
+   "company": "Kitware",
+   "title": "Software Developer",
+   "url": "https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply",
+   "locations": [
+    "Clifton Park, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789265386000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789281080494
+  },
   {
    "key": "simplify:90073809-4e42-4a91-9c65-c5750c320aba",
    "company": "Klaviyo",
@@ -5737,45 +5775,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788562081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:35d85de1-2a39-4150-94ca-3770bd3dc7e1",
-   "company": "PayPal",
-   "title": "Machine Learning Engineer - Machine Learning Engineering",
-   "url": "https://paypal.eightfold.ai/careers/job/274922260564",
-   "locations": [
-    "Austin, TX",
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788562081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:e6179b6a-aa7e-4cac-a3ed-8db905d7c42e",
-   "company": "Vestwell",
-   "title": "Associate Software Engineer",
-   "url": "https://job-boards.greenhouse.io/vestwell/jobs/7983915003",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561802000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
