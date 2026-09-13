@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-13T16:28:29.906Z",
+ "updatedAt": "2026-09-13T18:54:53.323Z",
  "jobs": [
+  {
+   "key": "simplify:f856788a-97a4-4332-a414-c568ed12438d",
+   "company": "Autostore",
+   "title": "Entry Level Software Engineer",
+   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789321350000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789325692312
+  },
   {
    "key": "simplify:89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
    "company": "TikTok",
@@ -5754,27 +5773,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788561948000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:1391f391-f29c-43d6-8325-a988430b5fe9",
-   "company": "PayPal",
-   "title": "Software Engineer New Grad - Software Engineering",
-   "url": "https://paypal.eightfold.ai/careers/job/274921995088",
-   "locations": [
-    "Austin, TX",
-    "San Jose, CA",
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788562081000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
