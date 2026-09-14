@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-09-14T07:01:44.620Z",
+ "updatedAt": "2026-09-14T13:56:56.971Z",
  "jobs": [
+  {
+   "key": "gh:robinhood:8123225",
+   "company": "Robinhood",
+   "title": "Software Engineering Intern, Backend (Summer 2027)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
+   "locations": [
+    "Bellevue, WA; Menlo Park, CA; New York, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789387208000,
+   "source": "Robinhood careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 51,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1789394216303
+  },
+  {
+   "key": "gh:robinhood:8142961",
+   "company": "Robinhood",
+   "title": "Software Engineering Intern, Android (Summer 2027)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "locations": [
+    "Menlo Park, CA; New York, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789387209000,
+   "source": "Robinhood careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1789394216303
+  },
+  {
+   "key": "gh:robinhood:8142959",
+   "company": "Robinhood",
+   "title": "Software Engineering Intern, iOS (Summer 2027)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?t=gh_src=&gh_jid=8142959",
+   "locations": [
+    "Menlo Park, CA; New York, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789387209000,
+   "source": "Robinhood careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1789394216303
+  },
+  {
+   "key": "gh:robinhood:8142963",
+   "company": "Robinhood",
+   "title": "Software Engineering Intern, Web (Summer 2027)",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?t=gh_src=&gh_jid=8142963",
+   "locations": [
+    "Menlo Park, CA; New York, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789387208000,
+   "source": "Robinhood careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1789394216303
+  },
   {
    "key": "simplify:580171f7-4613-4a78-b99a-3b85b469f5d0",
    "company": "TD Bank",
@@ -5698,82 +5776,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788559741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:c192d7cd-8e41-43d0-9f80-86b20fa05310",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development",
-   "url": "https://careers.jhuapl.edu/jobs/59974?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788560320000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:787a34fe-7bf8-4c55-b010-f4c0d496b5b3",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Robotic/Autonomous Systems Engineer - Maritime Robotics",
-   "url": "https://careers.jhuapl.edu/jobs/59967?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788560318000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:ed36305d-99ff-4f70-8c40-3b2e1e60391b",
-   "company": "Coherent",
-   "title": "Software and Data",
-   "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013607",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788559562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:1226965c-9ed7-4d6b-ad60-2a5c8985f78d",
-   "company": "Geosyntec Consultants",
-   "title": "Early-Career Water Resources Engineer",
-   "url": "https://careers-geosyntec.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Portland, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788559562000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
