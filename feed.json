@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-09-14T01:31:29.928Z",
+ "updatedAt": "2026-09-14T07:01:44.620Z",
  "jobs": [
+  {
+   "key": "simplify:580171f7-4613-4a78-b99a-3b85b469f5d0",
+   "company": "TD Bank",
+   "title": "Software Engineer Intern - Global Technology & Solutions",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1",
+   "locations": [
+    "Mt Laurel Township, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789348291000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789369303585
+  },
+  {
+   "key": "simplify:a78f5a0d-953f-4465-8622-6c6b2ad17d27",
+   "company": "TD Bank",
+   "title": "Data Engineer Intern - Global Technology & Solutions",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
+   "locations": [
+    "Mt Laurel Township, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789348289000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789369303585
+  },
+  {
+   "key": "simplify:3dbc310b-10e9-42fe-b065-dd74747582e0",
+   "company": "Philips",
+   "title": "Software Engineer Intern",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403",
+   "locations": [
+    "Plymouth, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789367275000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789369303585
+  },
+  {
+   "key": "simplify:fcc0a6c7-e090-4804-8107-677c58b416a9",
+   "company": "Guardian Life",
+   "title": "Data Engineering Intern - Digital & Technology",
+   "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
+   "locations": [
+    "Holmdel, NJ",
+    "Bethlehem, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789367003000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789369303585
+  },
   {
    "key": "simplify:f856788a-97a4-4332-a414-c568ed12438d",
    "company": "Autostore",
@@ -5697,82 +5774,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788559562000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:78d9bccf-8fd2-497a-80a4-f3b00fed7d3a",
-   "company": "Credence",
-   "title": "Entry-Level AI Software Engineer",
-   "url": "https://apply.workable.com/credence/j/BAD39E80E0/apply",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:75b8591d-0408-4c28-b660-7ad3e0eb4b3d",
-   "company": "Aerotech",
-   "title": "Software Engineer - Enterprise Development",
-   "url": "https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:64e8c668-e84f-4de3-aa6b-d52054f1c698",
-   "company": "Aerotech",
-   "title": "Software Engineer - Application Development",
-   "url": "https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788569427702
-  },
-  {
-   "key": "simplify:66902dbd-a7fe-44a4-aa32-3d24e86e4d85",
-   "company": "Northrop Grumman",
-   "title": "Associate Systems Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer_R10249344",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788561948000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
