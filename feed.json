@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-14T22:35:41.177Z",
+ "updatedAt": "2026-09-15T00:55:03.768Z",
  "jobs": [
+  {
+   "key": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
+   "company": "Waymo",
+   "title": "Software Engineering Intern - Commercialization",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789425648000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789433702829
+  },
+  {
+   "key": "simplify:8ead9143-b68f-49cb-8f40-309f4206c39a",
+   "company": "ibotta",
+   "title": "Data Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789425401000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789433702829
+  },
+  {
+   "key": "simplify:b28dec10-3ef5-494b-8a37-79da9da233d0",
+   "company": "PowerSchool Group",
+   "title": "Associate Software Engineer",
+   "url": "https://careers-powerschool.icims.com/jobs/53084/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789425001000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789433702829
+  },
   {
    "key": "simplify:d2a2f7eb-19b0-4859-b09e-fefe81a88ceb",
    "company": "Wex",
@@ -5735,64 +5792,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788906192000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:fc94fb9b-cff2-4c87-9214-c77b2a7d6d59",
-   "company": "AeroVironment",
-   "title": "Software Engineer 1",
-   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682",
-   "locations": [
-    "Sunrise, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788905754000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:e29a2127-9a11-4cb0-8c98-68102aede2b4",
-   "company": "True Anomaly",
-   "title": "Software Engineer 1 New Grad - Elixir",
-   "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
-   "locations": [
-    "Long Beach, CA",
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788908203000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:e566d725-aeae-48ef-8f28-53e7201d04b0",
-   "company": "Trace3",
-   "title": "Systems Engineer",
-   "url": "https://job-boards.greenhouse.io/trace3/jobs/8186113",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788908155000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
