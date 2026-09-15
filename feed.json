@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-09-15T11:43:19.864Z",
+ "updatedAt": "2026-09-15T15:43:46.682Z",
  "jobs": [
+  {
+   "key": "simplify:3b8a1e9c-95f0-48a6-9240-24d3f59f6835",
+   "company": "General Dynamics Information Technology",
+   "title": "Software Development Intern",
+   "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+   "locations": [
+    "Falls Church, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789482227000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789487025536
+  },
+  {
+   "key": "simplify:a8c12424-098d-4d97-9658-8820b0fdac3e",
+   "company": "Huntington Ingalls Industries",
+   "title": "Computer Engineering Intern",
+   "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors",
+   "locations": [
+    "Pascagoula, MS"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789481521000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789487025536
+  },
+  {
+   "key": "simplify:bd56c51a-aae8-4121-98f4-cd683c6c4a85",
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222",
+   "locations": [
+    "Tewksbury, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789472400000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789487025536
+  },
+  {
+   "key": "simplify:6befe64b-60e7-4f1a-a847-0dd3604e4ab2",
+   "company": "Northrop Grumman",
+   "title": "Modeling and Simulation Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Modeling-and-Simulation-Engineer--1-2-_R10248324",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789482242000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789487025536
+  },
+  {
+   "key": "simplify:d0e246b4-68c7-434f-ae99-044c38ec043b",
+   "company": "Arcfield",
+   "title": "Software Engineer",
+   "url": "https://careers.arcfield.com/jobs/8643?icims=1",
+   "locations": [
+    "Middletown, RI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789482061000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789487025536
+  },
+  {
+   "key": "simplify:4b2ecaee-656e-44a5-8c2d-3542dc11fbd5",
+   "company": "Cherry Technologies",
+   "title": "Software Engineer - Entry-Level",
+   "url": "https://jobs.ashbyhq.com/withcherry/6cdd7a52-fcbd-4e29-bcf2-00840ee9243f/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789482421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789487025536
+  },
   {
    "key": "simplify:1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc",
    "company": "RTX",
@@ -5680,121 +5794,6 @@
    "matchedWords": [
     "java"
    ],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:5c16ff34-e8ca-4a08-9d69-f9acac0df9a8",
-   "company": "RF-SMART",
-   "title": "Software Support Engineer Intern - Netsuite",
-   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5409034008",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788908201000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:57114f9d-d821-430f-ac60-02a5e53ef385",
-   "company": "ONE Finance",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907910000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:6aef6415-7ea1-4f70-ae41-d19976414037",
-   "company": "Boeing",
-   "title": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
-   "locations": [
-    "Tukwila, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907723000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:e2123de3-a5ba-4c83-883a-ac9a270e7e40",
-   "company": "Boeing",
-   "title": "Applied Mathematician Intern - Engineering & Technology Innovation",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704",
-   "locations": [
-    "North Charleston, SC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907710000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:52089d46-863c-4b96-863e-815fe71e0288",
-   "company": "ABB",
-   "title": "Application Engineering Intern",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Spring-2027_JR00045705",
-   "locations": [
-    "Lombard, IL",
-    "Alpharetta, GA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788907167000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:0ce18659-d44b-4bc1-8341-275eda5c3c69",
-   "company": "AArete",
-   "title": "Data Architecture & Engineering Intern",
-   "url": "https://jobs.jobvite.com/aarete/job/otGLAfwe?nl=1&nl=1&fr=false",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907167000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1788909871588
   }
  ]
