@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-09-15T06:03:39.440Z",
+ "updatedAt": "2026-09-15T11:43:19.864Z",
  "jobs": [
+  {
+   "key": "simplify:1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc",
+   "company": "RTX",
+   "title": "Software Engineer Co-op - Summer/Fall 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970",
+   "locations": [
+    "Wilsonville, OR"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789453009000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789472598801
+  },
+  {
+   "key": "simplify:96db4016-3e8f-4c92-98f2-43fa3eabab24",
+   "company": "Stanley Black & Decker",
+   "title": "Engineer 1 - Digital",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830",
+   "locations": [
+    "Towson, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789453036000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789472598801
+  },
+  {
+   "key": "simplify:bb50809f-40cf-4768-beef-ba71a49c92fc",
+   "company": "RTX",
+   "title": "Research Engineer 1 - Analytics and Machine Intelligence - AMI",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Engineer-I---RTX-BBN-Analytics-and-Machine-Intelligence--AMI----Arlington--VA-and-Cambridge--MA--Hybrid-_01874936",
+   "locations": [
+    "Cambridge, MA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789453011000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789472598801
+  },
   {
    "key": "simplify:d3c0c779-480d-4810-9393-88d215aa5e7e",
    "company": "DoorDash",
@@ -5733,64 +5791,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788907167000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:06a6fa65-37c0-461f-be1e-748f50cdf55c",
-   "company": "ABB",
-   "title": "Application Engineering Intern - Summer 2027",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706",
-   "locations": [
-    "Lombard, IL",
-    "Alpharetta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907167000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:fffa4bdc-f97d-4cc9-9912-6015b38cfd10",
-   "company": "RTX",
-   "title": "Platform System Engineering Co-op",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907603000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1788909871588
-  },
-  {
-   "key": "simplify:f28ae9aa-51ea-4eed-9d3d-587981e3c6b3",
-   "company": "RTX",
-   "title": "Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788907601000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
