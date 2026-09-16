@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-09-16T14:58:18.806Z",
+ "updatedAt": "2026-09-16T18:49:53.629Z",
  "jobs": [
+  {
+   "key": "simplify:24ee0ceb-0e78-42b5-9fd4-47bbbf594757",
+   "company": "Bass Pro Shops",
+   "title": "IT Developer Intern",
+   "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1",
+   "locations": [
+    "Springfield, MO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789569341000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789584592850
+  },
+  {
+   "key": "simplify:759987f3-abc5-441c-8b84-a1089639527c",
+   "company": "Auto-Owners Insurance",
+   "title": "Business Intelligence Developer",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer_R_14525",
+   "locations": [
+    "Lansing, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789569361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789584592850
+  },
+  {
+   "key": "simplify:fe0763db-c658-4003-84f4-cc7e0d8848a4",
+   "company": "ICF International",
+   "title": "Junior Software Engineer",
+   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789569344000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789584592850
+  },
+  {
+   "key": "simplify:94863e1d-0d92-43c0-a139-694a550ee676",
+   "company": "GuideStone",
+   "title": "Associate Software Developer",
+   "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789569181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789584592850
+  },
+  {
+   "key": "simplify:a4f0ad06-c1ae-46ac-b9ae-cb9d2eefc001",
+   "company": "Airbus",
+   "title": "HMI/Desktop Applications Software Engineer",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506",
+   "locations": [
+    "Bingen, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789569335000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789584592850
+  },
   {
    "key": "simplify:a05d7a49-eb81-476c-8100-ee50da876874",
    "company": "Enterprise Holdings",
@@ -5690,103 +5785,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789022155371
-  },
-  {
-   "key": "simplify:b908c691-218d-4fdb-9181-fec0f285cd35",
-   "company": "General Dynamics Mission Systems",
-   "title": "Systems Engineer - FCSWG Process Master",
-   "url": "https://careers-gdms.icims.com/jobs/74801/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Pittsfield, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789004652000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789022155371
-  },
-  {
-   "key": "simplify:a3598f90-4191-4666-9dec-7c48f47feb33",
-   "company": "Axos Bank",
-   "title": "Developer",
-   "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Analyst_JR4770",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789004020000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789022155371
-  },
-  {
-   "key": "simplify:55c70966-a122-4223-a320-a83dfc649ef3",
-   "company": "Northrop Grumman",
-   "title": "Software Development Analyst",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Associate-Software-Dev-Analyst---Software-Dev-Analyst---Remote_R10250232",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789004028000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789022155371
-  },
-  {
-   "key": "simplify:bdf30f76-458b-4527-9924-6423f7c5ebd4",
-   "company": "DV Trading",
-   "title": "AI Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4732429005",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:50162e18-1bb9-44c1-94a0-0922daf6f38b",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - IT Apps",
-   "url": "https://www.tesla.com/careers/search/job/282774",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788994991000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
   }
  ]
 }
