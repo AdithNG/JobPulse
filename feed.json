@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-09-16T10:04:56.669Z",
+ "updatedAt": "2026-09-16T14:58:18.806Z",
  "jobs": [
+  {
+   "key": "simplify:a05d7a49-eb81-476c-8100-ee50da876874",
+   "company": "Enterprise Holdings",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789568922000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789570697643
+  },
+  {
+   "key": "simplify:d2296cde-e528-4052-91a1-7fd74e94412a",
+   "company": "General Dynamics",
+   "title": "Information Technology Intern - Software Engineering - Computer Science",
+   "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Newport, RI",
+    "New London, CT",
+    "North Kingstown, RI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789568600000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789570697643
+  },
+  {
+   "key": "simplify:939f8222-3636-48c7-b71b-c408dae9b512",
+   "company": "Oratomic",
+   "title": "Software and AI Engineer",
+   "url": "https://jobs.ashbyhq.com/oratomic/f55b5d57-36c9-4d77-a12a-d66b8cb5642e/application?embed=true",
+   "locations": [
+    "Pasadena, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789553704000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789570697643
+  },
+  {
+   "key": "simplify:b13cc50b-9538-477b-a946-91b87f87d1c5",
+   "company": "BNY",
+   "title": "Data Science Analyst - Engineering",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82246",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789568488000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789570697643
+  },
+  {
+   "key": "simplify:330c4376-0216-4115-b6f3-7baa30e9fa33",
+   "company": "BNY",
+   "title": "Software Engineer Analyst - Engineering - Developer",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82248",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789568418000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789570697643
+  },
   {
    "key": "simplify:6f44a57e-69f3-4a80-91ad-8417c1164dea",
    "company": "RTX",
@@ -5685,102 +5782,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1788994991000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:054b254c-cc0b-47dd-a2c2-98cf50c0269f",
-   "company": "General Dynamics Mission Systems",
-   "title": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
-   "url": "https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Middletown, RI",
-    "Manassas, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994670000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:36ded0a7-bb49-4395-ad3a-32a1fa86b8b2",
-   "company": "Saronic",
-   "title": "Forward Deployed Engineer Intern - Summer 2027",
-   "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788993910000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:dac9504d-3656-4127-972c-fc70bc04666a",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Autonomy Systems Foundations",
-   "url": "https://www.tesla.com/careers/search/job/282825",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788994750000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:a023874d-88f4-4e6c-a29a-681d54bc45f9",
-   "company": "Collier Aerospace",
-   "title": "Software Engineer Intern - Web Applications - Summer 2027",
-   "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
-   "locations": [
-    "Newport News, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994585000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:d96e9b38-f776-431d-9b9c-d75fa74ab6a8",
-   "company": "Kensho",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994400000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
