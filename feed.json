@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-09-16T00:36:29.519Z",
+ "updatedAt": "2026-09-16T05:17:11.065Z",
  "jobs": [
+  {
+   "key": "simplify:3ad81d91-f5b6-4e68-8d18-084687d15abd",
+   "company": "Entergy",
+   "title": "AI Developer Intern",
+   "url": "https://jobs.entergy.com/job/New-Orleans-Student-Intern-AI-Developer-Spring-2027-Loui/1430299700/?ats=successfactors",
+   "locations": [
+    "New Orleans, LA",
+    "The Woodlands, TX",
+    "Hammond, LA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789511039000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789535830139
+  },
+  {
+   "key": "simplify:56368a2c-9796-41d6-a465-bfd0033f24dc",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - E-Commerce Content Recommendation - Generative & Large Recommendation Model",
+   "url": "https://lifeattiktok.com/search/7685552743586826549",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789521661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789535830139
+  },
+  {
+   "key": "simplify:79f05081-76ad-43d3-9164-5578a63ef412",
+   "company": "Allen Control Systems",
+   "title": "Software Engineer - Enterprise Applications",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/87abef03-ff94-4a7f-a944-5fad20f23daa/application?embed=true",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789521661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789535830139
+  },
+  {
+   "key": "simplify:c47f3508-12e8-4e99-a154-587f29f76502",
+   "company": "Foot Locker",
+   "title": "Associate Software Engineer - Merchandise Technology",
+   "url": "https://careers.footlocker.com/jobs/71916?icims=1",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789521661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789535830139
+  },
+  {
+   "key": "simplify:b22559b0-fcc8-444c-bc74-89574185a757",
+   "company": "Iowa State University",
+   "title": "Software Developer 1",
+   "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19926",
+   "locations": [
+    "Ames, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789521017000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789535830139
+  },
+  {
+   "key": "simplify:10282be3-6654-440b-8bd2-74329d579fb0",
+   "company": "Starbucks",
+   "title": "Application Developer - Application Development",
+   "url": "https://starbucks.eightfold.ai/careers/job/481079150478",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789522986000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789535830139
+  },
   {
    "key": "simplify:c5436868-7e21-49cc-a04a-94724650c511",
    "company": "Hometap",
@@ -5664,122 +5780,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788993910000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:40461c7f-fc5e-4ce9-b353-ec4eb4746300",
-   "company": "HMH",
-   "title": "Software Engineer Intern",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994287000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:d5f1160b-114b-4a0e-b196-adf32447203e",
-   "company": "Immuta",
-   "title": "Full-Stack Engineering Intern - Summer 2027",
-   "url": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994226000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:21bac346-8a08-470a-8e10-bec8ed7eeaab",
-   "company": "Pacific Fusion",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009",
-   "locations": [
-    "Fremont, CA",
-    "Los Lunas, NM",
-    "San Leandro, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994211000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:71aba8dd-67b4-48bf-b97f-19f464bcb391",
-   "company": "Shure",
-   "title": "Application Software Engineer Intern",
-   "url": "https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Niles, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994019000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:ef40c957-572d-4f46-9bab-b7378678804d",
-   "company": "Publicis Groupe",
-   "title": "Software Engineer Intern",
-   "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788993379000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:477443e5-44fe-40b9-a621-9daa78a67a6a",
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623",
-   "locations": [
-    "Aurora, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788993919000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
