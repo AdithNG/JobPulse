@@ -1,6 +1,121 @@
 {
- "updatedAt": "2026-09-16T05:17:11.065Z",
+ "updatedAt": "2026-09-16T10:04:56.669Z",
  "jobs": [
+  {
+   "key": "simplify:6f44a57e-69f3-4a80-91ad-8417c1164dea",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789539239000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789553095885
+  },
+  {
+   "key": "simplify:94db09b4-4148-4208-acfd-2dcfef6b4a27",
+   "company": "Live Oak Bank",
+   "title": "Architecture/Engineering Intern",
+   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630",
+   "locations": [
+    "Wilmington, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789539157000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789553095885
+  },
+  {
+   "key": "simplify:32923ef5-9813-4720-ba0f-736ed5febb06",
+   "company": "Live Oak Bank",
+   "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
+   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
+   "locations": [
+    "Wilmington, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789539146000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789553095885
+  },
+  {
+   "key": "simplify:59143a12-b5c5-4756-adf5-a3376f4b7296",
+   "company": "RAVE Aerospace",
+   "title": "Software Engineer Intern",
+   "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply",
+   "locations": [
+    "Laramie, WY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789552240000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789553095885
+  },
+  {
+   "key": "simplify:86cb0b1e-3691-4e3c-a4ec-c65f90643d87",
+   "company": "NVIDIA",
+   "title": "Software Engineer - Coding Agent Harness Engineering",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749",
+   "locations": [
+    "Remote in USA",
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789539148000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789553095885
+  },
+  {
+   "key": "simplify:290f897e-45bc-4883-a57d-71b8135ece08",
+   "company": "Sunday Robotics",
+   "title": "Memory Developer",
+   "url": "https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789548481000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789553095885
+  },
   {
    "key": "simplify:3ad81d91-f5b6-4e68-8d18-084687d15abd",
    "company": "Entergy",
@@ -5666,120 +5781,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1788994400000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:2f8a6e47-2880-4a56-b618-7acbfb79109d",
-   "company": "Tesla",
-   "title": "Machine Learning Engineer Intern - Factory Software",
-   "url": "https://www.tesla.com/careers/search/job/282916",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788994571000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:844f8a1f-7749-49a6-8afe-6eaed5ef5d3b",
-   "company": "Nova-Tech",
-   "title": "Software Development Co-op",
-   "url": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN",
-   "locations": [
-    "Willmar, MN"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1788994515000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:3c16cf25-2344-4449-8c12-a8dd16ebdaf2",
-   "company": "Collier Aerospace",
-   "title": "Software Engineer Intern",
-   "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51",
-   "locations": [
-    "Newport News, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994599000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:37b49760-4eb8-426a-b9d7-3452d4d88e99",
-   "company": "Kensho",
-   "title": "Machine Learning Engineer Intern",
-   "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788994401000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:e324dbfe-55ba-4099-a9f0-2268a787100e",
-   "company": "Immuta",
-   "title": "Product Engineering Intern",
-   "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply",
-   "locations": [
-    "College Park, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788993910000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789003682867
-  },
-  {
-   "key": "simplify:56aeb6bb-7cae-408d-8f71-eb7b1a99ea96",
-   "company": "HMH",
-   "title": "Digital Services Engineering Intern",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Digital-Services-Engineering-Intern_JR102387",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1788993910000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
