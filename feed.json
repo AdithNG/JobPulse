@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-17T04:42:56.043Z",
+ "updatedAt": "2026-09-17T09:41:30.367Z",
  "jobs": [
+  {
+   "key": "simplify:e89448c1-21ee-450a-85e8-84ad429d6f3e",
+   "company": "Smith+Nephew",
+   "title": "Robotics Software Engineer Intern",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789625809000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789638089416
+  },
+  {
+   "key": "simplify:57a2bb7e-a9c4-41b0-a10a-606e7e4e9d3b",
+   "company": "LexisNexis Risk Solutions",
+   "title": "Software Engineer 1",
+   "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-1_R117973",
+   "locations": [
+    "Alpharetta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789625702000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789638089416
+  },
   {
    "key": "simplify:31bd649f-d357-4816-9f4f-d991ca04c596",
    "company": "Captivation",
@@ -5740,44 +5778,6 @@
    "sponsorship": "unknown",
    "posted": 1789049706000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
-  },
-  {
-   "key": "simplify:3e0882ef-3682-46f4-b5a5-bf8dadcf4a08",
-   "company": "Planview",
-   "title": "Software Engineer Intern",
-   "url": "https://careers.planview.com/jobs/5128?icims=1",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789050188000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
-  },
-  {
-   "key": "simplify:d4423af2-8d19-4617-b72f-304bdf2c0d71",
-   "company": "Stryker",
-   "title": "Quality Engineer - Master Data",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Quality-Engineer--Master-Data--Hybrid-_R572285",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789047181000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
