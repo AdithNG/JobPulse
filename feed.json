@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-16T23:56:46.881Z",
+ "updatedAt": "2026-09-17T04:42:56.043Z",
  "jobs": [
+  {
+   "key": "simplify:31bd649f-d357-4816-9f4f-d991ca04c596",
+   "company": "Captivation",
+   "title": "Software Engineer 0 - Multiple Teams",
+   "url": "https://job-boards.greenhouse.io/captivation/jobs/5426523008",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789608241000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789620174756
+  },
+  {
+   "key": "simplify:a9b9d8ee-e94d-4b1f-a542-48d5507be8ef",
+   "company": "RELX",
+   "title": "Software Engineer 1",
+   "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1",
+   "locations": [
+    "Alpharetta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789608158000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789620174756
+  },
+  {
+   "key": "simplify:e7a67c80-7ef6-4971-81d8-fb7813d0ae1b",
+   "company": "Applied Materials",
+   "title": "AI Materials Research Engineer",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Materials-Research-Engineer_R2628482-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789607162000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789620174756
+  },
   {
    "key": "simplify:0b2f3c82-2d4d-43f4-a00c-a4f3cf62a217",
    "company": "Relay",
@@ -5720,63 +5777,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789047181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
-  },
-  {
-   "key": "simplify:962f1bfd-70ba-4217-a32b-3e4ff0200101",
-   "company": "GE Vernova",
-   "title": "AI Engineer",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
-   "locations": [
-    "Greenville, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789049341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
-  },
-  {
-   "key": "simplify:f8b85cfe-7220-4177-a4a4-cd59e00ecd8b",
-   "company": "Noblis",
-   "title": "Artificial Intelligence Engineer",
-   "url": "https://careers.noblis.org/jobs/27812?icims=1",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789051501000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
-  },
-  {
-   "key": "simplify:face0c83-397d-4322-8e32-868a23dca209",
-   "company": "Pennsylvania State University",
-   "title": "Applied AI Engineer - Radiology AI Lab",
-   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Applied-AI-Engineer---Radiology-AI-Lab_REQ_0000073876-2",
-   "locations": [
-    "Hershey, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789050800000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
