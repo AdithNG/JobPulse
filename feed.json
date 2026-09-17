@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-17T09:41:30.367Z",
+ "updatedAt": "2026-09-17T14:27:58.526Z",
  "jobs": [
+  {
+   "key": "simplify:afb43832-7cee-4c83-8071-d0ca2cef9447",
+   "company": "Tesla",
+   "title": "Reinforcement Learning Engineer - Whole Body Controls - Optimus",
+   "url": "https://www.tesla.com/careers/search/job/244485",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789639063000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789655277716
+  },
+  {
+   "key": "simplify:52ad49d9-f926-4c53-9cc7-c57d166bf156",
+   "company": "BTI Solutions",
+   "title": "Korean Bilingual AMR Engineer",
+   "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/SAVANNAH-GA/Korean-Bilingual-AMR-Engineer_JR102047-1",
+   "locations": [
+    "Savannah, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789642801000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789655277716
+  },
+  {
+   "key": "simplify:008bd1b1-83ef-4bce-b3d4-bdab9f25b76d",
+   "company": "Visa",
+   "title": "Software Engineer New Grad",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789653296000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789655277716
+  },
   {
    "key": "simplify:e89448c1-21ee-450a-85e8-84ad429d6f3e",
    "company": "Smith+Nephew",
@@ -5725,63 +5782,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789082118003
-  },
-  {
-   "key": "simplify:5d7cc023-41ea-4c80-9e48-1fb987e643ca",
-   "company": "American Century Investments",
-   "title": "Software Engineer",
-   "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Engineer_R0005723",
-   "locations": [
-    "Kansas City, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789079041000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789082118003
-  },
-  {
-   "key": "simplify:a3b700b5-11b3-48ae-92cf-a4cd8017c1f6",
-   "company": "Entegris",
-   "title": "Lab Automation & AI Engineering Co-op",
-   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1",
-   "locations": [
-    "Billerica, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789050087000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
-  },
-  {
-   "key": "simplify:c854434a-b324-4bf9-844f-e98d319bef95",
-   "company": "CACI",
-   "title": "Configuration Control/Data Management Co-op - Engineering Department",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440",
-   "locations": [
-    "Danbury, CT"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789049706000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789054430284
   }
  ]
 }
