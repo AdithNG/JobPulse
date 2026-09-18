@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-09-18T21:41:02.927Z",
+ "updatedAt": "2026-09-18T23:36:28.664Z",
  "jobs": [
+  {
+   "key": "simplify:edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
+   "company": "CoBank",
+   "title": "Software Engineer Intern",
+   "url": "https://careers.cobank.com/jobs/7940?icims=1",
+   "locations": [
+    "Greenwood Village, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789769531000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789774587972
+  },
+  {
+   "key": "simplify:4de71a6b-1acd-4a09-8054-bd0d87814d8b",
+   "company": "AIG",
+   "title": "Gen AI Engineering Analyst",
+   "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789769993000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789774587972
+  },
+  {
+   "key": "simplify:89e37552-ee0c-479f-8b19-19090755e8e2",
+   "company": "Lumentum",
+   "title": "AI/ML Engineer",
+   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/AI-ML-Engineer_20261243-1",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789769531000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789774587972
+  },
+  {
+   "key": "simplify:4e0f7ead-dd65-475c-a873-e9f998be70f6",
+   "company": "Applied Materials",
+   "title": "Algorithm Developer 2",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II--E2-_R2628905",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789769531000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789774587972
+  },
   {
    "key": "simplify:170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
    "company": "Tyler Technologies",
@@ -5710,84 +5786,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:e97a377e-d1c0-4278-86c7-389bacdaa737",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Decision Science Intern - Software Engineer",
-   "url": "https://careers.jhuapl.edu/jobs/60040?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789141018000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789151602279
-  },
-  {
-   "key": "simplify:857113e1-b430-40a9-93e2-71d5e56a0115",
-   "company": "D3 Embedded",
-   "title": "Computer Vision and Deep Learning Engineer - Product Design Services",
-   "url": "https://d3engineering.applytojob.com/apply/MoaCjjpMGk/Computer-Vision-And-Deep-Learning-Engineer",
-   "locations": [
-    "West Henrietta, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789140961000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789151602279
-  },
-  {
-   "key": "simplify:df13ab5f-9eb4-4357-86df-afc457026297",
-   "company": "Citizens Financial Group",
-   "title": "Software Engineer Intern",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286",
-   "locations": [
-    "Plano, TX",
-    "Johnston, RI",
-    "Phoenix, AZ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789136876000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:b3c2da34-6510-4c41-aa40-26d5b8e94c8a",
-   "company": "The Toro Company",
-   "title": "Robotics Engineer Intern",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
-   "locations": [
-    "Bloomington, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789136785000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
   }
  ]
 }
