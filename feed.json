@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-09-17T23:43:10.574Z",
+ "updatedAt": "2026-09-18T01:37:56.500Z",
  "jobs": [
+  {
+   "key": "simplify:7c51e306-a24c-4fac-b188-b36e0bc3f128",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
+   "url": "https://lifeattiktok.com/search/7686283601340369205",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789694111000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789695475645
+  },
+  {
+   "key": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
+   "company": "Amazon",
+   "title": "Software Development Engineer Intern - Summer",
+   "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+   "locations": [
+    "Seattle, WA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789693924000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789695475645
+  },
+  {
+   "key": "simplify:84bf55b8-233e-40be-8535-022acd294d1a",
+   "company": "Fortinet",
+   "title": "Software Development Engineer - Gui",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789693744000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789695475645
+  },
   {
    "key": "simplify:b2cc2a88-efd8-4b00-b346-0f29ab47dc4f",
    "company": "Geneva Trading",
@@ -5727,63 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789115530000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:f5b391e6-764a-4995-96ae-c6e50664aef5",
-   "company": "Zoom",
-   "title": "Software Engineer - Workforce Engagement Management",
-   "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R19646-1",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789119721000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:6765f939-ce0a-421f-9d29-884dc3fe84a0",
-   "company": "Scientific Research Corporation",
-   "title": "Software Developer 1",
-   "url": "https://careers-scires.icims.com/jobs/11507/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "North Charleston, SC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789119616000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:7dbe9685-0792-4856-ab07-9f72967defd3",
-   "company": "Garmin",
-   "title": "Software Engineer 1 - Android",
-   "url": "https://careers.garmin.com/jobs/16587?icims=1",
-   "locations": [
-    "Yarmouth, ME"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789120878000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
