@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-18T19:05:23.352Z",
+ "updatedAt": "2026-09-18T21:41:02.927Z",
  "jobs": [
+  {
+   "key": "simplify:170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
+   "company": "Tyler Technologies",
+   "title": "Software Development Intern",
+   "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false",
+   "locations": [
+    "Lawrenceville, GA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789741443000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789767661477
+  },
+  {
+   "key": "simplify:cf2e64b5-aec2-405b-a955-9b84207721be",
+   "company": "EXL",
+   "title": "Data Engineer",
+   "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370",
+   "locations": [
+    "Jersey City, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789741261000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789767661477
+  },
+  {
+   "key": "simplify:1137567c-261b-4ccb-8a65-00a55a4d57b5",
+   "company": "Freedom Technology Solutions Group",
+   "title": "Junior Software Engineer",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789741443000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789767661477
+  },
   {
    "key": "simplify:0323e548-0c85-4a82-8973-ae8faa214117",
    "company": "Qualcomm",
@@ -5726,65 +5783,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789136785000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:3238daa0-03ad-4e44-a14b-4d25ad9d4fa0",
-   "company": "Citizens Financial Group",
-   "title": "Data Engineer Intern - Enterprise Technology & Security",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285",
-   "locations": [
-    "Plano, TX",
-    "Johnston, RI",
-    "Phoenix, AZ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789136608000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Data Platforms",
-   "url": "https://www.tesla.com/careers/search/job/283117",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789137439000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:43f7ea35-f35d-4add-a344-e6dc42c8dbaa",
-   "company": "Tesla",
-   "title": "Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus",
-   "url": "https://www.tesla.com/careers/search/job/283128",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789137734000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
