@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-09-18T01:37:56.500Z",
+ "updatedAt": "2026-09-18T06:40:47.657Z",
  "jobs": [
+  {
+   "key": "simplify:93ef662e-5551-44f1-b92f-7803ee8a3ea1",
+   "company": "Tesla",
+   "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
+   "url": "https://www.tesla.com/careers/search/job/284003",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789713001000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789713646660
+  },
+  {
+   "key": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
+   "company": "Tesla",
+   "title": "Internship - Software Engineering - People Products - Summer 2027",
+   "url": "https://www.tesla.com/careers/search/job/284004",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789713001000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789713646660
+  },
+  {
+   "key": "simplify:50aa2666-a2a3-4da7-8099-d77ee703ebd6",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/283950",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789712505000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789713646660
+  },
+  {
+   "key": "simplify:f17e1a25-2872-42d0-90f6-3e3dbb14c8fa",
+   "company": "Microsoft",
+   "title": "Software Engineer Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
+   "locations": [
+    "Redmond, WA",
+    "Santa Clara, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789711924000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789713646660
+  },
+  {
+   "key": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
+   "company": "Stripe",
+   "title": "Software Engineer - Early Career - Immediate Start",
+   "url": "https://stripe.com/jobs/search?gh_jid=8212508",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789695025000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789713646660
+  },
+  {
+   "key": "simplify:ebda590f-cbe9-4e03-b0eb-6de1c724a228",
+   "company": "Brady Martz",
+   "title": "AI Prototyping Engineer",
+   "url": "https://apply.workable.com/brady-martz/j/39C6A58F26/apply",
+   "locations": [
+    "Remote in USA",
+    "St. Louis, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789712281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789713646660
+  },
   {
    "key": "simplify:7c51e306-a24c-4fac-b188-b36e0bc3f128",
    "company": "TikTok",
@@ -5676,120 +5792,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:0d140cac-82da-463a-bbfd-a2789c5ce07b",
-   "company": "Wavestone",
-   "title": "Junior AI Engineer - AI & Data Team",
-   "url": "https://jobs.smartrecruiters.com/Wavestone1/744000149017779",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789135741000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:85246fff-7e47-4644-a0e6-36d4ef176665",
-   "company": "TD Bank",
-   "title": "Data Engineer Co-op - Global Technology & Solutions",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Data-Engineer_R_1510111",
-   "locations": [
-    "Mt Laurel Township, NJ"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789107110000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:194a2192-6413-4ed0-9957-dfe5dc3f3f0c",
-   "company": "TD Bank",
-   "title": "Software Engineer Co-op - Global Technology & Solutions",
-   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773",
-   "locations": [
-    "Mt Laurel Township, NJ"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789107114000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:127d20c7-244f-4630-9b44-e23957ff0d16",
-   "company": "Wellmark",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789106936000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:a9b5356a-b658-407e-858e-29e74df5f581",
-   "company": "Microsoft",
-   "title": "Software Engineer - CoreAI",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789109909000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
-  },
-  {
-   "key": "simplify:0bde796d-8c15-4ed2-aa8b-9c27e200e67c",
-   "company": "Eurofins",
-   "title": "Application Engineer",
-   "url": "https://jobs.smartrecruiters.com/Eurofins/744000148856049",
-   "locations": [
-    "Lancaster, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789115530000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789125688283
   }
  ]
 }
