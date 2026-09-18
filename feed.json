@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-09-18T06:40:47.657Z",
+ "updatedAt": "2026-09-18T11:52:37.476Z",
  "jobs": [
+  {
+   "key": "simplify:0323e548-0c85-4a82-8973-ae8faa214117",
+   "company": "Qualcomm",
+   "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+   "url": "https://qualcomm.eightfold.ai/careers/job/446717346550",
+   "locations": [
+    "Austin, TX",
+    "Raleigh, NC",
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789720202000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789732356752
+  },
+  {
+   "key": "simplify:99a096e7-a5be-4022-8904-7687e11a9efa",
+   "company": "Arcfield",
+   "title": "Entry Level Systems Engineer",
+   "url": "https://careers.arcfield.com/jobs/8645?icims=1",
+   "locations": [
+    "Middletown, RI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789725242000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789732356752
+  },
   {
    "key": "simplify:93ef662e-5551-44f1-b92f-7803ee8a3ea1",
    "company": "Tesla",
@@ -5746,48 +5786,6 @@
    "sponsorship": "unknown",
    "posted": 1789137734000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:db198792-f1a9-4eb5-88da-5c5547ebe0fa",
-   "company": "Citizens Financial Group",
-   "title": "Data Engineer",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49290",
-   "locations": [
-    "Plano, TX",
-    "Johnston, RI",
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789136462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789139288282
-  },
-  {
-   "key": "simplify:9c4220ab-f3bd-423f-94ac-5cdcd9d06c63",
-   "company": "Citizens Financial Group",
-   "title": "Software Engineer",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291",
-   "locations": [
-    "Plano, TX",
-    "Johnston, RI",
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789136462000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
