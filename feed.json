@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-09-19T11:34:31.634Z",
+ "updatedAt": "2026-09-19T14:48:17.276Z",
  "jobs": [
+  {
+   "key": "simplify:a2aece51-4842-47ed-ae57-24e53d89a054",
+   "company": "Axiom Space",
+   "title": "Software Engineer Intern",
+   "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Software-Engineering-Intern--Summer-2026-_JR100691",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789824468000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789829296386
+  },
+  {
+   "key": "simplify:0bef063c-0252-40bc-a594-e3c26379865e",
+   "company": "Perseus Group",
+   "title": "Software Engineer 1",
+   "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341",
+   "locations": [
+    "Sharon, PA",
+    "Jacksonville, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789827222000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789829296386
+  },
   {
    "key": "simplify:acfd75f6-b373-4747-aa03-88912b01fa48",
    "company": "Deloitte",
@@ -5740,45 +5779,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789165703000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:93d5d930-8ab2-4a53-aa31-d238b45b41d5",
-   "company": "Corteva",
-   "title": "AI Engineer Intern",
-   "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789165645000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:e3c16702-69b1-496c-b4a7-13ea33504cfc",
-   "company": "Oshkosh",
-   "title": "Autonomy & Active Safety Engineer Intern",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Pittsburgh-Pennsylvania-United-States/Autonomy---Active-Safety-Engineering-Intern_R50266",
-   "locations": [
-    "Oshkosh, WI",
-    "Pittsburgh, PA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789166194000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
