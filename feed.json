@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-19T06:38:38.642Z",
+ "updatedAt": "2026-09-19T11:34:31.634Z",
  "jobs": [
+  {
+   "key": "simplify:acfd75f6-b373-4747-aa03-88912b01fa48",
+   "company": "Deloitte",
+   "title": "Data & AI Solutions Engineering Analyst - Consultative Offerings",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-Data-AI-Solutions-Engineering/361306",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789812458000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789817670739
+  },
   {
    "key": "simplify:231bce7f-9106-478b-baf4-5af5b77f9cd1",
    "company": "Bot Auto",
@@ -5760,25 +5779,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789166194000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:be741c04-69a7-41b2-8fb3-8d280bacbe8c",
-   "company": "Oshkosh",
-   "title": "AI Engineer Intern",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
-   "locations": [
-    "Oshkosh, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789166205000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
