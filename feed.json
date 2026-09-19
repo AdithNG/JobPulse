@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-09-19T01:37:06.707Z",
+ "updatedAt": "2026-09-19T06:38:38.642Z",
  "jobs": [
+  {
+   "key": "simplify:231bce7f-9106-478b-baf4-5af5b77f9cd1",
+   "company": "Bot Auto",
+   "title": "Software Engineer Intern - AI Agents",
+   "url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789781435000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789799918026
+  },
+  {
+   "key": "simplify:b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
+   "company": "RTX",
+   "title": "Software Engineering Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789780454000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789799918026
+  },
+  {
+   "key": "simplify:11510869-ac93-4ce2-85d4-2787fe2b2cb2",
+   "company": "Study.com",
+   "title": "Software Engineer New Grad - AI-Native",
+   "url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789782156000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789799918026
+  },
   {
    "key": "simplify:83d0a294-51a6-4b84-867f-e039c06781af",
    "company": "Wolverine Trading",
@@ -5722,63 +5779,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789166205000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:cab02356-db9f-43a1-a400-e5fa53352e0b",
-   "company": "Veeam Software",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789165990000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:da6c09b8-173d-4c72-bf85-472ace81bd4b",
-   "company": "Tesla",
-   "title": "Content Integration Engineer Intern - Vehicle Firmware",
-   "url": "https://www.tesla.com/careers/search/job/283220",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789166024000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:63c54762-f415-4c3b-98b4-73e036029e35",
-   "company": "Tesla",
-   "title": "Commercial Charging Product Management Intern - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/283156",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789167246000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
