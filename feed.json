@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-20T07:04:56.793Z",
+ "updatedAt": "2026-09-20T12:21:31.896Z",
  "jobs": [
+  {
+   "key": "simplify:5bc6041b-141f-4df8-ba11-388fc1eae726",
+   "company": "Harris Computer",
+   "title": "Software Developer",
+   "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Software-Developer_R0046516-4",
+   "locations": [
+    "Fort Collins, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789598161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789906891256
+  },
   {
    "key": "simplify:a2aece51-4842-47ed-ae57-24e53d89a054",
    "company": "Axiom Space",
@@ -5759,26 +5778,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789165716000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:77dcf2a7-167d-441e-87cb-ad11e7f55bba",
-   "company": "AES",
-   "title": "Performance and Reliability Engineering Intern - Summer 2027",
-   "url": "https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841",
-   "locations": [
-    "Dayton, OH",
-    "Indianapolis, IN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789165703000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
