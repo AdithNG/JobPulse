@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-20T12:21:31.896Z",
+ "updatedAt": "2026-09-20T16:21:30.357Z",
  "jobs": [
+  {
+   "key": "simplify:025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
+   "company": "GE Appliances",
+   "title": "Software Engineer Co-op",
+   "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
+   "locations": [
+    "Louisville, KY"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789892830000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789921289516
+  },
   {
    "key": "simplify:5bc6041b-141f-4df8-ba11-388fc1eae726",
    "company": "Harris Computer",
@@ -5763,25 +5782,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:8dff8685-3a17-4f9c-b1d4-6d01c0258242",
-   "company": "RTX",
-   "title": "Software Engineer Co-op - Spring/Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789165716000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1789169002934
   }
  ]
