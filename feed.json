@@ -1,6 +1,159 @@
 {
- "updatedAt": "2026-09-21T19:27:43.436Z",
+ "updatedAt": "2026-09-21T22:46:41.884Z",
  "jobs": [
+  {
+   "key": "simplify:c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
+   "company": "Booz Allen",
+   "title": "Software Developer Intern",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790028973000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:d2afb367-e5e2-4a63-a963-4e920b56ac3b",
+   "company": "Booz Allen",
+   "title": "Systems Engineer Intern - Summer Games",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790028972000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:3b865cc2-227b-4dda-8f33-5c2cae3f3939",
+   "company": "Booz Allen",
+   "title": "Software Developer Intern - Summer Games",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790028971000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:a01e4505-c351-4177-91c4-d76273c077a3",
+   "company": "Booz Allen",
+   "title": "Software Developer Intern - University",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249823",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790028926000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:515f1b04-c8f4-4920-ba4c-8564e312dca9",
+   "company": "Wellmark",
+   "title": "Software Engineer Intern - Technology Healthcare Innovation",
+   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768",
+   "locations": [
+    "Des Moines, IA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790028808000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:e659b76b-dfdc-4b49-bcc0-27140e26325d",
+   "company": "FiscalNote",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790028902000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:efca454d-849f-4bbf-83da-a435a84670bb",
+   "company": "Booz Allen",
+   "title": "AI and ML Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-and-ML-Engineer_R0250044",
+   "locations": [
+    "Chantilly, VA",
+    "McLean, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790028541000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
+  {
+   "key": "simplify:14d68a82-73d3-450d-8f83-5e35e2c34cca",
+   "company": "Intuitive Surgical",
+   "title": "Software Engineer - RISE",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000150746589",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790028642000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790030800704
+  },
   {
    "key": "simplify:e5cc30a4-8555-48b7-b3dc-b3f20c76bd9c",
    "company": "Specter Aerospace",
@@ -5629,158 +5782,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789281080494
-  },
-  {
-   "key": "simplify:90073809-4e42-4a91-9c65-c5750c320aba",
-   "company": "Klaviyo",
-   "title": "Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789234741000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789241305945
-  },
-  {
-   "key": "simplify:155087e9-02c4-4e9c-af43-3d7e5a3a6091",
-   "company": "Klaviyo",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789234741000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789241305945
-  },
-  {
-   "key": "simplify:5077be7d-bf97-4e0b-8fad-8674bf28d206",
-   "company": "Klaviyo",
-   "title": "Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789234787000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789241305945
-  },
-  {
-   "key": "simplify:62062c60-b51b-42e1-ad42-76f03297fcb6",
-   "company": "Virtual Technologies Group",
-   "title": "Web Developer - Front End",
-   "url": "https://virtualtechnologygroupllc.applytojob.com/apply/7eGy8jc0JK/Web-Developer",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789224481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789233256345
-  },
-  {
-   "key": "simplify:5f62b02a-d87f-4a82-9762-6fdf7588a8f1",
-   "company": "Nerdio",
-   "title": "Solutions Engineer - Early Career",
-   "url": "https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789224338000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789233256345
-  },
-  {
-   "key": "simplify:6f0ac1d2-020c-4403-bbe7-85b5e31d912d",
-   "company": "Constellation Energy",
-   "title": "Information Technology Software Development Intern",
-   "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1",
-   "locations": [
-    "Baltimore, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789193932000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789211499585
-  },
-  {
-   "key": "simplify:716fd175-ba44-46d7-a0b6-0d77bf93b7c4",
-   "company": "Constellation Energy",
-   "title": "IT Data Engineering Intern",
-   "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1",
-   "locations": [
-    "Baltimore, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789193936000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789211499585
-  },
-  {
-   "key": "simplify:c980e3e0-5eb6-443f-bc62-cd9de0ab4ae2",
-   "company": "Acuity",
-   "title": "Software Engineering Specialist - BUILD Leadership Program",
-   "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors",
-   "locations": [
-    "Conyers, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789193439000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789211499585
   }
  ]
 }
