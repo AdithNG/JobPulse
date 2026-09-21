@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-21T07:05:40.025Z",
+ "updatedAt": "2026-09-21T14:07:58.642Z",
  "jobs": [
+  {
+   "key": "simplify:373a9878-b32b-4c85-8ce6-20b6df03c8b3",
+   "company": "Sirona Medical",
+   "title": "Go-To-Market Engineer",
+   "url": "https://job-boards.greenhouse.io/sironamedical/jobs/4736127005",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789972777000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789999677544
+  },
   {
    "key": "gh:mercury:6199367004",
    "company": "Mercury",
@@ -5756,25 +5775,6 @@
    "sponsorship": "unknown",
    "posted": 1789170927000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:56643b28-dde5-4741-8c6d-159dac2237f7",
-   "company": "Deepgram",
-   "title": "People AI & Automation Engineer",
-   "url": "https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789170841000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
