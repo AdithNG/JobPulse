@@ -1,6 +1,181 @@
 {
- "updatedAt": "2026-09-21T14:07:58.642Z",
+ "updatedAt": "2026-09-21T19:27:43.436Z",
  "jobs": [
+  {
+   "key": "simplify:e5cc30a4-8555-48b7-b3dc-b3f20c76bd9c",
+   "company": "Specter Aerospace",
+   "title": "Full Stack Developer 1/2",
+   "url": "https://specteraerospace.bamboohr.com/careers/152/",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790000741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6",
+   "company": "RSM",
+   "title": "Tax Digital Services Intern - AI Engineering",
+   "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Tax-Digital-Services-Intern---AI-Engineering---Summer-2027_JR121297",
+   "locations": [
+    "Charlotte, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790000102000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:08b81f58-c3c3-4212-a0ac-e8bc42112895",
+   "company": "Acima",
+   "title": "Software Engineer Intern",
+   "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1",
+   "locations": [
+    "Draper, UT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790000102000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:9cada06b-51c0-417f-8863-1c0468182c31",
+   "company": "Fidelity Investments",
+   "title": "Undergraduate Internship - Software",
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
+   "locations": [
+    "Boston, MA",
+    "Westlake, TX",
+    "Durham, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790000415000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:7e9e1d77-26aa-43b1-b980-8af6e516c6c4",
+   "company": "Upbound Group",
+   "title": "Software Engineer Intern",
+   "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789999921000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:5ff47594-f8ae-48a8-887c-851badf01102",
+   "company": "State of North Carolina",
+   "title": "Engineering Assistant - Traffic Survey Group",
+   "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Engineering-Assistant_JR-124577",
+   "locations": [
+    "Wake County, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790000461000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:e88bb384-45aa-403a-b601-0bf579e8baf1",
+   "company": "Sonepar",
+   "title": "Systems Developer 1",
+   "url": "https://career.sonepar.com/job/Jonesboro-Systems-Developer-I-AR-72401/1439562433/?ats=successfactors",
+   "locations": [
+    "Jonesboro, AR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790000439000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:2b7698da-ccad-415d-be19-f8cd939f6521",
+   "company": "Arcfield",
+   "title": "Model-Based Systems Engineer",
+   "url": "https://careers.arcfield.com/jobs/8669?icims=1",
+   "locations": [
+    "Middletown, RI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790000380000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
+  {
+   "key": "simplify:9fb6b0de-372e-45a8-a4fe-f4d29ae406ea",
+   "company": "TeleTracking",
+   "title": "Software Engineer 1 - Logistics Engineering",
+   "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790001565000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790018861977
+  },
   {
    "key": "simplify:373a9878-b32b-4c85-8ce6-20b6df03c8b3",
    "company": "Sirona Medical",
@@ -5606,179 +5781,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789211499585
-  },
-  {
-   "key": "simplify:c922e8d4-2a85-4851-868c-771e8523bb0e",
-   "company": "Retell AI",
-   "title": "Forward Deployed Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
-   "locations": [
-    "Redwood City, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789195521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789211499585
-  },
-  {
-   "key": "simplify:225e2ae1-b489-4254-a690-889ce1a7578b",
-   "company": "Aptiv",
-   "title": "RTOS Development Engineer",
-   "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineer---RTOS-US_J000700368",
-   "locations": [
-    "Walnut Creek, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789175889000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789194310114
-  },
-  {
-   "key": "simplify:02ca659d-9ee1-4e08-a05b-2ddce897fa74",
-   "company": "Amazon",
-   "title": "Software Privacy Engineer - Multiple Teams",
-   "url": "https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789175881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789194310114
-  },
-  {
-   "key": "simplify:66055d03-6077-4b6b-a0dc-455d2dd18a88",
-   "company": "Acuity",
-   "title": "Software Engineering Specialist - Growth & Transformation - BUILD Leadership Program",
-   "url": "https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Leadership-Program-GA-30309/1429282700/?ats=successfactors",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789175620000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789194310114
-  },
-  {
-   "key": "simplify:204591ee-8f2b-4fc5-b19b-ba0122240474",
-   "company": "DiDi Global",
-   "title": "Software Engineer - Planning Selection Autonomy",
-   "url": "https://job-boards.greenhouse.io/didi/jobs/8198298",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789177021000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789194310114
-  },
-  {
-   "key": "simplify:27deb3b5-50a4-4bab-9656-57bb2dd34ead",
-   "company": "MegazoneCloud",
-   "title": "Software Engineer Co-op",
-   "url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca/application?embed=true",
-   "locations": [
-    "Rochester, NY"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789171126000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:6a833744-e49d-4159-a168-e07ab82f981b",
-   "company": "Commure",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://jobs.ashbyhq.com/Commure/62841aa1-3ee5-4547-8380-637b737b2cb3/application?embed=true",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789171068000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:eb4588fd-1b28-4f95-b27c-2742b4ca906e",
-   "company": "ibotta",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269/application?embed=true",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789170661000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:8262d1b0-a155-42eb-b4f5-a14a377ffb1b",
-   "company": "Avis Budget Group",
-   "title": "Transformation Engineer Intern - Accelerate",
-   "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388",
-   "locations": [
-    "Parsippany-Troy Hills, NJ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789170927000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
   }
  ]
 }
