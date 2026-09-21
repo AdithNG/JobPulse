@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-09-21T01:31:48.091Z",
+ "updatedAt": "2026-09-21T07:05:40.025Z",
  "jobs": [
+  {
+   "key": "gh:mercury:6199367004",
+   "company": "Mercury",
+   "title": "Software Engineering Intern - Spring 2027",
+   "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+   "locations": [
+    "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789974000000,
+   "source": "Mercury careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1789974338858
+  },
+  {
+   "key": "simplify:fe444a2e-411b-4a40-b6f4-9098bbd980bb",
+   "company": "Applied Materials",
+   "title": "Software Engineer New Grad",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914",
+   "locations": [
+    "Gloucester, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789942379000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789974338858
+  },
+  {
+   "key": "simplify:87535675-cdd3-44ea-b36f-622b1a2be47b",
+   "company": "Perpay",
+   "title": "Software Engineer New Grad",
+   "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1789079915000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789974338858
+  },
+  {
+   "key": "simplify:2184ba51-9029-4b0d-956c-e66d880ffe74",
+   "company": "NVIDIA",
+   "title": "Applied Machine Learning Engineer New Grad - Circuit Design",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1788505932000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789974338858
+  },
   {
    "key": "simplify:9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
    "company": "Perpay",
@@ -5703,84 +5779,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:b9e498c9-b575-4a49-8288-ac332424e40d",
-   "company": "Selector Software",
-   "title": "Software Engineer",
-   "url": "https://selectorsoftware.bamboohr.com/careers/198/",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789170841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:5e9a3fb3-b8d1-440b-b8cb-3725a201cdf0",
-   "company": "Commure",
-   "title": "Software Engineer - Early Career",
-   "url": "https://jobs.ashbyhq.com/Commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced/application?embed=true",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789171079000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:3ee60348-39b1-4a67-b417-dfaf6fd38d00",
-   "company": "AssetMark",
-   "title": "Associate Engineer",
-   "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Engineer_Req-003966",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789170481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789176509770
-  },
-  {
-   "key": "simplify:33b49b9d-1aed-41bb-ba49-d0567c7f2f94",
-   "company": "REI Systems",
-   "title": "Associate Software Engineer - Java",
-   "url": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Sterling, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789164540000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1789169002934
   }
  ]
 }
