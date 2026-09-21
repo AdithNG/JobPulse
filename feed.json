@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-20T23:26:57.098Z",
+ "updatedAt": "2026-09-21T01:31:48.091Z",
  "jobs": [
+  {
+   "key": "simplify:9cbd92a5-bad6-41d7-b1ee-fb170ceb8a49",
+   "company": "Perpay",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1789079924000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1789954306930
+  },
   {
    "key": "simplify:025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
    "company": "GE Appliances",
@@ -5760,27 +5779,6 @@
    "score": 14,
    "matchedWords": [
     "java"
-   ],
-   "firstSeen": 1789169002934
-  },
-  {
-   "key": "simplify:1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b",
-   "company": "OneImaging",
-   "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
-   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789166161000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
    ],
    "firstSeen": 1789169002934
   }
