@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-09-22T12:00:01.525Z",
+ "updatedAt": "2026-09-22T16:50:27.440Z",
  "jobs": [
+  {
+   "key": "simplify:25230324-75c3-45fd-95c9-96e3284c06d4",
+   "company": "GuideStone",
+   "title": "Software Developer Intern - Software Development",
+   "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790088762000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790095826474
+  },
+  {
+   "key": "simplify:3a86764d-e47b-4475-98c1-ec31081f9a2f",
+   "company": "Udig",
+   "title": "Software Engineer Intern",
+   "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003",
+   "locations": [
+    "Nashville, TN",
+    "Richmond, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790087698000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790095826474
+  },
+  {
+   "key": "simplify:3a1393eb-1a4c-4277-aa93-46b222c507b8",
+   "company": "Optiver",
+   "title": "Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790087551000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790095826474
+  },
+  {
+   "key": "simplify:d1ffc984-76b9-475f-9274-cc90c1c97125",
+   "company": "Wise",
+   "title": "Graduate Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/Wise/744000151030889",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790086142000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790095826474
+  },
+  {
+   "key": "simplify:d50d1577-1658-457d-a65f-f577f9996936",
+   "company": "Tyson Foods",
+   "title": "Data Engineer 1",
+   "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-on-Thompson---Springdale-Arkansas/Data-Engineer-I_R0483830-1",
+   "locations": [
+    "Springdale, AR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790087550000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790095826474
+  },
   {
    "key": "simplify:4f096c73-afae-450f-b903-ace71c84d47f",
    "company": "Northrop Grumman",
@@ -5678,104 +5774,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:2325b435-2058-4632-9bd0-ebfece971c69",
-   "company": "Ernst & Young",
-   "title": "Tax Technology and Transformation Data Engineering Analyst - Tax Technology and Transformation - Data Engineering",
-   "url": "https://eyglobal.yello.co/jobs/NLIPdsEt-CcUjetuNNeYlQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789423892000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:73089cf9-d492-4163-9bb1-ebd692bfbd10",
-   "company": "Robinhood",
-   "title": "Software Engineer Intern - Backend",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225",
-   "locations": [
-    "Menlo Park, CA",
-    "Bellevue, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397176000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:f90f94d5-786f-4736-b98d-933eaa6987ef",
-   "company": "URBN",
-   "title": "Software Engineer Intern",
-   "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789395238000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:f6b42284-9795-4e37-9fa2-435b51880db7",
-   "company": "Principal Financial Group",
-   "title": "Data Engineer Intern",
-   "url": "https://careers.principal.com/jobs/52561?icims=1",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397862000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
-   "company": "Principal Financial Group",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://careers.principal.com/jobs/52512?icims=1",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397849000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
   }
  ]
 }
