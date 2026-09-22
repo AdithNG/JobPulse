@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-09-22T19:59:00.041Z",
+ "updatedAt": "2026-09-22T22:53:25.908Z",
  "jobs": [
+  {
+   "key": "simplify:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
+   "company": "Emerson Electric",
+   "title": "Software Engineer Intern - Process Systems and Solutions",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295",
+   "locations": [
+    "Round Rock, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790115675000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790117604484
+  },
+  {
+   "key": "simplify:5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
+   "company": "West Bend Insurance",
+   "title": "IT Data Engineer Intern",
+   "url": "https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Madison, WI",
+    "West Bend, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790115482000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790117604484
+  },
   {
    "key": "simplify:25230324-75c3-45fd-95c9-96e3284c06d4",
    "company": "GuideStone",
@@ -5731,44 +5770,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789424626000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:63c995b0-3122-45a1-8d57-e418f2c90068",
-   "company": "U.S. Bank",
-   "title": "Associate Software Engineer - C# - .NET Core",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Associate-Software-Engineer--C---NET-Core-_2026-0028472",
-   "locations": [
-    "Hopkins, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789424281000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:248df7ed-e59a-4e04-b42d-955c2253768e",
-   "company": "M.C. Dean",
-   "title": "Systems Engineer 1 - Security and Electronic Systems",
-   "url": "https://careers.mcdean.com/jobs/32623?icims=1",
-   "locations": [
-    "Tysons, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789423741000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
