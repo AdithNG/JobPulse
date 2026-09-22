@@ -1,6 +1,196 @@
 {
- "updatedAt": "2026-09-22T01:16:32.495Z",
+ "updatedAt": "2026-09-22T06:22:25.929Z",
  "jobs": [
+  {
+   "key": "simplify:282eda76-ee60-4f60-abe4-e0db76ac4fdb",
+   "company": "Rivian",
+   "title": "Software Engineer Co-op Intern - Product Development Portal",
+   "url": "https://careers.rivian.com/jobs/33745?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790040185000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:e031f965-19f0-4d28-88d1-410fbff55e45",
+   "company": "Rivian",
+   "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
+   "url": "https://careers.rivian.com/jobs/33746?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039802000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:2b316c3e-9a1f-4f4d-8a89-0bfaccfe907a",
+   "company": "Rivian",
+   "title": "Software Engineer Intern Co-op - Design Automation",
+   "url": "https://careers.rivian.com/jobs/33748?icims=1",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039793000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:a1e3987b-628f-4fd3-9b89-8bb755a6bd26",
+   "company": "Rivian",
+   "title": "Software Engineer Co-op Intern - Enterprise Applications",
+   "url": "https://careers.rivian.com/jobs/33804?icims=1",
+   "locations": [
+    "Plymouth, MI"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039776000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:74cf1c10-8e9a-4066-a47c-024ca7ecbf4b",
+   "company": "Tesla",
+   "title": "Residential Energy Device Software Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284275",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039540000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:98d9becd-5285-4f4f-b2fc-e769dfd0ea69",
+   "company": "Wellington Management",
+   "title": "Investment Platform Technology Co-op",
+   "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039527000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:5bcc84d6-aa71-420b-8da9-eb3f46477f69",
+   "company": "GE Aerospace",
+   "title": "Data Science Co-op - Flight Analytics Platform",
+   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039521000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:e88effb2-7748-41ae-9be2-407af5870c56",
+   "company": "Waymo",
+   "title": "Software Engineer Intern - Simulation Evaluation ML Model",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790041189000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
+   "company": "Amentum",
+   "title": "Entry Level Software Engineer",
+   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
+   "locations": [
+    "Dahlgren, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039701000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
+  {
+   "key": "simplify:71b68af2-1552-4b4c-82c3-a2d1bfee150d",
+   "company": "Rockwell Automation",
+   "title": "Leadership Development Program - Product Engineering & Development",
+   "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
+   "locations": [
+    "Mayfield Heights, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039701000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790058144602
+  },
   {
    "key": "simplify:52e1ca75-9907-44e4-9bde-6834837fe9e3",
    "company": "Qualcomm",
@@ -5581,205 +5771,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789397152000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:1db1012e-71c6-49b5-9a0e-3399dce55cea",
-   "company": "Robinhood",
-   "title": "Software Engineer Intern - Android - Summer 2027",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961",
-   "locations": [
-    "Menlo Park, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397148000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:b7692605-3675-4ede-ac05-2e35ccc95ce8",
-   "company": "SEP",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply",
-   "locations": [
-    "Westfield, IN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396999000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:35177acb-0ae5-46df-86be-360f6572b2e1",
-   "company": "Dell Technologies",
-   "title": "Software Engineering Intern",
-   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297773",
-   "locations": [
-    "Round Rock, TX",
-    "Hopkinton, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397008000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:5071d3bb-61f2-4896-9065-dc7412d4ba00",
-   "company": "State Farm",
-   "title": "Software Engineer Intern - Multiple Teams",
-   "url": "https://jobs.statefarm.com/jobs/45589?icims=1",
-   "locations": [
-    "Tempe, AZ",
-    "Dunwoody, GA",
-    "Richardson, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397012000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:fb774e53-a201-4b04-93be-3402f9ee69cf",
-   "company": "State Farm",
-   "title": "Software Engineer Intern - Innovation Group",
-   "url": "https://jobs.statefarm.com/jobs/45838?icims=1",
-   "locations": [
-    "Tempe, AZ",
-    "Dunwoody, GA",
-    "Richardson, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396986000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:87971fb5-3996-451a-a4b6-bf5d629dd0c4",
-   "company": "State Farm",
-   "title": "Mainframe Software Engineer Intern - Enterprise Technology",
-   "url": "https://jobs.statefarm.com/jobs/45592?icims=1",
-   "locations": [
-    "Tempe, AZ",
-    "Dunwoody, GA",
-    "Richardson, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396979000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:7f72ef87-208f-40f9-9375-4c3aa13839b1",
-   "company": "Oshkosh",
-   "title": "Autonomy Engineering Intern - Summer 2027",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Autonomy-Intern---Summer-2027_R50320",
-   "locations": [
-    "New Hudson, MI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396823000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:1ccbb9e2-4eb5-4b5c-b46b-df61586053ca",
-   "company": "Wells Fargo",
-   "title": "Software Engineer Intern - Early Careers - Software Engineering",
-   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285",
-   "locations": [
-    "Iselin, Woodbridge Township, NJ",
-    "Charlotte, NC",
-    "St. Louis, MO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396812000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:d7aa686a-75f3-47ef-b6da-5f9cd9b85c2a",
-   "company": "Cleveland-Cliffs",
-   "title": "Computer Science Engineer Intern",
-   "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553",
-   "locations": [
-    "Rockport, IN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396806000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:033fb8eb-961d-4cab-88a1-a78b101431ff",
-   "company": "Oshkosh",
-   "title": "Software Engineer Intern",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
-   "locations": [
-    "Huntersville, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789396802000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
