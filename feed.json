@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-09-22T06:22:25.929Z",
+ "updatedAt": "2026-09-22T12:00:01.525Z",
  "jobs": [
+  {
+   "key": "simplify:4f096c73-afae-450f-b903-ace71c84d47f",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790071644000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790078400261
+  },
+  {
+   "key": "simplify:85d90695-c96e-4c39-a242-9b6975bab7b9",
+   "company": "Daimler Truck",
+   "title": "Applied AI Engineer 1 - Engineering Quality, Safety and Compliance",
+   "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-AI-Engineer-I_DT-19739-1",
+   "locations": [
+    "Portland, OR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790039751000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790078400261
+  },
   {
    "key": "simplify:282eda76-ee60-4f60-abe4-e0db76ac4fdb",
    "company": "Rivian",
@@ -5733,44 +5771,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789397849000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:648fdae5-8fd2-4e98-a3a7-451746653e9d",
-   "company": "Robinhood",
-   "title": "Software Engineer Intern - Web",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142963",
-   "locations": [
-    "Menlo Park, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397151000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789413281753
-  },
-  {
-   "key": "simplify:1c64a304-96bc-447e-ab18-b8bcf93f937f",
-   "company": "Robinhood",
-   "title": "Software Engineer Intern - iOS - Summer 2027",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142959",
-   "locations": [
-    "Menlo Park, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789397152000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
