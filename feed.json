@@ -1,6 +1,144 @@
 {
- "updatedAt": "2026-09-23T12:12:31.919Z",
+ "updatedAt": "2026-09-23T17:16:04.771Z",
  "jobs": [
+  {
+   "key": "simplify:d69cc4b1-6d03-4c5e-8430-4c567709546c",
+   "company": "RTX",
+   "title": "Factory Enablement Digital Engineer Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790175484000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
+  {
+   "key": "simplify:b981ecc6-774f-424a-ab63-513d50a5becc",
+   "company": "CACI",
+   "title": "Software Engineer Intern - Summer 2027",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790175293000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
+  {
+   "key": "simplify:2afb885b-d426-47bd-9dc0-80b026d499f5",
+   "company": "CACI",
+   "title": "AI Systems Engineer Intern - Summer 2027",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506",
+   "locations": [
+    "Annapolis Junction, MD",
+    "Fort Meade, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790175300000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
+  {
+   "key": "simplify:ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac",
+   "company": "Excellus BCBS",
+   "title": "Software Engineering Intern",
+   "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1",
+   "locations": [
+    "Rochester, NY",
+    "De Witt, NY",
+    "Utica, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790174601000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
+  {
+   "key": "simplify:56176872-3480-423d-9dd5-9d705a881462",
+   "company": "Excellus BCBS",
+   "title": "College Intern - Mobile Software Engineering Team",
+   "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
+   "locations": [
+    "Rochester, NY",
+    "De Witt, NY",
+    "Utica, NY"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790174521000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
+  {
+   "key": "simplify:ea902b82-59c8-4454-b4d9-e8acf43bf75b",
+   "company": "Honeywell",
+   "title": "Software Engineer 1",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157648",
+   "locations": [
+    "Duluth, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790173477000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
+  {
+   "key": "simplify:d0de901b-cec2-4fd8-9a36-b7f56e7f818f",
+   "company": "Renesas Electronics",
+   "title": "Customer Data Traceability Engineer",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151352783",
+   "locations": [
+    "Palm Bay, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790172541000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790183763471
+  },
   {
    "key": "simplify:55a8df83-d3ac-49bf-acf9-3f0994fef2ab",
    "company": "Vital Lyfe",
@@ -5630,145 +5768,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789452218063
-  },
-  {
-   "key": "simplify:b4956a38-5faa-4849-acb9-3800ce1f366a",
-   "company": "Applied Materials",
-   "title": "Algorithm Developer 3",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad---Algorithm-Developer-III---PhD--Winter-2026-Start-_R2628587",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789434839000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789452218063
-  },
-  {
-   "key": "simplify:71842870-b830-4748-a505-dedd8137d854",
-   "company": "Atlassian",
-   "title": "Software Engineer",
-   "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789434766000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789452218063
-  },
-  {
-   "key": "simplify:4d33923f-011e-4c9c-8e39-4a4f417686d7",
-   "company": "Waymo",
-   "title": "Software Engineering Intern - Commercialization",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789425648000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789433702829
-  },
-  {
-   "key": "simplify:8ead9143-b68f-49cb-8f40-309f4206c39a",
-   "company": "ibotta",
-   "title": "Data Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789425401000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789433702829
-  },
-  {
-   "key": "simplify:b28dec10-3ef5-494b-8a37-79da9da233d0",
-   "company": "PowerSchool Group",
-   "title": "Associate Software Engineer",
-   "url": "https://careers-powerschool.icims.com/jobs/53084/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789425001000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789433702829
-  },
-  {
-   "key": "simplify:d2a2f7eb-19b0-4859-b09e-fefe81a88ceb",
-   "company": "Wex",
-   "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789419977000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 27,
-   "matchedWords": [
-    "backend",
-    "cloud"
-   ],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:8d2559c4-15a3-4d4b-8b6c-541fcaab8354",
-   "company": "Wex",
-   "title": "Backend Software Engineer Intern - Java & AI - Master's",
-   "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789419977000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 25,
-   "matchedWords": [
-    "backend",
-    "java"
-   ],
-   "firstSeen": 1789425339773
   }
  ]
 }
