@@ -1,6 +1,257 @@
 {
- "updatedAt": "2026-09-22T22:53:25.908Z",
+ "updatedAt": "2026-09-23T01:25:02.103Z",
  "jobs": [
+  {
+   "key": "simplify:fff73d24-2557-417b-a791-58567415f245",
+   "company": "Rippling",
+   "title": "Software Engineer Intern - Backend Focused",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117305000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:0315cabd-eed9-4fb0-bf72-2770478f6bb9",
+   "company": "Rippling",
+   "title": "Full Stack Software Engineer Intern",
+   "url": "https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117307000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:3e9bc6fa-0837-4aef-9543-d3529a2c2943",
+   "company": "Royal Bank of Canada",
+   "title": "Software Development Intern - Wealth Management Technology",
+   "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/Minneapolis-Minnesota-United-States-of-America/Summer-2027-Wealth-Management-Technology-Internship_R-0000187852-1",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117698000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:466d606e-55bf-40df-ad34-e280d5969e79",
+   "company": "Johnson & Johnson",
+   "title": "Project Delivery Digital Engineering & Property Services Co-op",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717",
+   "locations": [
+    "New Brunswick, NJ"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790117648000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:08c5f8b1-d15c-452a-9706-cceb4288ea07",
+   "company": "Leidos",
+   "title": "Software Developer Intern - Cyber & Analytics Business Area",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117430000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:74ef05dd-dadb-4a70-838d-d41642df9bdd",
+   "company": "American Express",
+   "title": "Software Engineer Intern - Enterprise Technology Services",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117161000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:107197c3-30d5-45c2-b0b2-4a499d03531d",
+   "company": "RTX",
+   "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01874535",
+   "locations": [
+    "East Hartford, CT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117116000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:733aae83-7fd4-4bfb-ba95-f338e4c04fdd",
+   "company": "USAA",
+   "title": "Visualization Engineer Intern",
+   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Visualization-Engineer-Intern_R0121201",
+   "locations": [
+    "San Antonio, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790116381000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:e85fe564-c92c-4c56-b2ce-41f4ca778811",
+   "company": "RTX",
+   "title": "Operations Software Engineering Intern - Summer 2027",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620",
+   "locations": [
+    "Burnsville, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117108000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:bdc9aa7d-8fea-4482-8629-265b77e7818f",
+   "company": "USAA",
+   "title": "AI/ML Engineer Intern",
+   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/AI-ML-Engineer-Intern_R0121196",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790116381000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:084d6f5d-6737-409a-9864-db2d5fb418c4",
+   "company": "CACI",
+   "title": "Software Engineer Intern",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332386",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790117046000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:839325fc-57c6-4d5b-9db5-a2273ec9dd48",
+   "company": "Procter & Gamble",
+   "title": "R&D Intern - AI Research Engineer",
+   "url": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371",
+   "locations": [
+    "Mason, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790116385000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
+  {
+   "key": "simplify:d21b7b94-4ec6-4789-9893-f5bcb8a6d2b8",
+   "company": "Tesla",
+   "title": "Robotics Modeling & Simulation Engineer Intern",
+   "url": "https://www.tesla.com/careers/search/job/284436",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790116253000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790126700358
+  },
   {
    "key": "simplify:2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d",
    "company": "Emerson Electric",
@@ -5524,253 +5775,6 @@
    "sponsorship": "unknown",
    "posted": 1789420060000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:c64a512f-2622-44bb-9b61-40e707833008",
-   "company": "Awardco",
-   "title": "Back-End Software Engineer Intern",
-   "url": "https://award.co/position?gh_jid=4322220004",
-   "locations": [
-    "Lindon, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789424821000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:b7be327f-10fa-4775-8a1c-183ea4b062ce",
-   "company": "Awardco",
-   "title": "Front-End Software Engineer Intern",
-   "url": "https://award.co/position?gh_jid=4136562004",
-   "locations": [
-    "Lindon, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789424821000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:36e1c66a-1cae-4b36-b414-d74b38a44a7f",
-   "company": "Workshop",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
-   "locations": [
-    "Omaha, NE"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789424281000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:f818d803-75b1-4afe-a3e5-d7e9f66bbac2",
-   "company": "Ernst & Young",
-   "title": "Data Engineer Intern - Multiple Teams",
-   "url": "https://eyglobal.yello.co/jobs/nuM1c7MBNjknCC8oSMvZMg?job_board_id=c1riT--B2O-KySgYWsZO1Q",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789423869000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:7ddc7aa1-3dff-410d-99d2-fc276ae93037",
-   "company": "VTG",
-   "title": "Web Developer",
-   "url": "https://careers.vtgdefense.com/jobs/9554?icims=1",
-   "locations": [
-    "Chantilly, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789415461000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:b2164fa6-c46d-43b1-91e6-a954faa36167",
-   "company": "T. Rowe Price",
-   "title": "Associate Software Engineer",
-   "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/XMLNAME-2026-Global-Technology---Associate-Software-Engineer_83580",
-   "locations": [
-    "Owings Mills, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789415487000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:e4c34531-51aa-4c08-a508-deaecce4fed4",
-   "company": "OneImaging",
-   "title": "Associate Data Engineer - Georgia Tech Only",
-   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4405032009",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789415101000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:8c0fb250-98e8-4bab-9869-2339235ac275",
-   "company": "OneImaging",
-   "title": "Associate Data Engineer",
-   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4404708009",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789415101000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:16d72e19-4fbb-4539-842e-ab1c221c3562",
-   "company": "Rolls-Royce",
-   "title": "Junior Machine Learning Engineer",
-   "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Junior-Machine-Learning-Engineering_JR6160142",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789416944000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:191bef07-9c08-4fff-8583-81c3ba0e6c30",
-   "company": "Lowe's",
-   "title": "Associate Software Engineer - Launchpad",
-   "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789416252000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:5af8d1b1-e4e4-4112-8f81-e71f304f2f52",
-   "company": "Lowe's",
-   "title": "Associate Data Engineering - Launchpad",
-   "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Data-Engineering---Launchpad_JR-02641572",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789416237000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:b8cf74b9-73b7-43aa-b3e4-4ebd72295e82",
-   "company": "Qualcomm",
-   "title": "Machine Learning Engineer - Machine Learning Engineering",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446721085768",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789420501000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789425339773
-  },
-  {
-   "key": "simplify:8fc69ae6-84a4-4d20-b6c8-84794a834567",
-   "company": "Johnson Controls",
-   "title": "Software Engineer - Nextgen",
-   "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373",
-   "locations": [
-    "Glendale, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789424626000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
