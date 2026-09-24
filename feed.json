@@ -1,6 +1,108 @@
 {
- "updatedAt": "2026-09-24T12:17:08.341Z",
+ "updatedAt": "2026-09-24T17:21:38.016Z",
  "jobs": [
+  {
+   "key": "simplify:ee5c8174-efce-40b3-a4d2-fd27931c66ec",
+   "company": "CACI",
+   "title": "Software Engineer Early Career - Cloud",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679",
+   "locations": [
+    "Remote in USA",
+    "Hanover, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790263981000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1790270496992
+  },
+  {
+   "key": "simplify:ff69f8ce-2a41-499e-bf69-3d90507eb069",
+   "company": "Caterpillar",
+   "title": "Java Engineer",
+   "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Java-Engineer_R0000394560",
+   "locations": [
+    "Peoria, IL",
+    "Dallas, TX",
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790261641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1790270496992
+  },
+  {
+   "key": "simplify:576efb35-6523-4979-8e5d-7188d3bd98b9",
+   "company": "Enterprise Holdings",
+   "title": "Data Engineer Intern - IT",
+   "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790260074000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790270496992
+  },
+  {
+   "key": "simplify:60174f6d-1cb4-49c4-93db-3cf3d5dc9382",
+   "company": "Arconic",
+   "title": "Software Developer Intern",
+   "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233",
+   "locations": [
+    "Davenport, IA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790259489000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790270496992
+  },
+  {
+   "key": "simplify:4dc81515-1c83-4e6b-b045-6710480f8d74",
+   "company": "IPT Global",
+   "title": "Junior Data Scientist - Petroleum Engineering & Well Integrity",
+   "url": "https://jobs.smartrecruiters.com/IPTGlobal/744000151598799",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790258809000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790270496992
+  },
   {
    "key": "simplify:eeb53961-7042-4fec-9272-ed291c610f32",
    "company": "SDSU Research Foundation",
@@ -5672,101 +5774,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789512972000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:233b632b-0384-4d63-8e58-bbd216d1c77e",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer--Level-1-2-_R10248373",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789511761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:c33f2a96-c53e-4b1e-91cc-cfcdd4b6f6a3",
-   "company": "Coram AI",
-   "title": "Graduate Software Engineer",
-   "url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application?embed=true",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789511761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:75042e8a-2126-4f9c-8363-aa0aa0fe281c",
-   "company": "Saalex",
-   "title": "Junior Systems Developer and Data Analyst",
-   "url": "https://apply.workable.com/saalex/j/758C0628C9/apply",
-   "locations": [
-    "Ridgecrest, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789512638000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:e3fef2a4-b7e1-4354-9ccd-b21b2d2e9a29",
-   "company": "Valitana",
-   "title": "Client Onboarding Software Engineer - Analyst",
-   "url": "https://valitanallc.applytojob.com/apply/2gc9lR7vgG/Client-Onboarding-Software-Engineer-Analyst",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789511761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:0f9a9732-306e-48a7-ac67-e9dee9cdf0a4",
-   "company": "NOV",
-   "title": "Software Engineer - Pathway - Rig Technologies",
-   "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789512429000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
