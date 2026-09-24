@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-24T06:40:27.831Z",
+ "updatedAt": "2026-09-24T12:17:08.341Z",
  "jobs": [
+  {
+   "key": "simplify:eeb53961-7042-4fec-9272-ed291c610f32",
+   "company": "SDSU Research Foundation",
+   "title": "Undergraduate Student 3 - Communications Division Engineering Support",
+   "url": "https://careers-sdsurf.icims.com/jobs/20550/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790246931000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790252227479
+  },
   {
    "key": "simplify:80fb1054-5f89-41bf-9c32-1132bd4aad16",
    "company": "West Bend Insurance",
@@ -5748,25 +5767,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789512429000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:d3b9d664-582b-4b4c-a7bb-70489dda21e2",
-   "company": "T-Mobile",
-   "title": "Associate Engineer - Agentic AI",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Agentic-AI_REQ368440",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789511761000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
