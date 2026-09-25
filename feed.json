@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-09-25T12:43:20.140Z",
+ "updatedAt": "2026-09-25T17:35:15.050Z",
  "jobs": [
+  {
+   "key": "simplify:06121173-b783-44a5-bd34-4a7465768bbb",
+   "company": "Lutron Electronics",
+   "title": "Software Engineering Co-op",
+   "url": "https://careers.lutron.com/jobs/5616?icims=1",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790346008000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790357714424
+  },
+  {
+   "key": "simplify:074a0da6-73e2-402d-90a7-ca4bf302d862",
+   "company": "First Citizens BancShares",
+   "title": "IT Intern - Software Developer",
+   "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790345730000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790357714424
+  },
+  {
+   "key": "simplify:d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9",
+   "company": "Bluestaq",
+   "title": "Software Engineering Resident - Multiple Teams",
+   "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4420189009",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790345694000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790357714424
+  },
+  {
+   "key": "simplify:f8aa999f-66d3-4ae6-b0bf-286944064197",
+   "company": "Greenheck Group",
+   "title": "Application Developer Co-op",
+   "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721",
+   "locations": [
+    "Schofield, WI"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790345161000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790357714424
+  },
+  {
+   "key": "simplify:ee8ed5ad-3be9-407e-8020-0d9a037d60be",
+   "company": "Barrios",
+   "title": "Data and Computer Engineering/Computer Science Intern",
+   "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790345005000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790357714424
+  },
+  {
+   "key": "simplify:d8b0a818-ae8f-42a9-b552-3d61c1542683",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Neural Engineer",
+   "url": "https://careers.jhuapl.edu/jobs/60068?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790346181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790357714424
+  },
   {
    "key": "simplify:6521a00f-8b47-4195-a3ce-bdb80befcc30",
    "company": "GliaCell Technologies",
@@ -5671,124 +5785,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789535830139
-  },
-  {
-   "key": "simplify:c47f3508-12e8-4e99-a154-587f29f76502",
-   "company": "Foot Locker",
-   "title": "Associate Software Engineer - Merchandise Technology",
-   "url": "https://careers.footlocker.com/jobs/71916?icims=1",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789521661000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789535830139
-  },
-  {
-   "key": "simplify:b22559b0-fcc8-444c-bc74-89574185a757",
-   "company": "Iowa State University",
-   "title": "Software Developer 1",
-   "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19926",
-   "locations": [
-    "Ames, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789521017000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789535830139
-  },
-  {
-   "key": "simplify:10282be3-6654-440b-8bd2-74329d579fb0",
-   "company": "Starbucks",
-   "title": "Application Developer - Application Development",
-   "url": "https://starbucks.eightfold.ai/careers/job/481079150478",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789522986000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789535830139
-  },
-  {
-   "key": "simplify:c5436868-7e21-49cc-a04a-94724650c511",
-   "company": "Hometap",
-   "title": "Full Stack Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789511275000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:d6e19b01-22aa-46ab-a8b0-95bb1092f446",
-   "company": "Charles Schwab",
-   "title": "Associate Java Developer",
-   "url": "https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Southlake, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789510983000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:5d113196-e5fd-48bb-9ca5-3ffccfb4683d",
-   "company": "SimVentions",
-   "title": "Software Development Intern",
-   "url": "https://simventions.jibeapply.com/jobs/1631?icims=1",
-   "locations": [
-    "Fredericksburg, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789510858000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
   }
  ]
 }
