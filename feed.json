@@ -1,6 +1,87 @@
 {
- "updatedAt": "2026-09-24T23:28:39.057Z",
+ "updatedAt": "2026-09-25T01:50:52.592Z",
  "jobs": [
+  {
+   "key": "simplify:8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
+   "company": "Snowflake",
+   "title": "Software Engineer Intern - Core, Infrastructure & Security",
+   "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true",
+   "locations": [
+    "Menlo Park, CA",
+    "Bellevue, WA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790299081000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1790301049972
+  },
+  {
+   "key": "simplify:af7ae639-a887-435b-9b79-1edc4e0c680d",
+   "company": "Snowflake",
+   "title": "Software Engineer Intern - Database Engineering",
+   "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true",
+   "locations": [
+    "Menlo Park, CA",
+    "Bellevue, WA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790299261000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790301049972
+  },
+  {
+   "key": "simplify:ec40080b-e1ed-4756-a8ef-b3c9f2011f41",
+   "company": "Snowflake",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true",
+   "locations": [
+    "Menlo Park, CA",
+    "Bellevue, WA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790299081000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790301049972
+  },
+  {
+   "key": "simplify:d3c2d57b-c7ea-4194-ac33-731c72f64420",
+   "company": "Apple",
+   "title": "Software Engineer - Applied AI",
+   "url": "https://jobs.apple.com/en-us/details/200684521",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790298549000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790301049972
+  },
   {
    "key": "simplify:b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18",
    "company": "Charles Schwab",
@@ -5703,82 +5784,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789510817000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:e5537bf8-fbbd-44ae-a003-71eee38408d2",
-   "company": "Anduril",
-   "title": "Software Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007",
-   "locations": [
-    "Quincy, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789510809000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:a355d856-ab26-44de-b9eb-81f9bf8b6de7",
-   "company": "GlobalFoundries",
-   "title": "Systems Engineer Intern",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789510519000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:e6d2ca10-47cc-492f-bfc3-51e1c414353b",
-   "company": "Tyler Technologies",
-   "title": "Software Development Intern - Summer 2027",
-   "url": "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false",
-   "locations": [
-    "Lakewood, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789512661000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:bdfbfca1-ffec-468f-a042-b1fac1c61036",
-   "company": "Northrop Grumman",
-   "title": "Cyber Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
-   "locations": [
-    "Cincinnati, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789512897000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
