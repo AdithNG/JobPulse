@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-25T06:59:19.068Z",
+ "updatedAt": "2026-09-25T12:43:20.140Z",
  "jobs": [
+  {
+   "key": "simplify:6521a00f-8b47-4195-a3ce-bdb80befcc30",
+   "company": "GliaCell Technologies",
+   "title": "Software Engineer",
+   "url": "https://gliacelltechnologies.applytojob.com/apply/F5wpzZFcry/Software-Engineer",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790327528000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790340199081
+  },
   {
    "key": "simplify:8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
    "company": "Snowflake",
@@ -5765,25 +5784,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1789510858000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789518988144
-  },
-  {
-   "key": "simplify:232751f3-952f-47d4-922c-fd11763f1d6a",
-   "company": "LexisNexis Legal & Professional",
-   "title": "Software Engineer Intern",
-   "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Software-Engineer-Internship_R118692",
-   "locations": [
-    "Raleigh, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789510817000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
