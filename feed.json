@@ -1,6 +1,143 @@
 {
- "updatedAt": "2026-09-25T23:38:52.969Z",
+ "updatedAt": "2026-09-26T02:02:36.463Z",
  "jobs": [
+  {
+   "key": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
+   "company": "Apple",
+   "title": "CAD Engineer - Signoff Infrastructure",
+   "url": "https://jobs.apple.com/en-us/details/200685871",
+   "locations": [
+    "Austin, TX",
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790384941000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1790388155435
+  },
+  {
+   "key": "simplify:954f1915-886d-44d2-b63c-900fb3b88410",
+   "company": "GovSignals",
+   "title": "Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790385481000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790388155435
+  },
+  {
+   "key": "simplify:cf5aad4b-cc25-4bd4-92c7-0ac99a58245e",
+   "company": "Tesla",
+   "title": "Mobile Application Software Engineer Intern - Energy Engineering",
+   "url": "https://www.tesla.com/careers/search/job/284776",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790386024000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790388155435
+  },
+  {
+   "key": "simplify:6db9023a-15b9-4dfa-a544-4779d19c4277",
+   "company": "The Aerospace Corporation",
+   "title": "Software Systems Engineer Intern - Acquisition",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431",
+   "locations": [
+    "Chantilly, VA",
+    "El Segundo, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790384989000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790388155435
+  },
+  {
+   "key": "simplify:416e85c5-846c-4613-8d4d-2eccfbae2735",
+   "company": "Varsity Brands",
+   "title": "Software Engineer 1 - .Net",
+   "url": "https://careers.varsitybrands.com/global/en/job/JR114518",
+   "locations": [
+    "Memphis, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790385604000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790388155435
+  },
+  {
+   "key": "simplify:3ecd14db-e4e2-468a-9cdf-c4007834664b",
+   "company": "Quora",
+   "title": "Software Engineer New Grad - Machine Learning Platform",
+   "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790385301000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790388155435
+  },
+  {
+   "key": "simplify:b7d0be78-5e04-4394-8976-e71c58ef4fde",
+   "company": "LeanTaaS",
+   "title": "Associate GTM Engineer",
+   "url": "https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790385301000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790388155435
+  },
   {
    "key": "simplify:bc95ef3d-75d4-459b-bd69-5d99d0e7f95c",
    "company": "DoorDash",
@@ -5643,140 +5780,6 @@
    "sponsorship": "unknown",
    "posted": 1789597083000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:f1ef6d6c-618e-4935-8928-f02675833955",
-   "company": "AspenTech",
-   "title": "Software Development Intern",
-   "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
-   "locations": [
-    "Medina, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789597989000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:e229af0f-ee15-4743-b863-7a2ae2645455",
-   "company": "Gordon Food Service",
-   "title": "Data Science Engineer Intern",
-   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789597808000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:e30c1cc5-e220-4fd3-acc3-db8af1dcd0f5",
-   "company": "Waymo",
-   "title": "Quantitative Software Engineer Intern",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789599568000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:bbf97353-45cc-4b6c-b3a6-50e3aafa73fd",
-   "company": "Anduril",
-   "title": "Software Engineer - Battlespace Awareness",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007",
-   "locations": [
-    "Fort Collins, CO",
-    "Broomfield, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789597083000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:28687df6-3cb5-40a1-81c8-816629cb8353",
-   "company": "L3Harris Technologies",
-   "title": "Associate Software Engineering",
-   "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1430740500/?ats=successfactors",
-   "locations": [
-    "Greenville, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789597089000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:c26d8252-d97c-43cd-a297-d22043b04581",
-   "company": "Headlands Tech Holdings",
-   "title": "C++ Software Developer New Grad",
-   "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789599436000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:35598328-327a-4daa-af71-c84789488d49",
-   "company": "ITC Defense",
-   "title": "Software Developer - .NET/C# - NAVSUP Programs",
-   "url": "https://itcdefense.applytojob.com/apply/bHuaTk27be/Software-Developer-NETC-NAVSUP-Programs",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789598161000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
