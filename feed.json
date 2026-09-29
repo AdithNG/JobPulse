@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-28T20:49:02.990Z",
+ "updatedAt": "2026-09-29T00:43:16.956Z",
  "jobs": [
+  {
+   "key": "simplify:b8a0da3d-3c2c-4f9e-bced-378378271310",
+   "company": "CACI",
+   "title": "AI Prompt Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_332729-1",
+   "locations": [
+    "Ashburn, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790634601000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790642595800
+  },
   {
    "key": "simplify:72f6e435-1060-4700-9b90-48d82c3b1972",
    "company": "Apple",
@@ -5760,25 +5779,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789598115000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789603005232
-  },
-  {
-   "key": "simplify:f82e3471-72f0-48d8-b603-88faa3e7bcc0",
-   "company": "AspenTech",
-   "title": "Project Engineering Intern - Digital Grid Management",
-   "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Project-Engineering-Intern---Digital-Grid-Management---Summer-2027_R9457",
-   "locations": [
-    "Medina, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789597083000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
