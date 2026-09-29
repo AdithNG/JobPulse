@@ -1,6 +1,105 @@
 {
- "updatedAt": "2026-09-29T18:38:25.341Z",
+ "updatedAt": "2026-09-29T22:39:03.823Z",
  "jobs": [
+  {
+   "key": "simplify:b81ad8d8-409c-4563-b87b-1aa4661b4937",
+   "company": "Early Warning",
+   "title": "Software Engineer - Java - Paze",
+   "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
+   "locations": [
+    "Chicago, IL",
+    "Scottsdale, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790720282000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1790721542897
+  },
+  {
+   "key": "simplify:6f576614-627b-4348-9a04-178f26b01381",
+   "company": "Marvell",
+   "title": "AI-Native Development Platform Engineer Intern",
+   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790720278000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790721542897
+  },
+  {
+   "key": "simplify:f4e3ff63-d803-48e6-a0a1-1a2716fc3d76",
+   "company": "Laminar",
+   "title": "Junior Machine Learning Engineer - ML - Developer",
+   "url": "https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790720782000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790721542897
+  },
+  {
+   "key": "simplify:73a73ca6-2b65-48a8-ae4e-bd56c127f358",
+   "company": "ASSA ABLOY",
+   "title": "Associate Software Engineer",
+   "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Software-Engineer-AZ-85044/1442458033/?ats=successfactors",
+   "locations": [
+    "Phoenix, AZ",
+    "New Haven, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790720282000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790721542897
+  },
+  {
+   "key": "simplify:f91b1924-d624-401a-b807-2ddc1e14c988",
+   "company": "Intuitive Surgical",
+   "title": "Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000152472854",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790720282000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790721542897
+  },
   {
    "key": "simplify:7443e2ee-d487-4319-a352-cc1779444a7f",
    "company": "OneImaging",
@@ -5691,101 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789655405000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789669778151
-  },
-  {
-   "key": "simplify:27a127fe-f092-4faa-8ba9-7c1861c83c80",
-   "company": "CAI",
-   "title": "Web Application Developer",
-   "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/OK-CLIENT-STATE/Web-Application-Developer_R8570",
-   "locations": [
-    "Oklahoma City, OK"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789655148000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789669778151
-  },
-  {
-   "key": "simplify:62b3fe3f-1948-4119-8099-ee4fbd994b6d",
-   "company": "Visa",
-   "title": "Software Engineer New Grad - 2027",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789654939000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789669778151
-  },
-  {
-   "key": "simplify:bb272438-463e-46cb-955f-ee7c68e2c72d",
-   "company": "VML",
-   "title": "Associate Data Engineer",
-   "url": "https://job-boards.greenhouse.io/map/jobs/8816124002",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789654149000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789669778151
-  },
-  {
-   "key": "simplify:fca41145-e1a2-43c4-a565-1fd42f831279",
-   "company": "Noblis",
-   "title": "AI/ML Engineer - Multiple levels - Cleared",
-   "url": "https://careers.noblis.org/jobs/27849?icims=1",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789655221000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789669778151
-  },
-  {
-   "key": "simplify:0243fda8-ee44-49ba-b33f-d9bd2da4261a",
-   "company": "Noblis",
-   "title": "Software Developer - Multiple Levels - Cleared",
-   "url": "https://careers.noblis.org/jobs/27847?icims=1",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789655221000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
