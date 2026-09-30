@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-09-30T14:11:07.460Z",
+ "updatedAt": "2026-09-30T19:25:03.331Z",
  "jobs": [
+  {
+   "key": "simplify:069dfa9c-8d02-4151-9206-14b22adce975",
+   "company": "Wellmark",
+   "title": "Software Engineer Intern - Metadata Enablement Team",
+   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699",
+   "locations": [
+    "Des Moines, IA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790777522000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
+  {
+   "key": "simplify:e6f977e3-0c56-4d61-bd36-637f2e5d2dee",
+   "company": "MFS",
+   "title": "Junior Software Engineer Co-op",
+   "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790778897000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
+  {
+   "key": "simplify:e6e68252-64e3-4113-87e6-21679405692d",
+   "company": "CACI",
+   "title": "Software/Network Engineering Intern",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
+   "locations": [
+    "Florham Park, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790778781000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
+  {
+   "key": "simplify:b6e13db3-be91-4612-8719-470246e65112",
+   "company": "MFS",
+   "title": "Investment Data Engineer Co-op",
+   "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Investment-Data-Engineer-Co-op--January---June-_MFS-231978",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790778895000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
+  {
+   "key": "simplify:fc4e65f3-51dc-4ed5-bbd3-4d0d40a18ce5",
+   "company": "International",
+   "title": "Entry-Level Vehicle Powertrain Integration Engineer",
+   "url": "https://careers.international.com/jobs/59979?icims=1",
+   "locations": [
+    "Lisle, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790777522000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
+  {
+   "key": "simplify:688f2ebb-1fef-4424-a9f4-04a953688db8",
+   "company": "Torch Technologies",
+   "title": "Software Analyst",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Arnold-AFB/AEDC-Software-Analyst--Arnold-AFB-_R1948",
+   "locations": [
+    "Tullahoma, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790779026000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
+  {
+   "key": "simplify:9ab3e6b9-b8cd-4bee-94d4-b877937beb96",
+   "company": "Wells Fargo",
+   "title": "Engineering Associate - CIB Operations Technology",
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---CIB-Operations-Technology_R-572941",
+   "locations": [
+    "Iselin, Woodbridge Township, NJ",
+    "Charlotte, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790778664000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790796301817
+  },
   {
    "key": "simplify:1c05aeb6-1548-460d-ac98-cca04204d3a7",
    "company": "POET",
@@ -5659,145 +5793,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789713646660
-  },
-  {
-   "key": "simplify:5f473e5a-c08d-4e76-ae09-29c68b392aea",
-   "company": "Stripe",
-   "title": "Software Engineer - Early Career - Immediate Start",
-   "url": "https://stripe.com/jobs/search?gh_jid=8212508",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789695025000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789713646660
-  },
-  {
-   "key": "simplify:ebda590f-cbe9-4e03-b0eb-6de1c724a228",
-   "company": "Brady Martz",
-   "title": "AI Prototyping Engineer",
-   "url": "https://apply.workable.com/brady-martz/j/39C6A58F26/apply",
-   "locations": [
-    "Remote in USA",
-    "St. Louis, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789712281000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789713646660
-  },
-  {
-   "key": "simplify:7c51e306-a24c-4fac-b188-b36e0bc3f128",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Intern - E-Commerce Recommendation Mall",
-   "url": "https://lifeattiktok.com/search/7686283601340369205",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789694111000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789695475645
-  },
-  {
-   "key": "simplify:1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021",
-   "company": "Amazon",
-   "title": "Software Development Engineer Intern - Summer",
-   "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
-   "locations": [
-    "Seattle, WA",
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789693924000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789695475645
-  },
-  {
-   "key": "simplify:84bf55b8-233e-40be-8535-022acd294d1a",
-   "company": "Fortinet",
-   "title": "Software Development Engineer - Gui",
-   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789693744000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789695475645
-  },
-  {
-   "key": "simplify:b2cc2a88-efd8-4b00-b346-0f29ab47dc4f",
-   "company": "Geneva Trading",
-   "title": "AI Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789685470000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:bf48dd2b-e7b1-4338-a911-cb29771f7cce",
-   "company": "W.R. Berkley",
-   "title": "Software Developer Intern - Java",
-   "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Urbandale, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789684563000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1789688589245
   }
  ]
 }
