@@ -1,6 +1,411 @@
 {
- "updatedAt": "2026-09-30T19:25:03.331Z",
+ "updatedAt": "2026-09-30T23:10:11.877Z",
  "jobs": [
+  {
+   "key": "simplify:cea6352a-da56-4d24-a4d4-4a5f5833eeec",
+   "company": "Oracle",
+   "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357",
+   "locations": [
+    "Nashville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790806576000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 23,
+   "matchedWords": [
+    "cloud",
+    "infrastructure"
+   ],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:8333b344-795f-4400-aa23-11358ddd296e",
+   "company": "Patch My PC",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply",
+   "locations": [
+    "Castle Rock, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790807052000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:a9e99925-f394-4b08-906d-b96b7591cbc8",
+   "company": "Assurant",
+   "title": "Software Engineer Intern",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727",
+   "locations": [
+    "Miami, FL",
+    "Chicago, IL",
+    "Atlanta, GA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790806718000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:3652392f-5646-4168-b539-ac3e5a186acd",
+   "company": "Waymo",
+   "title": "Software Engineering Intern - Labeling",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790808042000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:e8c586d7-f281-4ffc-bd41-078c7158f059",
+   "company": "Northrop Grumman",
+   "title": "Software Engineer Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
+   "locations": [
+    "Morrisville, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790807957000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:82b7074b-3840-4347-a125-e4d8ed0f7c3a",
+   "company": "Dow Chemical Company",
+   "title": "Data Engineer / Data Platform Engineer Intern",
+   "url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Kankakee-IL-USA/Data-Engineer---Data-Platform-Engineer-Internship-Spring-2027-Semester-at-the-Dow-Delivery-Center-at-UIUC--Champaign--IL-_R2068792",
+   "locations": [
+    "Champaign, IL"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807873000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:f3437876-fa5c-490c-a81a-74af68437738",
+   "company": "Peraton",
+   "title": "Software Engineering Co-op",
+   "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807762000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:bc6412bd-7dbe-456e-8c67-d2002acadeaa",
+   "company": "Electronic Arts",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790807401000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:2b8a623c-d139-413c-aff2-d9afce6a38e4",
+   "company": "Northrop Grumman",
+   "title": "Cyber Software Engineer Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+   "locations": [
+    "Tampa, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790807634000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:3d00be97-0582-45ae-a8eb-87b75501dddc",
+   "company": "Southern Company",
+   "title": "Application Developer 1 - Integrations",
+   "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843",
+   "locations": [
+    "Naperville, IL",
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807349000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:2769aa70-1382-4688-a523-01231176c4df",
+   "company": "Mastercard",
+   "title": "Data Engineer 1",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
+   "locations": [
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807336000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:13ba423b-b67d-4b79-a96b-6e8f0425688f",
+   "company": "HELLBENDER",
+   "title": "Linux Device Driver Engineer",
+   "url": "https://job-boards.greenhouse.io/hellbenderinc/jobs/5436436008",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790806718000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:9a553838-a007-4071-b969-45ccfd1b81cb",
+   "company": "Frontier Technology",
+   "title": "Associate Software Developer",
+   "url": "https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Norfolk, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790806141000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:de2e7aef-3f85-4d5d-a785-80237b864ee3",
+   "company": "PG&E",
+   "title": "Product Engineer Associate",
+   "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors",
+   "locations": [
+    "Oakland, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790806277000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:84b7e139-e250-4722-9c0c-3b35d48ac62f",
+   "company": "Atlas Energy Solutions",
+   "title": "AI Developer",
+   "url": "https://job-boards.greenhouse.io/atlassand/jobs/8858449002",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790808301000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:65631f60-2928-47c7-a3b3-2c66d4748283",
+   "company": "Rivian",
+   "title": "Attributes Method Engineer",
+   "url": "https://careers.rivian.com/jobs/34080?icims=1",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790808073000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:8e1c4d71-6011-41b4-8948-e9bef181663f",
+   "company": "RTX",
+   "title": "Software Developer Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807941000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:ab4c9ca3-73cb-48b3-a095-093c436e265e",
+   "company": "KLA",
+   "title": "Software Engineer 1",
+   "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2641480",
+   "locations": [
+    "Ann Arbor, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807820000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:bedec746-617b-42a5-aecd-8de5af5bed9c",
+   "company": "CTC Group",
+   "title": "Software Engineer",
+   "url": "https://ctcgroup.applytojob.com/apply/hY7mtkP4Eq/Software-Engineer",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807401000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:da5add3d-df09-436a-b370-0fae4cb326df",
+   "company": "RTX",
+   "title": "Software Engineer/Developer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
+   "locations": [
+    "Woburn, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807747000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
+  {
+   "key": "simplify:7e8877cc-8675-477d-8147-3f5443d85bb6",
+   "company": "RTX",
+   "title": "Software/Developer Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790807738000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790809809524
+  },
   {
    "key": "simplify:069dfa9c-8d02-4151-9206-14b22adce975",
    "company": "Wellmark",
@@ -5391,408 +5796,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:4d57a7e2-4766-489b-9d6a-7e88179d0f8c",
-   "company": "AHEAD",
-   "title": "Associate AI Engineer",
-   "url": "https://jobs.lever.co/thinkahead/1ebcedcb-82ba-4d19-ac88-aa73a812dd81/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789770062000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:cf1af2cc-6bfc-4244-a4a5-a82a3ebb9b05",
-   "company": "AHEAD",
-   "title": "Associate Data Engineer",
-   "url": "https://jobs.lever.co/thinkahead/14fefcf2-720f-4333-8bcc-ff3ba62d3b8e/apply",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789770062000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:d8c45b15-7f06-40ce-bdda-a337e771a2e6",
-   "company": "Noom",
-   "title": "Agentic Engineer New Grad",
-   "url": "https://www.noom.com/careers/job-listings/?gh_jid=8114573",
-   "locations": [
-    "Princeton, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789771692000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:a339dae3-c079-4987-a6be-c0b863c83fb6",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation Video",
-   "url": "https://lifeattiktok.com/search/7686999927260105013",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789771339000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:cc7c4f99-00f9-44a9-9e51-dc2f9d993851",
-   "company": "Toyota",
-   "title": "Software Engineer - Early Career Professional",
-   "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer--Early-Career-Professional-_10325071",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789771112000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:a0b422cd-dc70-43c3-adaa-7870472fe1df",
-   "company": "ByteDance",
-   "title": "Software Engineer - AI Compute",
-   "url": "https://jobs.bytedance.com/en/position/7686733097398290693/detail",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789771192000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:3a695283-1988-4be5-a28c-867068149b17",
-   "company": "Valency",
-   "title": "Software Engineer - Full-stack",
-   "url": "https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff/application?embed=true",
-   "locations": [
-    "Berkeley, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789770781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:a05af293-2419-4601-846b-4b6fbc5f280d",
-   "company": "ByteDance",
-   "title": "Graduate Software Engineer - AI Compute",
-   "url": "https://jobs.bytedance.com/en/position/7686732729746950405/detail",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789771190000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789781824021
-  },
-  {
-   "key": "simplify:edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
-   "company": "CoBank",
-   "title": "Software Engineer Intern",
-   "url": "https://careers.cobank.com/jobs/7940?icims=1",
-   "locations": [
-    "Greenwood Village, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789769531000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789774587972
-  },
-  {
-   "key": "simplify:4de71a6b-1acd-4a09-8054-bd0d87814d8b",
-   "company": "AIG",
-   "title": "Gen AI Engineering Analyst",
-   "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Analyst--Gen-AI-Data-Engineering---United-States--Atlanta--GA_JR2603744-1",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789769993000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789774587972
-  },
-  {
-   "key": "simplify:89e37552-ee0c-479f-8b19-19090755e8e2",
-   "company": "Lumentum",
-   "title": "AI/ML Engineer",
-   "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/AI-ML-Engineer_20261243-1",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789769531000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789774587972
-  },
-  {
-   "key": "simplify:4e0f7ead-dd65-475c-a873-e9f998be70f6",
-   "company": "Applied Materials",
-   "title": "Algorithm Developer 2",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II--E2-_R2628905",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789769531000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789774587972
-  },
-  {
-   "key": "simplify:170b4dbe-36bf-488f-8c87-9759f8f3fc2b",
-   "company": "Tyler Technologies",
-   "title": "Software Development Intern",
-   "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false",
-   "locations": [
-    "Lawrenceville, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789741443000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789767661477
-  },
-  {
-   "key": "simplify:cf2e64b5-aec2-405b-a955-9b84207721be",
-   "company": "EXL",
-   "title": "Data Engineer",
-   "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/20370",
-   "locations": [
-    "Jersey City, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789741261000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789767661477
-  },
-  {
-   "key": "simplify:1137567c-261b-4ccb-8a65-00a55a4d57b5",
-   "company": "Freedom Technology Solutions Group",
-   "title": "Junior Software Engineer",
-   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789741443000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789767661477
-  },
-  {
-   "key": "simplify:0323e548-0c85-4a82-8973-ae8faa214117",
-   "company": "Qualcomm",
-   "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
-   "url": "https://qualcomm.eightfold.ai/careers/job/446717346550",
-   "locations": [
-    "Austin, TX",
-    "Raleigh, NC",
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789720202000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789732356752
-  },
-  {
-   "key": "simplify:99a096e7-a5be-4022-8904-7687e11a9efa",
-   "company": "Arcfield",
-   "title": "Entry Level Systems Engineer",
-   "url": "https://careers.arcfield.com/jobs/8645?icims=1",
-   "locations": [
-    "Middletown, RI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789725242000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789732356752
-  },
-  {
-   "key": "simplify:93ef662e-5551-44f1-b92f-7803ee8a3ea1",
-   "company": "Tesla",
-   "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
-   "url": "https://www.tesla.com/careers/search/job/284003",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789713001000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789713646660
-  },
-  {
-   "key": "simplify:5eeb71a2-4362-490d-91b2-80bec3bb466d",
-   "company": "Tesla",
-   "title": "Internship - Software Engineering - People Products - Summer 2027",
-   "url": "https://www.tesla.com/careers/search/job/284004",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789713001000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789713646660
-  },
-  {
-   "key": "simplify:50aa2666-a2a3-4da7-8099-d77ee703ebd6",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/283950",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789712505000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789713646660
-  },
-  {
-   "key": "simplify:f17e1a25-2872-42d0-90f6-3e3dbb14c8fa",
-   "company": "Microsoft",
-   "title": "Software Engineer Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-   "locations": [
-    "Redmond, WA",
-    "Santa Clara, CA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789711924000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789713646660
   }
  ]
 }
