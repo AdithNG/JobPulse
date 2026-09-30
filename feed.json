@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-09-30T01:36:51.797Z",
+ "updatedAt": "2026-09-30T07:28:32.788Z",
  "jobs": [
+  {
+   "key": "simplify:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
+   "company": "AMCA",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790748702000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790753312066
+  },
   {
    "key": "simplify:e60e9a94-ba50-4649-b502-e7203a9eb65f",
    "company": "NVIDIA",
@@ -5774,27 +5793,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1789683122000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:6c46682a-cd5d-4600-9417-d7b43d3afe1f",
-   "company": "Fidelity National Information Services",
-   "title": "Software Engineer Intern - FIS University Program",
-   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
-   "locations": [
-    "Milwaukee, WI",
-    "Jacksonville, FL",
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789682675000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
