@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-09-30T07:28:32.788Z",
+ "updatedAt": "2026-09-30T14:11:07.460Z",
  "jobs": [
+  {
+   "key": "simplify:1c05aeb6-1548-460d-ac98-cca04204d3a7",
+   "company": "POET",
+   "title": "Data Engineer Intern",
+   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787",
+   "locations": [
+    "Sioux Falls, SD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790760206000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790777466352
+  },
+  {
+   "key": "simplify:cfd65384-8de0-4673-9086-3e19b4843b5e",
+   "company": "POET",
+   "title": "Software Developer Intern",
+   "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1",
+   "locations": [
+    "Sioux Falls, SD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790766941000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790777466352
+  },
+  {
+   "key": "simplify:1f2f92ef-4765-4730-b29c-a7f5dff8437a",
+   "company": "RTX",
+   "title": "Systems Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828",
+   "locations": [
+    "Fulton, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790748952000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790777466352
+  },
+  {
+   "key": "simplify:be220962-337b-458d-9bf5-631a762cc07b",
+   "company": "Fidelity Investments",
+   "title": "Software Engineer",
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870-1",
+   "locations": [
+    "Boston, MA",
+    "Westlake, TX",
+    "Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790766206000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790777466352
+  },
+  {
+   "key": "simplify:4bfa4cd6-fbd4-4d12-a70b-e839ea0925e8",
+   "company": "Aurelian",
+   "title": "Product Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/aurelian/216c8538-1778-4aa4-bcce-21ebf1149734/application?embed=true",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790760643000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790777466352
+  },
   {
    "key": "simplify:9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e",
    "company": "AMCA",
@@ -5700,103 +5797,6 @@
    "matchedWords": [
     "java"
    ],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:3e987eca-2504-4d6a-9d3c-ad762da4a132",
-   "company": "Stafford Gray",
-   "title": "Full Stack .NET Developer",
-   "url": "https://apply.workable.com/staffordgray/j/13A72A78A0/apply",
-   "locations": [
-    "Lansing, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789684563000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:0fd4122e-ceb7-4f97-8f55-aaab32d000d7",
-   "company": "LSEG",
-   "title": "Engineering Intern - Multiple Teams",
-   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789684040000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:2f0ce744-ccb1-4843-adeb-0f63d5bd2b49",
-   "company": "LSEG",
-   "title": "Engineering Intern",
-   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789684073000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:93fa34ac-b6d0-4b02-87d8-5c14b2deb4a9",
-   "company": "Gordon Food Service",
-   "title": "Data Engineering Intern - Atlanta Tech Hub - Data Engineering",
-   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Engineering-Internship_R-57330",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789683835000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789688589245
-  },
-  {
-   "key": "simplify:3f405abf-6caa-4ae6-8c84-3d7c8931051a",
-   "company": "Robert Bosch Venture Capital",
-   "title": "AI Engineering Intern",
-   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869",
-   "locations": [
-    "Plymouth, MI"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789683122000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1789688589245
   }
  ]
