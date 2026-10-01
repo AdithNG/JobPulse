@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-10-01T02:11:15.470Z",
+ "updatedAt": "2026-10-01T09:01:06.547Z",
  "jobs": [
+  {
+   "key": "simplify:8b6adedc-bcf4-4553-9fa2-ff61cdd5425f",
+   "company": "Southwest Airlines",
+   "title": "Software Engineer Intern",
+   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790835152000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790845265447
+  },
+  {
+   "key": "simplify:66d75708-a251-415f-b835-c6766b6c4d61",
+   "company": "Southwest Airlines",
+   "title": "Data Engineer Intern",
+   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790835152000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790845265447
+  },
+  {
+   "key": "simplify:8ec152ad-60df-44f3-8f06-cdc62ddea548",
+   "company": "Emerson Electric",
+   "title": "Software Engineer - AI Enablement & Engineering Productivity",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790834942000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790845265447
+  },
+  {
+   "key": "simplify:0ee73422-ac94-4f05-898c-8c0a21d20d22",
+   "company": "The Aerospace Corporation",
+   "title": "Data Scientist/Machine Learning Engineer",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Data-Scientist-Machine-Learning-Engineer_R016761",
+   "locations": [
+    "Colorado Springs, CO",
+    "Chantilly, VA",
+    "El Segundo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790835155000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790845265447
+  },
   {
    "key": "simplify:0bb25d49-891c-45e8-9504-1d5c8d923aa3",
    "company": "Tesla",
@@ -5718,84 +5796,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1789817670739
-  },
-  {
-   "key": "simplify:231bce7f-9106-478b-baf4-5af5b77f9cd1",
-   "company": "Bot Auto",
-   "title": "Software Engineer Intern - AI Agents",
-   "url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789781435000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789799918026
-  },
-  {
-   "key": "simplify:b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
-   "company": "RTX",
-   "title": "Software Engineering Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780",
-   "locations": [
-    "Sterling, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1789780454000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789799918026
-  },
-  {
-   "key": "simplify:11510869-ac93-4ce2-85d4-2787fe2b2cb2",
-   "company": "Study.com",
-   "title": "Software Engineer New Grad - AI-Native",
-   "url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789782156000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1789799918026
-  },
-  {
-   "key": "simplify:83d0a294-51a6-4b84-867f-e039c06781af",
-   "company": "Wolverine Trading",
-   "title": "Entry Level C++ Software Engineer",
-   "url": "https://wolve.pinpointhq.com/en/postings/2b2e514b-4709-4897-960d-77909fe33ab8?ats=pinpointhq",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1789770781000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1789781824021
   }
  ]
 }
