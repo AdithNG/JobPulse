@@ -1,6 +1,86 @@
 {
- "updatedAt": "2026-10-02T06:27:41.081Z",
+ "updatedAt": "2026-10-02T13:04:48.734Z",
  "jobs": [
+  {
+   "key": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
+   "company": "Amazon",
+   "title": "Software Development Engineer – Early Career - Amazon Dedicated Cloud - ADC",
+   "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc",
+   "locations": [
+    "Seattle, WA",
+    "Jessup, MD",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790921341000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1790946287783
+  },
+  {
+   "key": "simplify:827ccc8c-5daf-4ca9-90a9-badca54261a8",
+   "company": "General Motors",
+   "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790921601000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790946287783
+  },
+  {
+   "key": "simplify:5c721084-2430-498d-ae4c-d36aeaee8fac",
+   "company": "General Motors",
+   "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790921598000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790946287783
+  },
+  {
+   "key": "simplify:96268a8b-5041-4571-913d-7a04ae9c4c50",
+   "company": "Mindex",
+   "title": "Software Engineer Co-op",
+   "url": "https://apply.workable.com/mindex/j/84B10DB922/apply",
+   "locations": [
+    "Rochester, NY"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790932630000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790946287783
+  },
   {
    "key": "simplify:e73c9bda-894d-4193-9a98-e29f9b2a4f57",
    "company": "Cincinnati Children’s Hospital and Medical Center",
@@ -5719,83 +5799,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1790039791230
-  },
-  {
-   "key": "simplify:a5e5a517-e9b1-459c-9fa1-aecf085cac93",
-   "company": "Voyager Technologies",
-   "title": "Software Engineer - AI Automation - Internal Tools",
-   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4251267009",
-   "locations": [
-    "Seattle, WA",
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790029624000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790039791230
-  },
-  {
-   "key": "simplify:c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
-   "company": "Booz Allen",
-   "title": "Software Developer Intern",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0249799",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790028973000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790030800704
-  },
-  {
-   "key": "simplify:d2afb367-e5e2-4a63-a963-4e920b56ac3b",
-   "company": "Booz Allen",
-   "title": "Systems Engineer Intern - Summer Games",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0249871",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790028972000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790030800704
-  },
-  {
-   "key": "simplify:3b865cc2-227b-4dda-8f33-5c2cae3f3939",
-   "company": "Booz Allen",
-   "title": "Software Developer Intern - Summer Games",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0249873",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790028971000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790030800704
   }
  ]
 }
