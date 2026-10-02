@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-02T00:49:35.051Z",
+ "updatedAt": "2026-10-02T06:27:41.081Z",
  "jobs": [
+  {
+   "key": "simplify:e73c9bda-894d-4193-9a98-e29f9b2a4f57",
+   "company": "Cincinnati Children’s Hospital and Medical Center",
+   "title": "Software Engineer 1 - Web Services",
+   "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790903979000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790922460329
+  },
+  {
+   "key": "simplify:7525137e-4f3a-4f97-9fbb-f2d715545fb4",
+   "company": "RTX",
+   "title": "Software Test Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-I_01879609",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790903881000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790922460329
+  },
   {
    "key": "simplify:2f4d691e-c368-4b0b-a6ca-641b6441ab48",
    "company": "SAS",
@@ -5753,44 +5791,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1790028971000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790030800704
-  },
-  {
-   "key": "simplify:a01e4505-c351-4177-91c4-d76273c077a3",
-   "company": "Booz Allen",
-   "title": "Software Developer Intern - University",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249823",
-   "locations": [
-    "McLean, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790028926000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790030800704
-  },
-  {
-   "key": "simplify:515f1b04-c8f4-4920-ba4c-8564e312dca9",
-   "company": "Wellmark",
-   "title": "Software Engineer Intern - Technology Healthcare Innovation",
-   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000150732768",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790028808000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
