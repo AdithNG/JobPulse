@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-02T13:04:48.734Z",
+ "updatedAt": "2026-10-02T18:24:45.579Z",
  "jobs": [
+  {
+   "key": "simplify:7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
+   "company": "General Motors",
+   "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790921601000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790965484478
+  },
+  {
+   "key": "simplify:99c9261f-9794-4deb-8e15-9bb47dc0ab42",
+   "company": "Power Design",
+   "title": "AI Innovation Engineer - BIM",
+   "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer---BIM_R12319-1",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790955001000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1790965484478
+  },
   {
    "key": "simplify:169846aa-cf8c-463a-9721-b9826b79a129",
    "company": "Amazon",
@@ -5756,44 +5794,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1790030341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790039791230
-  },
-  {
-   "key": "simplify:6ba49fd7-fca8-4128-a0e2-5d8cffc9661e",
-   "company": "The Aerospace Corporation",
-   "title": "Software Acquisition Engineer",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/IC-2027-Software-Acquisition-Engineer_R016339",
-   "locations": [
-    "Chantilly, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790030298000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790039791230
-  },
-  {
-   "key": "simplify:7cb75f90-8d8d-45a1-a809-491bcde77e4f",
-   "company": "Gannett Fleming",
-   "title": "Associate Software Developer",
-   "url": "https://careers-gannettfleming.icims.com/jobs/14760/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Mechanicsburg, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790030213000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
