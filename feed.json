@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-02T18:24:45.579Z",
+ "updatedAt": "2026-10-02T22:29:38.557Z",
  "jobs": [
+  {
+   "key": "gh:affirm:8011590003",
+   "company": "Affirm",
+   "title": "Software Engineer Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+   "locations": [
+    "San Francisco, California, United States"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790978051000,
+   "source": "Affirm careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1790980177652
+  },
+  {
+   "key": "gh:affirm:8008645003",
+   "company": "Affirm",
+   "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+   "locations": [
+    "San Francisco, California, United States"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790978147000,
+   "source": "Affirm careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1790980177652
+  },
   {
    "key": "simplify:7747e648-90c3-47bb-a0ae-b1c7f3ebb5e5",
    "company": "General Motors",
@@ -5750,44 +5788,6 @@
    "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202682766",
    "locations": [
     "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790030341000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790039791230
-  },
-  {
-   "key": "simplify:98e68ffb-731f-4f1a-ade0-5907c36a9b8c",
-   "company": "The Aerospace Corporation",
-   "title": "Network Modeling and Simulation Engineer - Network Systems",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/IC-2027-Network-Modeling-and-Simulation-Engineer_R016341",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790030358000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790039791230
-  },
-  {
-   "key": "simplify:c95a5357-a110-4537-8efd-4cbd83ed8ed8",
-   "company": "State Street",
-   "title": "Software Engineer Junior - REST API Development - Officer",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer---REST-API-Development--Officer_R-798140",
-   "locations": [
-    "Burlington, MA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
