@@ -1,6 +1,83 @@
 {
- "updatedAt": "2026-10-03T01:23:10.590Z",
+ "updatedAt": "2026-10-03T07:01:41.824Z",
  "jobs": [
+  {
+   "key": "simplify:92c455d6-d3f6-4d95-b523-eeca0104e5a8",
+   "company": "HNTB",
+   "title": "AI Business Process Developer Intern",
+   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1790989847000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791010900956
+  },
+  {
+   "key": "simplify:1b4b4857-a0e7-40ae-911b-03e1528c4c9f",
+   "company": "Parasail",
+   "title": "Software Engineer New Grad - Forward Deploy",
+   "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790990393000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791010900956
+  },
+  {
+   "key": "simplify:3f4f0a33-7d23-4062-ad6b-47a6d5194539",
+   "company": "Koch Industries",
+   "title": "AI Solutions Engineer",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/195477",
+   "locations": [
+    "Rochester Hills, MI",
+    "Lisle, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790990281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791010900956
+  },
+  {
+   "key": "simplify:865bf71e-5c86-49eb-a0c8-9f04b6ed9aeb",
+   "company": "Interdigital",
+   "title": "Research Engineer - 6G AI-Enabled Systems and Testbeds",
+   "url": "https://interdigital.wd5.myworkdayjobs.com/InterDigital_Career/job/Conshohocken-PA/Research-Engineer---6G-AI-Enabled-Systems-and-Testbeds_REQ26-1144",
+   "locations": [
+    "Conshohocken, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1790990281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791010900956
+  },
   {
    "key": "simplify:6f49e470-0a16-4b21-86e6-7a8a8a5cd275",
    "company": "Tesla",
@@ -5719,82 +5796,6 @@
    "sponsorship": "unknown",
    "posted": 1790039540000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790058144602
-  },
-  {
-   "key": "simplify:98d9becd-5285-4f4f-b2fc-e769dfd0ea69",
-   "company": "Wellington Management",
-   "title": "Investment Platform Technology Co-op",
-   "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Platform-Technology-Co-op_R94902-1",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790039527000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790058144602
-  },
-  {
-   "key": "simplify:5bcc84d6-aa71-420b-8da9-eb3f46477f69",
-   "company": "GE Aerospace",
-   "title": "Data Science Co-op - Flight Analytics Platform",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790039521000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790058144602
-  },
-  {
-   "key": "simplify:e88effb2-7748-41ae-9be2-407af5870c56",
-   "company": "Waymo",
-   "title": "Software Engineer Intern - Simulation Evaluation ML Model",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790041189000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790058144602
-  },
-  {
-   "key": "simplify:b75d9a5e-5bbf-4016-8d19-1384e5528fdf",
-   "company": "Amentum",
-   "title": "Entry Level Software Engineer",
-   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0171030",
-   "locations": [
-    "Dahlgren, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790039701000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
