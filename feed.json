@@ -1,6 +1,179 @@
 {
- "updatedAt": "2026-10-04T14:11:55.202Z",
+ "updatedAt": "2026-10-04T18:11:50.983Z",
  "jobs": [
+  {
+   "key": "simplify:2edd4fc6-b185-4137-b320-c3162dd57ed3",
+   "company": "LMI",
+   "title": "Junior Power BI Developer",
+   "url": "https://careers-lmi.icims.com/jobs/14673/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791122803000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:ff3ebe3a-a2ea-4860-b79e-d2c8e21819dd",
+   "company": "T-Mobile",
+   "title": "Associate Engineer - AI",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--AI_REQ375927",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791123983000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:fe14fd5d-c834-4c22-bc27-c3807e210b18",
+   "company": "Microsoft",
+   "title": "Software Engineer - Forward Deployed Engineer",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791123484000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:a3488e6f-c542-4279-9aef-97a3f424a008",
+   "company": "RTX",
+   "title": "Research Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791123917000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:83a81125-8501-43a2-b0c7-82b520ae9102",
+   "company": "AeroVironment",
+   "title": "Junior Software Engineer",
+   "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322",
+   "locations": [
+    "Jessup, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791122401000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:3c009b4f-77db-4adf-a566-988bc63d5ba6",
+   "company": "Pennsylvania State University",
+   "title": "Software Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000079261-2",
+   "locations": [
+    "State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791123060000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:a3f0cde5-d90d-4d0a-a423-c4a3323e0ba3",
+   "company": "Visa",
+   "title": "Software Engineer",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/SW-Engineer_REF081049W",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791125103000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:3df6994b-faea-4585-a01c-50090660e390",
+   "company": "Crowe",
+   "title": "Machine Learning Software Engineer 1",
+   "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006",
+   "locations": [
+    "Lexington, KY",
+    "Boston, MA",
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791124568000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
+  {
+   "key": "simplify:caaee00c-197e-430a-b95b-f3d01ae0fb6a",
+   "company": "CACI",
+   "title": "Software Engineer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324349",
+   "locations": [
+    "Ypsilanti, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791125464000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791137510214
+  },
   {
    "key": "simplify:b3015cae-3273-4a68-adfd-587d522af9c7",
    "company": "Intercontinental Exchange",
@@ -5625,179 +5798,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1790201827000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:5c662c18-a1fd-4227-99a3-140c17cabb69",
-   "company": "Humana",
-   "title": "Data Engineer - Platform Innovation and Engineering",
-   "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Data-Engineer---Platform-Innovation-and-Engineering_R-423155",
-   "locations": [
-    "Louisville, KY",
-    "Nashville, TN",
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790201342000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:2fa6d8e7-5b80-4460-bfd6-473d05cd5b5f",
-   "company": "MKS2 Technologies",
-   "title": "Software Engineer",
-   "url": "https://www.mks2.com/job/6206921004?gh_jid=6206921004",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203501000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:0a05b05d-daaf-4bd5-964c-6f2e5bd47d82",
-   "company": "Commure",
-   "title": "Software Engineer - Scribe AI",
-   "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203501000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:38e5fb7d-47de-4c1f-8524-458e98d55dde",
-   "company": "RELX",
-   "title": "Software Engineer New Grad",
-   "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810-1",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203803000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:4c913790-31a6-448a-bfb5-21b1bffb2dc7",
-   "company": "Klaviyo",
-   "title": "AI Engineer 1",
-   "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203753000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:93896d9e-e589-442f-8d6b-cc1a1b97c9a9",
-   "company": "Qumulo",
-   "title": "Software Development Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203727000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:07c15d46-f45a-4114-9666-4e95db293314",
-   "company": "Toshiba Global Commerce",
-   "title": "Associate Software Support Engineer",
-   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007",
-   "locations": [
-    "Durham, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203581000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:cc4a8dbb-c15d-4fd8-a1fe-4ac7bffa903e",
-   "company": "iManage",
-   "title": "Applied AI Engineer New Grad",
-   "url": "https://imanagecom.applytojob.com/apply/r4huAJvEWl/Applied-AI-Engineer-New-Or-Recent-Grad",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790203624000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:2b7bfd46-c622-4c20-ace0-c6ed69851428",
-   "company": "LexisNexis Risk Solutions",
-   "title": "Software Engineer New Grad",
-   "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelarate-Graduate-Program_R118810",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790202962000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
