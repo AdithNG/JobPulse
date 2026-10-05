@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-05T05:45:54.572Z",
+ "updatedAt": "2026-10-05T12:43:37.049Z",
  "jobs": [
+  {
+   "key": "simplify:0f621445-f310-4ae7-9e91-f830db926091",
+   "company": "State of North Carolina",
+   "title": "Data Engineer Intern",
+   "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791181157000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791204215975
+  },
+  {
+   "key": "simplify:4cf30745-6f3b-4afc-b4a7-8c156b74804c",
+   "company": "NVIDIA",
+   "title": "Software Engineer Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791195827000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791204215975
+  },
+  {
+   "key": "simplify:32840b1f-85f1-43a7-86fe-57d7e965e241",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Software Assurance/Formal Methods Developer",
+   "url": "https://careers.jhuapl.edu/jobs/58612?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791190621000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791204215975
+  },
   {
    "key": "simplify:2edd4fc6-b185-4137-b320-c3162dd57ed3",
    "company": "LMI",
@@ -5742,63 +5799,6 @@
    "sponsorship": "unknown",
    "posted": 1790202962000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:48fa31a1-8714-413c-9943-2454cb1caf1e",
-   "company": "Advocate Health Care",
-   "title": "Advanced Analytics Developer Associate - Enterprise Advanced Analytics",
-   "url": "https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790202122000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:2d23863f-49e1-4783-aab6-4f76106c7d8d",
-   "company": "Amgen",
-   "title": "Associate AI Engineer - OI&A",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988",
-   "locations": [
-    "Thousand Oaks, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790201872000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:367e2e43-5881-4312-9e29-9606b3347b8f",
-   "company": "Framatome",
-   "title": "Computer Science Engineer 1 - Cranberry Township",
-   "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Cranberry Township, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790201827000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
