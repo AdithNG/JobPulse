@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-05T12:43:37.049Z",
+ "updatedAt": "2026-10-05T20:55:30.867Z",
  "jobs": [
+  {
+   "key": "simplify:726360c4-caf8-48cc-bc62-9dc9ba9eaca4",
+   "company": "Quantum Signal AI",
+   "title": "Software Engineer Intern - Tools and Prototypes",
+   "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes",
+   "locations": [
+    "Saline, MI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791210409000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791233730100
+  },
+  {
+   "key": "simplify:670d8a8b-1082-42e8-9009-e35612ea924a",
+   "company": "Motorola",
+   "title": "Android Applications Developer Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791210781000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791233730100
+  },
   {
    "key": "simplify:0f621445-f310-4ae7-9e91-f830db926091",
    "company": "State of North Carolina",
@@ -5760,44 +5798,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1790202633000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:fbed94d0-207f-4923-97dd-2c066c0e8d6a",
-   "company": "General Dynamics Information Technology",
-   "title": "AI Network Engineering Intern",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
-   "locations": [
-    "Bossier City, LA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790202962000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790204803372
-  },
-  {
-   "key": "simplify:03a8913b-a007-4657-8f59-bc29a722beda",
-   "company": "General Dynamics Information Technology",
-   "title": "Generative AI Software Development Intern",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
-   "locations": [
-    "Bossier City, LA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790202962000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
