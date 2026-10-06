@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-06T15:13:31.793Z",
+ "updatedAt": "2026-10-06T20:24:09.897Z",
  "jobs": [
+  {
+   "key": "gh:affirm:8008649003",
+   "company": "Affirm",
+   "title": "Software Engineer I (New Grad 2027) (NYC)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+   "locations": [
+    "New York, New York, United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791316461000,
+   "source": "Affirm careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1791318249005
+  },
+  {
+   "key": "gh:affirm:8010617003",
+   "company": "Affirm",
+   "title": "Software Engineer I (New Grad 2027) (SF)",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+   "locations": [
+    "San Francisco, California, United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791316638000,
+   "source": "Affirm careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1791318249005
+  },
   {
    "key": "simplify:80c856e0-3ec4-4026-9444-8ee61d28bf1e",
    "company": "Boston Scientific",
@@ -5754,44 +5792,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1790376137000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790379531384
-  },
-  {
-   "key": "simplify:44631389-4603-4cbc-bb24-596433854282",
-   "company": "Waymo",
-   "title": "Software Engineer Intern - Driver Refinement Foundations",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790376093000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790379531384
-  },
-  {
-   "key": "simplify:6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
-   "company": "RTX",
-   "title": "Software Engineer Intern - Summer 2027",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01875358",
-   "locations": [
-    "West Valley City, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790376018000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
