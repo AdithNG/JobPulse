@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-10-07T12:16:44.190Z",
+ "updatedAt": "2026-10-07T18:59:34.012Z",
  "jobs": [
+  {
+   "key": "simplify:258d5748-3766-4b86-b1f1-7672e1c66cef",
+   "company": "S&C Electric Company",
+   "title": "Software Engineer Intern",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791383401000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
+  {
+   "key": "simplify:78a00951-890f-474e-94ee-6e0cc1a2b9f7",
+   "company": "Northrop Grumman",
+   "title": "Software Developer Intern",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+   "locations": [
+    "Chantilly, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791387106000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
+  {
+   "key": "simplify:26dd2b73-7f9e-47f3-8c63-9003aec2977e",
+   "company": "Auto-Owners Insurance",
+   "title": "Business Intelligence Engineer Intern",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Engineering-Intern---Summer-2027_R_14662",
+   "locations": [
+    "Lansing, MI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791387110000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
+  {
+   "key": "simplify:541b7177-0a14-41ed-9ffb-9cc0f5cf924a",
+   "company": "Eurofins",
+   "title": "Laboratory Software Specialist",
+   "url": "https://jobs.smartrecruiters.com/Eurofins/744000154107909",
+   "locations": [
+    "Lancaster, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791382325000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
+  {
+   "key": "simplify:8748f3a4-ffe7-42fd-a8bb-f46a6a75127b",
+   "company": "Garmin",
+   "title": "Software Engineer 1 - Web Applications",
+   "url": "https://careers.garmin.com/jobs/20219?icims=1",
+   "locations": [
+    "Olathe, KS"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791382861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
+  {
+   "key": "simplify:4dbd811e-0477-41e7-b085-cba2d9e1cb62",
+   "company": "Leidos",
+   "title": "Junior Systems Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Junior-Systems-Engineer_R-00193784",
+   "locations": [
+    "Odenton, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791384748000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
+  {
+   "key": "simplify:96c65a15-841f-4ff3-85f5-ac9291e3bb35",
+   "company": "CACI",
+   "title": "Web Application Developer – Early Career",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158",
+   "locations": [
+    "Chantilly, VA",
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791386821000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791399573030
+  },
   {
    "key": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
    "company": "NVIDIA",
@@ -5651,140 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1790722278000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:f1208480-1147-48ce-9646-846da02f7bc8",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer or Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437",
-   "locations": [
-    "Aurora, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790722045000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:c629b4e6-c4f2-414a-9bfa-e7be4219dd59",
-   "company": "NVIDIA",
-   "title": "Applied Machine Learning Engineer - AI for VLSI Design",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790722045000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:43cec23f-151f-42b8-b94c-23b40da351c5",
-   "company": "Northrop Grumman",
-   "title": "Associate Software Engineer / Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10253287",
-   "locations": [
-    "Melbourne, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790721542000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:1093e6a3-6eab-4f26-a747-8ac2815f5d7b",
-   "company": "SAS",
-   "title": "Software Developer - Emerging Careers",
-   "url": "https://careers-sas.icims.com/jobs/42297/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Cary, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790721666000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:9868e2ad-7703-44a2-9e77-0c36692e4ba3",
-   "company": "ITC Defense",
-   "title": "Software Developer - NAVSUP Programs",
-   "url": "https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720825000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:8a830901-d041-4b57-aa59-a8e8967e7cdd",
-   "company": "Dallas Fort Worth International Airport",
-   "title": "Associate Application Developer",
-   "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Associate-Application-Developer_JR102118",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720825000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:7b85c484-0905-481a-81b4-29a6322549c4",
-   "company": "Capgemini",
-   "title": "Associate Data Engineer",
-   "url": "https://careers.capgemini.com/job/Pittsburg-Associate-Data-Engineer-AR/1442511233/?ats=successfactors",
-   "locations": [
-    "Philadelphia, PA",
-    "Reading, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720825000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
