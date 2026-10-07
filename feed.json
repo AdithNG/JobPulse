@@ -1,6 +1,104 @@
 {
- "updatedAt": "2026-10-07T05:49:15.613Z",
+ "updatedAt": "2026-10-07T12:16:44.190Z",
  "jobs": [
+  {
+   "key": "simplify:be3d4ee8-4dc8-4c20-bae9-49826174e869",
+   "company": "NVIDIA",
+   "title": "Systems Software Engineer - AI and Cloud",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791367136000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1791375403093
+  },
+  {
+   "key": "simplify:4da6a748-d1fc-4dc3-b3f7-7aaf4533f1d7",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Systems/Software Engineer 1",
+   "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791353885000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791375403093
+  },
+  {
+   "key": "simplify:03a16469-429d-4f34-a718-e27b73e3b992",
+   "company": "Apple",
+   "title": "Software Engineer - Siri User Experiences",
+   "url": "https://jobs.apple.com/en-us/details/200687375",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791353522000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791375403093
+  },
+  {
+   "key": "simplify:bab3c73f-9824-4c77-9ad6-c7450b4e9ed8",
+   "company": "CVS Health",
+   "title": "Associate Software Development Engineer - Conversion",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791353161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791375403093
+  },
+  {
+   "key": "simplify:59e18143-8042-4a91-96f7-4d3bbed0be51",
+   "company": "Apple",
+   "title": "Screening and Integration Engineer - Watch Software, Sensing and Connectivity",
+   "url": "https://jobs.apple.com/en-us/details/200670523",
+   "locations": [
+    "Cupertino, CA",
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791366281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791375403093
+  },
   {
    "key": "simplify:4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
    "company": "Visa",
@@ -5692,105 +5790,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1790732210622
-  },
-  {
-   "key": "simplify:b81ad8d8-409c-4563-b87b-1aa4661b4937",
-   "company": "Early Warning",
-   "title": "Software Engineer - Java - Paze",
-   "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
-   "locations": [
-    "Chicago, IL",
-    "Scottsdale, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720282000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1790721542897
-  },
-  {
-   "key": "simplify:6f576614-627b-4348-9a04-178f26b01381",
-   "company": "Marvell",
-   "title": "AI-Native Development Platform Engineer Intern",
-   "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790720278000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790721542897
-  },
-  {
-   "key": "simplify:f4e3ff63-d803-48e6-a0a1-1a2716fc3d76",
-   "company": "Laminar",
-   "title": "Junior Machine Learning Engineer - ML - Developer",
-   "url": "https://jobs.lever.co/runlaminar/827f30da-67cd-4274-91e7-87fb12019a23/apply",
-   "locations": [
-    "Somerville, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720782000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790721542897
-  },
-  {
-   "key": "simplify:73a73ca6-2b65-48a8-ae4e-bd56c127f358",
-   "company": "ASSA ABLOY",
-   "title": "Associate Software Engineer",
-   "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Software-Engineer-AZ-85044/1442458033/?ats=successfactors",
-   "locations": [
-    "Phoenix, AZ",
-    "New Haven, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720282000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790721542897
-  },
-  {
-   "key": "simplify:f91b1924-d624-401a-b807-2ddc1e14c988",
-   "company": "Intuitive Surgical",
-   "title": "Software Engineer",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000152472854",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790720282000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790721542897
   }
  ]
 }
