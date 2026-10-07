@@ -1,6 +1,122 @@
 {
- "updatedAt": "2026-10-07T00:01:53.381Z",
+ "updatedAt": "2026-10-07T05:49:15.613Z",
  "jobs": [
+  {
+   "key": "simplify:4c2d5f64-e8be-4bd2-b925-eea984ca00ab",
+   "company": "Visa",
+   "title": "Software Engineer Operations and Infrastructure",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791335734000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1791352154131
+  },
+  {
+   "key": "simplify:1fd32548-9b70-43de-815b-740a8ac20359",
+   "company": "F5",
+   "title": "Software Developer Intern",
+   "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791336079000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791352154131
+  },
+  {
+   "key": "simplify:f275fcd7-572d-4633-b737-96a5f019b985",
+   "company": "Clēnera",
+   "title": "Data Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/clenera/jobs/5259423007",
+   "locations": [
+    "Boise, ID"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791327737000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791352154131
+  },
+  {
+   "key": "simplify:3aa8e6d6-bc8d-4612-a995-21c9edb99cb9",
+   "company": "Figure",
+   "title": "Middleware Software Intern",
+   "url": "https://job-boards.greenhouse.io/figureai/jobs/4605724006",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791337348000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791352154131
+  },
+  {
+   "key": "simplify:ca291eaf-69cd-4a1c-91c7-dcc20bc50b33",
+   "company": "EquipmentShare",
+   "title": "Software Engineer 1",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715",
+   "locations": [
+    "Columbia, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791336601000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791352154131
+  },
+  {
+   "key": "simplify:f9c39daf-9f62-4431-bf7d-acc89559372a",
+   "company": "SpaceX",
+   "title": "Software Engineer - Starshield Products",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8865057002",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791336601000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791352154131
+  },
   {
    "key": "simplify:3a93ce9b-b375-4f91-a7b3-4841cd8b84da",
    "company": "D'Addario",
@@ -5675,122 +5791,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1790721542897
-  },
-  {
-   "key": "simplify:7443e2ee-d487-4319-a352-cc1779444a7f",
-   "company": "OneImaging",
-   "title": "Full Stack Associate Software Engineer",
-   "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4423640009",
-   "locations": [
-    "Miami, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790662681000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1790707104019
-  },
-  {
-   "key": "simplify:7a4c54a2-858e-4678-90f3-93bba7644c52",
-   "company": "Thrivent",
-   "title": "Application Engineer Intern - Investments",
-   "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2",
-   "locations": [
-    "Minneapolis, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790662608000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790707104019
-  },
-  {
-   "key": "simplify:810a66c8-0c3f-4ac3-bec1-fb4ae6080325",
-   "company": "Verizon Communications",
-   "title": "Data Scientist Intern - Fiber Engineering & Operations",
-   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790662586000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790707104019
-  },
-  {
-   "key": "simplify:3e456223-d5b0-4c98-9c23-c9658c558899",
-   "company": "Verizon Communications",
-   "title": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
-   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790662586000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790707104019
-  },
-  {
-   "key": "simplify:d27ce4c9-b5bf-4de0-a7f5-2e540532f643",
-   "company": "Q2",
-   "title": "Software Engineer Intern",
-   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798",
-   "locations": [
-    "Cary, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790700379000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790707104019
-  },
-  {
-   "key": "simplify:51b8b3e7-e7d0-4727-9f90-91917bc88230",
-   "company": "RTX",
-   "title": "Software Engineer Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineering--Intern--Summer-2027-_01877561",
-   "locations": [
-    "Woburn, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790700299000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790707104019
   }
  ]
 }
