@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-08T02:56:31.259Z",
+ "updatedAt": "2026-10-08T10:23:36.393Z",
  "jobs": [
+  {
+   "key": "simplify:9824f95e-030c-4a9f-984a-a8e683459e9a",
+   "company": "Motorola",
+   "title": "Software Engineer Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997",
+   "locations": [
+    "Westminster, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791440101000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791455015596
+  },
+  {
+   "key": "simplify:53e2d2ca-2bf9-417b-8c18-b1af4a682042",
+   "company": "Motorola",
+   "title": "Software Development Intern",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791439932000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791455015596
+  },
+  {
+   "key": "simplify:5b324f86-93db-4206-a6be-2406d36267e0",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - Monetization Technology - Ads Core Global",
+   "url": "https://lifeattiktok.com/search/7687630614472149301",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791450902000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791455015596
+  },
   {
    "key": "simplify:168a65f0-560f-4f1d-bdb8-105eaa141d0f",
    "company": "TikTok",
@@ -5732,63 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1790806718000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:9a553838-a007-4071-b969-45ccfd1b81cb",
-   "company": "Frontier Technology",
-   "title": "Associate Software Developer",
-   "url": "https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Norfolk, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790806141000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:de2e7aef-3f85-4d5d-a785-80237b864ee3",
-   "company": "PG&E",
-   "title": "Product Engineer Associate",
-   "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors",
-   "locations": [
-    "Oakland, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790806277000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:84b7e139-e250-4722-9c0c-3b35d48ac62f",
-   "company": "Atlas Energy Solutions",
-   "title": "AI Developer",
-   "url": "https://job-boards.greenhouse.io/atlassand/jobs/8858449002",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790808301000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
