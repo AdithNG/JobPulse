@@ -1,6 +1,139 @@
 {
- "updatedAt": "2026-10-07T23:32:49.868Z",
+ "updatedAt": "2026-10-08T02:56:31.259Z",
  "jobs": [
+  {
+   "key": "simplify:168a65f0-560f-4f1d-bdb8-105eaa141d0f",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern",
+   "url": "https://lifeattiktok.com/search/7694044547207268661",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791422281000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
+  {
+   "key": "simplify:60881082-3930-422a-9543-38028c8e9208",
+   "company": "Amazon",
+   "title": "Business Intelligence Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791421903000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
+  {
+   "key": "simplify:2ffedaf1-5e57-4490-b50b-d2db5c9c049c",
+   "company": "Amazon",
+   "title": "Data Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791421901000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
+  {
+   "key": "simplify:edc4278f-b222-4879-adc6-0a1a97a007a6",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Graduate - E-Commerce Knowledge Graph",
+   "url": "https://lifeattiktok.com/search/7694054165508557109",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791422281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
+  {
+   "key": "simplify:54109d7b-e383-4172-8aba-eda5ce54188b",
+   "company": "Harbor Foods",
+   "title": "WMS Software Developer 1",
+   "url": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Lacey, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791422129000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
+  {
+   "key": "simplify:cf43075d-b9ba-4cce-b884-1d0b1597dcd4",
+   "company": "Applied Materials",
+   "title": "Software Engineer 1 New Grad",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791422281000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
+  {
+   "key": "simplify:0750f5ca-d84f-422e-a917-baccdf94d7b1",
+   "company": "Applied Materials",
+   "title": "Software Engineer New Grad",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791421948000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791428190551
+  },
   {
    "key": "simplify:45efe805-86d5-4768-849b-53ab403a0c6b",
    "company": "ASSYST",
@@ -5661,139 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:65631f60-2928-47c7-a3b3-2c66d4748283",
-   "company": "Rivian",
-   "title": "Attributes Method Engineer",
-   "url": "https://careers.rivian.com/jobs/34080?icims=1",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790808073000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:8e1c4d71-6011-41b4-8948-e9bef181663f",
-   "company": "RTX",
-   "title": "Software Developer Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Developer-Engineer-I--Onsite-_01878887",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807941000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:ab4c9ca3-73cb-48b3-a095-093c436e265e",
-   "company": "KLA",
-   "title": "Software Engineer 1",
-   "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2641480",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807820000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:bedec746-617b-42a5-aecd-8de5af5bed9c",
-   "company": "CTC Group",
-   "title": "Software Engineer",
-   "url": "https://ctcgroup.applytojob.com/apply/hY7mtkP4Eq/Software-Engineer",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807401000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:da5add3d-df09-436a-b370-0fae4cb326df",
-   "company": "RTX",
-   "title": "Software Engineer/Developer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
-   "locations": [
-    "Woburn, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807747000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:7e8877cc-8675-477d-8147-3f5443d85bb6",
-   "company": "RTX",
-   "title": "Software/Developer Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Developer-Engineer-I--Onsite-_01878880",
-   "locations": [
-    "Fort Wayne, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807738000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:069dfa9c-8d02-4151-9206-14b22adce975",
-   "company": "Wellmark",
-   "title": "Software Engineer Intern - Metadata Enablement Team",
-   "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699",
-   "locations": [
-    "Des Moines, IA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790777522000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790796301817
   }
  ]
 }
