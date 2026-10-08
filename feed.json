@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-10-08T10:23:36.393Z",
+ "updatedAt": "2026-10-08T17:33:46.101Z",
  "jobs": [
+  {
+   "key": "simplify:66fcf084-7f7c-43ed-8947-83179031963c",
+   "company": "DoorDash",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791455264000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791480825315
+  },
+  {
+   "key": "simplify:06c059c8-97ea-4a18-89f3-647a18372e06",
+   "company": "Rugged Robotics",
+   "title": "Robotics Software Intern Co-op",
+   "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730908005",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791469317000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791480825315
+  },
+  {
+   "key": "simplify:537aaa04-0077-4de4-9a8d-d828c5d80978",
+   "company": "Universal Health Services",
+   "title": "Associate Software Engineer",
+   "url": "https://jobs.uhsinc.com/jobs/368933?icims=1",
+   "locations": [
+    "King of Prussia, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791469621000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791480825315
+  },
+  {
+   "key": "simplify:4939e8a4-f378-418b-bf25-abaebfdf3b33",
+   "company": "Amentum",
+   "title": "Software Engineer 1",
+   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606",
+   "locations": [
+    "Hanover, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791474301000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791480825315
+  },
   {
    "key": "simplify:9824f95e-030c-4a9f-984a-a8e683459e9a",
    "company": "Motorola",
@@ -5713,83 +5789,6 @@
    "sponsorship": "unknown",
    "posted": 1790807401000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:2b8a623c-d139-413c-aff2-d9afce6a38e4",
-   "company": "Northrop Grumman",
-   "title": "Cyber Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
-   "locations": [
-    "Tampa, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790807634000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:3d00be97-0582-45ae-a8eb-87b75501dddc",
-   "company": "Southern Company",
-   "title": "Application Developer 1 - Integrations",
-   "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843",
-   "locations": [
-    "Naperville, IL",
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807349000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:2769aa70-1382-4688-a523-01231176c4df",
-   "company": "Mastercard",
-   "title": "Data Engineer 1",
-   "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Arlington-Virginia/Data-Engineer-I--Launch-Program-2027---Arlington--VA--US_R-285985",
-   "locations": [
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790807336000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790809809524
-  },
-  {
-   "key": "simplify:13ba423b-b67d-4b79-a96b-6e8f0425688f",
-   "company": "HELLBENDER",
-   "title": "Linux Device Driver Engineer",
-   "url": "https://job-boards.greenhouse.io/hellbenderinc/jobs/5436436008",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790806718000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
