@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-09T16:35:54.014Z",
+ "updatedAt": "2026-10-09T21:17:53.576Z",
  "jobs": [
+  {
+   "key": "gh:coinbase:8175510",
+   "company": "Coinbase",
+   "title": "Forward Deployed Engineer Intern (HR Technology)",
+   "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
+   "locations": [
+    "Hybrid - New York, NY"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791565583000,
+   "source": "Coinbase careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1791580672560
+  },
   {
    "key": "simplify:64798a92-22e3-405a-93b7-ccded7db1b4e",
    "company": "RTX",
@@ -5757,25 +5776,6 @@
    "company": "MFS",
    "title": "Software Engineer Intern",
    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790894326000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790902173551
-  },
-  {
-   "key": "simplify:6150d12b-9d14-4251-a01a-b5422b9f7028",
-   "company": "MFS",
-   "title": "Software Data Intern",
-   "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984",
    "locations": [
     "Boston, MA"
    ],
