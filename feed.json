@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-09T02:31:06.913Z",
+ "updatedAt": "2026-10-09T09:35:18.233Z",
  "jobs": [
+  {
+   "key": "simplify:9e2a98d3-d831-4cf0-8d19-28dfaf4710f3",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Storage Systems/Software Engineer",
+   "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626",
+   "locations": [
+    "Andover, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791526861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791538517413
+  },
   {
    "key": "simplify:61d630c7-bc66-4344-a5c4-772ddef31c4e",
    "company": "Tesla",
@@ -5759,25 +5778,6 @@
    "term": "Summer 2027",
    "roleType": "internship",
    "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790893460000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790902173551
-  },
-  {
-   "key": "simplify:e424ed63-cf81-42da-b8e7-31265322ec20",
-   "company": "Nokia",
-   "title": "AI R&D Engineer Co-op",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40692",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
    "sponsorship": "unknown",
    "posted": 1790893460000,
    "source": "SimplifyJobs internships",
