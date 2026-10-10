@@ -1,6 +1,160 @@
 {
- "updatedAt": "2026-10-10T01:01:54.231Z",
+ "updatedAt": "2026-10-10T06:59:24.298Z",
  "jobs": [
+  {
+   "key": "simplify:82fb089b-e0cb-414d-9953-9f5d35538486",
+   "company": "NVIDIA",
+   "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791594876000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:7d29e9a8-e116-43c5-a3b9-267f864cddfc",
+   "company": "Workday",
+   "title": "Machine Learning Engineer Intern",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791594721000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:0a37326a-6eb6-4459-8249-044ccfac8600",
+   "company": "Workday",
+   "title": "Software Application Development Engineer Intern",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791594721000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:2ab54297-543e-4470-b71e-2e95b53cd687",
+   "company": "Workday",
+   "title": "Software Engineer Intern",
+   "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791594872000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:98c33fd8-dca1-426d-a419-74413b56996d",
+   "company": "Becton Dickinson",
+   "title": "Software Engineer 1",
+   "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1",
+   "locations": [
+    "Sparks, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791594869000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:6a2ed12f-7233-49b7-80af-74bb4795ed0e",
+   "company": "Shield AI",
+   "title": "Software Engineer 2 - Factory",
+   "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791594741000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:bdc069d8-947d-4e4c-8a1c-78356f9b366f",
+   "company": "Vigil Labs",
+   "title": "Founding Software Engineer",
+   "url": "https://simplify.jobs/p/bdc069d8-947d-4e4c-8a1c-78356f9b366f",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791603636000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
+  {
+   "key": "simplify:c0e68386-5f91-485f-86a7-c92db1919740",
+   "company": "Shield AI",
+   "title": "Software Engineer 1 - Factory Team",
+   "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791612670000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791615563208
+  },
   {
    "key": "gh:affirm:8011375003",
    "company": "Affirm",
@@ -5631,159 +5785,6 @@
    "sponsorship": "unknown",
    "posted": 1790980954000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:258b1734-67f6-4bc5-8017-6bd816a41b1e",
-   "company": "Scout Clean Energy",
-   "title": "Operations Engineering Intern",
-   "url": "https://apply.workable.com/scout-clean-energy/j/7BF0CEDF9F/apply",
-   "locations": [
-    "Boulder, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980742000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:b761fed7-c990-47a1-884c-8d67dabdcc04",
-   "company": "Nelnet",
-   "title": "IT Software Engineer Intern",
-   "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
-   "locations": [
-    "Lincoln, NE"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980822000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:2eb38eea-4e83-49e3-a52d-98e188c7eec6",
-   "company": "Charter Manufacturing",
-   "title": "Smart Manufacturing Engineer Intern",
-   "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133",
-   "locations": [
-    "Mequon, WI",
-    "Saukville, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980742000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:ede62c8f-075b-4ba3-8409-4a187f9b6f1c",
-   "company": "Leidos",
-   "title": "Software Developer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980713000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:1ac3352d-b85c-4b65-9b43-9e0028bf8485",
-   "company": "iPipeline",
-   "title": "Associate Software Development Engineer - Emerging Professionals",
-   "url": "https://careers-ipipeline.icims.com/jobs/1718/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Fort Lauderdale, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790980116000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:3f0ab4da-e520-442d-bc93-8ead777699cd",
-   "company": "Microsoft",
-   "title": "Software Engineer",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790980037000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:f102ff42-f58e-41a7-92b4-fbde30090e88",
-   "company": "Emerson Electric",
-   "title": "Software Solutions Development Program",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904",
-   "locations": [
-    "Elyria, OH"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790978954000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:d132302c-ee49-4bf8-b018-890ad4cfc0b8",
-   "company": "Westinghouse Electric Company",
-   "title": "Engineer – AI Delivery - High-potential program",
-   "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-(high-potential-program)-NC/1436332800/?ats=successfactors",
-   "locations": [
-    "Cranberry Township, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790980742000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
