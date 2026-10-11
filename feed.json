@@ -1,6 +1,27 @@
 {
- "updatedAt": "2026-10-10T21:34:51.650Z",
+ "updatedAt": "2026-10-11T00:29:46.436Z",
  "jobs": [
+  {
+   "key": "simplify:cc5558b2-1bda-49b9-a95f-0a93489f72e2",
+   "company": "Johns Hopkins Applied Physics Laboratory",
+   "title": "Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection",
+   "url": "https://careers.jhuapl.edu/jobs/60432?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791670322000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1791678585559
+  },
   {
    "key": "simplify:82fb089b-e0cb-414d-9953-9f5d35538486",
    "company": "NVIDIA",
@@ -5765,25 +5786,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1790980947000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:037d751e-e964-4164-ad1e-5cd1b7b6cb57",
-   "company": "General Motors",
-   "title": "Machine Learning Engineer Intern - AV/AI Platform",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980954000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
