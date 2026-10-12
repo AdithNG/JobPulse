@@ -1,6 +1,141 @@
 {
- "updatedAt": "2026-10-12T07:29:19.005Z",
+ "updatedAt": "2026-10-12T16:57:30.891Z",
  "jobs": [
+  {
+   "key": "simplify:1935c5df-770d-45f2-bbde-4d4a462ad5cb",
+   "company": "Wolverine Trading",
+   "title": "Early Career C++ Software Engineer",
+   "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791814987000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "trading"
+   ],
+   "firstSeen": 1791824250175
+  },
+  {
+   "key": "simplify:68895e12-9a1f-4ca5-8dfb-b050f2ea8a43",
+   "company": "Google",
+   "title": "Forward Deployed Engineer Intern",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791814976000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791824250175
+  },
+  {
+   "key": "simplify:bd284fb3-53b0-4465-abd6-86445c4a9a0a",
+   "company": "CapTech Consulting",
+   "title": "Data Analysis/Data Engineering Intern",
+   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169",
+   "locations": [
+    "Richmond, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791814501000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791824250175
+  },
+  {
+   "key": "simplify:bc103376-8439-4692-9318-35e66b23cded",
+   "company": "CapTech Consulting",
+   "title": "Consulting Software Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115",
+   "locations": [
+    "Richmond, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791814501000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791824250175
+  },
+  {
+   "key": "simplify:2deb4c4d-48a6-4b30-8445-41e253c752f2",
+   "company": "Crown Innovations",
+   "title": "R&D Engineer 1",
+   "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144158449",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791798590000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791824250175
+  },
+  {
+   "key": "simplify:df030492-3a72-4388-a440-77952fc6c3d3",
+   "company": "Crown Innovations",
+   "title": "Systems Engineer 1",
+   "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144160949",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791800790000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791824250175
+  },
+  {
+   "key": "simplify:2081ec0c-9ef0-4e78-8859-84739cedab0c",
+   "company": "Aderant",
+   "title": "Associate Software Engineer",
+   "url": "https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791818821000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791824250175
+  },
   {
    "key": "simplify:8944e3f6-18d2-4e20-b86a-23223ceba88f",
    "company": "NVIDIA",
@@ -5649,147 +5784,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791010900956
-  },
-  {
-   "key": "simplify:6f49e470-0a16-4b21-86e6-7a8a8a5cd275",
-   "company": "Tesla",
-   "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
-   "url": "https://www.tesla.com/careers/search/job/285508",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790980802000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 20,
-   "matchedWords": [
-    "distributed"
-   ],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:9e5ef9f4-bd8a-4306-96d9-b33a23effac7",
-   "company": "Broadridge",
-   "title": "Junior Full Stack Software Engineer",
-   "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388",
-   "locations": [
-    "Newark, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790979503000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:507939af-b1b0-42a5-b103-4c941f8ec184",
-   "company": "xAI",
-   "title": "Software Engineer Intern/Co-op",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980014000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:d9fd892f-4128-4b27-8d13-be649b77a0ba",
-   "company": "xAI",
-   "title": "Software Engineering Intern Co-op",
-   "url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790979999000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:638db733-b6c2-4e36-b1ad-1d4b6b77df9b",
-   "company": "Elevance Health",
-   "title": "Engineering Graduate Intern",
-   "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082",
-   "locations": [
-    "Indianapolis, IN",
-    "Richmond, VA",
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790978763000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:938e1389-c62c-4512-aecc-c83536e5bea9",
-   "company": "Elevance Health",
-   "title": "Engineering Intern",
-   "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081",
-   "locations": [
-    "Indianapolis, IN",
-    "Richmond, VA",
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790978930000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
-  },
-  {
-   "key": "simplify:6e2de8e6-b0dd-45d3-915d-9fc952cc4a7f",
-   "company": "Arc",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008",
-   "locations": [
-    "Torrance, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1790980999000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1790990589488
   }
  ]
 }
