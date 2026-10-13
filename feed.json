@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-12T23:34:34.583Z",
+ "updatedAt": "2026-10-13T03:53:11.233Z",
  "jobs": [
+  {
+   "key": "simplify:3f2315b2-3a33-4a28-8481-9dfab94b16a8",
+   "company": "Regeneron Pharmaceuticals",
+   "title": "Associate IOPS AI Engineer",
+   "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSS---GLOBAL-VIEW/Assoc-IOPS-AI-Engineer_R51390",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791854172000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791863590491
+  },
   {
    "key": "simplify:4f0098a5-8b39-4eb8-bced-1938179eed05",
    "company": "Brillio",
@@ -5764,25 +5783,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791066163000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791079012914
-  },
-  {
-   "key": "simplify:ee7288a6-1e34-4d2d-9214-5f2338c991a6",
-   "company": "Danaher",
-   "title": "Desktop Software Engineer",
-   "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791066559000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
