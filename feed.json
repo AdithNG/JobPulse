@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-10-13T11:39:37.065Z",
+ "updatedAt": "2026-10-13T18:31:02.227Z",
  "jobs": [
+  {
+   "key": "simplify:71d10136-22a9-4798-89cd-9df17b662d88",
+   "company": "Vestmark",
+   "title": "Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791900467000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791916261148
+  },
+  {
+   "key": "simplify:af62fb52-ee0e-4b3a-a867-510c76bde7bb",
+   "company": "Fidelity Investments",
+   "title": "Software Engineer",
+   "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859-1",
+   "locations": [
+    "Boston, MA",
+    "Westlake, TX",
+    "Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791893742000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791916261148
+  },
+  {
+   "key": "simplify:1a0886f4-50a5-4cd9-b34a-19b40a719143",
+   "company": "Sigma Defense",
+   "title": "Software Engineer",
+   "url": "https://apply.workable.com/sigmadefense/j/F207C966C1/apply",
+   "locations": [
+    "Fairmont, WV"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791901081000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791916261148
+  },
   {
    "key": "simplify:7f24593d-1433-4515-9bd7-2e99e1078d7d",
    "company": "Zoox",
@@ -5726,63 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791117901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:5ee9e9d5-ea2a-4631-8387-e43aec1496e1",
-   "company": "Intelliforce-IT Solutions Group",
-   "title": "Junior Software Engineer - Prime",
-   "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/7PKaVRIpoz/Junior-Software-Engineer-Prime",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791117541000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:1d1d95e4-5d5a-410f-a6ab-fd3ec8cd667f",
-   "company": "Pangram Labs",
-   "title": "Software Engineer - Customer Solutions",
-   "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true",
-   "locations": [
-    "Brooklyn, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791116643000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:ab04c6a1-e90b-4544-b69d-40557f39a1d7",
-   "company": "Leidos",
-   "title": "Radar Modeling Engineer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Modeling-Engineer_R-00189109",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791121597000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
