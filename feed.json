@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-13T03:53:11.233Z",
+ "updatedAt": "2026-10-13T11:39:37.065Z",
  "jobs": [
+  {
+   "key": "simplify:7f24593d-1433-4515-9bd7-2e99e1078d7d",
+   "company": "Zoox",
+   "title": "Contract Student Worker - Autonomy Safety Data Engineer",
+   "url": "https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819/apply",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Foster City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791886503000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791891576000
+  },
+  {
+   "key": "simplify:f9e63e18-4478-4ee4-944c-305f98a747b1",
+   "company": "VivSoft Technologies",
+   "title": "Front-End Developer",
+   "url": "https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791889797000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791891576000
+  },
   {
    "key": "simplify:3f2315b2-3a33-4a28-8481-9dfab94b16a8",
    "company": "Regeneron Pharmaceuticals",
@@ -5748,46 +5788,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:a2caf0cf-c90c-43b1-9914-3f9987389c30",
-   "company": "SpaceX",
-   "title": "Full Stack Software Engineer",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8610872002",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791066601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1791079012914
-  },
-  {
-   "key": "simplify:81a9c210-32e4-4355-8caa-77cd561f68ed",
-   "company": "Blend",
-   "title": "Software Engineer",
-   "url": "https://job-boards.greenhouse.io/blend/jobs/6214287004",
-   "locations": [
-    "Raleigh, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791066163000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791079012914
   }
  ]
 }
