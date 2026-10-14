@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-10-14T01:54:14.641Z",
+ "updatedAt": "2026-10-14T07:27:28.002Z",
  "jobs": [
+  {
+   "key": "simplify:82b6632f-b168-481a-8a24-958666999060",
+   "company": "TikTok",
+   "title": "Machine Learning Engineer Intern - E-Commerce User Growth",
+   "url": "https://lifeattiktok.com/search/7694357619162532149",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791942662000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791962847158
+  },
+  {
+   "key": "simplify:664f484e-e080-4fb3-be9b-ace5f9872240",
+   "company": "NVIDIA",
+   "title": "SoC Software Engineer New Grad",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791941883000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791962847158
+  },
+  {
+   "key": "simplify:18d884be-500d-4ea1-8486-4edd9f37b5b7",
+   "company": "Jabil",
+   "title": "AI and Data Solutions Developer - Global Supply Chain",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953",
+   "locations": [
+    "Tampa, FL",
+    "St. Petersburg, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791958239000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791962847158
+  },
   {
    "key": "simplify:662a9504-a02e-4a49-b186-8619c9b721c5",
    "company": "Monti Inc",
@@ -5743,65 +5801,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:e1cd4fc3-d728-405c-a0f7-58d0fe6e36f8",
-   "company": "Panasonic Holdings",
-   "title": "Software Engineer - Full Stack",
-   "url": "https://careers.na.panasonic.com/jobs/49874?icims=1",
-   "locations": [
-    "Irvine, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791109441000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:9e0dc3ab-9d79-4ad2-8969-6a079b606b79",
-   "company": "Saab",
-   "title": "Systems Engineer Co-op",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1",
-   "locations": [
-    "East Syracuse, NY"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791119872000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:0523ccf9-780c-4410-bcbb-60c3ebfa059b",
-   "company": "Microsoft",
-   "title": "Software Engineer - Intune",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791102597000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1791123114128
   }
  ]
