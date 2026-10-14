@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-13T23:05:34.543Z",
+ "updatedAt": "2026-10-14T01:54:14.641Z",
  "jobs": [
+  {
+   "key": "simplify:662a9504-a02e-4a49-b186-8619c9b721c5",
+   "company": "Monti Inc",
+   "title": "Associate Software Engineer - Intelligence Systems",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791930496000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791942853506
+  },
+  {
+   "key": "simplify:cbbb7f51-7564-48f8-93c7-f822d8b5a568",
+   "company": "Space Tango",
+   "title": "Software Engineer - Level 1, 2, or 3",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4584333",
+   "locations": [
+    "Lexington, KY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791940693000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791942853506
+  },
   {
    "key": "simplify:2500e2f7-e88f-499d-aa0c-99fcc6697cb0",
    "company": "AVEVA",
@@ -5760,44 +5798,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791102597000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:d916f556-bb84-4113-9e95-d93632918d6e",
-   "company": "RoviSys",
-   "title": "Software Engineer/Developer",
-   "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Thousand Oaks, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1790864543000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:073e7d98-b339-4d7a-8580-cd80afc5eb39",
-   "company": "Peterson Technologies",
-   "title": "Junior Software Engineer",
-   "url": "https://petersontechnologies.applytojob.com/apply/Y3TD9CDM0V/Junior-Software-Engineer",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791102604000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
