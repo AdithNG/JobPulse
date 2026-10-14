@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-14T13:01:38.217Z",
+ "updatedAt": "2026-10-14T17:58:05.389Z",
  "jobs": [
+  {
+   "key": "simplify:b135be7e-bf73-4526-9c91-0158ffed7bce",
+   "company": "Parsons",
+   "title": "Software Engineer Intern",
+   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791987892000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792000684658
+  },
+  {
+   "key": "simplify:ccf805e9-e970-4b46-bde0-96d9de47c8a6",
+   "company": "Signet Jewelers",
+   "title": "Software Engineer 1",
+   "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1",
+   "locations": [
+    "Akron, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791986903000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792000684658
+  },
   {
    "key": "simplify:a90773c4-8d1d-4ae9-bcd0-5deecca8ed27",
    "company": "Electronic Arts",
@@ -5749,46 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791125103000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791137510214
-  },
-  {
-   "key": "simplify:3df6994b-faea-4585-a01c-50090660e390",
-   "company": "Crowe",
-   "title": "Machine Learning Software Engineer 1",
-   "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006",
-   "locations": [
-    "Lexington, KY",
-    "Boston, MA",
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791124568000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791137510214
-  },
-  {
-   "key": "simplify:caaee00c-197e-430a-b95b-f3d01ae0fb6a",
-   "company": "CACI",
-   "title": "Software Engineer",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324349",
-   "locations": [
-    "Ypsilanti, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791125464000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
