@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-14T07:27:28.002Z",
+ "updatedAt": "2026-10-14T13:01:38.217Z",
  "jobs": [
+  {
+   "key": "simplify:a90773c4-8d1d-4ae9-bcd0-5deecca8ed27",
+   "company": "Electronic Arts",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216241",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1791968762000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791982897520
+  },
+  {
+   "key": "simplify:2811b58f-5918-42f5-bcb0-73989dbc4f33",
+   "company": "SimVentions",
+   "title": "AI/Machine Learning Engineer - RAG Pipeline Development",
+   "url": "https://simventions.jibeapply.com/jobs/1650?icims=1",
+   "locations": [
+    "Dahlgren, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791966132000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791982897520
+  },
+  {
+   "key": "simplify:42f706ad-c2f4-4190-9175-61c8b63fda22",
+   "company": "Google",
+   "title": "Research Engineer",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/114077679900074694",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1791966603000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1791982897520
+  },
   {
    "key": "simplify:82b6632f-b168-481a-8a24-958666999060",
    "company": "TikTok",
@@ -5737,71 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791137510214
-  },
-  {
-   "key": "simplify:b3015cae-3273-4a68-adfd-587d522af9c7",
-   "company": "Intercontinental Exchange",
-   "title": "Analyst – Infrastructure Development & Automation",
-   "url": "https://careers-ice.icims.com/jobs/13384/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791109984000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:97c16019-9fb6-48dc-b65a-b752073a4d2b",
-   "company": "Intel",
-   "title": "Foundry Cloud Services Developer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203",
-   "locations": [
-    "Hillsboro, OR",
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791121689000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1791123114128
-  },
-  {
-   "key": "simplify:04730f4f-d673-42b6-933d-dd493520e068",
-   "company": "Amgen",
-   "title": "Full Stack Software Engineer",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946",
-   "locations": [
-    "Tampa, FL",
-    "Thousand Oaks, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791102858000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1791123114128
   }
  ]
 }
