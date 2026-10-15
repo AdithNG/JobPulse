@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-15T14:21:19.201Z",
+ "updatedAt": "2026-10-15T18:28:31.370Z",
  "jobs": [
+  {
+   "key": "simplify:e3dc3916-c56e-4402-833e-d675b99b9d0c",
+   "company": "Arcfield",
+   "title": "Software Engineer 1",
+   "url": "https://careers.arcfield.com/jobs/8780?icims=1",
+   "locations": [
+    "Rome, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792075175000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792088910421
+  },
+  {
+   "key": "simplify:8fb0dded-666d-47fa-9cab-28bc7ada4f75",
+   "company": "Western Alliance",
+   "title": "Engineer 1",
+   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Engineer-I_R14052",
+   "locations": [
+    "Dallas, TX",
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792074638000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792088910421
+  },
   {
    "key": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
    "company": "TikTok",
@@ -5748,44 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791268364000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791274192406
-  },
-  {
-   "key": "simplify:bdd26867-ca52-4259-8854-4b2f11893171",
-   "company": "Whoop",
-   "title": "Android Engineer 1",
-   "url": "https://jobs.ashbyhq.com/whoop/2910a5f6-fb5e-4fe6-bb9a-24d6995d8173/application?embed=true",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791268334000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791274192406
-  },
-  {
-   "key": "simplify:8dc34a98-6cba-4361-b5ab-d5e64d0e8b2e",
-   "company": "Whoop",
-   "title": "Software Engineer 1 - Frontend - AI Platform",
-   "url": "https://jobs.ashbyhq.com/whoop/b9dc032d-3fd9-4da4-ba2d-175d17bfaf80/application?embed=true",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791268342000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
