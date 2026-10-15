@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-15T09:26:32.048Z",
+ "updatedAt": "2026-10-15T14:21:19.201Z",
  "jobs": [
+  {
+   "key": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
+   "company": "TikTok",
+   "title": "Backend Engineer Graduate - Social Foundation",
+   "url": "https://lifeattiktok.com/search/7696782198126545157",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792058222000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1792074078489
+  },
+  {
+   "key": "simplify:5083f980-f378-47f2-9737-61eb9fbeeac0",
+   "company": "Brunswick",
+   "title": "G3 Software Engineer Intern",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+   "locations": [
+    "Oshkosh, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792055378000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792074078489
+  },
   {
    "key": "simplify:ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
    "company": "Tessera Labs",
@@ -5751,46 +5791,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791274192406
-  },
-  {
-   "key": "simplify:7ae12ead-4910-4bec-ac00-08d0fe1eb6e9",
-   "company": "RTX",
-   "title": "Software Engineer 1",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineer-I--Onsite-_01874537",
-   "locations": [
-    "East Hartford, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791268294000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791274192406
-  },
-  {
-   "key": "simplify:26752667-e7d0-470c-a645-e7d615bc4b1c",
-   "company": "Cloudflare",
-   "title": "People Analytics Data Engineer Intern",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791241095000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1791250576360
   }
  ]
 }
