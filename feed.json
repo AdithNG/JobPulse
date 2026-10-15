@@ -1,6 +1,28 @@
 {
- "updatedAt": "2026-10-15T04:37:14.932Z",
+ "updatedAt": "2026-10-15T09:26:32.048Z",
  "jobs": [
+  {
+   "key": "simplify:ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
+   "company": "Tessera Labs",
+   "title": "Full Stack Software Engineer Intern - Full Stack",
+   "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true",
+   "locations": [
+    "San Jose, CA",
+    "Remote in USA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792045837000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1792056391299
+  },
   {
    "key": "simplify:a254c38f-5fae-467c-9cff-3dd2e72094f5",
    "company": "SirenOpt",
@@ -5767,27 +5789,6 @@
    "score": 17,
    "matchedWords": [
     "cloud"
-   ],
-   "firstSeen": 1791250576360
-  },
-  {
-   "key": "simplify:d484c3eb-b412-428e-b36b-b79b0996a239",
-   "company": "Accenture",
-   "title": "Full Stack Engineer",
-   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711985006",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791239622000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
    ],
    "firstSeen": 1791250576360
   }
