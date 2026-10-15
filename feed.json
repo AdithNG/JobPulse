@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-15T00:06:56.878Z",
+ "updatedAt": "2026-10-15T04:37:14.932Z",
  "jobs": [
+  {
+   "key": "simplify:a254c38f-5fae-467c-9cff-3dd2e72094f5",
+   "company": "SirenOpt",
+   "title": "Software Engineer - Early Career - C++ & Systems",
+   "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
+   "locations": [
+    "San Leandro, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792026925000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792039034294
+  },
+  {
+   "key": "simplify:5a07cf07-d410-41af-b750-23e449367969",
+   "company": "RTX",
+   "title": "Software Engineer 1 - Next Gen Systems",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792028861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792039034294
+  },
   {
    "key": "simplify:92df1c73-b83b-4d1f-9366-ef07d2fa6bd7",
    "company": "AECOM",
@@ -5751,46 +5789,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1791250576360
-  },
-  {
-   "key": "simplify:b5be1176-4a77-4aa0-a229-cb9959886d0a",
-   "company": "Expedia Group",
-   "title": "Software Development Engineer Intern",
-   "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
-   "locations": [
-    "Seattle, WA",
-    "Austin, TX",
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791239263000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791250576360
-  },
-  {
-   "key": "simplify:44534005-1a4b-4053-b1f5-4569f5b355ce",
-   "company": "Corning",
-   "title": "Engineering Data Analyst Intern",
-   "url": "https://corningjobs.corning.com/job/Keller-Engineering-Data-Analyst-Intern-Summer-2027-TX-76248/1437049900/?ats=successfactors",
-   "locations": [
-    "Keller, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791238336000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1791250576360
   }
  ]
