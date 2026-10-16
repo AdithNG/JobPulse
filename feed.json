@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-16T09:08:56.063Z",
+ "updatedAt": "2026-10-16T13:58:20.302Z",
  "jobs": [
+  {
+   "key": "simplify:c2b83547-72d8-4dc5-8cc9-ea1825ebf4e6",
+   "company": "Tesla",
+   "title": "Software Engineer Intern - SI Data Infrastructure",
+   "url": "https://www.tesla.com/careers/search/job/282292",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792142504000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1792159098969
+  },
+  {
+   "key": "simplify:9ab5126a-5ff7-4eaa-9a53-cb901dc3185c",
+   "company": "Axon",
+   "title": "Software Engineer",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA",
+    "Sterling, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792141622000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792159098969
+  },
   {
    "key": "simplify:55d8577a-649c-47a8-a60f-2fc353841220",
    "company": "Axiom Space",
@@ -5747,44 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791289477000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:5b1dcb48-f2c5-4a0e-b2cf-be4285c160f0",
-   "company": "Teserac",
-   "title": "AI Engineer",
-   "url": "https://apply.workable.com/teserac-inc/j/01F1C3E218/apply",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791296641000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:52d14524-3436-4572-b566-794db4872e46",
-   "company": "Southern Star Central Gas Pipeline",
-   "title": "Software Engineer 1",
-   "url": "https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Owensboro, KY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791296281000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
