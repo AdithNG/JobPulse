@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-16T13:58:20.302Z",
+ "updatedAt": "2026-10-16T17:57:03.742Z",
  "jobs": [
+  {
+   "key": "simplify:baa00ee8-4fec-4f3e-9df3-703c01b4b803",
+   "company": "Visa",
+   "title": "Software Engineer",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792160505000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792173422789
+  },
   {
    "key": "simplify:c2b83547-72d8-4dc5-8cc9-ea1825ebf4e6",
    "company": "Tesla",
@@ -5771,25 +5790,6 @@
    "sponsorship": "unknown",
    "posted": 1791297118000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:abf46b1e-8c1b-477b-ac8a-1cc5a9cfa456",
-   "company": "Advocate Health Care",
-   "title": "Data Solutions Developer - Associate",
-   "url": "https://aah.wd5.myworkdayjobs.com/External/job/Milwaukee-WI---7800-N-113th-St/Data-Solutions-Developer---Associate_R249061",
-   "locations": [
-    "Milwaukee, WI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791289477000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
