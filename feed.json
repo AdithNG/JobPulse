@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-10-15T23:54:24.616Z",
+ "updatedAt": "2026-10-16T04:19:03.883Z",
  "jobs": [
+  {
+   "key": "simplify:55d8577a-649c-47a8-a60f-2fc353841220",
+   "company": "Axiom Space",
+   "title": "Software Engineer Intern",
+   "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Software-Engineering-Intern--Summer-2027-_JR100767",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792113712000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792124343057
+  },
+  {
+   "key": "simplify:4cc3f124-5683-4993-b06a-196a262faaaa",
+   "company": "Healthpeak Properties",
+   "title": "Forward Deployed Software Engineer Intern",
+   "url": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792113021000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792124343057
+  },
+  {
+   "key": "simplify:a8967f38-53a7-4716-80c1-8ba4fc0fb06b",
+   "company": "T-Mobile",
+   "title": "Software Engineer Intern",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792112858000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792124343057
+  },
+  {
+   "key": "simplify:c6cf89af-fd3e-48e3-b886-b14efade21e6",
+   "company": "TikTok",
+   "title": "Software Engineer Intern - Recommendation Performance Efficiency",
+   "url": "https://lifeattiktok.com/search/7673636206961641781",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792114935000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792124343057
+  },
+  {
+   "key": "simplify:d1f50127-9dc7-4b88-a4ae-bffdc7c84812",
+   "company": "Intuit",
+   "title": "Software Engineer 1",
+   "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+   "locations": [
+    "Charlotte, NC",
+    "Mountain View, CA",
+    "Atlanta, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792113876000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792124343057
+  },
   {
    "key": "simplify:95542b2a-559f-4043-9abf-11784ddc524b",
    "company": "Commonwealth Fusion Systems",
@@ -5693,103 +5790,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:b06a41a5-fd2e-44d7-977b-811778f66053",
-   "company": "Northrop Grumman",
-   "title": "Modeling and Simulation Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Modeling-and-Simulation-Engineer--1-2-_R10250968",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791298081000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:6ffabb0b-4dbb-49a3-bb98-10fd85f1898b",
-   "company": "RTX",
-   "title": "Software Engineer 1 - Test",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
-   "locations": [
-    "Tucson, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791297760000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:2ed8bb0c-78f4-4867-8153-c160ca581eaf",
-   "company": "Foundation Health",
-   "title": "Software Engineer",
-   "url": "https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1/application?embed=true",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791297005000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791299609811
-  },
-  {
-   "key": "simplify:6293dd37-4fdd-4c11-b3f9-b55360f7b93a",
-   "company": "Whoop",
-   "title": "Software Engineer 1 - Backend",
-   "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791268518000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1791274192406
-  },
-  {
-   "key": "simplify:d9103fda-a102-4cc0-a39f-6e1e9df44d0c",
-   "company": "Astera Labs",
-   "title": "Packaging Automation & Data Engineering Intern",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791268054000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791274192406
   }
  ]
 }
