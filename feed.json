@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-10-17T06:05:10.130Z",
+ "updatedAt": "2026-10-17T10:42:32.687Z",
  "jobs": [
+  {
+   "key": "simplify:1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6",
+   "company": "Scientific Systems",
+   "title": "Autonomy Software Engineer 1",
+   "url": "https://apply.workable.com/ssci/j/B3FED12AAD/apply",
+   "locations": [
+    "Burlington, VT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792225143000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792233751923
+  },
+  {
+   "key": "simplify:7ca735aa-9419-4bb3-aee2-59ff92b695e6",
+   "company": "Avalore",
+   "title": "Innovation Engineer",
+   "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792227061000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792233751923
+  },
+  {
+   "key": "simplify:dc1736a5-1d63-4f9d-b1cb-88598e3fa554",
+   "company": "Galatea Associates",
+   "title": "Entry-Level Financial Software Consultant",
+   "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply",
+   "locations": [
+    "St. Petersburg, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792229222000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792233751923
+  },
+  {
+   "key": "simplify:9a019136-13e7-4685-8187-00ec9d7fd140",
+   "company": "Avalore",
+   "title": "Systems Engineer",
+   "url": "https://apply.workable.com/avalore/j/D96DEC462B/apply",
+   "locations": [
+    "Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792227795000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792233751923
+  },
   {
    "key": "simplify:9ca48e9a-a09b-4300-802e-47d9b4466d99",
    "company": "Ryan",
@@ -5714,83 +5790,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1791327424000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:e58b01bd-a4bc-456f-b9b0-546a0288c6d3",
-   "company": "RTX",
-   "title": "Software Engineer Co-op",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01878330",
-   "locations": [
-    "Marlborough, MA",
-    "Tewksbury, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791327457000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8",
-   "company": "Leidos",
-   "title": "Systems Engineer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
-   "locations": [
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791327366000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:7247481e-2c0a-4c44-8cec-06c87a3a591e",
-   "company": "Leidos",
-   "title": "Software Engineer Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
-   "locations": [
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791327366000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:6682ab3e-72f8-49a9-928c-220d51a81e0d",
-   "company": "F5",
-   "title": "Software Development Engineer Intern",
-   "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791326881000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
