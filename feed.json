@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-17T01:28:46.913Z",
+ "updatedAt": "2026-10-17T06:05:10.130Z",
  "jobs": [
+  {
+   "key": "simplify:9ca48e9a-a09b-4300-802e-47d9b4466d99",
+   "company": "Ryan",
+   "title": "Software Engineer Intern",
+   "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792200432000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792217109218
+  },
+  {
+   "key": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
+   "company": "Amazon",
+   "title": "Systems Development Engineer – Early Career",
+   "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792200421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792217109218
+  },
+  {
+   "key": "simplify:4b7d9212-ac43-4c9a-8377-465403c23615",
+   "company": "Faraday Future",
+   "title": "SDK Platform Engineer",
+   "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003",
+   "locations": [
+    "El Segundo, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792199374000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792217109218
+  },
   {
    "key": "simplify:1fb0d7af-6c0c-47ef-bf48-32b9b9c876e6",
    "company": "SRC, Inc",
@@ -5734,63 +5791,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1791326881000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:4bed7671-153b-4cbc-84ad-30fbb5e3f1f1",
-   "company": "Pure Storage",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249749",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791326881000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:75eae133-33cf-40a0-80fd-3aabdf37a56f",
-   "company": "Nokia",
-   "title": "AI Engineer Co-op",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791327021000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:0aa13f57-2b33-4f07-8032-f57ecc2104a3",
-   "company": "Nokia",
-   "title": "AI Engineering Co-op",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791326161000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
