@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-18T06:31:22.816Z",
+ "updatedAt": "2026-10-18T11:39:35.437Z",
  "jobs": [
+  {
+   "key": "simplify:931408fb-5cb7-4179-8c33-35a242bbc266",
+   "company": "Tesla",
+   "title": "Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027",
+   "url": "https://www.tesla.com/careers/search/job/286986",
+   "locations": [
+    "Fremont, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792316420000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792323574014
+  },
   {
    "key": "simplify:1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6",
    "company": "Scientific Systems",
@@ -5775,25 +5794,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1791331312126
-  },
-  {
-   "key": "simplify:4e64cdd2-076a-4cc8-9b19-76a36026ca2a",
-   "company": "Space Dynamics Laboratory",
-   "title": "Computer Vision Engineer Intern",
-   "url": "https://spacedynamicslaboratory.applytojob.com/apply/x1yVybua0f/Computer-Vision-Engineer-Intern",
-   "locations": [
-    "North Logan, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791327424000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1791331312126
   }
  ]
