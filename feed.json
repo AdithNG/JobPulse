@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-19T04:39:10.105Z",
+ "updatedAt": "2026-10-19T10:18:57.463Z",
  "jobs": [
+  {
+   "key": "simplify:5a59f0ee-1571-4abb-9f4a-04fb4914313a",
+   "company": "OSF HealthCare",
+   "title": "Data Engineer 1",
+   "url": "https://www.osfcareers.org/jobs/112750?icims=1",
+   "locations": [
+    "Peoria, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792391265000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792405136509
+  },
+  {
+   "key": "simplify:6bd34346-4e1e-4d5b-8ba1-9f643f4e6571",
+   "company": "Conviva",
+   "title": "AI/ML Engineer",
+   "url": "https://www.conviva.ai/careers/job/8036615003?gh_jid=8036615003",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792392121000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792405136509
+  },
   {
    "key": "simplify:22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
    "company": "VTG",
@@ -5751,44 +5789,6 @@
    "sponsorship": "unknown",
    "posted": 1791337348000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791352154131
-  },
-  {
-   "key": "simplify:ca291eaf-69cd-4a1c-91c7-dcc20bc50b33",
-   "company": "EquipmentShare",
-   "title": "Software Engineer 1",
-   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715",
-   "locations": [
-    "Columbia, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791336601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791352154131
-  },
-  {
-   "key": "simplify:f9c39daf-9f62-4431-bf7d-acc89559372a",
-   "company": "SpaceX",
-   "title": "Software Engineer - Starshield Products",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8865057002",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791336601000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
