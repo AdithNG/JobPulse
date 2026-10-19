@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-18T21:55:50.729Z",
+ "updatedAt": "2026-10-19T00:07:12.951Z",
  "jobs": [
+  {
+   "key": "simplify:22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9",
+   "company": "VTG",
+   "title": "Junior Software Engineer",
+   "url": "https://careers.vtgdefense.com/jobs/9669?icims=1",
+   "locations": [
+    "Hanover, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792361352000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792368432163
+  },
   {
    "key": "simplify:931408fb-5cb7-4179-8c33-35a242bbc266",
    "company": "Tesla",
@@ -5774,27 +5793,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791352154131
-  },
-  {
-   "key": "simplify:3a93ce9b-b375-4f91-a7b3-4841cd8b84da",
-   "company": "D'Addario",
-   "title": "Junior Full Stack Engineer",
-   "url": "https://careers-daddario.icims.com/jobs/2680/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Farmingdale, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791326881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1791331312126
   }
  ]
 }
