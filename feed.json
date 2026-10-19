@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-10-19T10:18:57.463Z",
+ "updatedAt": "2026-10-19T17:02:59.004Z",
  "jobs": [
+  {
+   "key": "simplify:6bd9b720-b688-4436-b0fe-a96710105de2",
+   "company": "Sallie Mae",
+   "title": "Engineer 1",
+   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792419538000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792429378038
+  },
+  {
+   "key": "simplify:0a4cd2e5-65b4-4298-ab71-d0c7705a376c",
+   "company": "Citizens Financial Group",
+   "title": "Software Engineer 1",
+   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49903",
+   "locations": [
+    "Johnston, RI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792420307000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792429378038
+  },
   {
    "key": "simplify:5a59f0ee-1571-4abb-9f4a-04fb4914313a",
    "company": "OSF HealthCare",
@@ -5750,44 +5788,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1791336079000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791352154131
-  },
-  {
-   "key": "simplify:f275fcd7-572d-4633-b737-96a5f019b985",
-   "company": "Clēnera",
-   "title": "Data Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/clenera/jobs/5259423007",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791327737000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791352154131
-  },
-  {
-   "key": "simplify:3aa8e6d6-bc8d-4612-a995-21c9edb99cb9",
-   "company": "Figure",
-   "title": "Middleware Software Intern",
-   "url": "https://job-boards.greenhouse.io/figureai/jobs/4605724006",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791337348000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
