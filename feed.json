@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-20T00:37:02.303Z",
+ "updatedAt": "2026-10-20T05:19:40.069Z",
  "jobs": [
+  {
+   "key": "simplify:649995a2-a18c-401a-9cc3-062fa58dc1b3",
+   "company": "Boston Scientific",
+   "title": "R&D Software Engineer Intern",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514",
+   "locations": [
+    "Arden Hills, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792460200000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792473579105
+  },
   {
    "key": "simplify:75a57c7c-d53e-471f-ad32-b424227e9f4a",
    "company": "The Toro Company",
@@ -5771,25 +5790,6 @@
    "sponsorship": "unknown",
    "posted": 1791412204000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:2b3eca81-2577-435b-bff1-4b7a0b5a3e9a",
-   "company": "Shield AI",
-   "title": "Simulation Framework Engineer 1",
-   "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791412070000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
