@@ -1,6 +1,139 @@
 {
- "updatedAt": "2026-10-20T10:14:11.118Z",
+ "updatedAt": "2026-10-20T15:12:16.437Z",
  "jobs": [
+  {
+   "key": "simplify:069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
+   "company": "Verizon Communications",
+   "title": "Call Routing Optimization Engineer Intern",
+   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
+   "locations": [
+    "Basking Ridge, Bernards, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792494228000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
+  {
+   "key": "simplify:10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d",
+   "company": "Verizon Communications",
+   "title": "Call Routing Optimization Engineering Intern",
+   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+   "locations": [
+    "Basking Ridge, Bernards, NJ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792499640000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
+  {
+   "key": "simplify:10497907-6a16-498a-a06a-e40113931577",
+   "company": "Space Dynamics Laboratory",
+   "title": "AI-Enabled Requirements Engineering Intern",
+   "url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern",
+   "locations": [
+    "North Logan, UT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792506962000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
+  {
+   "key": "simplify:14dca508-6481-402d-a5d6-943f5efb9a58",
+   "company": "Intel",
+   "title": "CAD/EDA Tools Software Engineer",
+   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
+   "locations": [
+    "Hillsboro, OR"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792490807000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
+  {
+   "key": "simplify:a864bebf-e087-4574-860e-29229283a0fd",
+   "company": "Magna",
+   "title": "Junior AI Engineer",
+   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1",
+   "locations": [
+    "Troy, MI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792505920000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
+  {
+   "key": "simplify:e912cad0-0531-489d-9c62-88dae5a40170",
+   "company": "Funnel Leasing",
+   "title": "Software Engineer Entry to Mid-Level",
+   "url": "https://apply.workable.com/funnel-leasing/j/1B817A4D38/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792505465000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
+  {
+   "key": "simplify:1583766b-60b6-44e5-b135-0ebadcdcaee0",
+   "company": "CVS Health",
+   "title": "Full-Stack Engineer Training Program",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Full-Stack-Engineer-Training-Program---June-2027-Cohort_R1066830",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792506603000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792509134853
+  },
   {
    "key": "simplify:fa86f83b-d953-4b1c-96dd-dfd4c96de55b",
    "company": "Saalex",
@@ -5651,148 +5784,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:98a1c697-5677-4ba2-baf4-81428098328e",
-   "company": "Graham Capital Management",
-   "title": "Quantitative Trading and Research Operations Developer",
-   "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4741577005",
-   "locations": [
-    "Norwalk, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791412957000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "trading"
-   ],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:80e937f9-b321-42fa-98f7-8b8e97d42209",
-   "company": "McKesson",
-   "title": "Software Engineer Intern",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382",
-   "locations": [
-    "Pittsburgh, PA",
-    "Columbus, OH",
-    "Irving, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791411002000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:a8655c72-8299-4087-b0ad-d93807cef979",
-   "company": "Illinois Tool Works",
-   "title": "Software Engineer Intern - Application Software",
-   "url": "https://careers.itw.com/global/en/job/JR10491",
-   "locations": [
-    "Eden Prairie, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791413447000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:b8227788-3459-44b1-a61c-976968fefd85",
-   "company": "Bose",
-   "title": "Data Engineer Co-op",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Engineer-Co-Op_R29270",
-   "locations": [
-    "Bloomfield Hills, MI",
-    "Framingham, MA",
-    "Atlanta, GA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791413361000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:3c405d4a-60a5-4179-9f74-261dbcc86300",
-   "company": "Bose",
-   "title": "Data Analytics Engineer Co-op",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Data-Analytics-Engineer-Co-op_R29271",
-   "locations": [
-    "Bloomfield Hills, MI",
-    "Framingham, MA",
-    "Atlanta, GA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791413354000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:8938d4f1-3093-43eb-a443-bd11de15a159",
-   "company": "ICF International",
-   "title": "Data Engineer Intern",
-   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
-   "locations": [
-    "Remote in USA",
-    "Reston, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791413132000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:d9aac9f7-0c18-43c3-a877-644cfdbdb57a",
-   "company": "State Affairs",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791412204000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1791415968751
   }
  ]
