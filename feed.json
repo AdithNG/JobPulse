@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-20T05:19:40.069Z",
+ "updatedAt": "2026-10-20T10:14:11.118Z",
  "jobs": [
+  {
+   "key": "simplify:fa86f83b-d953-4b1c-96dd-dfd4c96de55b",
+   "company": "Saalex",
+   "title": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
+   "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/apply",
+   "locations": [
+    "Patuxent River, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792489861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792491249921
+  },
   {
    "key": "simplify:649995a2-a18c-401a-9cc3-062fa58dc1b3",
    "company": "Boston Scientific",
@@ -5764,25 +5783,6 @@
    "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
    "locations": [
     "Washington, DC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791412204000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791415968751
-  },
-  {
-   "key": "simplify:9d58c016-deec-47ad-adab-db768f2e513e",
-   "company": "Nissan Global",
-   "title": "Systems Engineer Intern - Summer 2027",
-   "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
-   "locations": [
-    "Canton, MS"
    ],
    "term": "Summer 2027",
    "roleType": "internship",
