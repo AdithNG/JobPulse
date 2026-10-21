@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-10-21T05:36:32.129Z",
+ "updatedAt": "2026-10-21T10:35:46.864Z",
  "jobs": [
+  {
+   "key": "simplify:8b26c26a-93b7-4702-b463-83420efc11af",
+   "company": "TruStage",
+   "title": "Information Technology Development and Infrastructure Intern",
+   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+   "locations": [
+    "Madison, WI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792575407000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1792578946178
+  },
+  {
+   "key": "simplify:66380619-8481-4fe4-947a-26176558c345",
+   "company": "NVIDIA",
+   "title": "Systems Software Intern - Aerial PHY",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792564742000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792578946178
+  },
+  {
+   "key": "simplify:b066e806-d56d-4915-a26e-bd7c3461144f",
+   "company": "Storable",
+   "title": "Software Development Engineer",
+   "url": "https://www.storable.com/about-us/culture/careers/?gh_jid=6230578004",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792563304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792578946178
+  },
+  {
+   "key": "simplify:38f6c73a-c860-438a-b2f5-f67b9e0e1d53",
+   "company": "Rhoda AI",
+   "title": "Software Engineer - Rhoda Platform",
+   "url": "https://jobs.ashbyhq.com/rhoda-ai/36a82229-5cab-48a7-99b6-ec9007c5b460/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792563304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792578946178
+  },
   {
    "key": "simplify:26d84509-a16b-4556-99f7-18329fa61191",
    "company": "Amazon",
@@ -5707,82 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791499824000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791513063265
-  },
-  {
-   "key": "simplify:d89f0ee8-17d9-4a58-9c3e-9d4cfaf2b635",
-   "company": "Highmark Health",
-   "title": "ETDP Associate - Software Engineering",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J288020",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791499336000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791513063265
-  },
-  {
-   "key": "simplify:090d1f5b-7376-4c02-ad5b-5a150f99bc70",
-   "company": "66 Degrees",
-   "title": "Associate Data Engineer - Gradient Specialist",
-   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220280004",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791498611000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791513063265
-  },
-  {
-   "key": "simplify:7ac77210-f1ec-4a34-8f9c-843038b7dc53",
-   "company": "66 Degrees",
-   "title": "Associate AI/ML Engineer - Gradient Specialist",
-   "url": "https://job-boards.greenhouse.io/66degrees/jobs/6220259004",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791498611000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791513063265
-  },
-  {
-   "key": "simplify:ab1c9134-c407-4e0a-8adc-34b305b02505",
-   "company": "R1 RCM",
-   "title": "Software Engineer - ML Ops",
-   "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791499217000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
