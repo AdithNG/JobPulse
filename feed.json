@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-21T10:35:46.864Z",
+ "updatedAt": "2026-10-21T15:37:26.327Z",
  "jobs": [
+  {
+   "key": "simplify:204afda0-8e7a-49df-9b40-cad33e8152e8",
+   "company": "CVS Health",
+   "title": "Associate Software Development Engineer - Conversion",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/Associate-Software-Development-Engineer--Conversion-_R1055674",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792592649000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792597045205
+  },
   {
    "key": "simplify:8b26c26a-93b7-4702-b463-83420efc11af",
    "company": "TruStage",
@@ -5766,25 +5785,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791498062000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791513063265
-  },
-  {
-   "key": "simplify:aabe0633-3798-4110-b7e7-349827a02b98",
-   "company": "Veryable",
-   "title": "Data Engineer",
-   "url": "https://ats.rippling.com/veryable-careers/jobs/71ecdaea-d356-46b0-9b5e-1325cadb0a48",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791499824000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
