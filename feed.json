@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-10-22T11:42:36.378Z",
+ "updatedAt": "2026-10-22T16:05:51.247Z",
  "jobs": [
+  {
+   "key": "simplify:ce026bae-c60a-419e-8307-847eafa898fd",
+   "company": "RTX",
+   "title": "Software Engineer Intern",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+   "locations": [
+    "Aurora, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792679451000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792685149990
+  },
+  {
+   "key": "simplify:cfb5c410-4f53-4c7d-ac5a-eafa72cfbe58",
+   "company": "Leidos",
+   "title": "Electronic Warfare Software Engineer",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2682-Huntsville-AL/Electronic-Warfare-Software-Engineer_R-00190536",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792671151000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792685149990
+  },
+  {
+   "key": "simplify:636691a8-a377-4b9f-9540-af9a315361cc",
+   "company": "R1 RCM",
+   "title": "Machine Learning Engineer",
+   "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/ML-Engineer--R37-_R260000007540",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792672268000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792685149990
+  },
+  {
+   "key": "simplify:90126943-996a-4235-bb88-26c2405d1cde",
+   "company": "N1 Health",
+   "title": "Associate Data Ops Engineer",
+   "url": "https://jobs.lever.co/algorex/cf93bbb8-6b46-430b-8554-6fab5aa8e719/apply",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792678696000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792685149990
+  },
+  {
+   "key": "simplify:ceafe55a-b038-4f84-97a8-40d747032438",
+   "company": "Draper",
+   "title": "Software Machine Learning Engineer - GNSS - Software Defined Radio",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Software-Mach-Learn-Engr--GNSS--Software-Defined-Radio-_JR003064",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792680146000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792685149990
+  },
   {
    "key": "simplify:de308300-adab-4771-916f-fb126c60ad40",
    "company": "Textron",
@@ -5700,101 +5795,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791585018000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:e571900f-7e09-4802-8138-3b1dbb9a2db5",
-   "company": "Cboe",
-   "title": "Associate Software Engineer - Web",
-   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2",
-   "locations": [
-    "Kansas City, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791584462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:5fa985ab-b82f-4cca-8af3-e36ba708d49b",
-   "company": "Akima",
-   "title": "Associate Software Programmer",
-   "url": "https://careers.akima.com/jobs/26142?icims=1",
-   "locations": [
-    "Frederick, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791584462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:9f92b24f-ac56-4f00-9aa8-355eb21841bd",
-   "company": "TikTok",
-   "title": "Machine Learning Engineer Graduate - Conversational AI",
-   "url": "https://lifeattiktok.com/search/7670685495206857013",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791584462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:06fc68bb-527a-4611-b8ca-117c9305d842",
-   "company": "Stifel",
-   "title": "Developer – Credit Analytics",
-   "url": "https://careers-stifel.icims.com/jobs/10047/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "St. Louis, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791584620000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:fb6da2a2-3bc3-441e-8157-8b01a3021a05",
-   "company": "Circle Logistics",
-   "title": "Entry Level Data Engineer",
-   "url": "https://jobs.smartrecruiters.com/CircleLogistics1/3743990016023696",
-   "locations": [
-    "Fort Wayne, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791584109000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
