@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-10-22T06:02:08.577Z",
+ "updatedAt": "2026-10-22T11:42:36.378Z",
  "jobs": [
+  {
+   "key": "simplify:de308300-adab-4771-916f-fb126c60ad40",
+   "company": "Textron",
+   "title": "Autonomy Engineer Intern - Air Systems",
+   "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342925",
+   "locations": [
+    "Hunt Valley, Cockeysville, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792661978000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792669355190
+  },
+  {
+   "key": "simplify:e41fbb04-5d3a-4afb-bf00-859f48e0a2aa",
+   "company": "Uline",
+   "title": "Software Developer Intern",
+   "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+   "locations": [
+    "Waukegan, IL",
+    "Milwaukee, WI",
+    "Glenview, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792667575000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792669355190
+  },
+  {
+   "key": "simplify:23c417dd-4a2d-4c26-a7d1-380d2a7f24fe",
+   "company": "RTX",
+   "title": "Software Engineer 2",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-II--Onsite-_01883050",
+   "locations": [
+    "West Valley City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792659146000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792669355190
+  },
+  {
+   "key": "simplify:7a81fe60-44f7-45e8-87de-aedbc27b7a73",
+   "company": "Cruise Planners",
+   "title": "Data & AI Engineer",
+   "url": "https://ats.rippling.com/cruiseplanners/jobs/414d04d4-f099-4a35-8fbc-1cc7bec70462",
+   "locations": [
+    "Coral Springs, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792659317000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792669355190
+  },
   {
    "key": "simplify:fb38e938-a410-4c0d-8933-595419ce7ac4",
    "company": "GlobalFoundries",
@@ -5717,82 +5795,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791584109000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:63cd8363-9acb-4154-b81c-b9a70cfb5ce8",
-   "company": "Adyen",
-   "title": "Software Engineer 1 - Front End - Lifecycle Experience",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8153114",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791584388000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:25cfcdb0-2fc3-4756-ae40-606e8c410e8e",
-   "company": "Stryker",
-   "title": "Software Engineering - R&D Engineering Development Program",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Software-Engineering--R-D-Engineering-Development-Program_R575603",
-   "locations": [
-    "Fort Lauderdale, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791583921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:33626190-3e86-477d-9c1e-ca3cbba8ee31",
-   "company": "LSEG",
-   "title": "Engineering Graduate Programme",
-   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Norwell-Massachusetts/Engineering-Graduate-Programme--Norwell-_R0123734",
-   "locations": [
-    "Norwell, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791583921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791594112871
-  },
-  {
-   "key": "simplify:a26c7b74-1550-4e9f-bc9a-ed3c7465b92e",
-   "company": "Triumph",
-   "title": "Software Engineer - Multiple Teams",
-   "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true",
-   "locations": [
-    "Mountain View, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791585554000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
