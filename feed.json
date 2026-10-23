@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-22T23:21:53.593Z",
+ "updatedAt": "2026-10-23T01:43:47.068Z",
  "jobs": [
+  {
+   "key": "simplify:972b80b8-e865-4003-afae-31d91851fd02",
+   "company": "Guidehouse",
+   "title": "Technical Associate Application Developer",
+   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792718657000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792719826022
+  },
   {
    "key": "simplify:31855c60-6c99-45e6-81b1-283b023df4b1",
    "company": "Pattern",
@@ -5777,25 +5796,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1791845004000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:f1cfc7fb-05c9-4483-ba10-7aa8fcca688f",
-   "company": "Duke Energy",
-   "title": "Associate Software Engineer - iGrid",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973",
-   "locations": [
-    "Charlotte, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791844896000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
