@@ -1,6 +1,353 @@
 {
- "updatedAt": "2026-10-23T12:07:50.451Z",
+ "updatedAt": "2026-10-23T17:06:41.665Z",
  "jobs": [
+  {
+   "key": "simplify:9c56cba3-9b43-4bdb-a6dc-9cf12b83e51d",
+   "company": "Freedom Technology Solutions Group",
+   "title": "Junior Backend Developer",
+   "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792766098000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:213245fd-01d7-48ad-8a63-d1e7934925ff",
+   "company": "SpaceX",
+   "title": "Full Stack Software Engineer - Components",
+   "url": "https://boards.greenhouse.io/spacex/jobs/8839057002",
+   "locations": [
+    "Hawthorne, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792763821000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:ef81bfb1-56bf-4a32-b001-020a5ce145b3",
+   "company": "onsemi",
+   "title": "AI & Data Engineering Intern",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506526",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792764994000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:ab6d1cf4-f0b7-43c9-be13-a1185c95297f",
+   "company": "IAT Insurance Group",
+   "title": "Data Engineering & Visualization Intern",
+   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792764767000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:a3bdc6e4-1807-479d-aaf5-e0bb254a2a29",
+   "company": "DuCharme, McMillen & Associates",
+   "title": "Associate Software Support",
+   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Associate-Software-Support_REQ691",
+   "locations": [
+    "Fort Wayne, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792759504000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:4712a8f4-e39e-4b35-b043-ac09928e8b0f",
+   "company": "Sierra Nevada Corporation",
+   "title": "Software Engineer Fellow",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Fort-Worth-TX/Military-Fellowship-Program--Software-Engineer_R0029492",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792759907000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:a2dc3660-4c67-4466-aabf-0f6d39125974",
+   "company": "Accenture",
+   "title": "Junior Forward Deployed Engineer",
+   "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4715182006",
+   "locations": [
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792762747000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:2f51e800-8122-447f-905e-203d26f17fb1",
+   "company": "Thales",
+   "title": "Software DevSecOps Engineer Graduate",
+   "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/Software-DevOps-Engineer---Grad_R0340353-2",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792762819000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:16002037-6c01-492b-8883-204bec2edbb1",
+   "company": "Ercot",
+   "title": "Entry Level Power & Computer Engineer",
+   "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1",
+   "locations": [
+    "Taylor, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792764944000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:4762fbd9-94a7-4b2c-8845-8a1829a2df71",
+   "company": "RTX",
+   "title": "Software Test Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Test-Engineer-I_01879607",
+   "locations": [
+    "Andover, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792766535000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:7d836994-ac06-4bd6-aca0-5de0e4356d97",
+   "company": "CACI",
+   "title": "Data Engineering/Analytics Support",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Engineering-Analytics-Support_332939",
+   "locations": [
+    "Norco, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792765622000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:6e1bbe95-8042-4358-809b-38088ef4297b",
+   "company": "RTX",
+   "title": "Software Test Engineer 2",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-II_01880024",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792768431000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:e172acd4-0ff4-4d01-9872-89b5cc0a0a03",
+   "company": "Energy Transfer Partners",
+   "title": "Engineer – Data Initiatives",
+   "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003747",
+   "locations": [
+    "Houston, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792767242000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:520038e7-bfdd-42f9-aa50-aac4b5ab037d",
+   "company": "T. Rowe Price",
+   "title": "Associate Software Engineer",
+   "url": "https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Owings-Mills-MD/Associate-Software-Engineer_83767-1",
+   "locations": [
+    "Owings Mills, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792769762000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:47eebf42-243b-4d68-8beb-0204c6bfec0b",
+   "company": "Appian",
+   "title": "Associate Product Engineer",
+   "url": "https://job-boards.greenhouse.io/appian/jobs/8264454",
+   "locations": [
+    "McLean, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792769352000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:8ac92cbc-5a9a-4f95-8951-f4b165d58a53",
+   "company": "RTX",
+   "title": "Affordability Engineer",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805A--1151-E-Hermans-Rd--BLDG-805A/Affordability-Theory-of-Constraint--TOC--Engineer_01881598",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792772558000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:946bbff5-9d0d-4834-8b42-b696719861f5",
+   "company": "Apple",
+   "title": "Software Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200689349",
+   "locations": [
+    "Cupertino, CA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792773898000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
+  {
+   "key": "simplify:5969c173-e51a-4608-955f-b01f3460d970",
+   "company": "Pennsylvania State University",
+   "title": "Service Systems Engineering Research Assistant",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-SSE-Research-Assistant_REQ_0000083493-1",
+   "locations": [
+    "University Park, State College, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792773885000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792775200785
+  },
   {
    "key": "simplify:3af86a17-91d4-4605-b65c-f1dc1266af9d",
    "company": "Solerity",
@@ -5454,354 +5801,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:e76320a7-376a-4fcb-a89b-c5f1d4aca9a7",
-   "company": "Rhombus",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380/apply",
-   "locations": [
-    "Sacramento, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791930027000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:cb062e22-3c1a-451f-a4b8-bcb8167ea270",
-   "company": "H&R Block",
-   "title": "Software Engineer Intern",
-   "url": "https://careers.hrblock.com/jobs/76987?icims=1",
-   "locations": [
-    "Kansas City, MO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791929915000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a",
-   "company": "ServiceNow",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345689",
-   "locations": [
-    "Santa Clara, CA",
-    "West Palm Beach, FL",
-    "Kirkland, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791929661000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:e7154c19-1906-4634-9226-1da16eb77416",
-   "company": "ServiceNow",
-   "title": "AI Engineering Associate Software Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000155345889",
-   "locations": [
-    "Santa Clara, CA",
-    "West Palm Beach, FL",
-    "Kirkland, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791929678000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:4db14536-35df-4c54-a441-ac5bd7b8253f",
-   "company": "Bose",
-   "title": "Embedded Audio Machine Learning Engineer Co-op",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Engineer-Co-op_R28719",
-   "locations": [
-    "Framingham, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929504000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:90b31488-ec05-4852-acfc-38009f921863",
-   "company": "STV",
-   "title": "Data Engineer Intern",
-   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929373000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:23c01852-0f91-4386-9039-e28c1e73fbd7",
-   "company": "TMEIC Corporation Americas",
-   "title": "Associate Software Developer - AI",
-   "url": "https://apply.workable.com/tmeic-corporation-americas/j/C4B8B72648/apply",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791930169000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:9f0b7c79-fd1e-4e6a-9acf-5e8be3d0ad01",
-   "company": "KLA",
-   "title": "Software Engineer 1",
-   "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-1_2642057",
-   "locations": [
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791930434000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:b5b14ba0-16bc-4654-ab8a-32be13589b2b",
-   "company": "AVEVA",
-   "title": "Software Developer Graduate - AI Proficient",
-   "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947",
-   "locations": [
-    "Lake Forest, CA",
-    "Philadelphia, PA",
-    "San Leandro, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791930169000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:6fdafa9b-5cfa-42af-a06c-8507c8b2f10b",
-   "company": "Boeing",
-   "title": "Entry-Level Software Engineer Developer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791930087000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:ed41ffb5-8a01-4848-9d06-0d90852a3a74",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Graduate - Engineer/Analyst for ISRT and BMC2 Applications",
-   "url": "https://careers.jhuapl.edu/jobs/59529?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791930027000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:ea763640-6629-47c1-9270-f6db9d624817",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Data Scientist - Computer Scientist - Engineer, Decision Systems",
-   "url": "https://careers.jhuapl.edu/jobs/60569?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791930028000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:bc598eaf-9d97-4bc0-a87e-2f1194087279",
-   "company": "Southwest Airlines",
-   "title": "Operations Research Developer",
-   "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Operations-Research-Developer_R-2026-73737",
-   "locations": [
-    "Dallas, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929356000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:cdd83d13-afda-431e-80dd-c7d9481d304d",
-   "company": "Thales",
-   "title": "Graduate AI Engineer",
-   "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929639000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:2f96a21c-6810-4832-93d3-75426749562b",
-   "company": "Booz Allen",
-   "title": "Agentic AI Engineer",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0250649",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929356000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:d44657fe-b7e8-4618-ad61-98359c3e62ef",
-   "company": "Kyndryl",
-   "title": "Forward Deployed Engineer",
-   "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529",
-   "locations": [
-    "Frisco, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929172000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:dbb839ad-3507-43c5-980d-660e142114dd",
-   "company": "AbbVie",
-   "title": "Integration Engineer",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016088967",
-   "locations": [
-    "North Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791929172000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791932733456
-  },
-  {
-   "key": "simplify:71d10136-22a9-4798-89cd-9df17b662d88",
-   "company": "Vestmark",
-   "title": "Software Engineer Co-op",
-   "url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791900467000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791916261148
   }
  ]
 }
