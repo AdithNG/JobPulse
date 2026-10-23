@@ -1,6 +1,143 @@
 {
- "updatedAt": "2026-10-23T01:43:47.068Z",
+ "updatedAt": "2026-10-23T06:36:11.120Z",
  "jobs": [
+  {
+   "key": "simplify:4169c155-cad3-467e-b8f4-6435181c35ba",
+   "company": "Amazon",
+   "title": "Software Engineer Intern - AWS Database",
+   "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+   "locations": [
+    "United States"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792720118000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 19,
+   "matchedWords": [
+    "aws"
+   ],
+   "firstSeen": 1792737370196
+  },
+  {
+   "key": "simplify:e7367bf7-aaea-4883-ab30-ea927d7b66a9",
+   "company": "Amazon",
+   "title": "Software Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792720111000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792737370196
+  },
+  {
+   "key": "simplify:b528e2b6-04c3-46be-bd21-cac3f2e018bb",
+   "company": "Amazon",
+   "title": "Systems Development Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
+   "locations": [
+    "Bellevue, WA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792720091000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792737370196
+  },
+  {
+   "key": "simplify:25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
+   "company": "Amazon",
+   "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
+   "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+   "locations": [
+    "Detroit, MI"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792720106000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792737370196
+  },
+  {
+   "key": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+   "company": "Amazon",
+   "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+   "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792720485000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792737370196
+  },
+  {
+   "key": "simplify:2b5665cf-ffeb-4c91-adce-7d9357641676",
+   "company": "Amazon",
+   "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
+   "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
+   "locations": [
+    "Seattle, WA",
+    "Austin, TX",
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792720308000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792737370196
+  },
+  {
+   "key": "simplify:4d59f74a-c96d-4f88-bf07-1f3df967b2de",
+   "company": "Amazon",
+   "title": "System Development Engineer - Region Reliability Engineering",
+   "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792720091000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792737370196
+  },
   {
    "key": "simplify:972b80b8-e865-4003-afae-31d91851fd02",
    "company": "Guidehouse",
@@ -5662,141 +5799,6 @@
    "sponsorship": "unknown",
    "posted": 1791844442000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:da1c2712-58ba-46d1-8cea-127f9a2b00d7",
-   "company": "American Family Insurance Group",
-   "title": "Software Engineering Intern",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Software-Engineering--Hybrid-_R39666-1",
-   "locations": [
-    "Madison, WI",
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1791844360000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:695405ef-24d8-4b85-9b40-efba7544ff78",
-   "company": "Cox",
-   "title": "Data Engineer 1",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Data-Engineer-I_R202683561-1",
-   "locations": [
-    "Carmel, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791843521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:bb65ac0a-307a-4a41-976e-1baeafd3355f",
-   "company": "STR",
-   "title": "Associate Embedded Systems Emulation Engineer",
-   "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4721162006",
-   "locations": [
-    "Woburn, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791842948000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:ba43adfb-cd21-4662-9f8e-7ace578f3cfd",
-   "company": "Duolingo",
-   "title": "AI Research Engineer New Grad",
-   "url": "https://careers.duolingo.com/jobs/8881612002?gh_jid=8881612002",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791843322000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:b2923a29-715c-4b61-b190-c00f11a10529",
-   "company": "TriNet",
-   "title": "Software Engineer",
-   "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087",
-   "locations": [
-    "Remote in USA",
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791842782000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:bc3e53cc-9c7a-49fa-afa7-8bede1da1df5",
-   "company": "AbbVie",
-   "title": "Associate Engineer - Technology 1",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016054796",
-   "locations": [
-    "North Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791843481000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1791848073368
-  },
-  {
-   "key": "simplify:62ab028d-331e-41a8-95de-eb17fc746284",
-   "company": "Momentum Engineering",
-   "title": "Software Engineer 0",
-   "url": "https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1791845004000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
