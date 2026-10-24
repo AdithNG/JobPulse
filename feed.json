@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-24T12:02:00.548Z",
+ "updatedAt": "2026-10-24T15:51:06.163Z",
  "jobs": [
+  {
+   "key": "simplify:eff6e46f-68bb-46cd-b491-ae901b415a6d",
+   "company": "RTX",
+   "title": "Engineer 1 - Software Engineer - Test Engineering",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521",
+   "locations": [
+    "Burnsville, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792846842000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792857065206
+  },
   {
    "key": "simplify:a509cc99-b862-4bd9-8c30-49393b371170",
    "company": "Mercury",
@@ -5769,25 +5788,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1792016153000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
-  },
-  {
-   "key": "simplify:62f43e0f-64f7-40aa-9082-4aca354c9f93",
-   "company": "Avis Budget Group",
-   "title": "Deployed Transformation Engineer New Grad",
-   "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer---Post-Grad-Opportunity_R0191172",
-   "locations": [
-    "Parsippany-Troy Hills, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792015978000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
