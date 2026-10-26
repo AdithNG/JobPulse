@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-10-26T14:14:36.864Z",
+ "updatedAt": "2026-10-26T20:00:46.645Z",
  "jobs": [
+  {
+   "key": "simplify:4bc89fb6-aa1c-4885-baa5-14d7ba2a7849",
+   "company": "CVS Health",
+   "title": "Innovation & Technology Intern - Data Engineering",
+   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1",
+   "locations": [
+    "Irving, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793023834000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793044845568
+  },
+  {
+   "key": "simplify:8005e595-614b-4b9a-9c29-cb113c52566a",
+   "company": "PTC",
+   "title": "Software Engineer Intern",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793023742000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793044845568
+  },
+  {
+   "key": "simplify:7e450fbd-9292-460d-988b-8583bf42ae43",
+   "company": "Wells Fargo",
+   "title": "Technology Intern - Early Careers - Data Engineering",
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
+   "locations": [
+    "Iselin, Woodbridge Township, NJ",
+    "Charlotte, NC",
+    "Irving, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793025966000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793044845568
+  },
   {
    "key": "simplify:7fb4df11-724b-4388-80ba-7b185189f957",
    "company": "Evolent",
@@ -5730,64 +5789,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1792016462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
-  },
-  {
-   "key": "simplify:cffd6ec4-0af4-4f8a-9510-a43b93ec0b6b",
-   "company": "Boeing",
-   "title": "Entry-Level Flight Simulation Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1",
-   "locations": [
-    "Berkeley, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792016462000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
-  },
-  {
-   "key": "simplify:9f5b5e00-8c43-4dc8-af33-7fc02cb821f4",
-   "company": "Boeing",
-   "title": "B1 Software Systems Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2",
-   "locations": [
-    "Oklahoma City, OK",
-    "Tinker Air Force Base, Oklahoma City, OK"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792016516000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
-  },
-  {
-   "key": "simplify:acd3a097-121f-4cd6-9056-d07f551dd0fb",
-   "company": "Kairos Power",
-   "title": "Applications Integration Engineer",
-   "url": "https://job-boards.greenhouse.io/kairospower/jobs/6206174004",
-   "locations": [
-    "Oak Ridge, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792016288000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
