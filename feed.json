@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-26T01:44:13.408Z",
+ "updatedAt": "2026-10-26T07:06:54.070Z",
  "jobs": [
+  {
+   "key": "simplify:7fb4df11-724b-4388-80ba-7b185189f957",
+   "company": "Evolent",
+   "title": "Associate Software Engineer",
+   "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792994941000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792998413237
+  },
   {
    "key": "simplify:baa25da2-9ee0-403d-8396-0d4788626830",
    "company": "Skydio",
@@ -5763,25 +5782,6 @@
    "url": "https://job-boards.greenhouse.io/kairospower/jobs/6206174004",
    "locations": [
     "Oak Ridge, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792016288000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
-  },
-  {
-   "key": "simplify:12ab8bbb-1f52-460e-a738-e1ef336e0845",
-   "company": "Keysight Technologies",
-   "title": "R&D Software Engineer - Electronic Measurement Systems",
-   "url": "https://jobs.keysight.com/jobs/55077?icims=1",
-   "locations": [
-    "Colorado Springs, CO"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
