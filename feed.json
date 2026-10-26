@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-25T23:37:48.063Z",
+ "updatedAt": "2026-10-26T01:44:13.408Z",
  "jobs": [
+  {
+   "key": "simplify:baa25da2-9ee0-403d-8396-0d4788626830",
+   "company": "Skydio",
+   "title": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+   "url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true",
+   "locations": [
+    "San Mateo, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1792976849000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1792979052057
+  },
   {
    "key": "simplify:eff6e46f-68bb-46cd-b491-ae901b415a6d",
    "company": "RTX",
@@ -5769,25 +5788,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1792016288000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
-  },
-  {
-   "key": "simplify:e7dc5edb-b756-476f-8e46-5d2797edfabe",
-   "company": "Truveta",
-   "title": "Software Engineer - Security & Trust",
-   "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792016153000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
