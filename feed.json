@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-10-27T08:19:31.063Z",
+ "updatedAt": "2026-10-27T14:45:01.388Z",
  "jobs": [
+  {
+   "key": "simplify:51056e1e-d945-4e0d-a103-a44b919853a3",
+   "company": "Mayo Clinic",
+   "title": "Graduate Engineer Intern - Software Development",
+   "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190",
+   "locations": [
+    "Rochester, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793110347000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
+  {
+   "key": "simplify:aaed6a57-f590-49ac-8e77-d080f6f2de89",
+   "company": "Visa",
+   "title": "Software Engineer Intern",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793110257000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
+  {
+   "key": "simplify:70c66cee-4da9-4920-9fa3-bc55fae14123",
+   "company": "CoreWeave",
+   "title": "Software Engineer - Inference",
+   "url": "https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006",
+   "locations": [
+    "Bellevue, WA",
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793090882000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
+  {
+   "key": "simplify:9775f7b2-989f-4829-8ba4-4039b4334a4c",
+   "company": "Fortinet",
+   "title": "AI Automation Engineer",
+   "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793091674000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
+  {
+   "key": "simplify:9e6275a1-cf04-4bd1-b477-7016e96a3b06",
+   "company": "Goldman Sachs",
+   "title": "Data Platform Engineering",
+   "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793091781000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
+  {
+   "key": "simplify:dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer / Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793111240000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
+  {
+   "key": "simplify:51468c5a-b033-4207-9b74-f29b742bc364",
+   "company": "CrossCountry Consulting",
+   "title": "Forward Deployed Software Engineer New Grad",
+   "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793110701000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793112300513
+  },
   {
    "key": "simplify:049cea50-d78a-47ec-bcdf-991d89ae226a",
    "company": "Aurora Innovation",
@@ -5661,141 +5795,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792108463527
-  },
-  {
-   "key": "simplify:265e1dc0-f078-4530-86f1-f998666a2322",
-   "company": "Affirm",
-   "title": "Software Engineer 1 - Fullstack - Search",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792102348000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792108463527
-  },
-  {
-   "key": "simplify:25e41706-146c-4f0f-957d-7f2cd557405e",
-   "company": "Micron Technology",
-   "title": "Computer Engineer New Grad - Central Engineering",
-   "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1",
-   "locations": [
-    "Boise, ID"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792102361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792108463527
-  },
-  {
-   "key": "simplify:894104d6-66ef-4390-a36e-71f2891576fc",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306",
-   "locations": [
-    "McLean, VA",
-    "Dulles, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792102225000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792108463527
-  },
-  {
-   "key": "simplify:0bbfc987-8101-43c5-b9ae-d4ffa7abdcc6",
-   "company": "CVS Health",
-   "title": "Analyst – Software Development Engineer - Conversion",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R1059972",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792101961000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792108463527
-  },
-  {
-   "key": "simplify:5788b6dc-21b4-4d4c-b5fb-b9627bebc50f",
-   "company": "Cisco",
-   "title": "Software Engineer",
-   "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271",
-   "locations": [
-    "Milpitas, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792104121000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792108463527
-  },
-  {
-   "key": "simplify:e3dc3916-c56e-4402-833e-d675b99b9d0c",
-   "company": "Arcfield",
-   "title": "Software Engineer 1",
-   "url": "https://careers.arcfield.com/jobs/8780?icims=1",
-   "locations": [
-    "Rome, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792075175000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792088910421
-  },
-  {
-   "key": "simplify:8fb0dded-666d-47fa-9cab-28bc7ada4f75",
-   "company": "Western Alliance",
-   "title": "Engineer 1",
-   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Engineer-I_R14052",
-   "locations": [
-    "Dallas, TX",
-    "Phoenix, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792074638000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792088910421
   }
  ]
 }
