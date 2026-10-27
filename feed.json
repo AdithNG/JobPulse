@@ -1,6 +1,125 @@
 {
- "updatedAt": "2026-10-26T23:47:52.565Z",
+ "updatedAt": "2026-10-27T02:28:54.795Z",
  "jobs": [
+  {
+   "key": "simplify:049cea50-d78a-47ec-bcdf-991d89ae226a",
+   "company": "Aurora Innovation",
+   "title": "Full Stack Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
+   "locations": [
+    "Pittsburgh, PA",
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793064659000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1793068133833
+  },
+  {
+   "key": "simplify:626eb6cc-ead0-4682-883c-b93395cb4e04",
+   "company": "Aurora Innovation",
+   "title": "Core Autonomy Software Intern - C++",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
+   "locations": [
+    "Pittsburgh, PA",
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793064659000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793068133833
+  },
+  {
+   "key": "simplify:14d9ebdd-7c3d-4e8a-acaf-97c40fc2d9fb",
+   "company": "Aurora Innovation",
+   "title": "Simulation Engineering Intern",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793064605000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793068133833
+  },
+  {
+   "key": "simplify:65e488fa-baa8-48fd-8126-1c6ada908ef9",
+   "company": "Aurora Innovation",
+   "title": "Data & ML Platform Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+   "locations": [
+    "Pittsburgh, PA",
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793064660000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793068133833
+  },
+  {
+   "key": "simplify:9288d3f9-b0e5-4d21-8dd2-6910da83436f",
+   "company": "Lawrence Livermore National Laboratory (LLNL)",
+   "title": "Data Visualization Software Engineer",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016422126",
+   "locations": [
+    "Livermore, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793064421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793068133833
+  },
+  {
+   "key": "simplify:83774569-427b-4fdc-8cdf-d17695ad5ae4",
+   "company": "Abacus Insights",
+   "title": "Associate Data Engineer",
+   "url": "https://boards.greenhouse.io/abacusinsights/jobs/8917379002",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793063882000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793068133833
+  },
   {
    "key": "simplify:58a7bc55-d2fe-4a18-8d1c-ad95595dd5fb",
    "company": "Highmark Health",
@@ -5677,125 +5796,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792088910421
-  },
-  {
-   "key": "simplify:f3c27242-85bc-4d24-acb5-70028e2c09c2",
-   "company": "TikTok",
-   "title": "Backend Engineer Graduate - Social Foundation",
-   "url": "https://lifeattiktok.com/search/7696782198126545157",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792058222000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1792074078489
-  },
-  {
-   "key": "simplify:5083f980-f378-47f2-9737-61eb9fbeeac0",
-   "company": "Brunswick",
-   "title": "G3 Software Engineer Intern",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
-   "locations": [
-    "Oshkosh, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792055378000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792074078489
-  },
-  {
-   "key": "simplify:ff40ee27-6821-4bc8-8929-0a9a37fa6d77",
-   "company": "Tessera Labs",
-   "title": "Full Stack Software Engineer Intern - Full Stack",
-   "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true",
-   "locations": [
-    "San Jose, CA",
-    "Remote in USA"
-   ],
-   "term": "Fall 2026",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792045837000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1792056391299
-  },
-  {
-   "key": "simplify:a254c38f-5fae-467c-9cff-3dd2e72094f5",
-   "company": "SirenOpt",
-   "title": "Software Engineer - Early Career - C++ & Systems",
-   "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009",
-   "locations": [
-    "San Leandro, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792026925000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792039034294
-  },
-  {
-   "key": "simplify:5a07cf07-d410-41af-b750-23e449367969",
-   "company": "RTX",
-   "title": "Software Engineer 1 - Next Gen Systems",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/Software-Engineer-I---Next-Gen-Systems---Onsite_01881673",
-   "locations": [
-    "Cedar Rapids, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792028861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792039034294
-  },
-  {
-   "key": "simplify:92df1c73-b83b-4d1f-9366-ef07d2fa6bd7",
-   "company": "AECOM",
-   "title": "Engineering/Data Analytics Intern",
-   "url": "https://jobs.smartrecruiters.com/AECOM2/744000155565444",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792016288000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792022815712
   }
  ]
 }
