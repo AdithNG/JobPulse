@@ -1,6 +1,291 @@
 {
- "updatedAt": "2026-10-28T02:25:41.664Z",
+ "updatedAt": "2026-10-28T08:55:47.353Z",
  "jobs": [
+  {
+   "key": "simplify:6510633a-12fb-403f-b2e5-b91ca20197b7",
+   "company": "Shield AI",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793167921000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:178d0613-9e8b-480c-b35e-f7b89b94e02e",
+   "company": "VSP Vision",
+   "title": "Software Engineer Intern",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793167794000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
+   "company": "VSP Vision",
+   "title": "Software Engineer Intern - Technology Innovation",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793167795000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:be409c15-d7f8-4de9-a9eb-56f6fd1af705",
+   "company": "Wabtec",
+   "title": "Software Engineering Co-op",
+   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016452226",
+   "locations": [
+    "Schenectady, NY"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793169739000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:f88acee1-e8f7-4a59-a421-4f83cb55b4c4",
+   "company": "Mural",
+   "title": "Forward Deployed Software Engineer",
+   "url": "https://jobs.ashbyhq.com/careers.mural/5a15f088-d06a-484a-9d87-79aa9e2ee3a1/application?embed=true",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793168821000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:34b09248-7b67-43eb-bf86-c21985fdb0d2",
+   "company": "Pelico",
+   "title": "Fullstack Software Engineer - Adk",
+   "url": "https://jobs.ashbyhq.com/pelico/cbf163e3-42c4-4ded-aa1a-f4559e78bbbc/application?embed=true",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793168641000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:b3968d77-3489-4bef-9ff3-acd12708ba23",
+   "company": "Shield AI",
+   "title": "Software Engineer 2 New Grad",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167942000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:ccb8858f-f999-4876-80d4-80def8494834",
+   "company": "Shield AI",
+   "title": "Autonomy Engineer-Behavior and Motion Planning",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f3b10e8f-51b7-42e6-94d1-075934eeb716/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167921000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:9c20706d-1c36-49c7-a6d2-07c92520bf94",
+   "company": "Shield AI",
+   "title": "Simulation Framework Engineer - Simulation Framework",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167944000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:74eb4b4b-ac29-4bdc-90f3-f70b743e4c06",
+   "company": "Shield AI",
+   "title": "Software Engineer New Grad",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167947000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:50363c94-1c17-4034-909d-b4b47a67fe3f",
+   "company": "Shield AI",
+   "title": "Software Integration Engineer 1 New Grad - Software Integration",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167949000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:4be638e1-80b0-4aa7-ac1f-416839d623c1",
+   "company": "Shield AI",
+   "title": "Simulation Framework Engineer 2",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167938000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:26e746a6-6f10-448a-a20d-a33c1d2ee84c",
+   "company": "Shield AI",
+   "title": "Perception Engineer - Multimodal & Embodied AI",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793167921000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:ab0a47b6-2df0-4f41-9831-30a37a7e44e2",
+   "company": "Takt",
+   "title": "Associate Software Engineer - Frontend",
+   "url": "https://jobs.ashbyhq.com/takt/e1e94261-9016-42c8-ab86-3b5adaf3cb98/application?embed=true",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793169181000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
+  {
+   "key": "simplify:22ce9849-b0be-4484-be20-b79a507e2c6f",
+   "company": "StarTree",
+   "title": "Software Engineer 1",
+   "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793169201000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793177746108
+  },
   {
    "key": "simplify:901b53ec-fba2-40bc-89d6-a7200607ee62",
    "company": "GrayMatter Robotics",
@@ -5512,291 +5797,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792233751923
-  },
-  {
-   "key": "simplify:7ca735aa-9419-4bb3-aee2-59ff92b695e6",
-   "company": "Avalore",
-   "title": "Innovation Engineer",
-   "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792227061000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792233751923
-  },
-  {
-   "key": "simplify:dc1736a5-1d63-4f9d-b1cb-88598e3fa554",
-   "company": "Galatea Associates",
-   "title": "Entry-Level Financial Software Consultant",
-   "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply",
-   "locations": [
-    "St. Petersburg, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792229222000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792233751923
-  },
-  {
-   "key": "simplify:9a019136-13e7-4685-8187-00ec9d7fd140",
-   "company": "Avalore",
-   "title": "Systems Engineer",
-   "url": "https://apply.workable.com/avalore/j/D96DEC462B/apply",
-   "locations": [
-    "Arlington, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792227795000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792233751923
-  },
-  {
-   "key": "simplify:9ca48e9a-a09b-4300-802e-47d9b4466d99",
-   "company": "Ryan",
-   "title": "Software Engineer Intern",
-   "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792200432000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792217109218
-  },
-  {
-   "key": "simplify:e6dd9201-55c5-46cf-a0bc-b9d1b81d9359",
-   "company": "Amazon",
-   "title": "Systems Development Engineer – Early Career",
-   "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792200421000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792217109218
-  },
-  {
-   "key": "simplify:4b7d9212-ac43-4c9a-8377-465403c23615",
-   "company": "Faraday Future",
-   "title": "SDK Platform Engineer",
-   "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003",
-   "locations": [
-    "El Segundo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792199374000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792217109218
-  },
-  {
-   "key": "simplify:1fb0d7af-6c0c-47ef-bf48-32b9b9c876e6",
-   "company": "SRC, Inc",
-   "title": "Engineering Intern",
-   "url": "https://jobs.jobvite.com/src-inc/job/oC3GAfwF?nl=1&nl=1&fr=false",
-   "locations": [
-    "Syracuse, NY"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792188722000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:13931c60-9e58-4b20-a565-00e2bbbe2155",
-   "company": "GlobalFoundries",
-   "title": "Research Account Management & Field Application Engineering Support Intern",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431",
-   "locations": [
-    "Essex Junction, VT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190778000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:6d5015af-faac-4bea-9f05-f7226b20c046",
-   "company": "Impulse Space",
-   "title": "Enterprise Software Engineer Intern",
-   "url": "https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579?ats=pinpointhq",
-   "locations": [
-    "Redondo Beach, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190515000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:ffd69a94-dc9e-4734-b09a-90e056934918",
-   "company": "American Family Insurance Group",
-   "title": "Data Engineering / Data Science Intern",
-   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674",
-   "locations": [
-    "Madison, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190410000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:ce00eaa7-df83-4141-bab1-3a0646ca5c07",
-   "company": "Veeam Software",
-   "title": "Data & Analytics Engineering Intern",
-   "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190161000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:fe413853-4493-4bf0-a4af-5723d1b9fdbc",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
-   "locations": [
-    "Aurora, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190293000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:c7c5c8d2-37c7-4b14-89b5-e0318a1fad90",
-   "company": "Ryan",
-   "title": "Software Development Intern",
-   "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190323000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:cb1173a2-154e-496d-b10e-fb3d0b07c7bf",
-   "company": "AgZen",
-   "title": "Software Engineer Co-op",
-   "url": "https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a/application?embed=true",
-   "locations": [
-    "Somerville, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792190257000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
-  },
-  {
-   "key": "simplify:dbc23bac-54e7-45c3-ad03-1f831ceee0b7",
-   "company": "Northrop Grumman",
-   "title": "Software Engineering Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
-   "locations": [
-    "Colorado Springs, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792190283000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792193228863
   }
  ]
 }
