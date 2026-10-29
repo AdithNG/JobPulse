@@ -1,6 +1,180 @@
 {
- "updatedAt": "2026-10-29T13:43:49.382Z",
+ "updatedAt": "2026-10-29T19:18:02.559Z",
  "jobs": [
+  {
+   "key": "simplify:735db69e-c591-4f36-8a68-480a6492a64b",
+   "company": "First Due",
+   "title": "Cloud Security Software Engineer",
+   "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793284022000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:c24dc4cf-1483-4344-a627-727c9a26aeb3",
+   "company": "Sallie Mae",
+   "title": "Data Science and Engineering Intern",
+   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
+   "locations": [
+    "Newark, DE",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793283696000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
+   "company": "JM Family",
+   "title": "Software Engineer Intern",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
+   "locations": [
+    "Deerfield Beach, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793283484000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:fef80be2-32b2-45c7-8fd7-acdeba3b2295",
+   "company": "Quantiq",
+   "title": "Software Developer Intern",
+   "url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793283352000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:8281f41a-114f-4b46-bd00-8660449e0b4a",
+   "company": "Advanced Space",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009",
+   "locations": [
+    "Westminster, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793283191000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:68688728-c254-4961-b5ba-f479aace81a0",
+   "company": "Crystal Dynamics",
+   "title": "Gameplay Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793284385000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:a56c3be4-35d8-45ca-a8f7-c98206f9e105",
+   "company": "Burns Engineering",
+   "title": "Software Engineer Intern",
+   "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793284275000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:e8c065bb-38a4-449d-a3c5-01e4519c1fef",
+   "company": "Quantiq",
+   "title": "Software Developer New Grad",
+   "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793283352000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
+  {
+   "key": "simplify:756f5acb-ee83-4d78-8f4b-7cbbdaff4b18",
+   "company": "Thoughtworks",
+   "title": "Software Developer New Grad",
+   "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793283063000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793301481573
+  },
   {
    "key": "simplify:92bf3646-4a8c-41d1-b24c-c18e53318dfd",
    "company": "KLA",
@@ -5645,177 +5819,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792543824851
-  },
-  {
-   "key": "simplify:1b1e3c23-f9df-47e3-a82a-4d854e26869c",
-   "company": "Zebra Technologies",
-   "title": "Software Engineer",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/Software-Engineer--Professional-I_JR103780",
-   "locations": [
-    "Lincolnshire, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792535766000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792543824851
-  },
-  {
-   "key": "simplify:a5683c5a-9b84-4ff9-972e-b22ba427faed",
-   "company": "Intuitive Surgical",
-   "title": "Full-Stack Engineer",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000156658124",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792535404000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792543824851
-  },
-  {
-   "key": "simplify:58185ccc-7583-4e95-856b-92ede737ff0a",
-   "company": "CVS Health",
-   "title": "Software Development Engineer - Conversion",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/Software-Development-Engineer--Conversion-_R1055653",
-   "locations": [
-    "Hartford, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792535404000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792543824851
-  },
-  {
-   "key": "simplify:069f3f4c-adc9-4e2d-919c-045fd3bef6b6",
-   "company": "Verizon Communications",
-   "title": "Call Routing Optimization Engineer Intern",
-   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
-   "locations": [
-    "Basking Ridge, Bernards, NJ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792494228000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792509134853
-  },
-  {
-   "key": "simplify:10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d",
-   "company": "Verizon Communications",
-   "title": "Call Routing Optimization Engineering Intern",
-   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
-   "locations": [
-    "Basking Ridge, Bernards, NJ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792499640000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792509134853
-  },
-  {
-   "key": "simplify:10497907-6a16-498a-a06a-e40113931577",
-   "company": "Space Dynamics Laboratory",
-   "title": "AI-Enabled Requirements Engineering Intern",
-   "url": "https://spacedynamicslaboratory.applytojob.com/apply/HgIOie6SBP/AIEnabled-Requirements-Engineering-Intern",
-   "locations": [
-    "North Logan, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792506962000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792509134853
-  },
-  {
-   "key": "simplify:14dca508-6481-402d-a5d6-943f5efb9a58",
-   "company": "Intel",
-   "title": "CAD/EDA Tools Software Engineer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1",
-   "locations": [
-    "Hillsboro, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792490807000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792509134853
-  },
-  {
-   "key": "simplify:a864bebf-e087-4574-860e-29229283a0fd",
-   "company": "Magna",
-   "title": "Junior AI Engineer",
-   "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1",
-   "locations": [
-    "Troy, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792505920000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792509134853
-  },
-  {
-   "key": "simplify:e912cad0-0531-489d-9c62-88dae5a40170",
-   "company": "Funnel Leasing",
-   "title": "Software Engineer Entry to Mid-Level",
-   "url": "https://apply.workable.com/funnel-leasing/j/1B817A4D38/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792505465000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792509134853
   }
  ]
 }
