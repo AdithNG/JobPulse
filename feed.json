@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-10-29T00:46:04.131Z",
+ "updatedAt": "2026-10-29T06:33:04.900Z",
  "jobs": [
+  {
+   "key": "simplify:c79fefe1-fbce-4cf7-ab66-bed442b0c2cb",
+   "company": "General Dynamics Information Technology",
+   "title": "AI/ML Software Development and Engineering Intern",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+   "locations": [
+    "Bossier City, LA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793237611000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793255583415
+  },
+  {
+   "key": "simplify:5617d404-c12b-458b-ab00-3c6cd2ec70e9",
+   "company": "Boston Scientific",
+   "title": "AI Solutions Engineering Intern",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+   "locations": [
+    "Arden Hills, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793255221000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793255583415
+  },
+  {
+   "key": "simplify:b267439f-a279-401a-9db5-5e83b1068db8",
+   "company": "Akuna Capital",
+   "title": "Junior Quantitative Developer & Strategist",
+   "url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065051",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793236888000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793255583415
+  },
+  {
+   "key": "simplify:2331133d-deba-41ac-9bfc-8972ef00c147",
+   "company": "i360technologies",
+   "title": "Oracle Analytics FDI Developer",
+   "url": "https://job-boards.greenhouse.io/i360technologiesinc/jobs/4452547009",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793237586000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793255583415
+  },
   {
    "key": "simplify:0727f717-7671-410b-a2ce-72856c4f8adb",
    "company": "AMD",
@@ -5730,82 +5806,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1792447879000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792456620730
-  },
-  {
-   "key": "simplify:8e36309e-1871-4c3f-81fb-4637169e02c5",
-   "company": "Tyler Technologies",
-   "title": "Software Developer Intern",
-   "url": "https://jobs.jobvite.com/tylertech/job/ouQXAfwB?nl=1&nl=1&fr=false",
-   "locations": [
-    "Orono, ME"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792447694000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792456620730
-  },
-  {
-   "key": "simplify:0e371048-09e7-4111-8768-bae91b1a2437",
-   "company": "Amplify",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792447660000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792456620730
-  },
-  {
-   "key": "simplify:4f25a257-64eb-4345-9093-29d28e199773",
-   "company": "Rogue Fitness",
-   "title": "AI Engineer Intern",
-   "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005",
-   "locations": [
-    "Columbus, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792449734000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792456620730
-  },
-  {
-   "key": "simplify:7b0c7936-f5ca-4813-a556-483b1e6edbf0",
-   "company": "General Dynamics Information Technology",
-   "title": "Software Developer Intern",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
-   "locations": [
-    "Egg Harbor Township, NJ"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792449583000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
