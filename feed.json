@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-10-30T09:33:41.199Z",
+ "updatedAt": "2026-10-30T16:14:20.286Z",
  "jobs": [
+  {
+   "key": "simplify:d70a18b1-4e20-4567-af5a-45ade24493b2",
+   "company": "Voyager Technologies",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793352636000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793376859272
+  },
+  {
+   "key": "simplify:378a66b2-3fa8-4866-940d-2dbb603043af",
+   "company": "State of Nebraska",
+   "title": "Data Engineer",
+   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Data-Engineer_JR2026-00030195",
+   "locations": [
+    "Lincoln, NE"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793370241000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793376859272
+  },
+  {
+   "key": "simplify:f7888bad-462c-451b-a9e7-6c7506eea223",
+   "company": "BodySpec",
+   "title": "Junior Software Engineer",
+   "url": "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793370990000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793376859272
+  },
   {
    "key": "simplify:b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
    "company": "Ncino",
@@ -5749,64 +5806,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1792622529000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792630802201
-  },
-  {
-   "key": "simplify:d9b632c0-c73f-4641-957d-84ac0cdc4acf",
-   "company": "Chewy",
-   "title": "Software Engineer 1",
-   "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1",
-   "locations": [
-    "Boston, MA",
-    "Plantation, FL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792622426000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792630802201
-  },
-  {
-   "key": "simplify:b57d46f0-383f-4fd8-a530-e5e1c2bb0424",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Software Engineer New Grad - Applications, Analysis, And Services Group",
-   "url": "https://careers.jhuapl.edu/jobs/60586?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792622427000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792630802201
-  },
-  {
-   "key": "simplify:2c4c9dd7-7c52-418f-abff-10a4c150329e",
-   "company": "Twitch",
-   "title": "Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792622413000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
