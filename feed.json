@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-10-30T02:51:43.312Z",
+ "updatedAt": "2026-10-30T09:33:41.199Z",
  "jobs": [
+  {
+   "key": "simplify:b5646bd6-fe0f-4ecd-9059-5522d8fa320e",
+   "company": "Ncino",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009",
+   "locations": [
+    "Lehi, UT"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793341459000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793352819525
+  },
+  {
+   "key": "simplify:5a3db098-8c38-40fa-be03-1d93ebd0e299",
+   "company": "C3.ai",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+   "locations": [
+    "Redwood City, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793341117000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793352819525
+  },
+  {
+   "key": "simplify:9cb3446e-3c82-4d8d-b018-8c325d2f08b3",
+   "company": "F&G",
+   "title": "IT Software Engineer Intern - Summer",
+   "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
+   "locations": [
+    "Des Moines, IA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793340413000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793352819525
+  },
+  {
+   "key": "simplify:740d2bae-04db-4eaa-9605-57aa4f111a6f",
+   "company": "Vestmark",
+   "title": "Software Engineer Co-op",
+   "url": "https://job-boards.greenhouse.io/internrecruiting/jobs/8204511",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793341982000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793352819525
+  },
+  {
+   "key": "simplify:55ba0956-0e09-42c8-8f97-48e07265c5d3",
+   "company": "Dexcom",
+   "title": "Software Development Engineer 1",
+   "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR121808",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793341690000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793352819525
+  },
+  {
+   "key": "simplify:23eb3ce6-e1fc-472c-a546-e4b2a19212cd",
+   "company": "Verizon Communications",
+   "title": "Engineer 1 - Systems Engineering (Generative AI & Agentic Systems)",
+   "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1",
+   "locations": [
+    "Temple Terrace, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793342896000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793352819525
+  },
   {
    "key": "simplify:0c2e08ec-3a20-496f-8117-21a7031cbe20",
    "company": "Dee Zee",
@@ -5698,124 +5812,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792630802201
-  },
-  {
-   "key": "simplify:de4b6392-8af5-4df9-8875-82c50964fa98",
-   "company": "GlobalFoundries",
-   "title": "AI Software Engineer New Grad",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055",
-   "locations": [
-    "Santa Clara, CA",
-    "Richardson, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792622407000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792630802201
-  },
-  {
-   "key": "gh:affirm:8039471003",
-   "company": "Affirm",
-   "title": "Analyst, Early Career (Full Stack)",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003",
-   "locations": [
-    "New York, New York, United States; San Francisco, California, United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792617554000,
-   "source": "Affirm careers (greenhouse)",
-   "fromAtsBoard": true,
-   "score": 44,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1792622774267
-  },
-  {
-   "key": "simplify:e7350a2d-fa26-4da5-908e-82eb0a7a4b34",
-   "company": "Aon",
-   "title": "IT / AI Engineer Intern",
-   "url": "https://jobs.aon.com/jobs/110099?icims=1",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792621327000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792622774267
-  },
-  {
-   "key": "simplify:22e0e398-2efa-4443-a503-6e3431e6d5a4",
-   "company": "American Family Insurance Group",
-   "title": "Data Engineer Intern",
-   "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineer_R39675",
-   "locations": [
-    "Madison, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792620972000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792622774267
-  },
-  {
-   "key": "simplify:69271ed8-2aca-42a9-88ae-860250a656f9",
-   "company": "Rochester Regional Health",
-   "title": "Data Engineer Co-op",
-   "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/RIT-Co-op--Data-Engineer_REQ_244425",
-   "locations": [
-    "Rochester, NY"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792620759000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792622774267
-  },
-  {
-   "key": "simplify:9b8baf0a-0a8c-4351-9fcc-ed44351e77e5",
-   "company": "Anduril",
-   "title": "Business Operations Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007",
-   "locations": [
-    "Ashville, OH",
-    "Costa Mesa, CA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792620707000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792622774267
   }
  ]
 }
