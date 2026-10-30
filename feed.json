@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-10-29T23:24:37.425Z",
+ "updatedAt": "2026-10-30T02:51:43.312Z",
  "jobs": [
+  {
+   "key": "simplify:0c2e08ec-3a20-496f-8117-21a7031cbe20",
+   "company": "Dee Zee",
+   "title": "Software Development Intern",
+   "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471",
+   "locations": [
+    "Des Moines, IA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793323633000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793328701998
+  },
+  {
+   "key": "simplify:8a9e6891-293e-40a9-b0cc-86a38defec9c",
+   "company": "Axon",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+   "locations": [
+    "Seattle, WA",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793323853000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793328701998
+  },
   {
    "key": "simplify:4d168e58-9786-4bbf-93b9-85ed973a0ab6",
    "company": "CareSource",
@@ -5772,45 +5811,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1792620707000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792622774267
-  },
-  {
-   "key": "simplify:9b0a00f8-306d-4f85-be43-6b438422bb5c",
-   "company": "Anduril",
-   "title": "Business Operations Engineer Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007",
-   "locations": [
-    "Ashville, OH",
-    "Costa Mesa, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792620704000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792622774267
-  },
-  {
-   "key": "simplify:58a18c55-845e-4263-98d7-78701275167e",
-   "company": "Anduril",
-   "title": "Robotics Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007",
-   "locations": [
-    "Quincy, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792620704000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
