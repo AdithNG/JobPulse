@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-10-31T12:53:17.274Z",
+ "updatedAt": "2026-10-31T17:37:49.347Z",
  "jobs": [
+  {
+   "key": "simplify:0e9101fd-5e85-4911-b076-604e6c2fc6ef",
+   "company": "Bristol Myers Squibb",
+   "title": "Associate Engineer - Analytical AI Engineering",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
+   "locations": [
+    "Princeton, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793452330000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793468268027
+  },
   {
    "key": "simplify:2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e",
    "company": "Intercontinental Exchange",
@@ -5778,25 +5797,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1792708026000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:989d5de4-7861-4fd9-83e3-58b9395fdd59",
-   "company": "Northrop Grumman",
-   "title": "Systems Engineering Intern - AI Experience",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
-   "locations": [
-    "Dulles, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708078000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
