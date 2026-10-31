@@ -1,6 +1,410 @@
 {
- "updatedAt": "2026-10-31T06:20:10.456Z",
+ "updatedAt": "2026-10-31T12:53:17.274Z",
  "jobs": [
+  {
+   "key": "simplify:2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e",
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern - Java",
+   "url": "https://ice.jibeapply.com/jobs/14078?icims=1",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428964000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:88eaf5f9-1259-44ff-ab84-75c4d2d6eb63",
+   "company": "Publicis Groupe",
+   "title": "Software Engineer Intern",
+   "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793427128000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:f0f5bd69-8f2a-4aef-ba3a-87a576d04121",
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineering Intern",
+   "url": "https://ice.jibeapply.com/jobs/14075?icims=1",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428963000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:bd919433-9d4d-4aef-bea9-a8256a4c3704",
+   "company": "Intercontinental Exchange",
+   "title": "Quantitative Engineer Intern",
+   "url": "https://ice.jibeapply.com/jobs/14053?icims=1",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428966000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:b65ac50b-2392-426a-b4d6-9ab44f279396",
+   "company": "Intercontinental Exchange",
+   "title": "Financial Engineering Intern",
+   "url": "https://ice.jibeapply.com/jobs/14059?icims=1",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428967000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:054da912-83d7-407d-92b6-28e69322dbf6",
+   "company": "Intercontinental Exchange",
+   "title": "Software Engineer Intern",
+   "url": "https://ice.jibeapply.com/jobs/14077?icims=1",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428965000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:f4f35bed-74e7-4e07-a1ef-07c8f4fbf615",
+   "company": "Systems Planning and Analysis",
+   "title": "Data Engineer Intern",
+   "url": "https://spa.jibeapply.com/jobs/23698?icims=1",
+   "locations": [
+    "Alexandria, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428583000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:1000756a-02f1-412a-94b0-5ebdad09465d",
+   "company": "Systems Planning and Analysis",
+   "title": "Data Engineering & Analytics Tools Intern",
+   "url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428561000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:cde86f58-8020-4b23-a2f5-f3b3b886a06d",
+   "company": "Peraton",
+   "title": "Software Engineering Co-op",
+   "url": "https://peraton.jibeapply.com/jobs/171547?icims=1",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428297000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:d42fcbc7-e5de-4e30-bd8f-7a29b210a33e",
+   "company": "Peraton",
+   "title": "Software Engineer Intern",
+   "url": "https://peraton.jibeapply.com/jobs/169665?icims=1",
+   "locations": [
+    "Blacksburg, VA",
+    "Herndon, VA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428305000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:6d5f9388-f733-4d97-b134-21cb92a0bce8",
+   "company": "Peraton",
+   "title": "Engineer Co-op",
+   "url": "https://peraton.jibeapply.com/jobs/170319?icims=1",
+   "locations": [
+    "Blacksburg, VA",
+    "Herndon, VA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428305000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:681c6933-2937-47c4-9608-44e26bd1cb06",
+   "company": "Peraton",
+   "title": "Sustainability Engineer Co-op",
+   "url": "https://peraton.jibeapply.com/jobs/171537?icims=1",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428299000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:abdd970b-9c82-4b36-8726-8b1974f2ab7e",
+   "company": "Peraton",
+   "title": "Software Developer Intern",
+   "url": "https://peraton.jibeapply.com/jobs/172061?icims=1",
+   "locations": [
+    "Topeka, KS"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793428289000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:844c1760-dfb8-4559-a3a8-832a2d23951c",
+   "company": "Orbis Operations",
+   "title": "Research Engineer - AI",
+   "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793427484000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:7d4ee985-9d3b-40be-9364-3d7f5c9cee84",
+   "company": "Integration Innovation (i3)",
+   "title": "Entry Level Software Engineer",
+   "url": "https://i3-corps.jibeapply.com/jobs/5218?icims=1",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793426942000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:86b9a2cc-8f56-4ad1-b7a0-70772dcaa461",
+   "company": "Peraton",
+   "title": "Artificial Intelligence/Machine Learning Engineer 1",
+   "url": "https://peraton.jibeapply.com/jobs/171011?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428302000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:3044c216-bdf5-4c91-af38-8b4b2030d9bb",
+   "company": "Peraton",
+   "title": "COBOL Software Developer",
+   "url": "https://peraton.jibeapply.com/jobs/169891?icims=1",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428312000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:d75e4831-45fb-4724-81c5-15fd96805076",
+   "company": "Peraton",
+   "title": "Artificial Intelligence/Machine Learning Engineer 1 - Top Secret/SCI w/Poly",
+   "url": "https://peraton.jibeapply.com/jobs/171539?icims=1",
+   "locations": [
+    "Laurel, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428297000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:f3ee621a-d5b2-460b-9930-e8995ffc0b3f",
+   "company": "Peraton",
+   "title": "Software Engineer - Ignite Innovator Program",
+   "url": "https://peraton.jibeapply.com/jobs/169664?icims=1",
+   "locations": [
+    "Blacksburg, VA",
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428306000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:cb9e10b5-3524-40e2-a375-e126d098812e",
+   "company": "Peraton",
+   "title": "Software Engineering Associate",
+   "url": "https://peraton.jibeapply.com/jobs/170478?icims=1",
+   "locations": [
+    "Herndon, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428304000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
+  {
+   "key": "simplify:c4f21ea8-447d-4766-9ef6-dc1e32dd3be5",
+   "company": "Stifel",
+   "title": "Developer Credit Analytics",
+   "url": "https://stifel.jibeapply.com/jobs/10047?icims=1",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793428290000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793451196130
+  },
   {
    "key": "simplify:c5138e81-eb36-45f4-8460-5c616a7abbf5",
    "company": "Amazon",
@@ -5394,410 +5798,6 @@
    "sponsorship": "unknown",
    "posted": 1792708078000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:68217e56-5307-4ded-9c96-bce5facd81df",
-   "company": "Northrop Grumman",
-   "title": "Cyber Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
-   "locations": [
-    "San Antonio, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708080000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:c4f7b9a7-0136-490c-891e-ee3a84d6864c",
-   "company": "1Password",
-   "title": "Developer Intern - Vault Team",
-   "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707843000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:7103d806-4eb2-4d9a-9d3d-14938fbaffa2",
-   "company": "KION Group",
-   "title": "Software Analytics Co-op",
-   "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
-   "locations": [
-    "Grand Rapids, MI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "co-op",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792707843000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:379fb3aa-7732-4809-8b51-dac32b966e6c",
-   "company": "1Password",
-   "title": "Developer Intern - Extension Excellence",
-   "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707843000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:28e22b29-32bb-4e01-8a30-19fea4fe8f28",
-   "company": "1Password",
-   "title": "Developer Intern - Provisioning",
-   "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707843000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:1c5e8952-b8d8-438e-a4a2-0c43e815da28",
-   "company": "1Password",
-   "title": "Developer Intern - Machine Identity",
-   "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707843000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:a8540a76-75da-4ebe-9e00-0e8eefa3b9cf",
-   "company": "1Password",
-   "title": "Developer Intern - Front-End Platform",
-   "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707843000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:5f79145f-11ea-456d-bcbc-a37ab2cfed7a",
-   "company": "M&T Bank",
-   "title": "Technology Intern - Software Engineering - Enterprise API Services Development Team",
-   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
-   "locations": [
-    "Buffalo, NY"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707894000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:d1a66cfc-7c5a-48aa-a8a4-d6b7e8e0aac5",
-   "company": "Skydio",
-   "title": "Frontend Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd/application?embed=true",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792707662000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:6c1c7495-d515-4497-94fe-ac9ecca9421d",
-   "company": "Formlabs",
-   "title": "Manufacturing Test Software Intern",
-   "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
-   "locations": [
-    "Somerville, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707306000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:fd09f346-c36c-4ce5-8491-1ad9de70aabd",
-   "company": "Ursa Major",
-   "title": "Software Development Intern",
-   "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
-   "locations": [
-    "Berthoud, CO"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792706996000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:4da3ddc6-8559-489a-b239-8d419ece6bad",
-   "company": "CVS Health",
-   "title": "Software Engineer Intern - Platform & Applications",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
-   "locations": [
-    "Dallas, TX",
-    "Scottsdale, AZ",
-    "Hartford, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708279000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:7f0b7c25-d497-4aa4-a34c-ddb186a0c932",
-   "company": "Sanofi",
-   "title": "Laboratory Automation Engineer Co-op",
-   "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Laboratory-Automation-Engineer-Process-Chemistry-Lab--Cambridge--MA_R2856035",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792708277000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:63e6ac11-18af-4a74-b78e-fb596834ab90",
-   "company": "CVS Health",
-   "title": "Innovation & Technology Software Engineering: Platform & Applications Intern",
-   "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216",
-   "locations": [
-    "Dallas, TX",
-    "Scottsdale, AZ",
-    "Hartford, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708292000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:40068b1c-1318-4f31-b141-aa63e3c51300",
-   "company": "SpaceX",
-   "title": "Software Engineer - Linux Kernel - Starlink",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8852114002",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792708026000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:b41aacae-898e-465a-8545-99f3f8ec54ec",
-   "company": "Autostore",
-   "title": "Software Engineer",
-   "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792708026000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:dce78796-c3cc-4b57-827a-6fa91cc08682",
-   "company": "SpaceX",
-   "title": "Software Engineer, Linux Kernel - Linux Kernel",
-   "url": "https://boards.greenhouse.io/spacex/jobs/8852121002",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792708091000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:ad80182d-6058-4c44-9e30-6e7c194b4930",
-   "company": "Nexla",
-   "title": "Forward Deployed Engineer - Data Integration",
-   "url": "https://job-boards.greenhouse.io/nexla/jobs/4746760005",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707662000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:e3bad092-7807-41e6-b124-2c0c7c7f3d56",
-   "company": "GE Aerospace",
-   "title": "Engineer – Robotics and Autonomy",
-   "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Niskayuna/Research-Engineer---Robotics---Autonomy_R5042077-1",
-   "locations": [
-    "Niskayuna, NY"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707559000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:7a61173c-4b74-46ad-bf86-831048ae1170",
-   "company": "Boeing",
-   "title": "Entry-Level Software Engineer",
-   "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
-   "locations": [
-    "Maryland Heights, MO",
-    "Hazelwood, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792707129000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:2085ccad-8d75-4447-984d-d190fde07eb0",
-   "company": "CDK Global",
-   "title": "Associate Software Engineer",
-   "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9204",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792706762000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
