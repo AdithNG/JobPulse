@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-01T20:46:32.832Z",
+ "updatedAt": "2026-11-01T23:58:01.587Z",
  "jobs": [
+  {
+   "key": "simplify:bf1ec0ef-494e-419c-abea-be20337732b0",
+   "company": "KnowBe4",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
+   "locations": [
+    "Clearwater, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793575334000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793577480786
+  },
   {
    "key": "simplify:076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
    "company": "Huntington Ingalls Industries",
@@ -5782,25 +5801,6 @@
    "matchedWords": [
     "infrastructure"
    ],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:66fe6724-ef82-4474-b024-ee942c90d16b",
-   "company": "Westinghouse Electric Company",
-   "title": "Software Engineering Intern",
-   "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors",
-   "locations": [
-    "Warrendale, PA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708091000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1792711312080
   }
  ]
