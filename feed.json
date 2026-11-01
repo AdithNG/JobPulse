@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-01T02:40:27.008Z",
+ "updatedAt": "2026-11-01T09:46:47.884Z",
  "jobs": [
+  {
+   "key": "simplify:076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
+   "company": "Huntington Ingalls Industries",
+   "title": "Software Engineer 1",
+   "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
+   "locations": [
+    "Newport News, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793514682000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793526406748
+  },
   {
    "key": "simplify:0e9101fd-5e85-4911-b076-604e6c2fc6ef",
    "company": "Bristol Myers Squibb",
@@ -5778,25 +5797,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1792708091000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792711312080
-  },
-  {
-   "key": "simplify:e595d9e8-49e8-4372-9e3b-e6e2708c26dc",
-   "company": "Pattern",
-   "title": "AI Automation Engineer Intern",
-   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e/apply",
-   "locations": [
-    "Lehi, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708026000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
