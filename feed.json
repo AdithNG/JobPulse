@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-02T05:49:35.980Z",
+ "updatedAt": "2026-11-02T14:14:27.057Z",
  "jobs": [
+  {
+   "key": "simplify:ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
+   "company": "Roku",
+   "title": "Software Engineer Intern - AI Engineering",
+   "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793603392000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793628866211
+  },
+  {
+   "key": "simplify:50699bdf-eacb-419e-8a11-b9803c46092e",
+   "company": "Brown & Brown Insurance",
+   "title": "Junior HubSpot Developer",
+   "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793603759000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793628866211
+  },
+  {
+   "key": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
+   "company": "Google",
+   "title": "Software Engineer 2 – Early Career",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
+   "locations": [
+    "Palo Alto, CA",
+    "Madison, WI",
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793603601000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793628866211
+  },
   {
    "key": "simplify:bf1ec0ef-494e-419c-abea-be20337732b0",
    "company": "KnowBe4",
@@ -5743,65 +5802,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:4d59f74a-c96d-4f88-bf07-1f3df967b2de",
-   "company": "Amazon",
-   "title": "System Development Engineer - Region Reliability Engineering",
-   "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792720091000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:972b80b8-e865-4003-afae-31d91851fd02",
-   "company": "Guidehouse",
-   "title": "Technical Associate Application Developer",
-   "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792718657000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792719826022
-  },
-  {
-   "key": "simplify:31855c60-6c99-45e6-81b1-283b023df4b1",
-   "company": "Pattern",
-   "title": "AI Infrastructure Engineer Intern",
-   "url": "https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply",
-   "locations": [
-    "Lehi, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792708026000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1792711312080
   }
  ]
 }
