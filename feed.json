@@ -1,6 +1,120 @@
 {
- "updatedAt": "2026-11-02T14:14:27.057Z",
+ "updatedAt": "2026-11-02T22:49:03.647Z",
  "jobs": [
+  {
+   "key": "simplify:570083cf-94ad-40b3-ae98-cbb61d20eee7",
+   "company": "ParetoHealth",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793632525000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793659742786
+  },
+  {
+   "key": "simplify:1ffcff00-a92b-4393-850a-1accadb25edc",
+   "company": "Pennsylvania State University",
+   "title": "Software Engineer",
+   "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Software-Engineer_REQ_0000083537-2",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793633042000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793659742786
+  },
+  {
+   "key": "simplify:b2cd045f-1f2b-4cef-8692-5f27dad834bb",
+   "company": "Philips",
+   "title": "Associate Data & AI Engineer - Medical Imaging",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Associate-Data---AI-Engineer---Medical-Imaging--Bedford--MA-_594180",
+   "locations": [
+    "Bedford, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793632865000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793659742786
+  },
+  {
+   "key": "simplify:10be1db7-3520-4bf0-bf9b-642f5e2f703b",
+   "company": "Element Solutions",
+   "title": "Junior Data Engineer",
+   "url": "https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793632325000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793659742786
+  },
+  {
+   "key": "simplify:dede37bf-07c6-40e1-9c50-541b1cb5d7d1",
+   "company": "Integration Innovation (i3)",
+   "title": "Junior Machine Learning Engineer",
+   "url": "https://i3-corps.jibeapply.com/jobs/5417?icims=1",
+   "locations": [
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793634482000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793659742786
+  },
+  {
+   "key": "simplify:5c040685-d1e0-4cc2-8e72-620b4ed182d4",
+   "company": "Martin's Point Health Care",
+   "title": "Associate Enterprise Data Engineer",
+   "url": "https://martin.wd1.myworkdayjobs.com/mphc/job/Portland-ME/Associate-Enterprise-Data-Engineer---Remote_REQ-2026-384",
+   "locations": [
+    "Portland, ME"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793634482000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793659742786
+  },
   {
    "key": "simplify:ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0",
    "company": "Roku",
@@ -5684,124 +5798,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1792757269410
-  },
-  {
-   "key": "simplify:4169c155-cad3-467e-b8f4-6435181c35ba",
-   "company": "Amazon",
-   "title": "Software Engineer Intern - AWS Database",
-   "url": "https://amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
-   "locations": [
-    "United States"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792720118000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "aws"
-   ],
-   "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:e7367bf7-aaea-4883-ab30-ea927d7b66a9",
-   "company": "Amazon",
-   "title": "Software Engineer Intern",
-   "url": "https://amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792720111000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:b528e2b6-04c3-46be-bd21-cac3f2e018bb",
-   "company": "Amazon",
-   "title": "Systems Development Engineer Intern",
-   "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792720091000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:25f26c89-68c7-42c7-8b1c-a1e4d61f5525",
-   "company": "Amazon",
-   "title": "Junior Software Development Engineer Intern - Jr. Developer Program",
-   "url": "https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
-   "locations": [
-    "Detroit, MI"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792720106000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:312b7b27-dc1b-4ccc-a582-f20be014c2e9",
-   "company": "Amazon",
-   "title": "Software Development Engineer - Prime Video Personalization & Discovery",
-   "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792720485000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792737370196
-  },
-  {
-   "key": "simplify:2b5665cf-ffeb-4c91-adce-7d9357641676",
-   "company": "Amazon",
-   "title": "Software Development Engineer 1 Early Career - Annapurna Labs",
-   "url": "https://amazon.jobs/en/jobs/10558915/software-development-engineer-i-annapurna-labs-early-career-2027",
-   "locations": [
-    "Seattle, WA",
-    "Austin, TX",
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792720308000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792737370196
   }
  ]
 }
