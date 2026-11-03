@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-11-03T11:25:13.487Z",
+ "updatedAt": "2026-11-03T18:38:21.810Z",
  "jobs": [
+  {
+   "key": "simplify:2898b74c-bc91-4f06-b910-1d62bdba0c18",
+   "company": "American Express",
+   "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793721244000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793731100942
+  },
+  {
+   "key": "simplify:e3ea805e-e601-4af0-8412-32329f54ee2e",
+   "company": "Booz Allen",
+   "title": "Data Engineer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Data-Engineer_R0252565",
+   "locations": [
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793712250000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793731100942
+  },
+  {
+   "key": "simplify:fb29fcfc-780f-4938-b6c8-9d73ba45b207",
+   "company": "RTX",
+   "title": "Leadership Development Program - Engineering - Software Discipline",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1",
+   "locations": [
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793720888000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793731100942
+  },
   {
    "key": "simplify:ef31b232-5a78-40fe-9d4a-b2cca861468f",
    "company": "Paccar",
@@ -5734,65 +5791,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1792776063000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792787184753
-  },
-  {
-   "key": "simplify:c27dd769-5cb4-46de-9658-90d85c12cfbc",
-   "company": "1Password",
-   "title": "Developer Intern - Credential Brokering",
-   "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792776063000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792787184753
-  },
-  {
-   "key": "simplify:95437628-8de3-4f6f-ba65-44f3b0ed0be8",
-   "company": "MongoDB",
-   "title": "Software Engineer Intern",
-   "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-   "locations": [
-    "Palo Alto, CA",
-    "Seattle, WA",
-    "Austin, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1792776099000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792787184753
-  },
-  {
-   "key": "simplify:803b306d-364e-4c89-90ae-c3f32c7cd40a",
-   "company": "Coretek Services",
-   "title": "AI & Data Automation Developer Co-op",
-   "url": "https://apply.workable.com/coretek-services/j/21D19CC253/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792775979000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
