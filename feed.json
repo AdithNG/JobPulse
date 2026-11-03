@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-03T03:46:05.864Z",
+ "updatedAt": "2026-11-03T11:25:13.487Z",
  "jobs": [
+  {
+   "key": "simplify:ef31b232-5a78-40fe-9d4a-b2cca861468f",
+   "company": "Paccar",
+   "title": "Software Developer Intern",
+   "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
+   "locations": [
+    "Denton, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793692134000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793705112749
+  },
   {
    "key": "simplify:e9db29d3-8963-43ba-8092-0817d1304cc0",
    "company": "Verkada",
@@ -5775,27 +5794,6 @@
    "sponsorship": "unknown",
    "posted": 1792775979000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1792787184753
-  },
-  {
-   "key": "simplify:ed5d8236-8fcb-4304-a50f-c4acfdd5f275",
-   "company": "RSM",
-   "title": "AI Machine Learning Engineer",
-   "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
-   "locations": [
-    "Orlando, FL",
-    "Dallas, TX",
-    "Raleigh, NC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1792776063000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
