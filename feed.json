@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-11-04T03:23:38.785Z",
+ "updatedAt": "2026-11-04T11:28:47.070Z",
  "jobs": [
+  {
+   "key": "simplify:e0cf8e4d-5b4b-471a-b7ae-fb2a0930de16",
+   "company": "Lawrence Livermore National Laboratory (LLNL)",
+   "title": "Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016610216",
+   "locations": [
+    "Livermore, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793788207000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1793791725809
+  },
+  {
+   "key": "simplify:2188ec4a-987f-4736-b3c9-2173a826ad74",
+   "company": "Nooks",
+   "title": "Software Engineer",
+   "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793776862000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793791725809
+  },
+  {
+   "key": "simplify:23f1c2c3-62c7-4b59-ad95-85d0505c58dc",
+   "company": "Shield AI",
+   "title": "Software Engineer 1 New Grad - Software - Factory Team",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793784109000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793791725809
+  },
+  {
+   "key": "simplify:7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
+   "company": "ShadowDragon",
+   "title": "Junior AI/Machine Learning Engineer",
+   "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
+   "locations": [
+    "Remote in USA",
+    "Hoover, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793787170000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793791725809
+  },
   {
    "key": "simplify:9e4645b8-cad7-4732-b187-3646d5944df0",
    "company": "M&T Bank",
@@ -5711,82 +5790,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1793054563000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793058470912
-  },
-  {
-   "key": "simplify:8c2d4fa4-d2b6-4ca2-bf92-4bbd38e700d1",
-   "company": "Booz Allen",
-   "title": "Summer Games Systems Engineer Intern",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273",
-   "locations": [
-    "Lexington, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793054565000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793058470912
-  },
-  {
-   "key": "simplify:5b845bf6-dc2f-44da-bb1c-afb5cf727cde",
-   "company": "Booz Allen",
-   "title": "Systems Engineer Intern - Summer Games",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
-   "locations": [
-    "Detroit, MI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793054565000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793058470912
-  },
-  {
-   "key": "simplify:765cf08e-bec4-4b7c-b810-b06b2b3d4040",
-   "company": "Booz Allen",
-   "title": "Software Developer Intern - University - Summer Games",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
-   "locations": [
-    "Dayton, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793054564000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793058470912
-  },
-  {
-   "key": "simplify:b3b5266a-b857-4999-8c6f-daa45fa2c9e6",
-   "company": "Cohesity",
-   "title": "Software Engineer Intern",
-   "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
-   "locations": [
-    "Santa Clara, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793054231000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
