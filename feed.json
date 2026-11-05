@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-05T14:59:04.043Z",
+ "updatedAt": "2026-11-05T21:26:39.317Z",
  "jobs": [
+  {
+   "key": "simplify:4c59213c-136f-41cc-89c2-8df6becaa89f",
+   "company": "CACI",
+   "title": "Junior Software Developer",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793893861000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793913998744
+  },
+  {
+   "key": "simplify:fb9cc829-2767-40a8-bca6-eeec81ba3135",
+   "company": "EquipmentShare",
+   "title": "Junior Ecommerce Web Developer",
+   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8319404",
+   "locations": [
+    "Columbia, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793892602000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793913998744
+  },
   {
    "key": "simplify:b4c2db2d-3859-453b-823e-8dc517020ce3",
    "company": "Peraton",
@@ -5746,44 +5784,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793167921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:ab0a47b6-2df0-4f41-9831-30a37a7e44e2",
-   "company": "Takt",
-   "title": "Associate Software Engineer - Frontend",
-   "url": "https://jobs.ashbyhq.com/takt/e1e94261-9016-42c8-ab86-3b5adaf3cb98/application?embed=true",
-   "locations": [
-    "Reston, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793169181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:22ce9849-b0be-4484-be20-b79a507e2c6f",
-   "company": "StarTree",
-   "title": "Software Engineer 1",
-   "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793169201000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
