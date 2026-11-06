@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-11-06T01:45:27.783Z",
+ "updatedAt": "2026-11-06T08:35:10.311Z",
  "jobs": [
+  {
+   "key": "simplify:0c7e5252-d2b8-45c7-880c-9923fc29984a",
+   "company": "NVIDIA",
+   "title": "Research and Engineering Intern - Agentic Systems Intelligence",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+   "locations": [
+    "Austin, TX",
+    "Redmond, WA",
+    "Santa Clara, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793932929000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793954109225
+  },
+  {
+   "key": "simplify:c924f746-7ad7-4688-a1d2-00db70c70823",
+   "company": "Zoox",
+   "title": "Software Engineer Intern - Software Systems",
+   "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20/apply",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793932745000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793954109225
+  },
+  {
+   "key": "simplify:bfd495aa-8461-4455-8885-5db271cd1cc0",
+   "company": "Zoox",
+   "title": "Software Engineer Intern - Software Platforms & Product",
+   "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793932745000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793954109225
+  },
+  {
+   "key": "simplify:07a19024-a7e3-4ed0-8957-671b7122f176",
+   "company": "Zoox",
+   "title": "Software Engineer Intern - Autonomy Software",
+   "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793932745000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793954109225
+  },
+  {
+   "key": "simplify:8d9f37dc-7e91-4b54-8583-f266af7d0c8a",
+   "company": "TikTok",
+   "title": "Research Engineer - Agentic Video Editing",
+   "url": "https://lifeattiktok.com/search/7704036750285867269",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793950220000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793954109225
+  },
   {
    "key": "simplify:fcda4098-94ad-4409-96fc-32ee92289e01",
    "company": "JM Family",
@@ -5694,102 +5791,6 @@
    "sponsorship": "unknown",
    "posted": 1793196833000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:bff9a492-ed06-4a94-8f0d-75a782dcefd8",
-   "company": "Ace Hardware",
-   "title": "IT Associate Software Engineer Intern",
-   "url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797",
-   "locations": [
-    "Oak Brook, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793198552000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:e20b7038-01d7-4798-a53d-313f94bd9e80",
-   "company": "RTX",
-   "title": "Software Engineer Co-op",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371",
-   "locations": [
-    "Marlborough, MA",
-    "Tewksbury, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793198529000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:67c38e84-2904-4f41-b7d9-11a2d287366b",
-   "company": "Sonos",
-   "title": "Software Product Management Intern",
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793198348000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:ef389837-a436-4e61-ad27-7f8a5a2e414f",
-   "company": "Fiserv",
-   "title": "Android Application Framework Developer - Device Engineering",
-   "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793190062000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:b0f48ab2-fa93-4288-9a16-412d0dfbc180",
-   "company": "Leidos",
-   "title": "Junior Software Engineer",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656",
-   "locations": [
-    "Bethesda, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793196952000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
