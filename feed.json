@@ -1,6 +1,316 @@
 {
- "updatedAt": "2026-11-05T21:26:39.317Z",
+ "updatedAt": "2026-11-06T01:45:27.783Z",
  "jobs": [
+  {
+   "key": "simplify:fcda4098-94ad-4409-96fc-32ee92289e01",
+   "company": "JM Family",
+   "title": "Data Engineer Intern",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086",
+   "locations": [
+    "Deerfield Beach, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793920705000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:6ea63dd4-4190-48d9-ae8a-c266e90f3449",
+   "company": "DwyerOmega",
+   "title": "Software Engineer Intern",
+   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548",
+   "locations": [
+    "Westerville, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793920723000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:669faba3-4676-4476-a559-f0a0713b57e2",
+   "company": "Riverside Research",
+   "title": "Software Applications Intern",
+   "url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Fairborn, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793920683000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:65e41535-86d1-4d10-9d27-bac6fad3e8d9",
+   "company": "Shield AI",
+   "title": "Software Engineer Co-op Intern",
+   "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply",
+   "locations": [
+    "Seattle, WA",
+    "Washington, DC",
+    "Dallas, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793920263000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:9b6715cc-7d85-49b5-8e81-d4623e296d95",
+   "company": "V2X",
+   "title": "AI Engineering Intern",
+   "url": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793921954000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:5e01c887-e95d-4785-9a00-436d4da36038",
+   "company": "Shield AI",
+   "title": "Software Engineer Intern Co-op",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
+   "locations": [
+    "Dallas, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793921935000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:328d4568-bcae-457f-96e8-ea5e59164c08",
+   "company": "Lumbermen's",
+   "title": "Software Developer Intern",
+   "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
+   "locations": [
+    "Grand Rapids, MI"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1793921924000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:e1eba358-c40c-438b-96d9-d1a9936862ee",
+   "company": "Bristol Myers Squibb",
+   "title": "Data Engineer - Clinical Operations",
+   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1",
+   "locations": [
+    "Princeton, NJ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793920862000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:e286c81e-9d91-47e7-9629-9185635680de",
+   "company": "neurohire.ai",
+   "title": "Software AI Engineer",
+   "url": "https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793920150000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:749ce433-6dfe-47e5-a8f9-807c36272e57",
+   "company": "Johnson Controls",
+   "title": "Nextgen Software Engineer",
+   "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369-2",
+   "locations": [
+    "Milwaukee, WI",
+    "Westford, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793920150000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:02f41834-2a2e-4964-8780-2ad1148d6a18",
+   "company": "Amazon",
+   "title": "Software Development Engineer – Early Career",
+   "url": "https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793920150000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:79fca9d7-81e2-4685-8424-9e81f988d805",
+   "company": "Booz Allen",
+   "title": "Software Sustainment Engineer - Software Developer",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796",
+   "locations": [
+    "Honolulu, HI",
+    "Annapolis Junction, MD",
+    "Colorado Springs, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793920202000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:8f149d85-b629-4740-9b12-64e280bb4520",
+   "company": "WGU",
+   "title": "Associate Software Engineer",
+   "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548",
+   "locations": [
+    "Salt Lake City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793919964000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:e6ee9bdf-544b-4d00-a331-f03481ecb95e",
+   "company": "Unisys",
+   "title": "Associate Engineer",
+   "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Associate-Engineer-ClearPath_REQ575397",
+   "locations": [
+    "Eagan, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793922159000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:a81edb52-97d8-4e8f-a9e2-eb16d6d46179",
+   "company": "Connecticut State Community College",
+   "title": "Web Developer",
+   "url": "https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer",
+   "locations": [
+    "Hartford, CT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793921762000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
+  {
+   "key": "simplify:d202058a-5fc5-4367-a227-1ac6460a5269",
+   "company": "First National Bank",
+   "title": "Data Analytics Engineer 1",
+   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Data-Analytics-Engineer-1---Pittsburgh-or-Hermitage--PA_2026-02664",
+   "locations": [
+    "Pittsburgh, PA",
+    "Hermitage, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1793921424000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1793929526683
+  },
   {
    "key": "simplify:4c59213c-136f-41cc-89c2-8df6becaa89f",
    "company": "CACI",
@@ -5484,311 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:4517ade3-c19e-483b-8589-1506dbcf03c8",
-   "company": "Oxbridge Health",
-   "title": "AI Engineer",
-   "url": "https://ats.rippling.com/oxbridge-health/jobs/196c59b6-8360-4766-a205-f873a3d2c2f4",
-   "locations": [
-    "Norwalk, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793196820000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:4d284738-4d7d-4b47-b60d-aaeda221fb75",
-   "company": "Tyson Foods",
-   "title": "Data Engineer 1",
-   "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Tyson-Emma---Springdale-Arkansas/Data-Engineer-I---Onsite-_R0492784-2",
-   "locations": [
-    "Springdale, AR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793196623000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:ef912e83-5396-42ce-b372-3e501ffa4a19",
-   "company": "USAA",
-   "title": "Software Engineer",
-   "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1",
-   "locations": [
-    "Plano, TX",
-    "San Antonio, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793198016000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793202887250
-  },
-  {
-   "key": "simplify:6510633a-12fb-403f-b2e5-b91ca20197b7",
-   "company": "Shield AI",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036/application?embed=true",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793167921000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:178d0613-9e8b-480c-b35e-f7b89b94e02e",
-   "company": "VSP Vision",
-   "title": "Software Engineer Intern",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793167794000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
-   "company": "VSP Vision",
-   "title": "Software Engineer Intern - Technology Innovation",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793167795000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:be409c15-d7f8-4de9-a9eb-56f6fd1af705",
-   "company": "Wabtec",
-   "title": "Software Engineering Co-op",
-   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990016452226",
-   "locations": [
-    "Schenectady, NY"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793169739000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:f88acee1-e8f7-4a59-a421-4f83cb55b4c4",
-   "company": "Mural",
-   "title": "Forward Deployed Software Engineer",
-   "url": "https://jobs.ashbyhq.com/careers.mural/5a15f088-d06a-484a-9d87-79aa9e2ee3a1/application?embed=true",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793168821000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:34b09248-7b67-43eb-bf86-c21985fdb0d2",
-   "company": "Pelico",
-   "title": "Fullstack Software Engineer - Adk",
-   "url": "https://jobs.ashbyhq.com/pelico/cbf163e3-42c4-4ded-aa1a-f4559e78bbbc/application?embed=true",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793168641000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:b3968d77-3489-4bef-9ff3-acd12708ba23",
-   "company": "Shield AI",
-   "title": "Software Engineer 2 New Grad",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167942000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:ccb8858f-f999-4876-80d4-80def8494834",
-   "company": "Shield AI",
-   "title": "Autonomy Engineer-Behavior and Motion Planning",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f3b10e8f-51b7-42e6-94d1-075934eeb716/application?embed=true",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:9c20706d-1c36-49c7-a6d2-07c92520bf94",
-   "company": "Shield AI",
-   "title": "Simulation Framework Engineer - Simulation Framework",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167944000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:74eb4b4b-ac29-4bdc-90f3-f70b743e4c06",
-   "company": "Shield AI",
-   "title": "Software Engineer New Grad",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167947000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:50363c94-1c17-4034-909d-b4b47a67fe3f",
-   "company": "Shield AI",
-   "title": "Software Integration Engineer 1 New Grad - Software Integration",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true",
-   "locations": [
-    "Washington, DC"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167949000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:4be638e1-80b0-4aa7-ac1f-416839d623c1",
-   "company": "Shield AI",
-   "title": "Simulation Framework Engineer 2",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167938000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
-  },
-  {
-   "key": "simplify:26e746a6-6f10-448a-a20d-a33c1d2ee84c",
-   "company": "Shield AI",
-   "title": "Perception Engineer - Multimodal & Embodied AI",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793167921000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793177746108
   }
  ]
 }
