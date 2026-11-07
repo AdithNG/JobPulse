@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-11-07T01:15:00.955Z",
+ "updatedAt": "2026-11-07T07:20:24.043Z",
  "jobs": [
+  {
+   "key": "simplify:9c92be34-fc24-4149-8e94-eea572329c07",
+   "company": "TikTok",
+   "title": "Software Engineer Intern",
+   "url": "https://lifeattiktok.com/search/7705012688944810245",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794017800000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794036022980
+  },
+  {
+   "key": "simplify:4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
+   "company": "AbbVie",
+   "title": "Associate Software Engineer 1",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
+   "locations": [
+    "North Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794017367000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794036022980
+  },
+  {
+   "key": "simplify:ace4e9cd-7570-4e01-9270-0686dce912d3",
+   "company": "AbbVie",
+   "title": "Associate Engineer - Technology 1",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016714871",
+   "locations": [
+    "North Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794017343000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794036022980
+  },
+  {
+   "key": "simplify:ffa2113a-b45f-49c0-afa2-03a8614f1c28",
+   "company": "Iowa State University",
+   "title": "Software Developer 1",
+   "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057",
+   "locations": [
+    "Ames, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794017299000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794036022980
+  },
   {
    "key": "simplify:e7b2cc70-862f-4045-bc00-627e408d80b1",
    "company": "Amazon",
@@ -5704,85 +5780,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:735db69e-c591-4f36-8a68-480a6492a64b",
-   "company": "First Due",
-   "title": "Cloud Security Software Engineer",
-   "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793284022000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1793301481573
-  },
-  {
-   "key": "simplify:c24dc4cf-1483-4344-a627-727c9a26aeb3",
-   "company": "Sallie Mae",
-   "title": "Data Science and Engineering Intern",
-   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659",
-   "locations": [
-    "Newark, DE",
-    "Arlington County, Arlington, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793283696000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793301481573
-  },
-  {
-   "key": "simplify:f82632d8-09d1-4568-bbaf-aa4a5ecb312a",
-   "company": "JM Family",
-   "title": "Software Engineer Intern",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
-   "locations": [
-    "Deerfield Beach, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793283484000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793301481573
-  },
-  {
-   "key": "simplify:fef80be2-32b2-45c7-8fd7-acdeba3b2295",
-   "company": "Quantiq",
-   "title": "Software Developer Intern",
-   "url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793283352000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793301481573
   }
  ]
 }
