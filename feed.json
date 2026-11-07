@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-07T07:20:24.043Z",
+ "updatedAt": "2026-11-07T14:15:12.861Z",
  "jobs": [
+  {
+   "key": "simplify:e4839ecb-2777-4886-93d2-c56612b08784",
+   "company": "RTX",
+   "title": "Software Engineer 2 - Test Equipment",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792752883000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794060912112
+  },
   {
    "key": "simplify:9c92be34-fc24-4149-8e94-eea572329c07",
    "company": "TikTok",
@@ -5750,25 +5769,6 @@
    "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Business-Intelligence-Engineer_R0010359",
    "locations": [
     "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313001000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:6e030c11-d332-4a82-970d-cc6421ca6d1e",
-   "company": "Lawrence Livermore National Laboratory (LLNL)",
-   "title": "Geographic Information System Software Developer",
-   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016508806",
-   "locations": [
-    "Livermore, CA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
