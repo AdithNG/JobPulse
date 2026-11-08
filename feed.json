@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-11-08T19:57:42.331Z",
+ "updatedAt": "2026-11-08T23:37:36.510Z",
  "jobs": [
+  {
+   "key": "simplify:bead51fa-aa91-421e-9b22-bc3e451072b1",
+   "company": "Shield AI",
+   "title": "Engineer 2 New Grad - Multiple Teams",
+   "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794179558000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794181055140
+  },
+  {
+   "key": "simplify:cb9057c1-ead7-42d2-8535-e6ee376a8005",
+   "company": "Shield AI",
+   "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794180471000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794181055140
+  },
+  {
+   "key": "simplify:5443fedc-d890-4929-9ace-e2ce40d1b5a6",
+   "company": "Shield AI",
+   "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794180471000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794181055140
+  },
+  {
+   "key": "simplify:2a02aac8-141d-448e-bdf4-a6842f1f372e",
+   "company": "Shield AI",
+   "title": "Engineer 1 New Grad - Software - Perception",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794180472000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794181055140
+  },
+  {
+   "key": "simplify:cbd9ea2f-0c98-4c65-b81a-72290dca5c9c",
+   "company": "Shield AI",
+   "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
+   "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794179556000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794181055140
+  },
   {
    "key": "simplify:e4839ecb-2777-4886-93d2-c56612b08784",
    "company": "RTX",
@@ -5679,102 +5774,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793313582000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:4e7bed4b-bbbd-4f36-8fc2-7ff81a13603d",
-   "company": "Allegion",
-   "title": "Software Systems Engineer",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Software-Systems-Engineer---Indianapolis--IN_JR38122",
-   "locations": [
-    "Indianapolis, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:5951a15d-1725-4e7a-96f2-33ccb97e28f5",
-   "company": "Waggoner Financial",
-   "title": "Software Engineer",
-   "url": "https://apply.workable.com/waggoner-financial/j/ECBC946186/apply",
-   "locations": [
-    "Lansing, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313181000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:3a736338-aacb-4dd0-9c15-e1636a664bc4",
-   "company": "Raydar",
-   "title": "Applied AI Engineer",
-   "url": "https://apply.workable.com/raydar/j/A876C6B170/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313001000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:71a60768-fb86-4b4e-9f88-6f0979434591",
-   "company": "Raydar",
-   "title": "AI Product Engineer / Forward Deployed Engineer",
-   "url": "https://apply.workable.com/raydar/j/31364F00E3/apply",
-   "locations": [
-    "Austin, TX",
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313001000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:d4f972f5-8c4c-4a56-b1a5-6791a802e5ec",
-   "company": "Trend Micro",
-   "title": "Business Intelligence Engineer",
-   "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Irving-Texas/Business-Intelligence-Engineer_R0010359",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313001000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
