@@ -1,6 +1,67 @@
 {
- "updatedAt": "2026-11-09T11:18:38.867Z",
+ "updatedAt": "2026-11-09T21:30:19.937Z",
  "jobs": [
+  {
+   "key": "simplify:59115402-528d-4ed0-88ac-a288197885d8",
+   "company": "Haskell",
+   "title": "AI Engineering Design Intern for Facility Design",
+   "url": "https://haskell.jibeapply.com/jobs/7415?icims=1&lang=en-us",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794237864000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794259818822
+  },
+  {
+   "key": "simplify:3eea2d75-ce28-4813-8c57-7ebbd52e2fa2",
+   "company": "General Dynamics Mission Systems",
+   "title": "Full-Stack Software Engineer Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75970/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Chantilly, VA",
+    "Pittsfield, MA",
+    "Scottsdale, AZ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794236961000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794259818822
+  },
+  {
+   "key": "simplify:0f772ef3-bf68-469c-8f4e-85239e83014d",
+   "company": "General Dynamics Mission Systems",
+   "title": "Full-Stack Application Development Intern",
+   "url": "https://careers-gdms.icims.com/jobs/75971/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Chantilly, VA",
+    "Pittsfield, MA",
+    "Scottsdale, AZ"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794236761000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794259818822
+  },
   {
    "key": "simplify:037bf10a-d9b6-4735-a4b0-9100908f3657",
    "company": "TikTok",
@@ -5710,64 +5771,6 @@
    "url": "https://amazon.jobs/en/jobs/10592045/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa",
    "locations": [
     "Bellevue, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793314263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:22b41b69-61b2-4b32-88f6-61e9f4d4643d",
-   "company": "Amazon",
-   "title": "Software Development Engineer",
-   "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793314263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:12588026-4145-4a34-9255-a9c38358cc20",
-   "company": "Zoom",
-   "title": "AI Engineer",
-   "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/Seattle-WA/AI-Engineer_R19823-1",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793314263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:cdc35a24-ab55-44ca-90d3-c39986ed8c92",
-   "company": "CACI",
-   "title": "Front End Software Developer",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Front-End-Software-Developer_334352",
-   "locations": [
-    "Aurora, CO",
-    "Sterling, VA"
    ],
    "term": "New Grad 2027",
    "roleType": "new-grad",
