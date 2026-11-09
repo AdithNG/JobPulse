@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-09T02:58:45.373Z",
+ "updatedAt": "2026-11-09T11:18:38.867Z",
  "jobs": [
+  {
+   "key": "simplify:037bf10a-d9b6-4735-a4b0-9100908f3657",
+   "company": "TikTok",
+   "title": "Research Engineer Intern",
+   "url": "https://lifeattiktok.com/search/7704986879082907909",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794219302000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794223117781
+  },
   {
    "key": "simplify:a62bfe3c-827f-4d3c-b91c-b3a6768bd499",
    "company": "M&T Bank",
@@ -5755,25 +5774,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793314263000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:007dcff7-02c1-4bd8-bc8b-a194434974bc",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Software Systems Engineer",
-   "url": "https://careers.jhuapl.edu/jobs/60601?icims=1",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793314271000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
