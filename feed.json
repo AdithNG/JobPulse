@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-08T23:37:36.510Z",
+ "updatedAt": "2026-11-09T02:58:45.373Z",
  "jobs": [
+  {
+   "key": "simplify:a62bfe3c-827f-4d3c-b91c-b3a6768bd499",
+   "company": "M&T Bank",
+   "title": "Technology Development Program - Software Engineering - Enterprise & Wealth Application Development",
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035",
+   "locations": [
+    "Buffalo, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794190332000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794193124453
+  },
+  {
+   "key": "simplify:09189c3a-8701-428c-a334-fc2353eed8e3",
+   "company": "M&T Bank",
+   "title": "Technology Development Program - Software Engineering - Data & API Engineering",
+   "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Data---API-Engineering-_R92036",
+   "locations": [
+    "Buffalo, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794190326000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794193124453
+  },
   {
    "key": "simplify:bead51fa-aa91-421e-9b22-bc3e451072b1",
    "company": "Shield AI",
@@ -5736,44 +5774,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793314271000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:f0518227-634a-49fb-8e4e-eba9d347a10e",
-   "company": "Morningstar",
-   "title": "Associate Software Engineer - Central Tech AI",
-   "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313541000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793316275750
-  },
-  {
-   "key": "simplify:2cfb374c-f2cc-4038-a831-a9a8c67eb5fe",
-   "company": "Northrop Grumman",
-   "title": "Associate Cyber Software Engineer - Pathways Program",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
-   "locations": [
-    "Aurora, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793313582000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
