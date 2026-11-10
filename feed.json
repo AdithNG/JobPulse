@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-11-10T11:52:18.072Z",
+ "updatedAt": "2026-11-10T19:37:14.680Z",
  "jobs": [
+  {
+   "key": "simplify:6f89592c-cad0-4384-8d65-14460588b283",
+   "company": "T-Mobile",
+   "title": "Software Engineer Intern - T-Ads",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794324893000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794339433742
+  },
+  {
+   "key": "simplify:079bf3d3-847a-4fc1-988a-ae3cdbafd70e",
+   "company": "T-Mobile",
+   "title": "Software Engineer Intern",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794324894000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794339433742
+  },
+  {
+   "key": "simplify:c6f90e83-7eac-49e1-9f69-534fb81bc0a4",
+   "company": "RTX",
+   "title": "Metrology Database Support Engineer",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811--1151-E-Hermans-Rd--BLDG-811-External-Site/Metrology-Database-Support-Engineer_01885512-1",
+   "locations": [
+    "Tucson, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794324421000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794339433742
+  },
+  {
+   "key": "simplify:c1ff6cc7-a1ca-4fa9-8175-f705039e837f",
+   "company": "Fidelity National Information Services",
+   "title": "Mainframe Software Engineer 1",
+   "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1",
+   "locations": [
+    "Columbus, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794325017000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794339433742
+  },
   {
    "key": "simplify:7a0fcd2a-9cdd-4832-95ba-6a0989ecb3a3",
    "company": "Klaviyo",
@@ -5703,82 +5779,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793398291000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793407192813
-  },
-  {
-   "key": "simplify:d379f70f-2ee0-4561-bd8e-ee5d4795e25c",
-   "company": "RTX",
-   "title": "Entry-Level Software Developer - Application Support & Sustainment",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793398147000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793407192813
-  },
-  {
-   "key": "simplify:f96126b1-2518-47bf-8cf3-c60b07118209",
-   "company": "Built Technologies",
-   "title": "Innovation Software Engineer 1 - Marketplace",
-   "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005",
-   "locations": [
-    "Nashville, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793400841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793407192813
-  },
-  {
-   "key": "simplify:fa428a84-cc4e-4bd1-a258-d20af2ff146c",
-   "company": "ServiceTitan",
-   "title": "AI Engineer",
-   "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793400663000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793407192813
-  },
-  {
-   "key": "simplify:5fa0e4c8-c585-463e-975c-51d7b01f666d",
-   "company": "Rocket Lab Corporation",
-   "title": "Business Systems Engineer 1",
-   "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003",
-   "locations": [
-    "Long Beach, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793400725000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
