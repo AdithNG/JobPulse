@@ -1,6 +1,200 @@
 {
- "updatedAt": "2026-11-11T00:14:35.367Z",
+ "updatedAt": "2026-11-11T06:48:34.446Z",
  "jobs": [
+  {
+   "key": "simplify:794be3df-1425-488c-b884-a8d29f0732f1",
+   "company": "Amazon",
+   "title": "Software Development Engineer Early Career - Amazon Dedicated Cloud",
+   "url": "https://amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
+   "locations": [
+    "Seattle, WA",
+    "Jessup, MD",
+    "Arlington County, Arlington, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794364945000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "cloud"
+   ],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:69fc016e-5ad7-44cf-b4a2-2659826b2808",
+   "company": "Tesla",
+   "title": "Software Developer Intern - IT Apps",
+   "url": "https://www.tesla.com/careers/search/job/289683",
+   "locations": [
+    "Fremont, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794364049000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:ffd39d30-42ea-42da-af1b-347fc146a71a",
+   "company": "Shield AI",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794362953000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:b5d78578-847e-43f2-9ade-3b44ae95b38b",
+   "company": "Amentum",
+   "title": "Junior Data Engineer",
+   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
+   "locations": [
+    "Springfield, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794363682000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:48a0be91-2b9f-4979-b445-a40ae86eb9c4",
+   "company": "Shield AI",
+   "title": "Perception Engineer - Multimodal & Embodied AI",
+   "url": "https://jobs.ashbyhq.com/shield/99726ac8-75b2-4719-b0ea-e470cda3148b/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794362764000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:d4f6b336-d307-427a-a31d-155f8fabb6c0",
+   "company": "Shield AI",
+   "title": "Simulation Framework Engineer 1 New Grad - Simulation Framework",
+   "url": "https://jobs.ashbyhq.com/shield/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794362890000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:89561c7a-b727-412e-8723-030904cc22f3",
+   "company": "Shield AI",
+   "title": "Engineer 2 New Grad - Simulation Framework",
+   "url": "https://jobs.ashbyhq.com/shield/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794362891000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:2457b835-2e5e-4f15-b4e5-0a6ede932255",
+   "company": "Shield AI",
+   "title": "Engineer 2 New Grad - Software - Factory",
+   "url": "https://jobs.ashbyhq.com/shield/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794362891000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:45c3b7e6-ab17-438a-8639-6e361d0cb2bd",
+   "company": "Shield AI",
+   "title": "Software Engineer 1 New Grad - Internal Tools",
+   "url": "https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794362926000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
+  {
+   "key": "simplify:75ad26cf-c6b7-4225-8b8b-c4c2f0a34e40",
+   "company": "RTX",
+   "title": "Software Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794364782000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794379713468
+  },
   {
    "key": "simplify:93f840b3-e735-4ee5-8cbb-e007eafb977f",
    "company": "Altice USA",
@@ -5585,200 +5779,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1793628866211
-  },
-  {
-   "key": "simplify:50699bdf-eacb-419e-8a11-b9803c46092e",
-   "company": "Brown & Brown Insurance",
-   "title": "Junior HubSpot Developer",
-   "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694",
-   "locations": [
-    "Plano, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793603759000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793628866211
-  },
-  {
-   "key": "simplify:da1ac264-d20e-4ad8-b630-709c0ae8cd5e",
-   "company": "Google",
-   "title": "Software Engineer 2 – Early Career",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318",
-   "locations": [
-    "Palo Alto, CA",
-    "Madison, WI",
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793603601000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793628866211
-  },
-  {
-   "key": "simplify:bf1ec0ef-494e-419c-abea-be20337732b0",
-   "company": "KnowBe4",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
-   "locations": [
-    "Clearwater, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793575334000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793577480786
-  },
-  {
-   "key": "simplify:076e4d7b-c105-4b49-866b-5ac1f12ec7b3",
-   "company": "Huntington Ingalls Industries",
-   "title": "Software Engineer 1",
-   "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors",
-   "locations": [
-    "Newport News, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793514682000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793526406748
-  },
-  {
-   "key": "simplify:0e9101fd-5e85-4911-b076-604e6c2fc6ef",
-   "company": "Bristol Myers Squibb",
-   "title": "Associate Engineer - Analytical AI Engineering",
-   "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
-   "locations": [
-    "Princeton, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793452330000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793468268027
-  },
-  {
-   "key": "simplify:2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e",
-   "company": "Intercontinental Exchange",
-   "title": "Software Engineer Intern - Java",
-   "url": "https://ice.jibeapply.com/jobs/14078?icims=1",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793428964000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "java"
-   ],
-   "firstSeen": 1793451196130
-  },
-  {
-   "key": "simplify:88eaf5f9-1259-44ff-ab84-75c4d2d6eb63",
-   "company": "Publicis Groupe",
-   "title": "Software Engineer Intern",
-   "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793427128000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793451196130
-  },
-  {
-   "key": "simplify:f0f5bd69-8f2a-4aef-ba3a-87a576d04121",
-   "company": "Intercontinental Exchange",
-   "title": "Software Engineering Intern",
-   "url": "https://ice.jibeapply.com/jobs/14075?icims=1",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793428963000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793451196130
-  },
-  {
-   "key": "simplify:bd919433-9d4d-4aef-bea9-a8256a4c3704",
-   "company": "Intercontinental Exchange",
-   "title": "Quantitative Engineer Intern",
-   "url": "https://ice.jibeapply.com/jobs/14053?icims=1",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793428966000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793451196130
-  },
-  {
-   "key": "simplify:b65ac50b-2392-426a-b4d6-9ab44f279396",
-   "company": "Intercontinental Exchange",
-   "title": "Financial Engineering Intern",
-   "url": "https://ice.jibeapply.com/jobs/14059?icims=1",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793428967000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793451196130
   }
  ]
 }
