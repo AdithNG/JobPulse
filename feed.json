@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-11-13T04:05:15.068Z",
+ "updatedAt": "2026-11-13T12:11:31.732Z",
  "jobs": [
+  {
+   "key": "simplify:48575bc5-b3c7-42b6-b136-7df9d7bd0791",
+   "company": "Empowerly",
+   "title": "Full Stack Software Engineer",
+   "url": "https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794555630000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1794571890874
+  },
+  {
+   "key": "simplify:d52ae577-609f-49a7-bc5e-5c2a1e928841",
+   "company": "Aurora Innovation",
+   "title": "Software Engineer Intern - Vehicle Platforms",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794556262000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794571890874
+  },
+  {
+   "key": "simplify:8b086459-985c-4225-b509-facb2dce5e94",
+   "company": "Shield AI",
+   "title": "Software Engineer 1 New Grad",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794556503000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794571890874
+  },
+  {
+   "key": "simplify:2ed6f5ef-9ec5-455f-b7df-59d3272f49fd",
+   "company": "Shield AI",
+   "title": "Engineer 1 New Grad - Software",
+   "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply",
+   "locations": [
+    "Washington, DC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794567097000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794571890874
+  },
   {
    "key": "simplify:6aeeb00d-88c5-4ee8-871e-ff119dee63bb",
    "company": "Affirm",
@@ -5703,83 +5781,6 @@
    "sponsorship": "unknown",
    "posted": 1793806056000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793818193388
-  },
-  {
-   "key": "simplify:792c0825-337f-4b99-aa3f-bf1c72df18ac",
-   "company": "Zebra Technologies",
-   "title": "Systems Engineer Intern",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659",
-   "locations": [
-    "Germantown, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793806056000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793818193388
-  },
-  {
-   "key": "simplify:715edfbe-9e25-4d5c-b17b-230a7cd1efa2",
-   "company": "Northrop Grumman",
-   "title": "Software Engineer Intern",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181",
-   "locations": [
-    "Roy, UT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793805330000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793818193388
-  },
-  {
-   "key": "simplify:627ccd4d-bfee-4232-9b77-c75320e6631e",
-   "company": "Parsons",
-   "title": "AI/ML Engineer Intern",
-   "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
-   "locations": [
-    "Centreville, VA",
-    "United States"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793807675000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793818193388
-  },
-  {
-   "key": "simplify:48b9e9fe-f16a-41df-8f2a-0349f8217fec",
-   "company": "Analog Devices",
-   "title": "Field Robotics Systems Engineer",
-   "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Field-Robotics-Systems-Engineer_R266640",
-   "locations": [
-    "Wilmington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793805121000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
