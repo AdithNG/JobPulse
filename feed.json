@@ -1,6 +1,84 @@
 {
- "updatedAt": "2026-11-13T12:11:31.732Z",
+ "updatedAt": "2026-11-13T19:48:07.929Z",
  "jobs": [
+  {
+   "key": "simplify:b9d84af2-efb4-477c-b75e-0b43d90c6cdf",
+   "company": "Peraton",
+   "title": "Full Stack Engineer",
+   "url": "https://careers-peraton.icims.com/jobs/173596/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Columbus, OH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794582547000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1794599287125
+  },
+  {
+   "key": "simplify:c467ce94-cbcc-46f7-9a47-5673ae132895",
+   "company": "Thoughtworks",
+   "title": "Graduate Developer",
+   "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794582766000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794599287125
+  },
+  {
+   "key": "simplify:13e19999-69ce-4245-a0f6-9b5b7fd62382",
+   "company": "Northrop Grumman",
+   "title": "Associate Software Engineer",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
+   "locations": [
+    "McClellan Park, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794582613000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794599287125
+  },
+  {
+   "key": "simplify:e83b2b8a-4be2-4964-85be-319d2e951209",
+   "company": "Q2",
+   "title": "Software Engineer",
+   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794584161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794599287125
+  },
   {
    "key": "simplify:48575bc5-b3c7-42b6-b136-7df9d7bd0791",
    "company": "Empowerly",
@@ -5709,82 +5787,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:1d6a4ac6-ef23-4ee1-bee2-ccdc9f7aa09b",
-   "company": "CAE",
-   "title": "Visualization Engineer",
-   "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Visualization-Engineer_124526",
-   "locations": [
-    "Arlington, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793846162000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:5e00c561-b737-44bf-afa3-30cf44fe26a6",
-   "company": "Choice Hotels",
-   "title": "Software Engineer 1 - Finance Technology",
-   "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514",
-   "locations": [
-    "Scottsdale, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793846162000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:dd22de65-f2ed-491a-906d-0db1329ac27f",
-   "company": "Vizient",
-   "title": "Associate Software Engineer",
-   "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1",
-   "locations": [
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845982000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:fb3b0be5-05d3-471f-8734-bfaa6cfe7c70",
-   "company": "Zebra Technologies",
-   "title": "Software Engineer Intern - AI Features & Product Convergence",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
-   "locations": [
-    "Kennesaw, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793806056000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793818193388
   }
  ]
 }
