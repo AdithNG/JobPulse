@@ -1,6 +1,82 @@
 {
- "updatedAt": "2026-11-14T06:57:35.621Z",
+ "updatedAt": "2026-11-14T14:03:22.928Z",
  "jobs": [
+  {
+   "key": "simplify:73f23e50-323e-4928-be97-5fe422321b9a",
+   "company": "Carnegie Mellon University",
+   "title": "Full-Stack Software Development Intern",
+   "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794642841000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794665001997
+  },
+  {
+   "key": "simplify:331732d6-2320-4e49-9426-29401912aba0",
+   "company": "Carnegie Mellon University",
+   "title": "Cyber AI Engineer Intern",
+   "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794642850000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794665001997
+  },
+  {
+   "key": "simplify:049abd17-7f5b-4e36-9f8b-96b028fa0720",
+   "company": "McMaster-Carr",
+   "title": "Technology Developer - Development - Design",
+   "url": "https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009",
+   "locations": [
+    "Elmhurst, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794640363000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794665001997
+  },
+  {
+   "key": "simplify:788e4fa2-855c-4290-a24e-47ddccdf7692",
+   "company": "edmentum",
+   "title": "Software Engineer 1",
+   "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+   "locations": [
+    "Bloomington, MN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794650273000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794665001997
+  },
   {
    "key": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
    "company": "Microsoft",
@@ -5703,87 +5779,6 @@
    "sponsorship": "unknown",
    "posted": 1793845982000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:ce81bab2-f54c-4774-92ac-b82f7b0c9eb3",
-   "company": "PayPal",
-   "title": "Software Engineer Intern",
-   "url": "https://paypal.eightfold.ai/careers/job/274922982814",
-   "locations": [
-    "Austin, TX",
-    "San Jose, CA",
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793845982000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:90152193-d0a4-41f6-9a8c-c9a3d4f2a4c7",
-   "company": "Boston Scientific",
-   "title": "Urology R&D Software Engineering Co-op",
-   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813743813",
-   "locations": [
-    "Marlborough, MA",
-    "Maple Grove, MN"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845982000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:9e2a3eab-c04d-4789-a788-f263deafe9ab",
-   "company": "PayPal",
-   "title": "Mobile Engineer Intern",
-   "url": "https://paypal.eightfold.ai/careers/job/274922982818",
-   "locations": [
-    "Austin, TX",
-    "San Jose, CA",
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793845982000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:12f465cd-dc85-4295-9c43-b98d11567815",
-   "company": "Extra Space Storage",
-   "title": "Associate Software Engineer",
-   "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836",
-   "locations": [
-    "Cottonwood Heights, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845623000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
