@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-14T00:30:05.610Z",
+ "updatedAt": "2026-11-14T06:57:35.621Z",
  "jobs": [
+  {
+   "key": "simplify:970abbb2-7906-4686-914b-09bd6d622dd5",
+   "company": "Microsoft",
+   "title": "Software Engineer - Microsoft Business Operations",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794623250000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794639454746
+  },
+  {
+   "key": "simplify:8f2c309b-3922-4159-a877-86c8566fffee",
+   "company": "Integrated Biosciences",
+   "title": "Software Engineer - Robotics",
+   "url": "https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009",
+   "locations": [
+    "Redwood City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794622151000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794639454746
+  },
   {
    "key": "simplify:4dc93ea5-f9ac-40cb-af35-d168b68a2f4e",
    "company": "Cambridge Mobile Telematics",
@@ -5745,44 +5783,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793845623000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:b2c9f175-1887-4dcf-b927-2316b53e172f",
-   "company": "Pacific Northwest National Laboratory",
-   "title": "Early Career Software Engineer",
-   "url": "https://careers.pnnl.gov/jobs/12900?icims=1",
-   "locations": [
-    "Richland, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845623000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:93503435-116f-4656-9090-2c094bb6d6bd",
-   "company": "Twitch",
-   "title": "Software Development Engineer 1 - Security Platform",
-   "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845321000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
