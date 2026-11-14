@@ -1,6 +1,144 @@
 {
- "updatedAt": "2026-11-14T14:03:22.928Z",
+ "updatedAt": "2026-11-14T19:09:36.957Z",
  "jobs": [
+  {
+   "key": "simplify:aeaf63c9-1187-4be5-b016-70d423a23974",
+   "company": "Camping World",
+   "title": "Software Engineer Intern",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794670795000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
+  {
+   "key": "simplify:8e9af166-ff54-453a-b560-244a89a45555",
+   "company": "Camping World",
+   "title": "Data Engineering Intern",
+   "url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+   "locations": [
+    "Chicago, IL",
+    "Lincolnshire, IL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794670741000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
+  {
+   "key": "simplify:ae819759-0f9c-4f3f-880f-a57a3b10b824",
+   "company": "SAS",
+   "title": "Software Developer Intern - Go/Golang Experience",
+   "url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Cary, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794670219000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
+  {
+   "key": "simplify:592832c4-8c59-4f59-9723-66d098b34bde",
+   "company": "KSB",
+   "title": "Machine Learning Engineer",
+   "url": "https://ksb.wd3.myworkdayjobs.com/KSB_ExternalCareerSite/job/Grovetown-GA/Machine-Learning-Engineer_JR_30052-1",
+   "locations": [
+    "Grovetown, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794666066000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
+  {
+   "key": "simplify:be00edcb-0605-494a-93b0-3872479dfe92",
+   "company": "CDPHP",
+   "title": "Software Engineer - ETL",
+   "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172",
+   "locations": [
+    "Rochester, NY",
+    "De Witt, NY",
+    "Utica, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794669841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
+  {
+   "key": "simplify:5423461d-751c-4d41-b637-371f3eab845f",
+   "company": "CDPHP",
+   "title": "AI Engineer",
+   "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556",
+   "locations": [
+    "Rochester, NY",
+    "De Witt, NY",
+    "Utica, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794669841000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
+  {
+   "key": "simplify:a43681bf-8c34-45b6-b4e2-2a15f57ba4a7",
+   "company": "Fort Bend County",
+   "title": "Web Developer - Web Development - Information Technology",
+   "url": "https://fortbendcountytx.wd5.myworkdayjobs.com/externalcareers/job/Richmond-TX/Temporary-Position---Web-Development---Information-Technology_JR1694-11-26",
+   "locations": [
+    "Richmond, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794671298000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794683376076
+  },
   {
    "key": "simplify:73f23e50-323e-4928-be97-5fe422321b9a",
    "company": "Carnegie Mellon University",
@@ -5643,146 +5781,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:07e1f6dd-a46e-489d-b04c-f42fe868abfc",
-   "company": "Cisco",
-   "title": "Software Engineer Full Stack / Backend 1",
-   "url": "https://careers.cisco.com/global/en/job/2028784",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845106000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 25,
-   "matchedWords": [
-    "backend",
-    "full stack"
-   ],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:c423bdb8-fc59-4745-bc15-5224b565cc3a",
-   "company": "Empower Pharmacy",
-   "title": "Associate Software Engineer - Full Stack",
-   "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793845813000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:4d29b429-149c-462d-bafe-37099c80d154",
-   "company": "SK hynix",
-   "title": "Software Engineer Intern",
-   "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793844539000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:994390d2-e931-4203-9755-1169361ef34d",
-   "company": "Leidos",
-   "title": "Software Engineering & AI Intern",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
-   "locations": [
-    "Remote in USA",
-    "Shiloh, IL",
-    "Odenton, MD"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793847084000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:24c0beef-0178-4ee1-9cc0-a0ee2aa50f69",
-   "company": "Bose",
-   "title": "DSP/ML Research Engineer Intern",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
-   "locations": [
-    "Framingham, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793846525000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:80ef3947-a6a1-4822-9ae0-b81b9e52347a",
-   "company": "Bose",
-   "title": "DSP/ML Research Engineer Co-op",
-   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Co-op---Spring-2027_R29370",
-   "locations": [
-    "Framingham, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793846525000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
-  },
-  {
-   "key": "simplify:e60dfb39-6279-46ca-9802-7328d053355a",
-   "company": "PayPal",
-   "title": "Machine Learning Engineer Intern",
-   "url": "https://paypal.eightfold.ai/careers/job/274922983149",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1793845982000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793861030784
   }
  ]
 }
