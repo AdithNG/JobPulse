@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-11-14T22:59:14.435Z",
+ "updatedAt": "2026-11-15T02:32:37.174Z",
  "jobs": [
+  {
+   "key": "simplify:ff08a4e1-a35e-4faa-b08f-aed1a3fcf7e7",
+   "company": "RTX",
+   "title": "Software Engineering Co-op",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Co-op--Summer-Fall-_01884404",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "co-op",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794699542000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794709956420
+  },
+  {
+   "key": "simplify:45a2526c-381b-4e2e-95c9-cf132d4dea09",
+   "company": "Johnson Controls",
+   "title": "Nextgen Software Engineer New Grad",
+   "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
+   "locations": [
+    "Milwaukee, WI",
+    "Westford, MA",
+    "Glendale, WI"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794698137000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794709956420
+  },
   {
    "key": "simplify:aeaf63c9-1187-4be5-b016-70d423a23974",
    "company": "Camping World",
@@ -5738,44 +5778,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793868483000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:d47253ca-2ffc-41f1-bc8c-7db81f39b18f",
-   "company": "Cooper Norcross Health",
-   "title": "Reporting and Analytics Developer",
-   "url": "https://careers-cooperhealth.icims.com/jobs/86865/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Camden, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793868483000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:f3932003-830c-4658-a973-5bdf094a4196",
-   "company": "ERMCO Distribution Transformers",
-   "title": "Software Design Engineer 2",
-   "url": "https://careers-ermcoeci.icims.com/jobs/6987/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Dyersburg, TN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793868057000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
