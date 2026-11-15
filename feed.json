@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-15T09:55:45.080Z",
+ "updatedAt": "2026-11-15T16:57:22.412Z",
  "jobs": [
+  {
+   "key": "simplify:aabe0127-a865-419b-ad95-ec112ec672e9",
+   "company": "Carnegie Mellon University",
+   "title": "Cyber AI Engineering Intern",
+   "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794757504000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794761841604
+  },
   {
    "key": "simplify:a66d16d8-304f-49d6-ae57-3f9db2d9042c",
    "company": "Blizzard Entertainment",
@@ -5760,25 +5779,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793869115000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:293298c6-9048-40cc-86c7-2ca9f793e11d",
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer Entry Level",
-   "url": "https://careers-gdms.icims.com/jobs/75792/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Manassas, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793869116000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
