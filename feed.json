@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-16T08:31:10.960Z",
+ "updatedAt": "2026-11-16T18:52:06.545Z",
  "jobs": [
+  {
+   "key": "simplify:ba118afe-7991-4a5a-87c7-f68325d9f99d",
+   "company": "Boston Scientific",
+   "title": "AI Engineer Intern - Generative & Agentic AI",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+   "locations": [
+    "Marlborough, MA",
+    "Maple Grove, MN",
+    "Arden Hills, MN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794844460000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794855125647
+  },
+  {
+   "key": "simplify:93a09d2c-4c6c-48b4-b6d9-ab0a27a3951d",
+   "company": "Altice USA",
+   "title": "Software Developer Intern",
+   "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors",
+   "locations": [
+    "Bethpage, NY"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794843392000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794855125647
+  },
+  {
+   "key": "simplify:a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
+   "company": "RTX",
+   "title": "Intern Conversion/Systems Engineer 1",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850",
+   "locations": [
+    "Cedar Rapids, IA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792759322000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794855125647
+  },
   {
    "key": "simplify:aabe0127-a865-419b-ad95-ec112ec672e9",
    "company": "Carnegie Mellon University",
@@ -5722,63 +5781,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793868841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:f1dff2f4-3103-4888-80cc-ae4b5a2a52d3",
-   "company": "General Dynamics Mission Systems",
-   "title": "Entry Level Engineer",
-   "url": "https://careers-gdms.icims.com/jobs/76784/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793868841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:cda65e42-a8e0-4a82-ac33-408b28ba7e5d",
-   "company": "General Dynamics Mission Systems",
-   "title": "Entry Level Engineer - Multiple Teams",
-   "url": "https://careers-gdms.icims.com/jobs/75635/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793868841000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793890742565
-  },
-  {
-   "key": "simplify:4fca3ed2-50bc-46e1-93b8-ca343cc300c8",
-   "company": "General Dynamics Mission Systems",
-   "title": "Software Engineer",
-   "url": "https://careers-gdms.icims.com/jobs/75277/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Manassas, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793869115000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
