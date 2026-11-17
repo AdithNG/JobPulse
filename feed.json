@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-17T10:52:06.134Z",
+ "updatedAt": "2026-11-17T19:35:30.787Z",
  "jobs": [
+  {
+   "key": "simplify:9d85e1dd-dd78-4128-9da0-f6f57c3ab6bf",
+   "company": "InterImage",
+   "title": "Software Engineer Level 0",
+   "url": "https://apply.workable.com/interimage/j/89601AD3BE/apply",
+   "locations": [
+    "Fort Meade, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794929221000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794944130024
+  },
+  {
+   "key": "simplify:a32f67ff-5d44-4e8f-946d-3bf4be9d7b8b",
+   "company": "Peraton",
+   "title": "Entry-Level Software Engineer - Ignite Innovator Program",
+   "url": "https://careers-peraton.icims.com/jobs/173920/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Blacksburg, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794928913000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794944130024
+  },
   {
    "key": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
    "company": "Microsoft",
@@ -5743,46 +5781,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1793920150000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793929526683
-  },
-  {
-   "key": "simplify:79fca9d7-81e2-4685-8424-9e81f988d805",
-   "company": "Booz Allen",
-   "title": "Software Sustainment Engineer - Software Developer",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796",
-   "locations": [
-    "Honolulu, HI",
-    "Annapolis Junction, MD",
-    "Colorado Springs, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793920202000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793929526683
-  },
-  {
-   "key": "simplify:8f149d85-b629-4740-9b12-64e280bb4520",
-   "company": "WGU",
-   "title": "Associate Software Engineer",
-   "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Associate-Software-Engineer_JR-026548",
-   "locations": [
-    "Salt Lake City, UT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793919964000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
