@@ -1,6 +1,121 @@
 {
- "updatedAt": "2026-11-17T02:17:44.645Z",
+ "updatedAt": "2026-11-17T10:52:06.134Z",
  "jobs": [
+  {
+   "key": "simplify:542753ed-5d89-4aa7-855f-a20530ae5084",
+   "company": "Microsoft",
+   "title": "Software Engineer Agentic Security",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794883882000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794912725450
+  },
+  {
+   "key": "simplify:d679fa04-c74e-4987-a9aa-2e381ad6fa52",
+   "company": "Wyetech",
+   "title": "Software Engineer 0 or 1",
+   "url": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
+   "locations": [
+    "United States"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794883550000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794912725450
+  },
+  {
+   "key": "simplify:cea336b4-1147-402b-9c76-6b7ed2757eee",
+   "company": "Laborie Medical Technologies",
+   "title": "Software Engineer 1",
+   "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false",
+   "locations": [
+    "Portsmouth, NH"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794883014000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794912725450
+  },
+  {
+   "key": "simplify:f3ce5b57-c912-400a-9320-e837fda505df",
+   "company": "Joy Baking Group",
+   "title": "Data Analytics Engineer",
+   "url": "https://careers-joybakinggroup.icims.com/jobs/1472/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Hermitage, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794900246000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794912725450
+  },
+  {
+   "key": "simplify:ae1ec61d-333f-47da-8b9c-8bf931b6d07b",
+   "company": "Fantom",
+   "title": "Software Engineer Level 0",
+   "url": "https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply",
+   "locations": [
+    "Hanover, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794901502000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794912725450
+  },
+  {
+   "key": "simplify:93f9b047-f6f8-4395-b3ea-64b83413eef4",
+   "company": "Tantalus Systems",
+   "title": "Analytics Engineer",
+   "url": "https://tantalussystems.bamboohr.com/careers/196/",
+   "locations": [
+    "Raleigh, NC",
+    "Chattanooga, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794910322000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794912725450
+  },
   {
    "key": "simplify:1aad775b-e368-402d-afc4-1c375d8015fe",
    "company": "LinkedIn",
@@ -5673,123 +5788,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1793929526683
-  },
-  {
-   "key": "simplify:e6ee9bdf-544b-4d00-a331-f03481ecb95e",
-   "company": "Unisys",
-   "title": "Associate Engineer",
-   "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Associate-Engineer-ClearPath_REQ575397",
-   "locations": [
-    "Eagan, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793922159000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793929526683
-  },
-  {
-   "key": "simplify:a81edb52-97d8-4e8f-a9e2-eb16d6d46179",
-   "company": "Connecticut State Community College",
-   "title": "Web Developer",
-   "url": "https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer",
-   "locations": [
-    "Hartford, CT"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793921762000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793929526683
-  },
-  {
-   "key": "simplify:d202058a-5fc5-4367-a227-1ac6460a5269",
-   "company": "First National Bank",
-   "title": "Data Analytics Engineer 1",
-   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Data-Analytics-Engineer-1---Pittsburgh-or-Hermitage--PA_2026-02664",
-   "locations": [
-    "Pittsburgh, PA",
-    "Hermitage, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793921424000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793929526683
-  },
-  {
-   "key": "simplify:4c59213c-136f-41cc-89c2-8df6becaa89f",
-   "company": "CACI",
-   "title": "Junior Software Developer",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793893861000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793913998744
-  },
-  {
-   "key": "simplify:fb9cc829-2767-40a8-bca6-eeec81ba3135",
-   "company": "EquipmentShare",
-   "title": "Junior Ecommerce Web Developer",
-   "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8319404",
-   "locations": [
-    "Columbia, MO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793892602000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1793913998744
-  },
-  {
-   "key": "simplify:b4c2db2d-3859-453b-823e-8dc517020ce3",
-   "company": "Peraton",
-   "title": "Cloud Software Engineer 1",
-   "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1793862904000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "cloud"
-   ],
-   "firstSeen": 1793890742565
   }
  ]
 }
