@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-11-18T01:51:54.336Z",
+ "updatedAt": "2026-11-18T09:42:29.803Z",
  "jobs": [
+  {
+   "key": "simplify:cd04939e-41ff-4433-9c3d-b29cd8035646",
+   "company": "Sallie Mae",
+   "title": "Software Engineer Intern",
+   "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
+   "locations": [
+    "Indianapolis, IN"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1794967741000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794994949022
+  },
+  {
+   "key": "simplify:189abd7e-504a-48da-a428-77b194d234c0",
+   "company": "Firefly Aerospace",
+   "title": "Software Engineering Intern",
+   "url": "https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
+   "locations": [
+    "Leander, TX"
+   ],
+   "term": "Spring 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794969027000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794994949022
+  },
+  {
+   "key": "simplify:2ebe6dc0-7a17-40c2-a840-c58c312185d9",
+   "company": "Amazon",
+   "title": "Software Development Engineer - Robotics",
+   "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+   "locations": [
+    "Austin, TX",
+    "North Reading, MA",
+    "Westborough, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794970441000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794994949022
+  },
+  {
+   "key": "simplify:4aee94bd-d68e-4a74-8abf-ff47974b009f",
+   "company": "Elutions",
+   "title": "Domain Engineer",
+   "url": "https://elutions.bamboohr.com/careers/172/",
+   "locations": [
+    "Tampa, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794988445000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794994949022
+  },
+  {
+   "key": "simplify:0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9",
+   "company": "Torch Technologies",
+   "title": "Entry-Level Modeling & Simulation Software Engineer",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794987544000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1794994949022
+  },
   {
    "key": "simplify:e30d9fcd-b377-4752-9e30-4b280b0c73b0",
    "company": "Mirantis",
@@ -5683,102 +5780,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794008521000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:aef47867-bd2f-493b-8618-948474b3864e",
-   "company": "ICF International",
-   "title": "Software Developer",
-   "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Richmond-VA/Software-Developer_R2603769",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008342000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:85801986-18fe-48a1-b1ee-7391c3fd06be",
-   "company": "Engine",
-   "title": "Software Engineer - GTM Engineering",
-   "url": "https://job-boards.greenhouse.io/engine/jobs/8046374003",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008162000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:6363f354-2a97-4bc3-adec-72163ee1c1b7",
-   "company": "Ovative",
-   "title": "Analyst – Data & Software Engineer",
-   "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineer_JR100342",
-   "locations": [
-    "Chicago, IL",
-    "Minneapolis, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008162000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:f28d6b4b-050d-4633-9c70-a151a189e20e",
-   "company": "Nightwing Intelligence Solutions",
-   "title": "Software Developer 1 - System Security",
-   "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008251000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:ab79aa51-f2a6-48c2-9310-241911d30147",
-   "company": "Visionist",
-   "title": "Software Engineer - Inference",
-   "url": "https://jobs.jobvite.com/visionist/job/otszAfwO?nl=1&nl=1&fr=false",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794007801000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
