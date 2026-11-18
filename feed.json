@@ -1,6 +1,102 @@
 {
- "updatedAt": "2026-11-18T09:42:29.803Z",
+ "updatedAt": "2026-11-18T18:25:58.936Z",
  "jobs": [
+  {
+   "key": "simplify:e40ead49-69ad-422a-8008-5929557e27a4",
+   "company": "General Dynamics Information Technology",
+   "title": "Engineering Intern",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323",
+   "locations": [
+    "Falls Church, VA",
+    "Gaithersburg, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795015842000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795026358281
+  },
+  {
+   "key": "simplify:7ff1037a-0d70-4c8f-8e2a-19d7d8f52893",
+   "company": "ASM International",
+   "title": "Software Engineer – Early Career",
+   "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101",
+   "locations": [
+    "Phoenix, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794995826000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795026358281
+  },
+  {
+   "key": "simplify:ff2baa06-7c73-4bb0-8f5d-6c093d2fcf28",
+   "company": "Clean Harbors",
+   "title": "Associate Data & Analytics Developer",
+   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165185",
+   "locations": [
+    "Norwell, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794999084000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795026358281
+  },
+  {
+   "key": "simplify:6613bded-9926-49a7-bc7f-60a11f1a05ee",
+   "company": "Berkshire Hathaway Energy",
+   "title": "Software Engineer - Bhepg",
+   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023",
+   "locations": [
+    "Omaha, NE"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795014543000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795026358281
+  },
+  {
+   "key": "simplify:3731ea17-7b7f-45a8-9f5e-995882d14ed6",
+   "company": "Adyen",
+   "title": "Junior Full-Stack Developer - Docs Experience Engineering Team",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795016722000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795026358281
+  },
   {
    "key": "simplify:cd04939e-41ff-4433-9c3d-b29cd8035646",
    "company": "Sallie Mae",
@@ -5682,104 +5778,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794006545000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:3af1c40c-bee2-4e35-b456-9f362654cf4e",
-   "company": "Cook Group",
-   "title": "Software Engineer 1 - Full-Stack",
-   "url": "https://americas-cookmedical.icims.com/jobs/20446/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Indianapolis, IN",
-    "West Lafayette, IN",
-    "Bloomington, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006182000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:36b570ad-1769-44fd-89ed-0db2028bc57b",
-   "company": "Keyfactor",
-   "title": "Associate Software Engineer",
-   "url": "https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794009062000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:ae0259f6-a081-4a42-8a14-c855b03e92f6",
-   "company": "Tesla",
-   "title": "Associate Data Engineer - Manufacturing Planning Systems - Semi",
-   "url": "https://www.tesla.com/careers/search/job/289265",
-   "locations": [
-    "Sparks, NV"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008881000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:bdb0207c-3202-40fe-b709-7747795a55f5",
-   "company": "Intel",
-   "title": "Software Performance Engineer",
-   "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983",
-   "locations": [
-    "Hillsboro, OR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008760000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:179b5a71-bced-4789-b7f0-7c3c7424214c",
-   "company": "Wells Fargo",
-   "title": "Software Engineer",
-   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/IRVING-TX/Software-Engineer_R-586193-1",
-   "locations": [
-    "Charlotte, NC",
-    "Irving, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008521000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
