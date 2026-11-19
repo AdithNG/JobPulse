@@ -1,6 +1,162 @@
 {
- "updatedAt": "2026-11-19T07:58:50.829Z",
+ "updatedAt": "2026-11-19T17:17:22.007Z",
  "jobs": [
+  {
+   "key": "simplify:98a47c6e-06dd-4d9d-95c5-02197443ddc8",
+   "company": "REI Systems",
+   "title": "Junior Associate Software Engineer - Java Full Stack",
+   "url": "https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Sterling, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795083343000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 19,
+   "matchedWords": [
+    "full stack",
+    "java"
+   ],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:eb20cf0f-e882-4371-8d02-39c616e9fd04",
+   "company": "Carnegie Mellon University",
+   "title": "AI Engineer Intern - Mission Innovation Lab",
+   "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795074697000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:07baff59-c50a-4fc1-b101-cdf0b86ff995",
+   "company": "Apple",
+   "title": "OS Software Engineer - Evaluation",
+   "url": "https://jobs.apple.com/en-us/details/200688625",
+   "locations": [
+    "Cupertino, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795079351000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:0cfbb61c-d1bc-419f-84c0-28ddb50ae557",
+   "company": "Medpace",
+   "title": "Shiny App Developer",
+   "url": "https://careers.medpace.com/jobs/12908?icims=1&lang=en-us",
+   "locations": [
+    "Irving, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795079529000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:2f26dbb7-f29f-4f57-bede-ddd673581370",
+   "company": "Super Micro Computer",
+   "title": "Software Engineer",
+   "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795080612000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:1443baaf-82fc-4773-8906-b4efefc773c9",
+   "company": "Huntington Ingalls Industries",
+   "title": "Software Engineer 1",
+   "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors",
+   "locations": [
+    "Newport News, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795100915000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:083e6445-1a17-4269-9f2f-106e6805b161",
+   "company": "Intelliforce-IT Solutions Group",
+   "title": "Junior Software Engineer - Prime",
+   "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795103642000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
+  {
+   "key": "simplify:3784cbeb-dad8-41ce-84ae-f3a2f77d09e2",
+   "company": "Journal Technologies",
+   "title": "Junior Data Integration Developer",
+   "url": "https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d",
+   "locations": [
+    "Remote in USA",
+    "Logan, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795103314000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795108640892
+  },
   {
    "key": "simplify:592bc9fb-3dbc-479f-806b-a75a99099e6a",
    "company": "Wyetech",
@@ -5627,160 +5783,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794008941000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:1a958480-016f-41ca-a1ad-fa20d33b115b",
-   "company": "Enovation Controls",
-   "title": "Embedded Machine Learning Engineer Intern",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257",
-   "locations": [
-    "Tulsa, OK"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008922000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:ae49066f-b98e-4bc7-acf8-9bcbfe54342e",
-   "company": "Enovation Controls",
-   "title": "Manufacturing Software Engineer Intern",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416",
-   "locations": [
-    "Tulsa, OK"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008923000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:0df6ecc9-530f-46d9-aa92-5271e6287412",
-   "company": "United Parcel Service",
-   "title": "Summer Engineer Intern",
-   "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---MIDDLEBURG-HEIGHTS-OHMID/XMLNAME-2027-Summer-Engineering-Intern---Cleveland-OH_R26039950",
-   "locations": [
-    "Middleburg Heights, OH"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008379000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:e7ce5c86-d8b9-4777-9fa8-da999bbec4d1",
-   "company": "T-Mobile",
-   "title": "Data Engineering Intern",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755",
-   "locations": [
-    "Frisco, TX",
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008354000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:cba0ad46-a125-46b1-83ce-70159c39feea",
-   "company": "T-Mobile",
-   "title": "Software Engineer Intern - HR Data Products",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008353000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:c4ebb5a6-905a-424b-ab32-d44fda5d3be0",
-   "company": "T-Mobile",
-   "title": "Data Engineer Intern",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
-   "locations": [
-    "Frisco, TX",
-    "Atlanta, GA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008355000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:54c5dcb8-10a5-4d05-9a07-2e45ee6b0a1c",
-   "company": "T-Mobile",
-   "title": "Software Engineer HR Data Products Intern",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008351000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:744eff9c-451a-4759-909e-8d912f801286",
-   "company": "T-Mobile",
-   "title": "AI Engineering Intern",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
-   "locations": [
-    "Bellevue, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008357000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
