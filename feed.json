@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-11-19T17:17:22.007Z",
+ "updatedAt": "2026-11-19T23:39:08.098Z",
  "jobs": [
+  {
+   "key": "simplify:b77f486a-2b51-4a28-aa1a-586e0eee73a6",
+   "company": "United Launch Alliance",
+   "title": "Ground Software Avionics & Infrastructure Engineer 1",
+   "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors",
+   "locations": [
+    "Centennial, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795130739000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 17,
+   "matchedWords": [
+    "infrastructure"
+   ],
+   "firstSeen": 1795131547284
+  },
+  {
+   "key": "simplify:ffd308ae-0047-4f00-9033-765b3021b684",
+   "company": "Ralliant",
+   "title": "Software Engineer Intern",
+   "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
+   "locations": [
+    "Beaverton, OR"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795129753000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795131547284
+  },
+  {
+   "key": "simplify:503772a8-8c8b-473a-b256-7c19df4fd35f",
+   "company": "Koch Industries",
+   "title": "Software Engineer - AI Agents",
+   "url": "https://koch.avature.net/en_US/careers/JobDetail/197657",
+   "locations": [
+    "Fremont, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795130648000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795131547284
+  },
+  {
+   "key": "simplify:cc764a4b-cb50-4162-afaa-5d5dcbc0a454",
+   "company": "MetaPhase",
+   "title": "Junior Forward Deployed Engineer",
+   "url": "https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&nl=1&fr=false",
+   "locations": [
+    "Reston, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795129754000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795131547284
+  },
+  {
+   "key": "simplify:af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1",
+   "company": "neurohire.ai",
+   "title": "Forward Deployed Engineer",
+   "url": "https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795129563000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795131547284
+  },
   {
    "key": "simplify:98a47c6e-06dd-4d9d-95c5-02197443ddc8",
    "company": "REI Systems",
@@ -5689,105 +5786,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1794036022980
-  },
-  {
-   "key": "simplify:ace4e9cd-7570-4e01-9270-0686dce912d3",
-   "company": "AbbVie",
-   "title": "Associate Engineer - Technology 1",
-   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016714871",
-   "locations": [
-    "North Chicago, IL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794017343000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794036022980
-  },
-  {
-   "key": "simplify:ffa2113a-b45f-49c0-afa2-03a8614f1c28",
-   "company": "Iowa State University",
-   "title": "Software Developer 1",
-   "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057",
-   "locations": [
-    "Ames, IA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794017299000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794036022980
-  },
-  {
-   "key": "simplify:e7b2cc70-862f-4045-bc00-627e408d80b1",
-   "company": "Amazon",
-   "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
-   "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
-   "locations": [
-    "Denver, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008702000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "aws"
-   ],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:58a39cbd-4604-4dae-9205-3b5ddd7f8b7a",
-   "company": "Chewy",
-   "title": "Software Engineer 1 - Full Stack - Promotions",
-   "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Boston-MA/Software-Engineer-I--Full-Stack--Promotions_R31442",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008573000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:8c8362c9-f137-4db2-bae1-421d4b24b60c",
-   "company": "Tesla",
-   "title": "Software Engineer Intern - SI Reinforcement Learning",
-   "url": "https://www.tesla.com/careers/search/job/289240",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "internship",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794008941000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
   }
  ]
 }
