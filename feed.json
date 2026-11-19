@@ -1,6 +1,181 @@
 {
- "updatedAt": "2026-11-18T18:25:58.936Z",
+ "updatedAt": "2026-11-19T00:41:38.322Z",
  "jobs": [
+  {
+   "key": "simplify:592bc9fb-3dbc-479f-806b-a75a99099e6a",
+   "company": "Wyetech",
+   "title": "Software Engineer 0 – Full Stack Development",
+   "url": "https://wyetech.applytojob.com/apply/orUQyoZnAb/SWE0Software-Engineer",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795046056000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:7e24a675-8376-493c-8560-693edc7937da",
+   "company": "AMERICAN SYSTEMS",
+   "title": "Java Developer 1",
+   "url": "https://careers-americansystems.icims.com/jobs/5620/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Lakewood, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795045729000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "java"
+   ],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:7766a454-005e-4e27-8359-8572fd17712f",
+   "company": "Truveta",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/truveta/jobs/6249810004",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795043288000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:3966d53c-f47c-411d-add7-e02180c0f986",
+   "company": "Anduril",
+   "title": "Business Systems Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007",
+   "locations": [
+    "Costa Mesa, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795045712000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:6af8c893-078d-4b0c-895a-7fe8105ba976",
+   "company": "CACI",
+   "title": "Software Engineer Skill Level 0",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/Software-Engineer-Skill-Level-0_323580",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1792760224000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
+   "company": "Zoox",
+   "title": "Contract Student Worker - Software Engineer - 40hrs/wk",
+   "url": "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29/apply",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795045863000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:b96379c9-c34a-4ef5-a898-e3414fe92d08",
+   "company": "Digital.ai",
+   "title": "Associate Software Engineer",
+   "url": "https://digitalai.bamboohr.com/careers/75/",
+   "locations": [
+    "Lafayette, IN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795045687000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:87235934-6062-4c59-ae25-377ea9397e49",
+   "company": "Boston Scientific",
+   "title": "Health AI Engineer 1 - Data Science & Business Intelligence",
+   "url": "https://bostonscientific.eightfold.ai/careers/job/563602813942507",
+   "locations": [
+    "Marlborough, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795045142000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
+  {
+   "key": "simplify:b65e240a-f399-4061-8610-406adb24d562",
+   "company": "CWILL",
+   "title": "AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+   "url": "https://apply.workable.com/cwill-us/j/1BC6285A3C/apply",
+   "locations": [
+    "Cary, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795044967000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795048897358
+  },
   {
    "key": "simplify:e40ead49-69ad-422a-8008-5929557e27a4",
    "company": "General Dynamics Information Technology",
@@ -5607,178 +5782,6 @@
    "sponsorship": "unknown",
    "posted": 1794008357000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:669e846d-6122-44e9-a9d6-d58d25ce61f0",
-   "company": "L.L.Bean",
-   "title": "Software Developer Intern",
-   "url": "https://llbean.wd1.myworkdayjobs.com/llbean_careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1",
-   "locations": [
-    "Freeport, ME"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794008162000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:ac1b1e21-ab83-4904-a0cf-7d1d4ff23c17",
-   "company": "Prosync",
-   "title": "Software Engineer 0/1",
-   "url": "https://apply.workable.com/prosync/j/6ECFBED6E7/apply",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794007738000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:697c6f79-8bfb-4200-ad97-2a31888e79c4",
-   "company": "Lawrence Livermore National Laboratory (LLNL)",
-   "title": "Super Intelligence Platform Integration Engineer",
-   "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713536",
-   "locations": [
-    "Livermore, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794007262000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:3e517d1a-fecb-4858-b219-c803f76ca6a3",
-   "company": "Elevation Autism Center",
-   "title": "Software Engineer - AI & Workflow Automation",
-   "url": "https://apply.workable.com/elevation-autism-center/j/B5CCC7D40B/apply",
-   "locations": [
-    "Alpharetta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006901000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:d148e038-69b0-4aaa-ab22-4b0f345b9a31",
-   "company": "L3Harris Technologies",
-   "title": "Associate Structural Engineer",
-   "url": "https://jobs.l3harris.com/job/Huntsville-Associate,-Structural-Engineer-AL-35806/1448644200/?ats=successfactors",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006761000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:0783a0fe-5fe2-49fc-a9aa-a4d3d540fda2",
-   "company": "CACI",
-   "title": "Data Engineering/Analytics Support",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Norco-CA-US/Data-Engineering-Analytics-Support_334800",
-   "locations": [
-    "Norco, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006363000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:e317b5ba-27f1-471c-9afe-7cec64d69a93",
-   "company": "Pendar Technologies",
-   "title": "Scientific Software Engineer - Algorithms",
-   "url": "https://job-boards.greenhouse.io/pendartechnologies/jobs/5475948008",
-   "locations": [
-    "Cambridge, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006604000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:206ba36a-050c-448b-b880-2b4c5ab214d4",
-   "company": "Charles Schwab",
-   "title": "Associate Software Engineer",
-   "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006363000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794014099751
-  },
-  {
-   "key": "simplify:6ec3eae2-325c-4d6b-9eed-6f8044285aa2",
-   "company": "Charles Schwab",
-   "title": "Junior Software Developer",
-   "url": "https://career-schwab.icims.com/jobs/129410/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Austin, TX",
-    "Omaha, NE"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794006545000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
