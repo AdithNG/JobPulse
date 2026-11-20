@@ -1,6 +1,63 @@
 {
- "updatedAt": "2026-11-20T13:20:41.168Z",
+ "updatedAt": "2026-11-20T21:23:37.869Z",
  "jobs": [
+  {
+   "key": "simplify:aebb523a-9619-4c64-9e37-32778713a349",
+   "company": "Symbotic",
+   "title": "Software Engineer Intern - Front-End",
+   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795188083000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795209816596
+  },
+  {
+   "key": "simplify:0465505f-4e77-4a73-ac70-00d3069cce3f",
+   "company": "USAN",
+   "title": "Application Developer New Grad",
+   "url": "https://usan.bamboohr.com/careers/204/",
+   "locations": [
+    "Norcross, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795187913000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795209816596
+  },
+  {
+   "key": "simplify:2624ed0f-9c5d-47c2-9cea-8e77199913ae",
+   "company": "Systems Planning and Analysis",
+   "title": "Junior Modeling and Simulation Engineer",
+   "url": "https://spa.jibeapply.com/jobs/23894?icims=1&lang=en-us",
+   "locations": [
+    "Alexandria, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795187549000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795209816596
+  },
   {
    "key": "simplify:d263736b-e32b-4826-90b6-26e21a6d1a7d",
    "company": "Melaleuca",
@@ -5728,63 +5785,6 @@
    "sponsorship": "unknown",
    "posted": 1794277623000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794282407272
-  },
-  {
-   "key": "simplify:ec753813-5b9a-4724-aa04-29e2d05da32a",
-   "company": "Intuitive Surgical",
-   "title": "Robotics and Controls Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000160747319",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794276838000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794282407272
-  },
-  {
-   "key": "simplify:55e6b934-6590-46a7-97c8-0304e24dd3bb",
-   "company": "REGENT",
-   "title": "Mission Software Engineering Intern",
-   "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true",
-   "locations": [
-    "North Kingstown, RI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794278883000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794282407272
-  },
-  {
-   "key": "simplify:7c4d202a-5223-4dae-849f-21fa7489315e",
-   "company": "Sur La Table",
-   "title": "Junior Software Engineer",
-   "url": "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794266463000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
