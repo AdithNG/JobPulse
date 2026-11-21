@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-11-21T10:17:50.812Z",
+ "updatedAt": "2026-11-21T17:39:47.530Z",
  "jobs": [
+  {
+   "key": "simplify:7da54211-7443-4a5b-86bd-e49ac0409028",
+   "company": "Cadence Design Systems",
+   "title": "Software Engineer Recent Grad - Verification IP Team",
+   "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795274661000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795282786643
+  },
+  {
+   "key": "simplify:7ad57a9d-6cf2-4dea-bbb4-f6ad41b8a491",
+   "company": "Walmart",
+   "title": "Software Engineer 3",
+   "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1",
+   "locations": [
+    "Seattle, WA",
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795274353000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795282786643
+  },
   {
    "key": "simplify:1dcb493b-6303-4588-bbca-137c506354f5",
    "company": "Affirm",
@@ -5750,44 +5789,6 @@
    "sponsorship": "unknown",
    "posted": 1794353430000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:6d65d71a-c89b-41ea-a76a-4d4f43b82d7e",
-   "company": "Cox Automotive",
-   "title": "Software Engineer 1",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623",
-   "locations": [
-    "Atlanta, GA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794353288000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:e8e17538-17f3-46fe-8263-c93de47d77c6",
-   "company": "Autodesk",
-   "title": "Software Engineer: AI & Fusion Engineering - Fusion Engineering",
-   "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1",
-   "locations": [
-    "Novi, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794353129000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
