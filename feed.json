@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-21T02:44:43.197Z",
+ "updatedAt": "2026-11-21T10:17:50.812Z",
  "jobs": [
+  {
+   "key": "simplify:1dcb493b-6303-4588-bbca-137c506354f5",
+   "company": "Affirm",
+   "title": "Software Engineer 1 - Backend - Streaming Infra",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795230067000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1795256269921
+  },
+  {
+   "key": "simplify:a8173e49-9529-464c-ac9f-d73516392948",
+   "company": "Toyota",
+   "title": "Software Engineer",
+   "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846",
+   "locations": [
+    "Plano, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795230003000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795256269921
+  },
+  {
+   "key": "simplify:63ecd76d-d1d6-46e9-a5eb-af36be00b584",
+   "company": "Fortive",
+   "title": "Associate, Data Analytics and Engineering Track",
+   "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10881",
+   "locations": [
+    "Irvine, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795254683000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795256269921
+  },
   {
    "key": "simplify:1ce6ada2-5aa1-4d38-be28-f8fe2df04845",
    "company": "Oracle",
@@ -5728,63 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794353129000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:b7555ee5-4405-47c9-b5e8-ea4c9e193ea4",
-   "company": "Techstra Solutions",
-   "title": "AI Engineer",
-   "url": "https://techstrasolutions.applytojob.com/apply/h0W1v7gpzI/AI-Engineer",
-   "locations": [
-    "Pittsburgh, PA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794353054000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:6fe89392-cf17-4fd2-b646-77333af410ca",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Algorithm Development Engineer",
-   "url": "https://careers.jhuapl.edu/jobs/60916?icims=1&lang=en-us",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794352982000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:90db78c6-5299-42af-be1e-45755a035943",
-   "company": "Amentum",
-   "title": "Junior Software Developer",
-   "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040",
-   "locations": [
-    "Dahlgren, VA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794352330000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
