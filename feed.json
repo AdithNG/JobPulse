@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-22T02:35:05.709Z",
+ "updatedAt": "2026-11-22T10:18:46.920Z",
  "jobs": [
+  {
+   "key": "simplify:d2c0911d-44b1-488a-9922-b20915d74f54",
+   "company": "Argonne National Laboratory",
+   "title": "Software Engineer",
+   "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698",
+   "locations": [
+    "Lemont, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795315504000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795342726118
+  },
   {
    "key": "simplify:54a2e01d-6edb-4b24-a780-7cb263d5acaf",
    "company": "Specialized",
@@ -5769,25 +5788,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1794354663000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:35f37b8f-3b5b-4241-9fde-20c63c78d431",
-   "company": "Echo Global Logistics",
-   "title": "Software Engineer Intern",
-   "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
-   "locations": [
-    "United States"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794354710000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
