@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-21T22:25:55.288Z",
+ "updatedAt": "2026-11-22T02:35:05.709Z",
  "jobs": [
+  {
+   "key": "simplify:54a2e01d-6edb-4b24-a780-7cb263d5acaf",
+   "company": "Specialized",
+   "title": "Early Career Data Engineer",
+   "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117",
+   "locations": [
+    "Morgan Hill, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795313889000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795314904264
+  },
   {
    "key": "simplify:b5c5b115-3401-43ce-ac29-ea46e184089f",
    "company": "Compassion International",
@@ -5769,25 +5788,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1794354710000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:dcbb1c0f-1df1-42a7-ba0e-89b77ba03af9",
-   "company": "JMP Statistical Discovery",
-   "title": "C++ Software Development Intern",
-   "url": "https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false",
-   "locations": [
-    "Cary, NC"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794354152000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
