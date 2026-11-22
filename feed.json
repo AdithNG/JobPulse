@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-22T10:18:46.920Z",
+ "updatedAt": "2026-11-22T17:56:08.924Z",
  "jobs": [
+  {
+   "key": "simplify:090826fc-fc8c-443f-8302-02afa9826799",
+   "company": "AMD",
+   "title": "BIOS Engineering Co-op",
+   "url": "https://careers.amd.com/jobs/90475?icims=1&lang=en-us",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Spring 2027",
+   "roleType": "co-op",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795344880000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795370168067
+  },
+  {
+   "key": "simplify:300a3078-84ab-4ba2-a881-d74186eb9064",
+   "company": "GrayMatter Robotics",
+   "title": "Forward Deployed Engineer",
+   "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795361941000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795370168067
+  },
   {
    "key": "simplify:d2c0911d-44b1-488a-9922-b20915d74f54",
    "company": "Argonne National Laboratory",
@@ -5750,44 +5788,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794352167000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:ea1d2e68-6b46-4d69-817a-c5ae496ba6d4",
-   "company": "General Motors",
-   "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034",
-   "locations": [
-    "Sunnyvale, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794352139000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:77f95303-20e3-473d-bd6e-a80db7329381",
-   "company": "Skydio",
-   "title": "Middleware Software Engineer Intern",
-   "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794354663000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
