@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-22T17:56:08.924Z",
+ "updatedAt": "2026-11-22T23:31:24.590Z",
  "jobs": [
+  {
+   "key": "simplify:c6805667-f7a7-4da9-b10c-bc3a3281ac5c",
+   "company": "GlobalFoundries",
+   "title": "Tapeout Biz Products & Engineering New Grad",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1794492382000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795390283727
+  },
   {
    "key": "simplify:090826fc-fc8c-443f-8302-02afa9826799",
    "company": "AMD",
@@ -5769,25 +5788,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1794352758000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:4c145819-bb1c-4c66-835e-7b64fa52594a",
-   "company": "SharkNinja",
-   "title": "Product Test Engineering Co-op",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726209006",
-   "locations": [
-    "Needham, MA"
-   ],
-   "term": "Spring 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794352167000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
