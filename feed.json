@@ -1,6 +1,65 @@
 {
- "updatedAt": "2026-11-22T23:31:24.590Z",
+ "updatedAt": "2026-11-23T03:58:30.463Z",
  "jobs": [
+  {
+   "key": "simplify:955f9057-3b81-448d-8411-92be965c2e8a",
+   "company": "Sierra Space",
+   "title": "Software Engineering Intern - Software Engineering",
+   "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
+   "locations": [
+    "Madison, WI",
+    "Centennial, CO",
+    "Durham, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795399640000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795406309185
+  },
+  {
+   "key": "simplify:f1ba0289-d24f-4662-94ca-892ed2c86b56",
+   "company": "Calyx Containers",
+   "title": "Junior Software Developer - Print & Packaging",
+   "url": "https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging",
+   "locations": [
+    "West Valley City, UT"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795390022000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795406309185
+  },
+  {
+   "key": "simplify:021f015b-b917-463c-b8e2-3be7537190e8",
+   "company": "DraftKings",
+   "title": "Associate Data Engineer",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Associate-Data-Engineer_JR15400",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795392027000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795406309185
+  },
   {
    "key": "simplify:c6805667-f7a7-4da9-b10c-bc3a3281ac5c",
    "company": "GlobalFoundries",
@@ -5731,63 +5790,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1794353054000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:3dd2c951-2883-4af9-bb11-1099a176d735",
-   "company": "McDonald's",
-   "title": "Software Development Engineer Intern",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794352863000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:a34749cb-1425-494f-8acb-09f66135961e",
-   "company": "McDonald's",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794352936000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:ec960685-32ba-4b85-a1ed-2584192d31aa",
-   "company": "GlobalFoundries",
-   "title": "Systems Engineer Intern",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045",
-   "locations": [
-    "Richardson, TX"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794352758000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
