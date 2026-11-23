@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-23T03:58:30.463Z",
+ "updatedAt": "2026-11-23T14:25:09.784Z",
  "jobs": [
+  {
+   "key": "simplify:0806705f-44b1-4c91-a264-9d64f360e6b8",
+   "company": "Lattice Semiconductor",
+   "title": "Junior BMC Firmware Engineer",
+   "url": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309",
+   "locations": [
+    "Duluth, GA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795417921000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795443908807
+  },
   {
    "key": "simplify:955f9057-3b81-448d-8411-92be965c2e8a",
    "company": "Sierra Space",
@@ -5771,25 +5790,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794353130000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794356074134
-  },
-  {
-   "key": "simplify:8d781ddc-c921-4453-97e0-fa7e1cacf002",
-   "company": "Jabil",
-   "title": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054",
-   "locations": [
-    "St. Petersburg, FL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794353054000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
