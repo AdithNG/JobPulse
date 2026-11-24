@@ -1,6 +1,333 @@
 {
- "updatedAt": "2026-11-24T01:51:05.909Z",
+ "updatedAt": "2026-11-24T11:55:28.273Z",
  "jobs": [
+  {
+   "key": "simplify:a87676d0-1e21-4807-9d97-fa492a9143c8",
+   "company": "CarGurus",
+   "title": "Software Engineer Intern - Full Stack",
+   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795519123000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:98d9b14e-853a-429a-9a9a-6a691a2e503b",
+   "company": "Illumio",
+   "title": "Security Platforms Engineer Intern - Security Platforms",
+   "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795488144000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:5bd02a56-3f5c-4870-94a4-f361d51200c9",
+   "company": "Illumio",
+   "title": "Engineering Intern - Architecture Platform",
+   "url": "https://jobs.ashbyhq.com/illumio/a211377c-7db7-4c62-97ba-8176c5a61293/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795488129000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:e56c16ed-c43f-4794-87be-c60acdfe34c2",
+   "company": "Veolia",
+   "title": "Manufacturing Software Engineer Intern",
+   "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969",
+   "locations": [
+    "Boulder, CO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795504148000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:c6fcfa7b-64c5-438b-b327-e3f5af651cac",
+   "company": "Esri",
+   "title": "GIS Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217904007",
+   "locations": [
+    "Redlands, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795506914000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:29a084d4-fdf6-4ef2-b926-16e740b71190",
+   "company": "Esri",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286753007",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795506905000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:3d67817e-0fda-4e2d-a390-58eb5f728d03",
+   "company": "Esri",
+   "title": "Software Development Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217883007",
+   "locations": [
+    "Redlands, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795506899000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:b730a995-0701-41d5-84f5-aa52b4735693",
+   "company": "CarGurus",
+   "title": "Data Governance Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795519089000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:a6e5ed37-0eb9-42d7-9d15-0448e72fb148",
+   "company": "CarGurus",
+   "title": "Data Analytics Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795519089000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:9966d0c4-2f1f-41c0-b665-32e7860ef0e3",
+   "company": "CarGurus",
+   "title": "Data Platform Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795519089000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:4652d869-e739-4f9b-b01e-bfb28992cd97",
+   "company": "CarGurus",
+   "title": "Software Development Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795519089000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:0b03f09e-f8ed-4344-8984-f9e750cc2440",
+   "company": "Microsoft",
+   "title": "Software Engineer-Securing AI",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795488879000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:96d5032c-7603-4116-af57-e676879a678e",
+   "company": "X Development",
+   "title": "AI/ML Engineer & Applied Researcher - Early Stage Projects",
+   "url": "https://x.company/careers/8959513002?gh_jid=8959513002",
+   "locations": [
+    "Mountain View, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795488669000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:2324a810-93c9-490d-bf45-95f28f9dda1f",
+   "company": "Datalab USA",
+   "title": "Production Programmer – Entry Level SQL Developer",
+   "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
+   "locations": [
+    "Germantown, MD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795506842000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:63544628-eb67-4de6-ba3c-597d09cbf355",
+   "company": "Serko",
+   "title": "Software Engineer 1",
+   "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795505762000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:20ddf038-1fb9-4dd1-8fea-ff90c3309e1c",
+   "company": "Schneider Electric",
+   "title": "Engineer I - Software",
+   "url": "https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us",
+   "locations": [
+    "Westmont, IL",
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795507212000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
+  {
+   "key": "simplify:554f65c8-7189-448f-98c8-ddc4539f0066",
+   "company": "DMC Engineering",
+   "title": "Entry Level Software Engineer",
+   "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008",
+   "locations": [
+    "Seattle, WA",
+    "Chicago, IL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795516021000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795521327010
+  },
   {
    "key": "simplify:f4ef9827-4f9e-4b9b-8359-e2c86ae192c9",
    "company": "Lifeway",
@@ -5470,331 +5797,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:3dfa0fc8-0607-42b8-b7e9-8d05ad28e891",
-   "company": "PTC",
-   "title": "Creo Graphics Engineering Intern",
-   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970",
-   "locations": [
-    "Boston, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794439982000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:7e6b380e-ef69-43cd-a4de-89c7773ae701",
-   "company": "Riot Games",
-   "title": "Machine Learning Engineer Intern",
-   "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794439858000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:24b5352c-b4e7-4b78-9606-93d0612f5dba",
-   "company": "Rubrik",
-   "title": "Software Engineer - Virtual Platform",
-   "url": "https://www.rubrik.com/company/careers/departments/job.8351288?gh_jid=8351288",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794439441000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:f2780a21-a21c-43d2-97ce-2c496ab82c90",
-   "company": "Bask Health",
-   "title": "Software Engineer",
-   "url": "https://apply.workable.com/bask-health-1/j/3AC4353728/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438661000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:7c1b04da-848d-41e2-a4a0-f31fa0dac003",
-   "company": "Bask Health",
-   "title": "Junior Product Engineer - Interactive Experiences",
-   "url": "https://apply.workable.com/bask-health-1/j/7B69E15EFA/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438548000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:1fe26744-2400-47ae-b1f3-2a14bde6b7f8",
-   "company": "Bask Health",
-   "title": "Product Engineer New Grad",
-   "url": "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438665000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:31b75627-f15f-4daf-9210-cdf8faf6d7b6",
-   "company": "Symbotic",
-   "title": "Robotics Software Engineer New Grad",
-   "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
-   "locations": [
-    "Wilmington, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438778000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:617aa92a-141d-4ff8-b0b2-c8c28019e164",
-   "company": "Self Financial",
-   "title": "Associate Software Engineer",
-   "url": "https://job-boards.greenhouse.io/selffinancial/jobs/6255478004",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438362000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:5b83878d-7d81-44e4-89ea-10b040471cb7",
-   "company": "Microsoft",
-   "title": "Software Development Engineer",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794441102000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:56be81ef-fbd1-4642-a0ad-c830b36a8e70",
-   "company": "Zensar",
-   "title": "Graduate Software Engineer - AI Platform Development - AI",
-   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153878",
-   "locations": [
-    "San Jose, CA",
-    "Jersey City, NJ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794440556000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:c189aa66-c9c8-469f-ba67-3b1adf8bebc9",
-   "company": "Zensar",
-   "title": "Graduate Software Engineer - AI Platform Development",
-   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873",
-   "locations": [
-    "San Jose, CA",
-    "Ann Arbor, MI"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794440545000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:356907c3-9720-4359-ab11-6d64deb43267",
-   "company": "Zensar",
-   "title": "Graduate Software Engineer - AI",
-   "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794440545000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:5661c34a-0210-43e8-97dd-734c341fa13c",
-   "company": "CDK Global",
-   "title": "Associate Software Engineer",
-   "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794439801000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:53475e58-fd4c-4b93-8e66-c2362b252a3d",
-   "company": "Avante",
-   "title": "Product Engineer - Agent Experience",
-   "url": "https://job-boards.greenhouse.io/avante/jobs/4502314009",
-   "locations": [
-    "Seattle, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794439801000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "gh:brex:8936403002",
-   "company": "Brex",
-   "title": "Software Engineer, Intern  (Summer 2027)",
-   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-   "locations": [
-    "San Francisco, California, United States"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794414459000,
-   "source": "Brex careers (greenhouse)",
-   "fromAtsBoard": true,
-   "score": 30,
-   "matchedWords": [],
-   "firstSeen": 1794432993789
-  },
-  {
-   "key": "simplify:1d01d27b-150d-4d65-b8f7-8790841f3d77",
-   "company": "Ribbon",
-   "title": "AI Engineer Co-op",
-   "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/USA-MA-Westford/AI-Engineer--Co-Op_REQ-2026-3083",
-   "locations": [
-    "Westford, MA"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794411934000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794432993789
-  },
-  {
-   "key": "simplify:1712cac2-b710-4c41-a381-3eb6e3155972",
-   "company": "SharkNinja",
-   "title": "Forward Deployed Engineer - Entry Level - THE FIN",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006",
-   "locations": [
-    "Needham, MA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794410854000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794432993789
   }
  ]
 }
