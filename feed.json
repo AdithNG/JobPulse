@@ -1,6 +1,121 @@
 {
- "updatedAt": "2026-11-24T11:55:28.273Z",
+ "updatedAt": "2026-11-24T22:17:13.214Z",
  "jobs": [
+  {
+   "key": "simplify:637771ab-fcba-4414-9c25-99bfe21fa777",
+   "company": "RF-SMART",
+   "title": "Software Developer Intern",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
+   "locations": [
+    "Highlands Ranch, CO",
+    "Jacksonville, FL"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795536197000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795558632157
+  },
+  {
+   "key": "simplify:5c11634c-c341-460d-aba4-a17d702ed50a",
+   "company": "Dakota Kitchen & Bath",
+   "title": "Visual Basic Developer & Systems Support Specialist",
+   "url": "https://dakotakitchen.bamboohr.com/careers/215/",
+   "locations": [
+    "Sioux Falls, SD"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795533715000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795558632157
+  },
+  {
+   "key": "simplify:20d5b7ca-5a34-4745-8405-ad5dbcbaa07b",
+   "company": "Peraton",
+   "title": "Software Engineering - Ignite Innovator Pgm",
+   "url": "https://careers-peraton.icims.com/jobs/177377/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Blacksburg, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795533307000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795558632157
+  },
+  {
+   "key": "simplify:d78eb9fa-a618-4d48-978e-3a1aa5ea275d",
+   "company": "JP Morgan Chase",
+   "title": "Software Engineer 1 - Multiple Teams",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021",
+   "locations": [
+    "Newark, DE"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795535679000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795558632157
+  },
+  {
+   "key": "simplify:abf26402-60f0-4129-a75c-24adec9f205b",
+   "company": "Howmet Aerospace",
+   "title": "AI Engineer",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703",
+   "locations": [
+    "Pittsburgh, PA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795535287000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795558632157
+  },
+  {
+   "key": "simplify:81c02098-fabd-4911-9699-cabf8accf9c1",
+   "company": "Peraton",
+   "title": "Software Engineer - Ignite Innovator Pgm",
+   "url": "https://peraton.jibeapply.com/jobs/177377?icims=1&lang=en-us",
+   "locations": [
+    "Blacksburg, VA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795534251000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795558632157
+  },
   {
    "key": "simplify:a87676d0-1e21-4807-9d97-fa492a9143c8",
    "company": "CarGurus",
@@ -5680,122 +5795,6 @@
    "matchedWords": [
     "full stack"
    ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:2f68ce38-b4fc-4642-bec3-0c5a415bdba9",
-   "company": "Allegion",
-   "title": "Full Stack Software Engineer",
-   "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Full-Stack-Software-Engineer_JR38204",
-   "locations": [
-    "Carmel, IN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794440346000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:74a583d1-c612-4fb8-85a5-e8ff9a522b4b",
-   "company": "RTX",
-   "title": "Aftermarket & Sustainment Engineering Methods Engineering Intern",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Aftermarket---Sustainment-Engineering-Methods-Engineering-Intern--Summer-2027--Onsite-_01887864",
-   "locations": [
-    "East Hartford, CT"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794439441000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:54a75919-6e10-4a6a-8257-af5ebf85bf60",
-   "company": "NBCUniversal",
-   "title": "Software Engineer Intern",
-   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529",
-   "locations": [
-    "Universal City, LA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794439292000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:75d366bf-5880-4150-a26d-0d7a84514288",
-   "company": "Formlabs",
-   "title": "Manufacturing Test Software Intern - Manufacturing",
-   "url": "https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598",
-   "locations": [
-    "Somerville, MA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794438768000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:6148ec5d-dd2a-47df-9649-33d31c25173a",
-   "company": "State of Wisconsin Investment Board",
-   "title": "Data Analytics Engineering Intern",
-   "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330",
-   "locations": [
-    "Madison, WI"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794441243000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
-   "company": "Shield AI",
-   "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
-   "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794440910000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
    "firstSeen": 1794450690703
   }
  ]
