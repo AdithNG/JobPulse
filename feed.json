@@ -1,6 +1,163 @@
 {
- "updatedAt": "2026-11-25T15:26:36.056Z",
+ "updatedAt": "2026-11-25T23:44:58.403Z",
  "jobs": [
+  {
+   "key": "gh:coinbase:8415869",
+   "company": "Coinbase",
+   "title": "Security Engineer Intern",
+   "url": "https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869",
+   "locations": [
+    "Hybrid - New York, NY"
+   ],
+   "term": "Fall 2026",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795642999000,
+   "source": "Coinbase careers (greenhouse)",
+   "fromAtsBoard": true,
+   "score": 30,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:7dd43831-e7c5-4a2c-8a46-8163de373bf1",
+   "company": "Staples",
+   "title": "Full Stack Software Engineer Intern",
+   "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77145",
+   "locations": [
+    "Austin, TX"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795648868000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 14,
+   "matchedWords": [
+    "full stack"
+   ],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:907ac2b0-1ba3-4cc3-bce0-e61334c9d123",
+   "company": "ManTech",
+   "title": "C++ Developer Intern",
+   "url": "https://mantech.avature.net/en_US/careers/JobDetail/67268",
+   "locations": [
+    "Lexington Park, MD"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795649047000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:e3e053b8-8e7b-4690-9875-c136637ed047",
+   "company": "Tesla",
+   "title": "Robotics Audio DSP Engineer Intern",
+   "url": "https://www.tesla.com/careers/search/job/291227",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795648909000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:7b405193-1043-4b1d-81b4-45ecafc82cc5",
+   "company": "Sonos",
+   "title": "Junior Software Development Engineer - Web",
+   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912",
+   "locations": [
+    "Boston, MA",
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795649222000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:73abdb25-d3db-4ec4-8ebd-2716bebe3cae",
+   "company": "Vestwell",
+   "title": "Associate Software Engineer",
+   "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209363003",
+   "locations": [
+    "King of Prussia, PA",
+    "Austin, TX",
+    "Scottsdale, AZ"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795649074000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:6237ff2d-7436-4949-9292-43ad6ca97359",
+   "company": "Parallel Web Systems",
+   "title": "Early Career Software Engineer - Developer Experience",
+   "url": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795648683000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
+  {
+   "key": "simplify:3b02378c-9648-415b-b534-23055904c610",
+   "company": "Bluesight",
+   "title": "Data Engineer",
+   "url": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795647964000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795650297442
+  },
   {
    "key": "simplify:b4da1054-8bb0-4994-ab28-a7d8190f5116",
    "company": "TikTok",
@@ -5637,158 +5794,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:9fa2eb47-a66a-4b1a-8312-5931c405f743",
-   "company": "CDK Global",
-   "title": "Associate Database Engineer",
-   "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386",
-   "locations": [
-    "Austin, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794498302000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:d0ffdbce-6964-4f14-9040-25a5e9369505",
-   "company": "Johns Hopkins Applied Physics Laboratory",
-   "title": "Mission Modeling, Simulation & Software Engineer New Grad",
-   "url": "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us",
-   "locations": [
-    "Laurel, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794497802000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:7be3b067-334e-4e71-9af4-fa7933195bdb",
-   "company": "TikTok",
-   "title": "Software Engineer Intern - TikTok Search",
-   "url": "https://lifeattiktok.com/search/7704696088079010053",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794470239000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:97debd91-4d82-4379-9fee-dbaa7c8a5518",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - Platform Security",
-   "url": "https://careers.nintendo.com/?gh_jid=4469778009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468848000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:e4f1039d-3d07-49fc-b6d7-d5140173ca23",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - CPU Profiler",
-   "url": "https://careers.nintendo.com/?gh_jid=4469762009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468834000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:bc1f458c-6db2-45dd-a119-b249ad9fb181",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - Performance Tools",
-   "url": "https://careers.nintendo.com/?gh_jid=4473568009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468830000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:4d0ce369-45ff-46bb-96d8-544aba88d73a",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - Connectivity",
-   "url": "https://careers.nintendo.com/?gh_jid=4472147009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468832000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:0901e982-38db-4dc3-b6ad-ce0fc2debca2",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - Audio",
-   "url": "https://careers.nintendo.com/?gh_jid=4470048009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468831000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
   }
  ]
 }
