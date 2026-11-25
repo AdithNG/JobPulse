@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-11-25T04:56:36.358Z",
+ "updatedAt": "2026-11-25T15:26:36.056Z",
  "jobs": [
+  {
+   "key": "simplify:b4da1054-8bb0-4994-ab28-a7d8190f5116",
+   "company": "TikTok",
+   "title": "Backend Software Engineer - Data Lifecycle Management",
+   "url": "https://lifeattiktok.com/search/7710030288165996805",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795590901000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 21,
+   "matchedWords": [
+    "backend"
+   ],
+   "firstSeen": 1795620395233
+  },
+  {
+   "key": "simplify:ec63f9af-9d7b-4d83-859f-b199f9f3c0ac",
+   "company": "Appodeal",
+   "title": "Junior Software Engineer",
+   "url": "https://job-boards.greenhouse.io/appodeal/jobs/4918549008",
+   "locations": [
+    "Parkland, FL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795603692000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795620395233
+  },
   {
    "key": "simplify:dae50b6f-3c3c-4e59-bfb9-a823062c400b",
    "company": "Amazon",
@@ -5744,44 +5784,6 @@
    "stretch": true,
    "sponsorship": "unknown",
    "posted": 1794468831000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:5c7ed4c4-55c6-460d-bf59-c0861c2ae55a",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - Graphics",
-   "url": "https://careers.nintendo.com/?gh_jid=4473550009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468830000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:1c6d1a76-8aaa-45c0-aed9-3c1dee238b16",
-   "company": "Nintendo",
-   "title": "Software Engineer Intern - CPU Debugger - NTD",
-   "url": "https://careers.nintendo.com/?gh_jid=4471972009",
-   "locations": [
-    "Redmond, WA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794468834000,
    "source": "SimplifyJobs internships",
    "fromAtsBoard": false,
    "score": 0,
