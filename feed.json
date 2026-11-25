@@ -1,6 +1,237 @@
 {
- "updatedAt": "2026-11-24T22:17:13.214Z",
+ "updatedAt": "2026-11-25T04:56:36.358Z",
  "jobs": [
+  {
+   "key": "simplify:dae50b6f-3c3c-4e59-bfb9-a823062c400b",
+   "company": "Amazon",
+   "title": "Front-End Engineer Intern",
+   "url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+   "locations": [
+    "Seattle, WA",
+    "Chicago, IL",
+    "Bellevue, WA"
+   ],
+   "term": "Winter 2027",
+   "roleType": "internship",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795561775000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:b83dd5ca-0ff8-4558-a2ff-f5535e54b006",
+   "company": "Bandwidth",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414452",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795575425000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:79b96a28-9ba5-4dd5-8ed0-ff6e276f0752",
+   "company": "SambaNova Systems",
+   "title": "Runtime Engineer Intern",
+   "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6270727004",
+   "locations": [
+    "Austin, TX",
+    "San Jose, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795575068000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5",
+   "company": "Rubrik",
+   "title": "Software Engineer - Data Protection",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795562462000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:08ed91de-26c8-449f-a4b1-c48f2f815636",
+   "company": "Eide Bailly",
+   "title": "AI Engineer",
+   "url": "https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795562462000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:16c2d7a3-1fe5-4717-afa8-6f92a77428c4",
+   "company": "Amazon",
+   "title": "Front-End Engineer",
+   "url": "https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us",
+   "locations": [
+    "Seattle, WA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795561569000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:2565567e-75a7-4ed1-9ff8-0a0d63006997",
+   "company": "Dell Technologies",
+   "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
+   "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+   "locations": [
+    "Hopkinton, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795567880000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:dcfd7381-287a-4da3-80dd-921874660ecc",
+   "company": "Oracle",
+   "title": "Systems Engineer 1",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415",
+   "locations": [
+    "Kansas City, MO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795569856000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:d9f3f34d-35aa-4d1f-833f-71728fed4a1d",
+   "company": "Veeva Systems",
+   "title": "Associate Software Engineer New Grad",
+   "url": "https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply",
+   "locations": [
+    "Raleigh, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795569777000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:2c8b5a58-c9ab-4efb-be82-8047d25e6570",
+   "company": "Beyond New Horizons",
+   "title": "ID&C Software Engineer",
+   "url": "https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false",
+   "locations": [
+    "Tullahoma, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795569776000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:8897b0b8-300d-49d6-ae33-16dbce5038e7",
+   "company": "Deloitte",
+   "title": "Software Engineer",
+   "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512",
+   "locations": [
+    "Hermitage, Nashville, TN"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795569455000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
+  {
+   "key": "simplify:d1793677-6679-4021-a52b-75b87bbb2676",
+   "company": "Metropolitan Transportation Authority",
+   "title": "Application Developer Analyst Levels 1–2",
+   "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false",
+   "locations": [
+    "Jamaica, Queens, NY"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795570574000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795582594484
+  },
   {
    "key": "simplify:637771ab-fcba-4414-9c25-99bfe21fa777",
    "company": "RF-SMART",
@@ -5556,246 +5787,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:8317de49-cf07-44e3-9ff1-0de4a824662a",
-   "company": "Shield AI",
-   "title": "Engineer 2 New Grad - Software - Perception",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
-   "locations": [
-    "United States"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794450258000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:313bd68b-d18b-43ab-b3df-d8486aeb24ba",
-   "company": "ViaSat",
-   "title": "Associate Software Engineer",
-   "url": "https://careers.viasat.com/jobs/7147?icims=1&lang=en-us",
-   "locations": [
-    "Carlsbad, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794449361000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:ca8d4e99-7c1a-43f6-9730-cb0083351686",
-   "company": "Bask Health",
-   "title": "Frontend Engineer New Grad",
-   "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794467560000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c",
-   "company": "Bask Health",
-   "title": "Junior Design Engineer",
-   "url": "https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794467529000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:9e5f2a4a-9ce5-441d-bb41-8f11f28a4fb8",
-   "company": "Markon",
-   "title": "Software Engineer 0",
-   "url": "https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us",
-   "locations": [
-    "Fort Meade, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794468651000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:6d58d484-4f54-48a9-bf20-be2c64214b60",
-   "company": "Markon",
-   "title": "Software Engineer Level 0",
-   "url": "https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794468605000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794478421287
-  },
-  {
-   "key": "simplify:c23aab68-23dc-4a16-8eb3-ccc62a259ab3",
-   "company": "Bask Health",
-   "title": "Backend Engineer New Grad",
-   "url": "https://apply.workable.com/bask-health-1/j/472CF47F60/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438663000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 21,
-   "matchedWords": [
-    "backend"
-   ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:42c18703-03b0-4206-9280-c89c414cffec",
-   "company": "Amazon",
-   "title": "Software Development Engineer 1 - Inference models optimization - AWS Neuron Inference",
-   "url": "https://amazon.jobs/en/jobs/10598223/software-development-engineer-i-inference-models-optimization-aws-neuron-inference",
-   "locations": [
-    "Cupertino, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438590000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 19,
-   "matchedWords": [
-    "aws"
-   ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:1982a165-a74a-476f-8ebb-5136a38d056d",
-   "company": "McDonald's",
-   "title": "Global Tech Infrastructure & Operations Intern",
-   "url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794439622000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 17,
-   "matchedWords": [
-    "infrastructure"
-   ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:958aaf69-42ec-4bd2-8555-d96382f1c021",
-   "company": "Jamf",
-   "title": "Associate Software Engineer - Full Stack",
-   "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438917000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:74d82beb-3517-4872-9c8b-d941ed96a360",
-   "company": "Bask Health",
-   "title": "Junior Full Stack Engineer",
-   "url": "https://apply.workable.com/bask-health-1/j/DFC51193B4/apply",
-   "locations": [
-    "Remote in USA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438548000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1794450690703
-  },
-  {
-   "key": "simplify:68002698-5ce5-4c71-9985-6f8eead487a9",
-   "company": "Pacific Northwest National Laboratory",
-   "title": "Post-Bachelor Research Associate - Full Stack Product",
-   "url": "https://careers.pnnl.gov/jobs/13649?icims=1&lang=en-us",
-   "locations": [
-    "Richland, WA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794438600000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1794450690703
   }
  ]
 }
