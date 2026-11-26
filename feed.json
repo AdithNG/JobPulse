@@ -1,6 +1,44 @@
 {
- "updatedAt": "2026-11-26T05:31:36.532Z",
+ "updatedAt": "2026-11-26T15:43:19.804Z",
  "jobs": [
+  {
+   "key": "simplify:f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
+   "company": "Cisco",
+   "title": "Software Engineer",
+   "url": "https://careers.cisco.com/global/en/job/2030715",
+   "locations": [
+    "Research Triangle Park, Durham, NC"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795679821000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795707798705
+  },
+  {
+   "key": "simplify:ab501bad-862f-4f37-963c-78590ba637c1",
+   "company": "K1",
+   "title": "AI Engineer",
+   "url": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+   "locations": [
+    "Manhattan Beach, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795689361000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795707798705
+  },
   {
    "key": "simplify:f99113e1-f288-4983-b8bd-49e4b32664be",
    "company": "Total Quality Logistics",
@@ -5754,46 +5792,6 @@
    "score": 0,
    "matchedWords": [],
    "firstSeen": 1794527361149
-  },
-  {
-   "key": "simplify:c954619f-edf2-43f7-88e7-7dd114fbd845",
-   "company": "Greystone",
-   "title": "Full Stack Engineer Intern",
-   "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145",
-   "locations": [
-    "Warrenton, VA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794495973000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 14,
-   "matchedWords": [
-    "full stack"
-   ],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:146e2884-2956-4a84-9f53-3abbc462c608",
-   "company": "Bracco",
-   "title": "Software Engineer Intern/Co-op - R&D Sustaining",
-   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327",
-   "locations": [
-    "Eden Prairie, MN"
-   ],
-   "term": "Winter 2027",
-   "roleType": "co-op",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794496114000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
   }
  ]
 }
