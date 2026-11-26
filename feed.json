@@ -1,6 +1,158 @@
 {
- "updatedAt": "2026-11-25T23:44:58.403Z",
+ "updatedAt": "2026-11-26T05:31:36.532Z",
  "jobs": [
+  {
+   "key": "simplify:f99113e1-f288-4983-b8bd-49e4b32664be",
+   "company": "Total Quality Logistics",
+   "title": "Software Development Intern",
+   "url": "https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19763",
+   "locations": [
+    "Cincinnati, OH"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795650488000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:9fed7089-fee2-42d5-9fda-8831aeb4c8ec",
+   "company": "Veeva Systems",
+   "title": "Software Engineer Intern",
+   "url": "https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7/apply",
+   "locations": [
+    "Pleasanton, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795649797000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:c4e37c25-c2af-42ad-a27a-13daa426ddf8",
+   "company": "OpenSesame",
+   "title": "Software Engineer Intern",
+   "url": "https://boards.greenhouse.io/opensesame/jobs/8418272",
+   "locations": [
+    "Remote in USA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795659323000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:5d0adbaf-c34b-4c5b-bcb0-cab03a0c3297",
+   "company": "XPENG Motors",
+   "title": "Software Engineer New Grad - Computing Platform",
+   "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795650161000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:013f8721-91a6-47be-9dcb-e03f3ed37b9c",
+   "company": "Ayo Semiconductor",
+   "title": "Machine Learning Engineer",
+   "url": "https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true",
+   "locations": [
+    "Boston, MA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795649407000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:eb6c7eef-df83-46b0-a229-541b0fc0f578",
+   "company": "Visa",
+   "title": "Software Engineer - Agentic Developer",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W",
+   "locations": [
+    "Denver, CO"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795653207000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:ce4b0306-3a42-44c1-8789-44f4d7ba9f45",
+   "company": "Scout AI",
+   "title": "AI Engineer New Grad - AI/ML and Agent Harnessing",
+   "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795661857000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
+  {
+   "key": "simplify:9c007171-49c7-45fe-ae89-8fbe69996d96",
+   "company": "Scout AI",
+   "title": "Software Engineer New Grad - Core Systems",
+   "url": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true",
+   "locations": [
+    "Sunnyvale, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795661853000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795671095466
+  },
   {
    "key": "gh:coinbase:8415869",
    "company": "Coinbase",
@@ -5638,158 +5790,6 @@
    "sponsorship": "unknown",
    "posted": 1794496114000,
    "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:38ce67af-7cd9-46cd-86b7-8f0fce858a9d",
-   "company": "Illinois Tool Works",
-   "title": "Software Engineer Intern - Application Software",
-   "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Summer-2027-Software-Engineer-Intern--Application-Software-_JR10491-1",
-   "locations": [
-    "Eden Prairie, MN"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794498173000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:14085e38-d7e6-4dde-89a8-5714d59445d5",
-   "company": "Illinois Tool Works",
-   "title": "Software Engineer Intern",
-   "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261",
-   "locations": [
-    "United States"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794498176000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:c2d94f4d-4b20-4555-839d-59bfaea7bcd8",
-   "company": "Chatham Financial",
-   "title": "Software Engineer Intern",
-   "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
-   "locations": [
-    "Kennett Square, PA"
-   ],
-   "term": "Summer 2027",
-   "roleType": "internship",
-   "stretch": true,
-   "sponsorship": "unknown",
-   "posted": 1794497611000,
-   "source": "SimplifyJobs internships",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:dcd493ac-2ca5-4ee6-9b28-1e1c02169ed1",
-   "company": "Varsity Brands",
-   "title": "Software Engineer 1",
-   "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1",
-   "locations": [
-    "Farmers Branch, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794496150000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:17249684-d715-4da1-a2a9-2634530b3889",
-   "company": "Sierra Nevada Corporation",
-   "title": "Software Engineer 1",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
-   "locations": [
-    "Lone Tree, CO"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794496146000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:47420edd-5afc-4a9e-a8f6-b320be382c2c",
-   "company": "Nextpower",
-   "title": "Forward Deployed Engineer - AI",
-   "url": "https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260",
-   "locations": [
-    "Fremont, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794495973000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:72998fbc-3a95-4d6b-a032-1fb07c109862",
-   "company": "Dillards",
-   "title": "COBOL Developer",
-   "url": "https://job-boards.greenhouse.io/dillards/jobs/5293318007",
-   "locations": [
-    "Little Rock, AR"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794498886000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794507970941
-  },
-  {
-   "key": "simplify:ee214fdd-2517-47e8-b43d-07651288dc9a",
-   "company": "Illinois Tool Works",
-   "title": "Software Engineer",
-   "url": "https://itw.wd5.myworkdayjobs.com/external/job/Rogers---55374/Software-Engineer_JR8874-1",
-   "locations": [
-    "Rogers, MN"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794498302000,
-   "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
    "matchedWords": [],
