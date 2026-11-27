@@ -1,6 +1,25 @@
 {
- "updatedAt": "2026-11-27T08:29:08.089Z",
+ "updatedAt": "2026-11-27T18:25:00.694Z",
  "jobs": [
+  {
+   "key": "simplify:0acee63a-793e-447f-9a73-89f32ed4241f",
+   "company": "Torch Technologies",
+   "title": "Entry-Level Software Engineer",
+   "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795766592000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795803899738
+  },
   {
    "key": "simplify:fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
    "company": "Atoms",
@@ -5768,25 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794525302000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794527361149
-  },
-  {
-   "key": "simplify:efaec2f3-aac7-4d48-8c20-2fdc525641a7",
-   "company": "ARCXIS",
-   "title": "AI Rapid Prototype Developer Level 1",
-   "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661286",
-   "locations": [
-    "Houston, TX"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794525134000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
