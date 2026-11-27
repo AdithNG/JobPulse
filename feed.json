@@ -1,6 +1,45 @@
 {
- "updatedAt": "2026-11-27T00:06:05.230Z",
+ "updatedAt": "2026-11-27T08:29:08.089Z",
  "jobs": [
+  {
+   "key": "simplify:fc6955f6-8ff8-4433-b4eb-739c55ab20e0",
+   "company": "Atoms",
+   "title": "Software Engineer Intern",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
+   "locations": [
+    "Seattle, WA",
+    "Mountain View, CA"
+   ],
+   "term": "Summer 2027",
+   "roleType": "internship",
+   "stretch": true,
+   "sponsorship": "unknown",
+   "posted": 1795746464000,
+   "source": "SimplifyJobs internships",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795768147400
+  },
+  {
+   "key": "simplify:fc96342b-9d7c-4f3f-a93e-70d935ac86b4",
+   "company": "Synectic Solutions",
+   "title": "Software Engineer 1",
+   "url": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I",
+   "locations": [
+    "Norco, CA"
+   ],
+   "term": "New Grad 2027",
+   "roleType": "new-grad",
+   "stretch": false,
+   "sponsorship": "unknown",
+   "posted": 1795746812000,
+   "source": "SimplifyJobs new-grad",
+   "fromAtsBoard": false,
+   "score": 0,
+   "matchedWords": [],
+   "firstSeen": 1795768147400
+  },
   {
    "key": "simplify:f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
    "company": "Cisco",
@@ -5748,45 +5787,6 @@
    "stretch": false,
    "sponsorship": "unknown",
    "posted": 1794525134000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794527361149
-  },
-  {
-   "key": "simplify:36c15fa3-cc9d-4914-b48a-a518e6a2ca04",
-   "company": "Systems Planning and Analysis",
-   "title": "Associate Systems Engineer",
-   "url": "https://spa.jibeapply.com/jobs/23906?icims=1&lang=en-us",
-   "locations": [
-    "San Diego, CA"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794524762000,
-   "source": "SimplifyJobs new-grad",
-   "fromAtsBoard": false,
-   "score": 0,
-   "matchedWords": [],
-   "firstSeen": 1794527361149
-  },
-  {
-   "key": "simplify:f4419c88-b5a8-4f99-97c1-3dbdcc1d3aa1",
-   "company": "RLI",
-   "title": "Associate Software Engineer",
-   "url": "https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864",
-   "locations": [
-    "Peoria, IL",
-    "Tempe, AZ"
-   ],
-   "term": "New Grad 2027",
-   "roleType": "new-grad",
-   "stretch": false,
-   "sponsorship": "unknown",
-   "posted": 1794524762000,
    "source": "SimplifyJobs new-grad",
    "fromAtsBoard": false,
    "score": 0,
